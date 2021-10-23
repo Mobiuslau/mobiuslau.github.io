@@ -2,5 +2,12 @@ theme: jekyll-theme-minimal
 title: Amy's Nerdy Corner
 description: Things I find interesting.
 logo: logo.png
-sidebar:
-  nav: "main"
+
+defaults:
+  # _main
+  - scope:
+      path: ""
+      type: main
+    values:
+      sidebar:
+        nav: "main"
