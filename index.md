@@ -17,7 +17,7 @@ Feel free to contact me. I can be found in [Kalesy's Hub Discord server](https:/
 </div>
 
 <script>
-function myFunction() {
+function buttonFunc() {
   var x = document.getElementById("buttonStyle");
   if (x.style.display === "none") {
     x.style.display = "block";
