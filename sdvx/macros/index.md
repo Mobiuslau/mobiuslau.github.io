@@ -1,12 +1,10 @@
-# Sound Voltex Macros
+# ▸Sound Voltex Macros
 
 List of Sound Voltex macros / shortcuts.
 
-▸ Updated on {{site.time}}
-
 <br>
 
-## Table of Contents
+## ▸Table of Contents
 
 > [Sound Voltex Macros](#sound-voltex-vivid-wave-macros)<br>
 > &nbsp; &nbsp; [Table of Contents](#table-of-contents)<br>
@@ -19,7 +17,7 @@ List of Sound Voltex macros / shortcuts.
 
 <br>
 
-## Glossary
+## ▸Glossary
 
 > [P] stands for Premium time only, <br>
 > [h] stands for Hexa Diver only, <br>
@@ -27,9 +25,9 @@ List of Sound Voltex macros / shortcuts.
 
 <br>
 
-# Vivid Wave
+# ▸Vivid Wave
 
-## Chart Select
+## ▸Chart Select
 
 |Function|Macro|Description|
 |:-|:-|:-|
@@ -50,7 +48,7 @@ List of Sound Voltex macros / shortcuts.
 
 <br>
 
-## Waiting Lobby
+## ▸Waiting Lobby
 
 |Function|Macro|Description|
 |:-|:-|:-|
@@ -64,7 +62,7 @@ List of Sound Voltex macros / shortcuts.
 
 <br>
 
-## During Play
+## ▸During Play
 
 |Function|Macro|Description|
 |:-|:-|:-|
@@ -74,7 +72,7 @@ List of Sound Voltex macros / shortcuts.
 
 <br>
 
-## Result Screen
+## ▸Result Screen
 
 |Function|Macro|Description|
 |:-|:-|:-|
