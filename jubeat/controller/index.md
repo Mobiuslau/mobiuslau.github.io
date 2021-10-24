@@ -5,19 +5,25 @@ Citations are needed. (I will do all that. It's late at night now.)
 
 ▸ Updated on {{site.time}}
 
-## Table of contents
+<br>
+
+## Table of Contents
 
 > [Jubeat Controller](#jubeat-controller)<br>
+> &nbsp; &nbsp; [Table of Contents](#table-of-contents)<br>
 > &nbsp; &nbsp; [Glossary](#glossary)<br>
 > [Arcade Cabinet](#arcade-cabinet)<br>
-> &nbsp; &nbsp; [D.I.Y. Arcade Style Controller](#diy-arcade-style-controller)<br>
+> [D.I.Y. Arcade Style Controller](#diy-arcade-style-controller)<br>
+> &nbsp; &nbsp; [Panel](#panel)<br>
+> &nbsp; &nbsp; [Buttons and Wiring](#buttons-and-wiring)<br>
+> &nbsp; &nbsp; [Input Output](#input-output)<br>
 > &nbsp; &nbsp; [Monitor](#monitor)<br>
-> &nbsp; &nbsp; [Buttons & Wiring](#buttons---wiring)<br>
-> &nbsp; &nbsp; [I/O](#i-o)<br>
-> [Plan](#plan)<br>
-> &nbsp; &nbsp; [Files](#files)<br>
 > &nbsp; &nbsp; [Parts](#parts)<br>
+> &nbsp; &nbsp; [Files](#files)<br>
+> [Build Process](#build-process)<br>
 > &nbsp; &nbsp; [Expenses](#expenses)<br>
+
+<br>
 
 ## Glossary
 
@@ -25,22 +31,68 @@ Citations are needed. (I will do all that. It's late at night now.)
 |:-|:-|:-|
 |Arcade Style Controller|ASC|Speaks for itself.|
 |Arcade Cabinet|Cab|Machine from which a game can be played.|
-|Ground|GND|[Reference point from which voltages are measured.](https://en.wikipedia.org/wiki/Ground_(electricity))|
-|Input / Output|I/O|Speaks for itself.|
+|Ground|GND|Reference point from which voltages are measured [[1]](https://en.wikipedia.org/wiki/Ground_(electricity)).|
+|Input/Output|I/O|Speaks for itself.|
 |Normally Open|NO|Circuit isn't closed; no current.|
-|Printed Circuit Board|PCB|[Board which contains wiring scheme.](https://en.wikipedia.org/wiki/Printed_circuit_board)|
-|Pull-up Resistor|P-UR|[Resistor used to ensure known off state for signal.](https://en.wikipedia.org/wiki/Pull-up_resistor).|
-|Voltage Common Collector|VCC|[Higher voltage with respect to ground.](https://en.wikipedia.org/wiki/Common_collector)|
+|Printed Circuit Board|PCB|Board which contains wiring scheme [[2]](https://en.wikipedia.org/wiki/Printed_circuit_board).|
+|Pull-up Resistor|P-UR|Resistor used to ensure known off state for signal [[3]](https://en.wikipedia.org/wiki/Pull-up_resistor).|
+|Voltage Common Collector|VCC|Higher voltage with respect to ground [[4]](https://en.wikipedia.org/wiki/Common_collector).|
+
+**Table 1:** Glossary used in this article.
+
+<br>
 
 # Arcade Cabinet
 
 W.I.P. 
 
+<br>
+
 # D.I.Y. Arcade Style Controller
+
+## Panel
+
+W.I.P.
+
+<br>
+
+## Buttons and Wiring
+
+<img src="figures/circuit.png" alt="Wiring" width="700"/>
+
+**Figure 1:** Circuit diagram for the button PCB's. The wiring is such that each button is wired in parallel. The colours correspond to the colours from the cables used in this build.
+
+<br>
+
+On cabs, each button corner switch (SW#) receives its own I/O. The required amount of I/O pins would thus be 64. For an ASC, this is unnecessary. Popular micro controllers such as the Pro Micro ATmega32U4 don't offer 64 I/O pins anyway. Therefore, each SW# corresponding to one button will be wired in parallel. This is possible since each switch is NO. Then, only 16 I/O pins are required. 
+
+Internal P-UR's on the Pro Micro ATmega32U4 will be used. Therefore, it is not required to wire the buttons to a VCC with a P-UR.  
+
+Wires used are [JST PH-9P cables with open ends](https://www.vanallesenmeer.nl/PH2.0-JST-9pin-kabel-30cm). Figure 1 takes the colour scheme of these cables into account.
+
+<br>
+
+## Input Output
+
+<img src="https://golem.hu/pic/pro_micro_pinout.jpg" alt="Pinout" width="700"/>
+
+**Figure 2:** Pinout diagram for the Arduino Pro Micro ATmega32U4 micro controller. Figure from Golem [[5]](https://golem.hu/article/pro-micro-pinout/).
+
+<br>
+
+There are two repo's with useful I/O code for the ATmega32U4:
+* [I/O code by CrazyRedMachine,](https://github.com/CrazyRedMachine/jubeatIO/tree/master/jubeatIO)
+* [I/O code by Moldypie.](https://github.com/Moldypie/Jubeat_IO/blob/master/jubeat_IO.ino)
+
+The pinouts can be altered for the Pro Micro. The following list was used for this project:
+```{2,3,4,5,6,7,8,9,10,14,15,16,A0,A1,A2,A3}```. 
+These I/O implementations assume that the switches for 1 button are routed in parallel, and that the board has pullup resistors built in. 
+
+<br>
 
 ## Monitor
 
-25.5" or 26" monitors are absurdly difficult to obtain. Therefore, a 27" monitor was considered. The specific model used for this build is the [BenQ GL2780](https://tweakers.net/pricewatch/1405392/benq-gl2780-9h-punt-lj6lb-punt-qbe-zwart/specificaties/).
+Arcade size monitors are absurdly difficult to obtain. Therefore, a 27" monitor was considered. The specific model used for this build is the [BenQ GL2780](https://tweakers.net/pricewatch/1405392/benq-gl2780-9h-punt-lj6lb-punt-qbe-zwart/specificaties/).
 
 |Monitor|BenQ GL2780|
 |:-|:-|
@@ -62,39 +114,60 @@ W.I.P.
 |Screen height||
 |Screen width||
 
-## Buttons & Wiring
+**Table 2:** Monitor information for BenQ GL2780. Data from Tweakers [[6]](https://tweakers.net/pricewatch/1405392/benq-gl2780-9h-punt-lj6lb-punt-qbe-zwart/specificaties/).
 
-<img src="figures/circuit.png" alt="Wiring" width="700"/>
-
-On cabs, each button corner switch (SW#) receives its own I/O. The required amount of I/O pins would thus be 64. For an ASC, this is unnecessary. Popular microcontrollers such as the Pro Micro ATmega32U4 don't offer 64 I/O pins either way. Therefore, each SW corresponding to one button will be wired in parallel. This is possible since each switch is NO. Then, only 16 I/O pins are required. 
-
-Internal P-UR's on the Pro Micro ATmega32U4 will be used. Therefore, it is not required to wire the buttons to a VCC with a P-UR.  
-
-Wires used are [JST PH-9P cables with open ends](https://www.vanallesenmeer.nl/PH2.0-JST-9pin-kabel-30cm). The above diagram takes the colour scheme of these cables into account.
-
-## I/O
-
-<img src="https://golem.hu/pic/pro_micro_pinout.jpg" alt="Pinout" width="700"/>
-
-There are two repo's with useful I/O code for the ATmega32U4:
-* [I/O code by CrazyRedMachine](https://github.com/CrazyRedMachine/jubeatIO/tree/master/jubeatIO)
-* [I/O code by Moldypie](https://github.com/Moldypie/Jubeat_IO/blob/master/jubeat_IO.ino)
-
-The pinouts can be altered for the Pro Micro. The following list was used for this project:
-```{2,3,4,5,6,7,8,9,10,14,15,16,A0,A1,A2,A3}```. 
-These I/O implementations assume that the switches for 1 button are routed in parallel, and that the board has pullup resistors built in. 
-
-# Plan
-
-W.I.P.
-
-## Files
-
-W.I.P.
+<br>
 
 ## Parts
 
-W.I.P.
+Here is a list of parts which can be used for Jubeat ASC projects. Links to hardware are to Dutch webshops, but these parts should be obtainable elsewhere.
+
+Currently there is no place which offers new acryllic buttons. Perhaps they can be obtained second hand, or along with an original panel.
+
+|Category|Part|#|
+|:-|:-|:-:|
+|Buttons|[PCB's](https://yubiparts.com/products/jubeat-button-sensor-pcb-board-frame?variant=40168391147707)|8|
+||[Corner rubbers](https://yubiparts.com/products/jubeat-rubbers?variant=40168392753339)|64|
+||||
+|Screws & Nuts|[M3x8L Pan Screw](https://tinyurl.com/24es6s7n)|36|
+||[M3 Spring washer](https://www.rvspaleis.nl/ringen/veerring/din-127b/din-127b-a2/din-127b-[-]-a2-[-]-m3)|36|
+||[M3 Flat washer](https://www.rvspaleis.nl/ringen/sluitring/din-125a/din-125a-[-]-a2/din-125a-[-]-a2-[-]-m3)|36|
+||[M4x12L Pan Screw](https://tinyurl.com/24es6s7n)|6|
+||[M4 Spring washer](https://www.rvspaleis.nl/ringen/veerring/din-127b/din-127b-a2/din-127b-[-]-a2-[-]-m4)|6|
+||[M4 Flat washer](https://www.rvspaleis.nl/ringen/sluitring/din-125a/din-125a-[-]-a2/din-125a-[-]-a2-[-]-m4)|6|
+||[M4 Nut](https://tinyurl.com/nkdnuz4h)|17|
+||||
+|Cables|[JST PH-9P open ends](https://www.vanallesenmeer.nl/PH2.0-JST-9pin-kabel-30cm)|8|
+||||
+|Micro Controller Options|[Arduino Pro Micro ATmega32U4](https://www.vanallesenmeer.nl/Arduino-Pro-Micro-ATmega32U4-5V-16MHz-compatibel)|1|
+||[Arduino Leonardo](https://www.vanallesenmeer.nl/ARDUINO-LEONARDO-CLONE-met-kabel)|1|
+||||
+|Monitor Options 27"|[BenQ GL2780](https://www.coolblue.nl/product/863481/benq-gl2780.html?clickref=1101livFpIZn&utm_source=performancehorizon&utm_medium=affiliate&utm_campaign=Price+comparison&utm_content=1101livFpIZn&utm_term=1101lf89g&ref=293530&PHGref=1101livFpIZn&cmt=c_ph%2Capm_Price+comparison_%2Cacid1101l93%2Cacr_1101lf89g%2Caclr_1101livFpIZn)|1|
+
+**Table 3:** Parts list for Jubeat ASC projects. 
+
+<br>
+
+## Files
+
+Here is a list of files which can be used for Jubeat ASC projects.
+
+|Category|Part|
+|:-|:-|
+|Arduino Code|[I/O by CrazyRedMachine](https://github.com/CrazyRedMachine/)|
+||[I/O by Moldypie](https://github.com/Moldypie/Jubeat_IO/blob/master/jubeat_IO.ino)|
+|||
+|Gerber files|[Button PCB by Veroxzik](https://github.com/veroxzik/jubeat-boards)|
+
+**Table 4:** File list for Jubeat ASC projects. 
+
+<br>
+
+# Build Process
+
+W.I.P. Currently the panel is being cleaned and some parts are being soldered. This section will be updated soon.
+
+<br>
 
 ## Expenses 
 
@@ -120,3 +193,5 @@ W.I.P.
 |||||
 |||||
 |||Total|411.82|
+
+**Table 5:** Expenses from the project as outlined in this article.
