@@ -30,6 +30,7 @@ List of Sound Voltex macros / shortcuts.
 # Vivid Wave
 
 ## Chart Select
+
 |Function|Macro|Description|
 |:-|:-|:-|
 |Select catagory or chart|Start||
