@@ -3,6 +3,8 @@
 The controller is currently W.I.P, along with this webpage. 
 Citations are needed. (I will do all that. It's late at night now.)
 
+▸ Updated on 2021-10-24, 04:00 CEST
+
 ## Glossary
 
 |Term|Abbreviation|Meaning|
