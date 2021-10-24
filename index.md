@@ -1,5 +1,7 @@
-Hi! I like documenting things I find interesting.
+# Hello! 😊
 
-This is not my portfolio. 
+I like documenting things I find interesting. This is not my portfolio though.
 
-Test.
+I'm a physics grad student who loves to make music, make graphic designs and play rhythm games like Sound Voltex, Jubeat and Beatmania IIDX.
+
+Perhaps you'll find something interesting here.
