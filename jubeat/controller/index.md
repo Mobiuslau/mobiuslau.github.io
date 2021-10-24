@@ -79,6 +79,7 @@ W.I.P.
 W.I.P.
 
 ## Expenses 
+
 |Store|Part|#|€ Total|
 |:-|:-|:-:|-:|
 |From Japan|Panel|1|56.22|
