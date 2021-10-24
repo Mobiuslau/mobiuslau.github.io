@@ -48,7 +48,7 @@ W.I.P.
 
 ## Buttons & Wiring
 
-<img src="figures/circuit.png" alt="Wiring" width="500"/>
+<img src="figures/circuit.png" alt="Wiring" width="700"/>
 
 On cabs, each button corner switch (SW#) receives its own I/O. The required amount of I/O pins would thus be 64. For an ASC, this is unnecessary. Popular microcontrollers such as the Pro Micro ATmega32U4 don't offer 64 I/O pins either way. Therefore, each SW corresponding to one button will be wired in parallel. This is possible since each switch is NO. Then, only 16 I/O pins are required. 
 
@@ -58,7 +58,7 @@ Wires used are [JST PH-9P cables with open ends](https://www.vanallesenmeer.nl/P
 
 ## I/O
 
-<img src="https://golem.hu/pic/pro_micro_pinout.jpg" alt="Pinout" width="500"/>
+<img src="https://golem.hu/pic/pro_micro_pinout.jpg" alt="Pinout" width="700"/>
 
 There are two repo's with useful I/O code for the ATmega32U4:
 * [I/O code by CrazyRedMachine](https://github.com/CrazyRedMachine/jubeatIO/tree/master/jubeatIO)
