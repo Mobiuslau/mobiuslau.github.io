@@ -27,12 +27,12 @@
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
 
-        <h3>
+        <p style="font-size:18px">
           <br>
           <a href="/">Home</a><br>
           <a href="/jubeat/">Jubeat</a><br>
           &nbsp; <a href="/jubeat/controller/">Controller</a><br>
-        </h3>
+        </p>
 
         {% if site.show_downloads %}
         <ul class="downloads">
@@ -52,9 +52,10 @@
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small>
+          <a href="{{ site.github.owner_url }}">View My GitHub Profile
+          <br>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
