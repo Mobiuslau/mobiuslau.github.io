@@ -80,7 +80,9 @@ There are two repo's with useful I/O code for the ATmega32U4:
 * [I/O code by CrazyRedMachine](https://github.com/CrazyRedMachine/jubeatIO/tree/master/jubeatIO)
 * [I/O code by Moldypie](https://github.com/Moldypie/Jubeat_IO/blob/master/jubeat_IO.ino)
 
-Pinouts can be altered for the Pro Micro by changing the list to `{2,3,4,5,6,7,8,9,10,14,15,16,A0,A1,A2,A3}`. These I/O implementations assume that the switches for 1 button are routed in parallel, and that the board has pullup resistors built in. 
+The pinouts can be altered for the Pro Micro. The following list was used for this project:
+```{2,3,4,5,6,7,8,9,10,14,15,16,A0,A1,A2,A3}```. 
+These I/O implementations assume that the switches for 1 button are routed in parallel, and that the board has pullup resistors built in. 
 
 # Plan
 
