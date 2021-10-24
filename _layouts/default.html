@@ -31,14 +31,16 @@
           <br>
           <a href="/">Home</a>
           <br>
-          <a href="/jubeat/">Jubeat</a>
-          <br>
-          &nbsp; <a href="/jubeat/analyser/">Analyser</a>
-          <br>
-          &nbsp; &nbsp; &nbsp; <a href="/jubeat/analyser/setup-guide/">Setup Guide</a>
-          <br>
-          &nbsp; &nbsp; &nbsp; <a href="/jubeat/analyser/markers/">Markers</a>
-          <br>
+          <button id="navButton" onclick="buttonFunc()">Jubeat</button>
+          <div id="buttonStyle">
+            <a href="/jubeat/">Jubeat</a>
+            <br>
+            &nbsp; <a href="/jubeat/analyser/">Analyser</a>
+            <br>
+            &nbsp; &nbsp; &nbsp; <a href="/jubeat/analyser/setup-guide/">Setup Guide</a>
+            <br>
+            &nbsp; &nbsp; &nbsp; <a href="/jubeat/analyser/markers/">Markers</a>
+          </div>
           &nbsp; <a href="/jubeat/controller/">Controller</a>
           <br>
           <a href="/sdvx/">Sound Voltex</a>
@@ -47,6 +49,18 @@
           <br>
           &nbsp; <a href="/sdvx/resources/">Resources</a>
         </p>
+
+        <script>
+        function buttonFunc() {
+          var x = document.getElementById("buttonStyle");
+          if (x.style.display === "none") {
+            x.style.display = "block";
+          } else {
+            x.style.display = "none";
+          }
+        }
+</script>
+<!-- Button help from https://stackoverflow.com/questions/45136270/opening-a-div-a-box-with-a-list-of-links-after-click-of-button -->
 
         {% if site.show_downloads %}
         <ul class="downloads">
