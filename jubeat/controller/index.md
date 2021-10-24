@@ -64,11 +64,17 @@ W.I.P.
 
 <br>
 
-On cabs, each button corner switch (SW#) receives its own I/O. The required amount of I/O pins would thus be 64. For an ASC, this is unnecessary. Popular micro controllers such as the Pro Micro ATmega32U4 don't offer 64 I/O pins anyway. Therefore, each SW# corresponding to one button will be wired in parallel. This is possible since each switch is NO. Then, only 16 I/O pins are required. 
+Arcade style button PCB's can be used in ASC builds. In this project, the PSB's came with the original panel. Otherwise, similar button PCB's can be acquired from Yubiparts [[5]](https://yubiparts.com/products/jubeat-button-sensor-pcb-board-frame?variant=40168391147707). 
+
+Each button PCB accounts for 2 buttons, oriented in a horizontal manner. The PCB is constructed such that a rubberdome switch is placed on each corner of a button section (See figure 1). The acryllic buttons extend out on each corner, resting on these rubbers. This way, the view is not obstructed by switches. In this project, the rubbers came with the original panel. Otherwise, similar rubbers can be acquired from Yubiparts [[6]](https://yubiparts.com/products/jubeat-rubbers?variant=40168392753339).
+
+Each switch is given the code `SW#`, where `#` is an integer between 1 and 8. The odd numbered switches account for the outermost button, while the even numbered switches account for the innermost button. The PCB is constructed in such a way that the pins `1, 2, 5, 6`, and `3, 4, 7, 8` account for the outermost -, and innermost buttons respectively. Pin `9` is the GDN pin (See figure 1). 
+
+In cabs, each `SW#` receives its own I/O pin. The required amount of I/O pins would thus be 64. For an ASC, this is unnecessary. Popular micro controllers such as the Pro Micro ATmega32U4 don't offer 64 I/O pins anyway. Therefore, each `SW#` corresponding to a single button will be wired in parallel. This is sufficient since each switch is NO. Then, only 16 I/O pins are required. 
 
 Internal P-UR's on the Pro Micro ATmega32U4 will be used. Therefore, it is not required to wire the buttons to a VCC with a P-UR.  
 
-Wires used are [JST PH-9P cables with open ends](https://www.vanallesenmeer.nl/PH2.0-JST-9pin-kabel-30cm). Figure 1 takes the colour scheme of these cables into account.
+Wires used are [`JST PH-9P` cables with open ends](https://www.vanallesenmeer.nl/PH2.0-JST-9pin-kabel-30cm). Figure 1 takes the colour scheme of these cables into account.
 
 <br>
 
@@ -76,23 +82,28 @@ Wires used are [JST PH-9P cables with open ends](https://www.vanallesenmeer.nl/P
 
 <img src="https://golem.hu/pic/pro_micro_pinout.jpg" alt="Pinout" width="700"/>
 
-**Figure 2:** Pinout diagram for the Arduino Pro Micro ATmega32U4 micro controller. Figure from Golem [[5]](https://golem.hu/article/pro-micro-pinout/).
+**Figure 2:** Pinout diagram for the Arduino Pro Micro ATmega32U4 micro controller. Figure from Golem [[7]](https://golem.hu/article/pro-micro-pinout/).
 
 <br>
 
 There are two repo's with useful I/O code for the ATmega32U4:
+
 * [I/O code by CrazyRedMachine,](https://github.com/CrazyRedMachine/jubeatIO/tree/master/jubeatIO)
 * [I/O code by Moldypie.](https://github.com/Moldypie/Jubeat_IO/blob/master/jubeat_IO.ino)
 
-The pinouts can be altered for the Pro Micro. The following list was used for this project:
+These I/O implementations assume that the switches for a single button are routed in parallel, and that the board has pullup resistors built in. 
+
+The pinouts can be altered for the Pro Micro. The following list was used for this project;
+
 ```{2,3,4,5,6,7,8,9,10,14,15,16,A0,A1,A2,A3}```. 
-These I/O implementations assume that the switches for 1 button are routed in parallel, and that the board has pullup resistors built in. 
+
+This was chosen such that only the bottom I/O pins on the micro controller were used (see figure 2). This is for convenience. 
 
 <br>
 
 ## Monitor
 
-Arcade size monitors are absurdly difficult to obtain. Therefore, a 27" monitor was considered. The specific model used for this build is the [BenQ GL2780](https://tweakers.net/pricewatch/1405392/benq-gl2780-9h-punt-lj6lb-punt-qbe-zwart/specificaties/).
+Arcade size monitors are absurdly difficult to obtain. Therefore, a 27" monitor was considered. The specific model used for this build is the [BenQ GL2780](https://tweakers.net/pricewatch/1405392/benq-gl2780-9h-punt-lj6lb-punt-qbe-zwart/specificaties/). A 27" monitor seemed sufficient, as letterboxing can be used to finetune the resolution to correspond to the physics panel size.
 
 |Monitor|BenQ GL2780|
 |:-|:-|
@@ -170,6 +181,10 @@ W.I.P. Currently the panel is being cleaned and some parts are being soldered. T
 <br>
 
 ## Expenses 
+
+This may vary per project. However, it may be useful to indicate the total cost of similar projects. 
+
+Table 5 is still being updated, since the project is not finished yet. 
 
 |Store|Part|#|€ Total|
 |:-|:-|:-:|-:|
