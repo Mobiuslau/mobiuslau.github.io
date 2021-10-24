@@ -5,25 +5,25 @@ The controller is currently W.I.P, along with this webpage.
 <br>
 
 
-## Table of Contents
+## ▸ Table of Contents
 
-> [Jubeat Controller](#▸-jubeat-controller)<br>
-> &nbsp; &nbsp; [Table of Contents](#table-of-contents)<br>
-> &nbsp; &nbsp; [Glossary](#glossary)<br>
-> [Arcade Cabinet](#arcade-cabinet)<br>
-> [Arcade Style Controller](#diy-arcade-style-controller)<br>
-> &nbsp; &nbsp; [Panel](#panel)<br>
-> &nbsp; &nbsp; [Buttons & Wiring](#buttons--wiring)<br>
-> &nbsp; &nbsp; [Input/Output](#inputoutput)<br>
-> &nbsp; &nbsp; [Monitor](#monitor)<br>
-> &nbsp; &nbsp; [Parts](#parts)<br>
-> &nbsp; &nbsp; [Files](#files)<br>
-> [Build Process](#build-process)<br>
-> &nbsp; &nbsp; [Expenses](#expenses)<br>
+> [Jubeat Controller](#-jubeat-controller)<br>
+> &nbsp; &nbsp; [Table of Contents](#-table-of-contents)<br>
+> &nbsp; &nbsp; [Glossary](#-glossary)<br>
+> [Arcade Cabinet](#-arcade-cabinet)<br>
+> [Arcade Style Controller](#-diy-arcade-style-controller)<br>
+> &nbsp; &nbsp; [Panel](#-panel)<br>
+> &nbsp; &nbsp; [Buttons & Wiring](#-buttons--wiring)<br>
+> &nbsp; &nbsp; [Input/Output](#-inputoutput)<br>
+> &nbsp; &nbsp; [Monitor](#-monitor)<br>
+> &nbsp; &nbsp; [Parts](#-parts)<br>
+> &nbsp; &nbsp; [Files](#-files)<br>
+> [Build Process](#-build-process)<br>
+> &nbsp; &nbsp; [Expenses](#-expenses)<br>
 
 <br>
 
-## Glossary
+## ▸ Glossary
 
 |Term|Abbreviation|Meaning|
 |:-|:-|:-|
@@ -40,21 +40,21 @@ The controller is currently W.I.P, along with this webpage.
 
 <br>
 
-# Arcade Cabinet
+# ▸ Arcade Cabinet
 
 W.I.P. 
 
 <br>
 
-# Arcade Style Controller
+# ▸ Arcade Style Controller
 
-## Panel
+## ▸ Panel
 
 W.I.P.
 
 <br>
 
-## Buttons & Wiring
+## ▸ Buttons & Wiring
 
 <img src="circuit.png" alt="Wiring" width="700"/>
 
@@ -76,7 +76,7 @@ Wires used are [`JST PH-9P` cables with open ends](https://www.vanallesenmeer.nl
 
 <br>
 
-## Input/Output
+## ▸ Input/Output
 
 <img src="https://golem.hu/pic/pro_micro_pinout.jpg" alt="Pinout" width="700"/>
 
@@ -99,7 +99,7 @@ This was chosen such that only the bottom I/O pins on the micro controller were 
 
 <br>
 
-## Monitor
+## ▸ Monitor
 
 Arcade size monitors are absurdly difficult to obtain. Therefore, a 27" monitor was considered. The specific model used for this build is the [BenQ GL2780](https://tweakers.net/pricewatch/1405392/benq-gl2780-9h-punt-lj6lb-punt-qbe-zwart/specificaties/). A 27" monitor seemed sufficient, as letterboxing can be used to finetune the resolution to correspond to the physics panel size.
 
@@ -127,7 +127,7 @@ Arcade size monitors are absurdly difficult to obtain. Therefore, a 27" monitor 
 
 <br>
 
-## Parts
+## ▸ Parts
 
 Here is a list of parts which can be used for Jubeat ASC projects. Links to hardware are to Dutch webshops, but these parts should be obtainable elsewhere.
 
@@ -157,7 +157,7 @@ Currently there is no place which offers new acryllic buttons. Perhaps they can 
 
 <br>
 
-## Files
+## ▸ Files
 
 Here is a list of files which can be used for Jubeat ASC projects.
 
@@ -172,13 +172,13 @@ Here is a list of files which can be used for Jubeat ASC projects.
 
 <br>
 
-# Build Process
+# ▸ Build Process
 
 W.I.P. Currently the panel is being cleaned and some parts are being soldered. This section will be updated soon.
 
 <br>
 
-## Expenses 
+## ▸ Expenses 
 
 This may vary per project. However, it may be useful to indicate the total cost of similar projects. 
 
