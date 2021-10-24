@@ -12,7 +12,7 @@ Feel free to contact me. I can be found in [Kalesy's Hub Discord server](https:/
 
 <button onclick="buttonFunc()">Music of the week.</button>
 
-<div id="buttonStyle" style="display:none">
+<div id="buttonStyle" style="display:none;">
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/76eOXd4huKs" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
@@ -26,3 +26,4 @@ function buttonFunc() {
   }
 }
 </script>
+<!-- Button help from https://stackoverflow.com/questions/45136270/opening-a-div-a-box-with-a-list-of-links-after-click-of-button -->
