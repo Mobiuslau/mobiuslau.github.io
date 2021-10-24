@@ -1,3 +1,0 @@
-# Jubeat
-
-W.I.P.
