@@ -5,6 +5,20 @@ Citations are needed. (I will do all that. It's late at night now.)
 
 ▸ Updated on 2021-10-24, 04:00 CEST
 
+## Table of contents
+
+> [Jubeat Controller](#jubeat-controller)<br>
+> &nbsp; &nbsp; [Glossary](#glossary)<br>
+> [Arcade Cabinet](#arcade-cabinet)<br>
+> &nbsp; &nbsp; [D.I.Y. Arcade Style Controller](#diy-arcade-style-controller)<br>
+> &nbsp; &nbsp; [Monitor](#monitor)<br>
+> &nbsp; &nbsp; [Buttons & Wiring](#buttons---wiring)<br>
+> &nbsp; &nbsp; [I/O](#i-o)<br>
+> [Plan](#plan)<br>
+> &nbsp; &nbsp; [Files](#files)<br>
+> &nbsp; &nbsp; [Parts](#parts)<br>
+> &nbsp; &nbsp; [Expenses](#expenses)<br>
+
 ## Glossary
 
 |Term|Abbreviation|Meaning|
@@ -68,7 +82,7 @@ There are two repo's with useful I/O code for the ATmega32U4:
 
 Pinouts can be altered for the Pro Micro by changing the list to `{2,3,4,5,6,7,8,9,10,14,15,16,A0,A1,A2,A3}`. These I/O implementations assume that the switches for 1 button are routed in parallel, and that the board has pullup resistors built in. 
 
-## Plan
+# Plan
 
 W.I.P.
 
