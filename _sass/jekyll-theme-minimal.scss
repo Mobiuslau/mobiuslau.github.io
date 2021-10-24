@@ -18,6 +18,10 @@ p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
 
+p {
+  text-align: justify;
+}
+
 h1, h2, h3 {
   line-height:1.1;
 }
@@ -35,13 +39,13 @@ h3, h4, h5, h6 {
 }
 
 a {
-  color:#267CB9;
+  color:#8DBECC;
   text-decoration:none;
 }
 
 a:hover, a:focus {
   color:#069;
-  font-weight: bold;
+/*  font-weight: bold;*/
 }
 
 a small {
@@ -81,14 +85,16 @@ pre {
 }
 
 table {
-  width:100%;
+  width:max-content;
+  max-width: 80%;
+  overflow: auto;
   border-collapse:collapse;
 }
 
 th, td {
   text-align:left;
-  padding:5px 10px;
-  border-bottom:1px solid #e5e5e5;
+  padding:5px 30px;
+/*  border-bottom:1px solid #e5e5e5;*/
 }
 
 dt {
