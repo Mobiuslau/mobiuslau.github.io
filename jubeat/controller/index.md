@@ -1,13 +1,10 @@
-# Jubeat Controller
+# ▸ Jubeat Controller
 
 The controller is currently W.I.P, along with this webpage. 
-Citations are needed. (I will do all that. It's late at night now.)
-
-▸ Updated on {{site.time}}
 
 <br>
 
-## Table of Contents
+## ▸ Table of Contents
 
 > [Jubeat Controller](#jubeat-controller)<br>
 > &nbsp; &nbsp; [Table of Contents](#table-of-contents)<br>
@@ -25,7 +22,7 @@ Citations are needed. (I will do all that. It's late at night now.)
 
 <br>
 
-## Glossary
+## ▸ Glossary
 
 |Term|Abbreviation|Meaning|
 |:-|:-|:-|
@@ -42,23 +39,23 @@ Citations are needed. (I will do all that. It's late at night now.)
 
 <br>
 
-# Arcade Cabinet
+# ▸ Arcade Cabinet
 
 W.I.P. 
 
 <br>
 
-# D.I.Y. Arcade Style Controller
+# ▸ D.I.Y. Arcade Style Controller
 
-## Panel
+## ▸ Panel
 
 W.I.P.
 
 <br>
 
-## Buttons and Wiring
+## ▸ Buttons and Wiring
 
-<img src="figures/circuit.png" alt="Wiring" width="700"/>
+<img src="circuit.png" alt="Wiring" width="700"/>
 
 **Figure 1:** Circuit diagram for the button PCB's. The wiring is such that each button is wired in parallel. The colours correspond to the colours from the cables used in this build.
 
@@ -78,7 +75,7 @@ Wires used are [`JST PH-9P` cables with open ends](https://www.vanallesenmeer.nl
 
 <br>
 
-## Input Output
+## ▸ Input Output
 
 <img src="https://golem.hu/pic/pro_micro_pinout.jpg" alt="Pinout" width="700"/>
 
@@ -101,7 +98,7 @@ This was chosen such that only the bottom I/O pins on the micro controller were 
 
 <br>
 
-## Monitor
+## ▸ Monitor
 
 Arcade size monitors are absurdly difficult to obtain. Therefore, a 27" monitor was considered. The specific model used for this build is the [BenQ GL2780](https://tweakers.net/pricewatch/1405392/benq-gl2780-9h-punt-lj6lb-punt-qbe-zwart/specificaties/). A 27" monitor seemed sufficient, as letterboxing can be used to finetune the resolution to correspond to the physics panel size.
 
@@ -129,7 +126,7 @@ Arcade size monitors are absurdly difficult to obtain. Therefore, a 27" monitor 
 
 <br>
 
-## Parts
+## ▸ Parts
 
 Here is a list of parts which can be used for Jubeat ASC projects. Links to hardware are to Dutch webshops, but these parts should be obtainable elsewhere.
 
@@ -159,7 +156,7 @@ Currently there is no place which offers new acryllic buttons. Perhaps they can 
 
 <br>
 
-## Files
+## ▸ Files
 
 Here is a list of files which can be used for Jubeat ASC projects.
 
@@ -174,13 +171,13 @@ Here is a list of files which can be used for Jubeat ASC projects.
 
 <br>
 
-# Build Process
+# ▸ Build Process
 
 W.I.P. Currently the panel is being cleaned and some parts are being soldered. This section will be updated soon.
 
 <br>
 
-## Expenses 
+## ▸ Expenses 
 
 This may vary per project. However, it may be useful to indicate the total cost of similar projects. 
 
