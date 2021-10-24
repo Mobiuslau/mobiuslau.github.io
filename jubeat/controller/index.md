@@ -1,4 +1,4 @@
-# Jubeat Controller
+# ▸ Jubeat Controller
 
 The controller is currently W.I.P, along with this webpage. 
 
@@ -7,14 +7,14 @@ The controller is currently W.I.P, along with this webpage.
 
 ## Table of Contents
 
-> [Jubeat Controller](#jubeat-controller)<br>
+> [Jubeat Controller](#▸-jubeat-controller)<br>
 > &nbsp; &nbsp; [Table of Contents](#table-of-contents)<br>
 > &nbsp; &nbsp; [Glossary](#glossary)<br>
 > [Arcade Cabinet](#arcade-cabinet)<br>
-> [D.I.Y. Arcade Style Controller](#diy-arcade-style-controller)<br>
+> [Arcade Style Controller](#diy-arcade-style-controller)<br>
 > &nbsp; &nbsp; [Panel](#panel)<br>
-> &nbsp; &nbsp; [Buttons and Wiring](#buttons-and-wiring)<br>
-> &nbsp; &nbsp; [Input Output](#input-output)<br>
+> &nbsp; &nbsp; [Buttons & Wiring](#buttons--wiring)<br>
+> &nbsp; &nbsp; [Input/Output](#inputoutput)<br>
 > &nbsp; &nbsp; [Monitor](#monitor)<br>
 > &nbsp; &nbsp; [Parts](#parts)<br>
 > &nbsp; &nbsp; [Files](#files)<br>
@@ -46,7 +46,7 @@ W.I.P.
 
 <br>
 
-# D.I.Y. Arcade Style Controller
+# Arcade Style Controller
 
 ## Panel
 
@@ -54,7 +54,7 @@ W.I.P.
 
 <br>
 
-## Buttons and Wiring
+## Buttons & Wiring
 
 <img src="circuit.png" alt="Wiring" width="700"/>
 
@@ -76,7 +76,7 @@ Wires used are [`JST PH-9P` cables with open ends](https://www.vanallesenmeer.nl
 
 <br>
 
-## Input Output
+## Input/Output
 
 <img src="https://golem.hu/pic/pro_micro_pinout.jpg" alt="Pinout" width="700"/>
 
