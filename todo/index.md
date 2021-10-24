@@ -1,4 +1,4 @@
-# Website Todo.
+# Website Todo
 
 - [ ] Make navbar clickable/hoverable to extend to more options. 
 - [ ] Update marker page.
