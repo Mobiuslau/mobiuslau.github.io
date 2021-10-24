@@ -10,6 +10,19 @@ Feel free to contact me. I can be found in [Kalesy's Hub Discord server](https:/
 
 <br>
 
-Track of the week:
+<button onclick="buttonFunc()">Music of the week.</button>
 
+<div id="buttonStyle" style="display:none">
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/76eOXd4huKs" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("buttonStyle");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
