@@ -7,8 +7,12 @@
 
 
     <!-- Title. Text shown at tab. -->
-    <title>{{ page.title }} | {{ site.title | default: site.github.repository_name }} 😊</title>
-
+    {% if page.url == "/" %}
+      <title>{{ site.title | default: site.github.repository_name }} 😊</title>
+    {% else %}
+      <title>{{ page.title }} | {{ site.title | default: site.github.repository_name }} 😊</title>
+    {% endif %}
+    
 
 {% seo %}
 
@@ -21,7 +25,7 @@
 
 
     <!-- Include custom head. I have nothing in it though. -->
-    {% include head-custom.html %}
+    <!-- {% include head-custom.html %} -->
 
 
     <!-- Favicon. Icon shown at tab. -->
