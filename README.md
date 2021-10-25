@@ -1,3 +1,10 @@
+
+This repo only contains the customized files from the [minimal theme](https://github.com/pages-themes/minimal).  
+
+Below is the default readme text from minimal or something.
+___
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Mobiuslau/mobiuslau.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
