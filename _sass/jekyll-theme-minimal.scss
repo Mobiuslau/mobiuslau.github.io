@@ -90,14 +90,15 @@ pre {
 
 table {
   width:max-content;
-  max-width: 80%;
+  max-width: 100%;
   overflow: auto;
   border-collapse:collapse;
 }
 
 th, td {
-  text-align:left;
-  padding:5px 0px 5px 30px;
+  text-align: left;
+  padding: 5px 10px;
+  vertical-align: top;
 /*  border-bottom:1px solid #e5e5e5;*/
 }
 
