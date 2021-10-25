@@ -174,9 +174,32 @@ Here is a list of files which can be used for Jubeat ASC projects.
 
 # Build Process
 
-W.I.P. Currently the panel is being cleaned and some parts are being soldered. This section will be updated soon.
+W.I.P. 
+
+<img src="From-Japan.png" alt="Panel-Listing" width="700"/>
+
+**Figure 3:** The panel listing on Yahoo Auctions.
 
 <br>
+
+A listing for a Jubeat cabinet panel appeared on Yahoo Auctions on the 3rd of October, 2021 at 11:40 (Japan Time). This panel was bought out of impulse for ¥7,000 at 09:54 (Japan Time) a day later. The listing mentioned that the panel was damaged. However, according to the one image from the listing, the damage did not seem concerning to the panel mechanisms and electronics.
+
+<img src="20211015_210433.jpg" alt="Panel-Shipped" width="700"/>
+<img src="20211016_150912.jpg" alt="Panel-Damaged" width="700"/>
+
+**Figure 4:** The panel as it arrived. It can be seen that the top part of the panel, it's mounting mechanism to the top, was bent.
+
+<br>
+
+The panel arrived on the 14th of October at the DHL warehouse, after which it was picked up a day later. The panel contains all the important electronics and buttons. It even came with the film layed between the panel and the protective acryllic plate in cabinets. The panel was indeed damaged, but also dirty. The only damage seemed to be the top bar being bent (see figure 4). This was not concerning at all since this part can be removed from the panel. This would make designing the ASC easier as well.
+
+<img src="IMG-20211020-WA0004.jpg" alt="Electronics-Shipped" width="700"/>
+
+**Figure 5:** The electronics as they arrived. Shown are the Pro Micro ATmega32U4 resting on a prototyping board, and JST PH-9P cables. 
+
+<br>
+
+The essential electronics were ordered on the 16th of October from Vanallesenmeer, and arrived on the 20th. The next step was to solder the correct groups of wires on the PH-9P cables in parallel, which is currently the state of the build. 
 
 ## Expenses 
 
