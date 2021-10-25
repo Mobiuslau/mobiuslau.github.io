@@ -60,7 +60,7 @@ W.I.P.
 
 <img src="circuit.png" alt="Wiring" width="700"/>
 
-**Figure 1:** Circuit diagram for the button PCB's. The wiring is such that each button is wired in parallel. The colours correspond to the colours from the cables used in this build.
+**Figure 1:** Circuit diagram for the button PCB's. The wiring is such that each button is wired in parallel. The colours correspond to the colours from the cables used in the build as outlined in this article.
 
 <br>
 
