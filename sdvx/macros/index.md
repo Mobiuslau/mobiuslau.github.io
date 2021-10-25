@@ -23,6 +23,11 @@ List of Sound Voltex macros / shortcuts.
 > [h] stands for Hexa Diver only, <br>
 > Numbers are on the numpad to the left of the screen. <br>
 
+|Term|Abbreviation|Meaning|
+|:-|:-|:-|
+|Premium Time|[p]|10 minutes of safe gameplay with extra features.|
+|Hexa Diver|[h]|Mode where tracks can be unlocked by damaging bosses.|
+
 <br>
 
 ## Vivid Wave
