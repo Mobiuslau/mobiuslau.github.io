@@ -19,7 +19,11 @@
     {% include head-custom.html %}
 
 
-    <!-- Favicon -->
+    <!-- Title. Text shown at tab. -->
+    <title>{{ page.title }} | {{ site.title | default: site.github.repository_name }} 😊</title>
+
+
+    <!-- Favicon. Icon shown at tab. -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | absolute_url }}">
   </head>
   <body>
@@ -41,7 +45,7 @@
         <!-- Site Logo -->
         {% if site.logo %}
         <a href="{{ "/" | absolute_url }}">
-          <img src="{{site.logo | absolute_url}}" alt="Logo"/>
+          <img src="{{ site.logo | absolute_url }}" alt="Logo"/>
         </a>
         {% endif %}
 
@@ -120,7 +124,7 @@
           <br>
           Original Theme by <a href="https://github.com/orderedlist">orderedlist</a> (<a href="http://creativecommons.org/licenses/by-sa/3.0/" rel="nofollow">CC BY-SA 3.0</a>).
           <br>
-          GitHub Pages. Updated {{site.time}}
+          GitHub Pages. Updated {{ site.time }}
         </p>
       </footer>
     </div>
