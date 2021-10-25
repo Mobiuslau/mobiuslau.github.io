@@ -110,7 +110,7 @@ Arcade size monitors are absurdly difficult to obtain. Therefore, a 27" monitor 
 |Manufacturer code|9H.LJ6LB.QBE|
 |Diagonal|27"|
 |Panel|LCD TN|
-|Resolution|(1920 x 1080) px [16/9]|
+|Resolution|(1920 · 1080) px [16/9]|
 |Refresh rate|75 hz|
 |Connectors|DP 1.2, DVI-D, HDMI 1.4, VGA (D-Sub)|
 |DPI|82|
