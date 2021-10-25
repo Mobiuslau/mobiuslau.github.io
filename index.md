@@ -1,3 +1,7 @@
+---
+title: Hello!
+---
+
 # Hello! 😊
 
 I like documenting things I find interesting. This is not my portfolio.
