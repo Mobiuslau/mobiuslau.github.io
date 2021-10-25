@@ -7,3 +7,4 @@
 - [ ] Create Analyser .ini page.
 - [ ] Fill empty pages with content.
 - [ ] Make blog. See [this](https://jekyllrb.com/docs/step-by-step/08-blogging/). 
+- [ ] Make Jubeat guide based on 573 page.
