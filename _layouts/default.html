@@ -5,6 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+
+    <!-- Title. Text shown at tab. -->
+    <title>{{ page.title }} | {{ site.title | default: site.github.repository_name }} 😊</title>
+
+
 {% seo %}
 
 
@@ -17,10 +22,6 @@
 
     <!-- Include custom head. I have nothing in it though. -->
     {% include head-custom.html %}
-
-
-    <!-- Title. Text shown at tab. -->
-    <title>{{ page.title }} | {{ site.title | default: site.github.repository_name }} 😊</title>
 
 
     <!-- Favicon. Icon shown at tab. -->
