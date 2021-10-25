@@ -6,11 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-    <!-- Title. Text shown at tab. -->
+    <!-- Title (Text shown at tab) -->
     <title>{{ page.title }} | {{ site.title | default: site.github.repository_name }} 😊</title>
 
 
-{% seo %}
+    <!-- Seo Metadata Handler -->
+    {% seo title=false %}
 
 
     <!-- Link to CSS File. SASS is imported there I think. -->
@@ -24,7 +25,7 @@
     <!-- {% include head-custom.html %} -->
 
 
-    <!-- Favicon. Icon shown at tab. -->
+    <!-- Favicon (Icon shown at tab) -->
     <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | absolute_url }}">
   </head>
   <body>
