@@ -30,7 +30,9 @@
 
         <!-- Site Logo -->
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" href="{{ "/" | absolute_url }}"/>
+        <a href="{{ "/" | absolute_url }}">
+          <img src="{{site.logo | relative_url}}" alt="Logo"/>
+        </a>
         {% endif %}
 
 
