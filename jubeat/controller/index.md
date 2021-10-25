@@ -40,15 +40,13 @@ The controller is currently W.I.P, along with this webpage.
 
 <br>
 
-Arcade Cabinet
-===
+# Arcade Cabinet
 
 W.I.P. 
 
 <br>
 
-Arcade Style Controller
-===
+# Arcade Style Controller
 
 ## Panel
 
@@ -176,8 +174,7 @@ Here is a list of files which can be used for Jubeat ASC projects.
 
 
 
-Build Process
-===
+# Build Process
 
 W.I.P. 
 
