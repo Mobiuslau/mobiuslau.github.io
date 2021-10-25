@@ -20,7 +20,7 @@
 
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | relative_url }}">
+    <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon | absolute_url }}">
   </head>
   <body>
     <div class="wrapper">
@@ -41,7 +41,7 @@
         <!-- Site Logo -->
         {% if site.logo %}
         <a href="{{ "/" | absolute_url }}">
-          <img src="{{site.logo | relative_url}}" alt="Logo"/>
+          <img src="{{site.logo | absolute_url}}" alt="Logo"/>
         </a>
         {% endif %}
 
