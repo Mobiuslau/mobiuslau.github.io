@@ -197,7 +197,7 @@ A listing for a Jubeat cabinet panel appeared on Yahoo Auctions on the 3rd of Oc
 
 <br>
 
-The panel arrived on the 14th of October at the DHL warehouse, after which it was picked up a day later. The panel contains all the important electronics and buttons. It even came with the film layed between the panel and the protective acryllic plate in cabinets. The panel was indeed damaged, but also dirty. The only damage seemed to be the top bar being bent (see figure 4). This was not concerning at all since this part can be removed from the panel. This would make designing the ASC easier as well.
+The panel arrived on the 14th of October at the DHL warehouse, after which it was picked up a day later. The panel contains all the important electronics and buttons. It even came with the film layed between the panel and the protective acryllic plate in cabinets. The panel was indeed damaged, as well as dirty. The only damage seemed to be the top bar being bent (see figure 4). This was not concerning at all since this part can be removed from the panel. This would make designing the ASC easier as well.
 
 <br>
 
