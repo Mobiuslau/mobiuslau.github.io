@@ -86,12 +86,12 @@ Click the previews to be redirected to the fullsize marker images. Save the mark
         </tr>
         <tr>
             <td rowspan=3 colspan=2>
-<pre>*drawtype:{{ marker.drawtype }}
-{% if marker.drawtype_e %}*drawtype_e:{{ marker.drawtype_e }}{% endif %}
+<pre>{% if marker.drawtype_e %}*drawtype_e:{{ marker.drawtype_e }}{% endif %}
 {% if marker.href0 %}*effect(0):markers/{{ marker.name }}_0.{{ marker.format }}{% endif %}
 {% if marker.href1 %}*effect(1):markers/{{ marker.name }}_1.{{ marker.format }}{% endif %}
 {% if marker.href2 %}*effect(2):markers/{{ marker.name }}_2.{{ marker.format }}{% endif %}
 {% if marker.href3 %}*effect(3):markers/{{ marker.name }}_3.{{ marker.format }}{% endif %}
+*drawtype:{{ marker.drawtype }}
 markers/{{ marker.name }}.{{ marker.format }}</pre>
             </td>
         </tr>
