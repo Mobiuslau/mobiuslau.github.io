@@ -1,6 +1,7 @@
 - name: mobiuslau_clan
   desc: Custom. Based on Clan default
   format: png
+  format_e:
   drawtype: 7
   drawtype_e:
   href: mobiuslau_clan.png
@@ -12,6 +13,7 @@
 - name: mobiuslau_saucer
   desc: Custom. Based on Saucer default
   format: png
+  format_e:
   drawtype: 7
   drawtype_e:
   href: mobiuslau_saucer.png
