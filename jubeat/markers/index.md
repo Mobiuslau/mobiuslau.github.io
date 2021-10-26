@@ -76,8 +76,10 @@ Click the previews to be redirected to the fullsize marker images. Save the mark
         </tr>
         <tr>
             <td rowspan=3 colspan=2>
-            	<pre>*drawtype:7
-				markers/amy_clan_800.png</pre>
+            	<pre>
+*drawtype:7
+markers/amy_clan_800.png
+				</pre>
             </td>
         </tr>
         <tr>
