@@ -45,15 +45,13 @@
         </p>
         {% endif %}
 
-        <p style="font-size: 16px; margin-left: 5px;">
+        <!-- <p style="font-size: 16px; margin-left: 5px;">
           <br>
           <a href="/">Home</a>
           <br>
           <a href="/jubeat/">Jubeat</a>
           <br>
           &nbsp; <a href="/jubeat/analyser/">Analyser</a>
-          <!-- <br>
-          &nbsp; &nbsp; &nbsp; <a href="/jubeat/analyser/setup-guide/">Setup Guide</a> -->
           <br>
           &nbsp; <a href="/jubeat/controller/">Controller</a>
           <br>
@@ -64,6 +62,15 @@
           &nbsp; <a href="/sdvx/macros/">Macros</a>
           <br>
           &nbsp; <a href="/sdvx/resources/">Resources</a>
+        </p> -->
+
+        <p style="font-size: 16px; margin-left: 5px;">
+          {% for item in site.data.nav %}
+            <br><a href="{{ item.url}}/">{{ item.title }}</a>
+            {% for subItem in item.subNav %}
+              <br>&nbsp; &nbsp; <a href="{{ subItem.url}}/">{{ subItem.title }}</a>
+            {% endfor %} 
+          {% endfor %} 
         </p>
 
         {% if site.show_downloads %}
