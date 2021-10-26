@@ -65,9 +65,10 @@
         </p> -->
 
         <p style="font-size: 16px; margin-left: 5px;">
+          <br><a href="/">Home</a>
           {% for item in site.data.nav %}
             <br><a href="{{ item.url}}/">{{ item.title }}</a>
-            {% for subItem in item.subNav %}
+            {% for subItem in item.subnav %}
               <br>&nbsp; &nbsp; <a href="{{ subItem.url}}/">{{ subItem.title }}</a>
             {% endfor %} 
           {% endfor %} 
