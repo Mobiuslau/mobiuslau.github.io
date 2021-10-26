@@ -24,6 +24,19 @@
   href3:
   source:
 
+- name: mobiuslau_kalesy
+  desc: Kalesy's face.
+  format: png
+  format_e:
+  drawtype: 7
+  drawtype_e:
+  href: mobiuslau_kalesy.png
+  href0:
+  href1:
+  href2:
+  href3:
+  source:
+
 - name: marker1_sht
   desc: Blue shutter.
   format: png
