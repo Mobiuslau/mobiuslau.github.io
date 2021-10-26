@@ -1,3 +1,6 @@
+# subnav url's are relative to the item before. So the subnav url will contribute as
+# /nav/subnav/ in the default layout.
+
 - title: Home
   url:
 
