@@ -57,7 +57,7 @@ Click the previews to be redirected to the fullsize marker images. Save the mark
 
 Some markers in this list were custom made. For those markers, no source is given. The custom markers were designed in vector format, and exported to png. These markers are stored along with this page.
 
-The other markers in the list are not stored on this page, and are instead being referred to their source with hyperlinks. Click on the `source` link to go to the source pagde of these markers.
+The other markers in the list are not stored on this page, and are instead being referred to their source with hyperlinks. Click on the `source` link to go to the source page of these markers.
 
 <table>
     <thead>
@@ -78,13 +78,13 @@ The other markers in the list are not stored on this page, and are instead being
             	</a>
             </td>
             <td rowspan=2>
-            	<a href="{{ marker.href0 }}">
-            		<img src="{{ marker.href0 }}" alt="" width="80"/>
+            	<a href="{{ marker.href3 }}">
+            		<img src="{{ marker.href3 }}" alt="" width="80"/>
             	</a>
             </td>
             <td rowspan=2>
-            	<a href="{{ marker.href1 }}">
-            		<img src="{{ marker.href1 }}" alt="" width="80"/>
+            	<a href="{{ marker.href2 }}">
+            		<img src="{{ marker.href2 }}" alt="" width="80"/>
             	</a>
             </td>
         </tr>
@@ -101,13 +101,13 @@ markers/{{ marker.name }}.{{ marker.format }}</pre>
         </tr>
         <tr>
         	<td rowspan=2>
-            	<a href="{{ marker.href2 }}">
-            		<img src="{{ marker.href2 }}" alt="" width="80"/>
+            	<a href="{{ marker.href1 }}">
+            		<img src="{{ marker.href1 }}" alt="" width="80"/>
             	</a>
             </td>
             <td rowspan=2>
-            	<a href="{{ marker.href3 }}">
-            		<img src="{{ marker.href3 }}" alt="" width="80"/>
+            	<a href="{{ marker.href0 }}">
+            		<img src="{{ marker.href0 }}" alt="" width="80"/>
             	</a>
             </td>
         </tr>
