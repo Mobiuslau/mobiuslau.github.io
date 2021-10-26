@@ -70,7 +70,7 @@ Click the previews to be redirected to the fullsize marker images. Save the mark
             <td>{{ marker.desc }}</td>
             <td rowspan=4>
             	<a href="{{ marker.href }}">
-            		<img src="{{ marker.href }}" alt="" width="200"/>
+            		<img src="{{ marker.href }}" alt="" width="256"/>
             	</a>
             </td>
             <td rowspan=2>

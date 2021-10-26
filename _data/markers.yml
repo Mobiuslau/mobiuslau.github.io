@@ -21,3 +21,15 @@
   href1:
   href2:
   href3:
+
+- name: marker1_sht
+  desc: Yuisin. Blue shutter.
+  format: png
+  format_e:
+  drawtype: 1
+  drawtype_e:
+  href: http://yuisin.com/jubeat/analyser/material/marker1_sht.png
+  href0:
+  href1:
+  href2:
+  href3:
