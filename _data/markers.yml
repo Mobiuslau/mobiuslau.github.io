@@ -36,3 +36,16 @@
   href2:
   href3:
   source: https://yuisin.com/jubeat/analyser/material.html
+
+- name: marker1_flw
+  desc: Blue Flower.
+  format: png
+  format_e:
+  drawtype: 1
+  drawtype_e:
+  href: http://yuisin.com/jubeat/analyser/material/marker1_flw.png
+  href0:
+  href1:
+  href2:
+  href3:
+  source: https://yuisin.com/jubeat/analyser/material.html
