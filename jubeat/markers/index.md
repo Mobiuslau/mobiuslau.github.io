@@ -114,7 +114,7 @@ markers/{{ marker.name }}.{{ marker.format }}</pre>
             <td></td>
         </tr>   
         <tr>
-            <td colspan=5></td>
+            <td colspan="5" style="border-top: 1px solid #e5e5e5;"></td>
         </tr>  
         {% endfor %}     
     </tbody>
