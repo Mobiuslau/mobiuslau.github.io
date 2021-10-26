@@ -55,6 +55,10 @@ W.I.P.
 
 Click the previews to be redirected to the fullsize marker images. Save the markers according to the table in  the marker folder inside the img folder for Jubeat Analyser, such that they are in the `/img/markers/` folder. Then write to `/img/markerlist.txt` according to the table.
 
+Some markers in this list were custom made. For those markers, no source is given. The custom markers were designed in vector format, and exported to png. These markers are stored along with this page.
+
+The other markers in the list are not stored on this page, and are instead being referred to their source with hyperlinks. Click on the `source` link to go to the source pagde of these markers.
+
 <table>
     <thead>
         <tr>
