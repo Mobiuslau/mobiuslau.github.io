@@ -19,10 +19,6 @@ List of Sound Voltex macros / shortcuts.
 
 ### Glossary
 
-> [P] stands for Premium time only, <br>
-> [h] stands for Hexa Diver only, <br>
-> Numbers are on the numpad to the left of the screen. <br>
-
 |Term|Abbreviation|Meaning|
 |:-|:-|:-|
 |Premium Time|[p]|10 minutes of safe gameplay with extra features.|
