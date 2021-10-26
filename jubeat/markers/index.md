@@ -109,8 +109,11 @@ markers/{{ marker.name }}.{{ marker.format }}</pre>
         </tr>
         <tr></tr>
         <tr>
-        	<td colspan=5></td>
+        	<td colspan=5><strong>Source:</strong> {{ marker.source }}</td>
         </tr>   
+        <tr>
+            <td colspan=5></td>
+        </tr>  
         {% endfor %}     
     </tbody>
 </table>
