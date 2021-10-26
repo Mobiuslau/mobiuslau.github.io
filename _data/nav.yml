@@ -1,5 +1,5 @@
 - title: Home
-  url: /
+  url:
 
 - title: Jubeat
   url: /jubeat
@@ -15,9 +15,9 @@
 
 - title: Sound Voltex
   url: /sdvx
-  subfolderitems:
-      - title: Macros
-        url: /macros
+  subnav:
+    - title: Macros
+      url: /macros
 
-      - title: Resources
-        url: /macros
+    - title: Resources
+      url: /macros
