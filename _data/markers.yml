@@ -37,132 +37,132 @@
   href3:
   source:
 
-- name: jb_festo_ytrip
-  desc: Festo marker ripped from youtube.
-  format: png
-  format_e: png
-  drawtype: 7
-  drawtype_e: 7
-  href: https://mobiuslau.s-ul.eu/WrBDbLxx.png
-  href0: https://mobiuslau.s-ul.eu/5vTLfaGt.png
-  href1: https://mobiuslau.s-ul.eu/w9pJQvPM.png
-  href2: https://mobiuslau.s-ul.eu/drI4tf0c.png
-  href3: https://mobiuslau.s-ul.eu/AXuPFCS3.png
-  source: Source
+# - name: jb_festo_ytrip
+#   desc: Festo marker ripped from youtube.
+#   format: png
+#   format_e: png
+#   drawtype: 7
+#   drawtype_e: 7
+#   href: https://mobiuslau.s-ul.eu/WrBDbLxx.png
+#   href0: https://mobiuslau.s-ul.eu/5vTLfaGt.png
+#   href1: https://mobiuslau.s-ul.eu/w9pJQvPM.png
+#   href2: https://mobiuslau.s-ul.eu/drI4tf0c.png
+#   href3: https://mobiuslau.s-ul.eu/AXuPFCS3.png
+#   source: Source
 
-- name: marker1_sh
-  desc: Low res shutter.
-  format: jpg
-  format_e:
-  drawtype: 1
-  drawtype_e:
-  href: http://3.bp.blogspot.com/-TPpm-YjWLK4/Tpx0CoLQs6I/AAAAAAAAABM/uVD69Urknec/s1600/marker_sh.jpg
-  href0:
-  href1:
-  href2:
-  href3:
-  source: http://cubeat.blogspot.com/2011/10/marker.html
+# - name: marker1_sh
+#   desc: Low res shutter.
+#   format: jpg
+#   format_e:
+#   drawtype: 1
+#   drawtype_e:
+#   href: http://3.bp.blogspot.com/-TPpm-YjWLK4/Tpx0CoLQs6I/AAAAAAAAABM/uVD69Urknec/s1600/marker_sh.jpg
+#   href0:
+#   href1:
+#   href2:
+#   href3:
+#   source: http://cubeat.blogspot.com/2011/10/marker.html
 
-- name: marker1_sht
-  desc: Blue shutter.
-  format: png
-  format_e:
-  drawtype: 1
-  drawtype_e:
-  href: http://yuisin.com/jubeat/analyser/material/marker1_sht.png
-  href0:
-  href1:
-  href2:
-  href3:
-  source: https://yuisin.com/jubeat/analyser/material.html
+# - name: marker1_sht
+#   desc: Blue shutter.
+#   format: png
+#   format_e:
+#   drawtype: 1
+#   drawtype_e:
+#   href: http://yuisin.com/jubeat/analyser/material/marker1_sht.png
+#   href0:
+#   href1:
+#   href2:
+#   href3:
+#   source: https://yuisin.com/jubeat/analyser/material.html
 
-- name: marker1_flw
-  desc: Blue Flower.
-  format: png
-  format_e:
-  drawtype: 1
-  drawtype_e:
-  href: http://yuisin.com/jubeat/analyser/material/marker1_flw.png
-  href0:
-  href1:
-  href2:
-  href3:
-  source: https://yuisin.com/jubeat/analyser/material.html
+# - name: marker1_flw
+#   desc: Blue Flower.
+#   format: png
+#   format_e:
+#   drawtype: 1
+#   drawtype_e:
+#   href: http://yuisin.com/jubeat/analyser/material/marker1_flw.png
+#   href0:
+#   href1:
+#   href2:
+#   href3:
+#   source: https://yuisin.com/jubeat/analyser/material.html
 
-- name: marker_yukiko
-  desc: Yukikotan project.
-  format: png
-  format_e:
-  drawtype: 1
-  drawtype_e:
-  href: http://yuisin.com/jubeat/analyser/material/marker_yukiko.png
-  href0:
-  href1:
-  href2:
-  href3:
-  source: https://yuisin.com/jubeat/analyser/material.html
+# - name: marker_yukiko
+#   desc: Yukikotan project.
+#   format: png
+#   format_e:
+#   drawtype: 1
+#   drawtype_e:
+#   href: http://yuisin.com/jubeat/analyser/material/marker_yukiko.png
+#   href0:
+#   href1:
+#   href2:
+#   href3:
+#   source: https://yuisin.com/jubeat/analyser/material.html
 
-- name: marker_slow
-  desc: Flower slow.
-  format: png
-  format_e:
-  drawtype: 1
-  drawtype_e:
-  href: http://yuisin.com/jubeat/analyser/material/marker_slow.png
-  href0:
-  href1:
-  href2:
-  href3:
-  source: https://yuisin.com/jubeat/analyser/material.html
+# - name: marker_slow
+#   desc: Flower slow.
+#   format: png
+#   format_e:
+#   drawtype: 1
+#   drawtype_e:
+#   href: http://yuisin.com/jubeat/analyser/material/marker_slow.png
+#   href0:
+#   href1:
+#   href2:
+#   href3:
+#   source: https://yuisin.com/jubeat/analyser/material.html
 
-- name: marker_copious
-  desc: Yuisin's Copious marker.
-  format: png
-  format_e:
-  drawtype: 1
-  drawtype_e:
-  href: http://yuisin.com/jubeat/analyser/material/marker_copious.png
-  href0:
-  href1:
-  href2:
-  href3:
-  source: https://yuisin.com/jubeat/analyser/material.html
+# - name: marker_copious
+#   desc: Yuisin's Copious marker.
+#   format: png
+#   format_e:
+#   drawtype: 1
+#   drawtype_e:
+#   href: http://yuisin.com/jubeat/analyser/material/marker_copious.png
+#   href0:
+#   href1:
+#   href2:
+#   href3:
+#   source: https://yuisin.com/jubeat/analyser/material.html
 
-- name: marker_co_proto
-  desc: Yuisin's Copious prototype.
-  format: png
-  format_e:
-  drawtype: 1
-  drawtype_e:
-  href: http://yuisin.com/jubeat/analyser/material/marker_co_proto.png
-  href0:
-  href1:
-  href2:
-  href3:
-  source: https://yuisin.com/jubeat/analyser/material.html
+# - name: marker_co_proto
+#   desc: Yuisin's Copious prototype.
+#   format: png
+#   format_e:
+#   drawtype: 1
+#   drawtype_e:
+#   href: http://yuisin.com/jubeat/analyser/material/marker_co_proto.png
+#   href0:
+#   href1:
+#   href2:
+#   href3:
+#   source: https://yuisin.com/jubeat/analyser/material.html
 
-- name: 20130206164648
-  desc: Sand Art.
-  format: png
-  format_e:
-  drawtype: 1
-  drawtype_e:
-  href: https://cdn-ak.f.st-hatena.com/images/fotolife/j/jabelin/20130206/20130206164648.png
-  href0:
-  href1:
-  href2:
-  href3:
-  source: https://f.hatena.ne.jp/jabelin/20130206164648
+# - name: 20130206164648
+#   desc: Sand Art.
+#   format: png
+#   format_e:
+#   drawtype: 1
+#   drawtype_e:
+#   href: https://cdn-ak.f.st-hatena.com/images/fotolife/j/jabelin/20130206/20130206164648.png
+#   href0:
+#   href1:
+#   href2:
+#   href3:
+#   source: https://f.hatena.ne.jp/jabelin/20130206164648
 
-- name: 20130206164647
-  desc: Copious marker.
-  format: png
-  format_e:
-  drawtype: 1
-  drawtype_e:
-  href: https://cdn-ak.f.st-hatena.com/images/fotolife/j/jabelin/20130206/20130206164647.png
-  href0:
-  href1:
-  href2:
-  href3:
-  source: https://f.hatena.ne.jp/jabelin/20130206164648
+# - name: 20130206164647
+#   desc: Copious marker.
+#   format: png
+#   format_e:
+#   drawtype: 1
+#   drawtype_e:
+#   href: https://cdn-ak.f.st-hatena.com/images/fotolife/j/jabelin/20130206/20130206164647.png
+#   href0:
+#   href1:
+#   href2:
+#   href3:
+#   source: https://f.hatena.ne.jp/jabelin/20130206164648
