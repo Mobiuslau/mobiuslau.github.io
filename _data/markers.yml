@@ -62,3 +62,55 @@
   href2:
   href3:
   source: https://yuisin.com/jubeat/analyser/material.html
+
+- name: marker_yukiko
+  desc: Yukikotan project.
+  format: png
+  format_e:
+  drawtype: 1
+  drawtype_e:
+  href: http://yuisin.com/jubeat/analyser/material/marker_yukiko.png
+  href0:
+  href1:
+  href2:
+  href3:
+  source: https://yuisin.com/jubeat/analyser/material.html
+
+- name: marker_slow
+  desc: Flower slow.
+  format: png
+  format_e:
+  drawtype: 1
+  drawtype_e:
+  href: http://yuisin.com/jubeat/analyser/material/marker_slow.png
+  href0:
+  href1:
+  href2:
+  href3:
+  source: https://yuisin.com/jubeat/analyser/material.html
+
+- name: marker_copious
+  desc: Yuisin's Copious marker.
+  format: png
+  format_e:
+  drawtype: 1
+  drawtype_e:
+  href: http://yuisin.com/jubeat/analyser/material/marker_copious.png
+  href0:
+  href1:
+  href2:
+  href3:
+  source: https://yuisin.com/jubeat/analyser/material.html
+
+- name: marker_co_proto
+  desc: Yuisin's Copious prototype.
+  format: png
+  format_e:
+  drawtype: 1
+  drawtype_e:
+  href: http://yuisin.com/jubeat/analyser/material/marker_co_proto.png
+  href0:
+  href1:
+  href2:
+  href3:
+  source: https://yuisin.com/jubeat/analyser/material.html
