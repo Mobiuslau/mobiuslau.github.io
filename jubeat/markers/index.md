@@ -68,7 +68,7 @@ Click the previews to be redirected to the fullsize marker images. Save the mark
         <tr>
         	<td>{{ marker.name }}</td>
             <td>{{ marker.desc }}</td>
-            <td rowspan=4>
+            <td rowspan=5>
             	<a href="{{ marker.href }}">
             		<img src="{{ marker.href }}" alt="" width="256"/>
             	</a>
@@ -109,7 +109,9 @@ markers/{{ marker.name }}.{{ marker.format }}</pre>
         </tr>
         <tr></tr>
         <tr>
-        	<td colspan=5><a href="{{ marker.source }}">Source</a></td>
+        	<td colspan=2><a href="{{ marker.source }}">Source</a></td>
+            <td></td>
+            <td></td>
         </tr>   
         <tr>
             <td colspan=5></td>
