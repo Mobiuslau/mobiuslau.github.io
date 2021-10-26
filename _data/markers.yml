@@ -9,7 +9,7 @@
   href1:
   href2:
   href3:
-  source: Custom
+  source:
 
 - name: mobiuslau_saucer
   desc: Based on Saucer default
@@ -22,7 +22,7 @@
   href1:
   href2:
   href3:
-  source: Custom
+  source:
 
 - name: marker1_sht
   desc: Blue shutter.

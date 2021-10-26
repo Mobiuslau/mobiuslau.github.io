@@ -109,7 +109,7 @@ markers/{{ marker.name }}.{{ marker.format }}</pre>
         </tr>
         <tr></tr>
         <tr>
-        	<td colspan=2><a href="{{ marker.source }}">Source</a></td>
+        	<td colspan=2><a href="{{ marker.source }}">{% if marker.source %}Source{% endif %}</a></td>
             <td></td>
             <td></td>
         </tr>   
