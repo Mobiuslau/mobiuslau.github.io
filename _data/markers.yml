@@ -1,5 +1,5 @@
 - name: mobiuslau_clan
-  desc: Custom. Based on Clan default
+  desc: Based on Clan default
   format: png
   format_e:
   drawtype: 7
@@ -9,9 +9,10 @@
   href1:
   href2:
   href3:
+  source: Custom
 
 - name: mobiuslau_saucer
-  desc: Custom. Based on Saucer default
+  desc: Based on Saucer default
   format: png
   format_e:
   drawtype: 7
@@ -21,9 +22,10 @@
   href1:
   href2:
   href3:
+  source: Custom
 
 - name: marker1_sht
-  desc: Yuisin. Blue shutter.
+  desc: Blue shutter.
   format: png
   format_e:
   drawtype: 1
@@ -33,3 +35,4 @@
   href1:
   href2:
   href3:
+  source: https://yuisin.com/jubeat/analyser/material.html
