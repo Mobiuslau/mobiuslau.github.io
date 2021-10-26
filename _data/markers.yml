@@ -1,5 +1,5 @@
 - name: mobiuslau_clan
-  desc: Based on Clan default
+  desc: Based on Clan default.
   format: png
   format_e:
   drawtype: 7
@@ -12,7 +12,7 @@
   source:
 
 - name: mobiuslau_saucer
-  desc: Based on Saucer default
+  desc: Based on Saucer default.
   format: png
   format_e:
   drawtype: 7
