@@ -37,6 +37,19 @@
   href3:
   source:
 
+- name: marker1_sh
+  desc: Low res shutter.
+  format: jpg
+  format_e:
+  drawtype: 1
+  drawtype_e:
+  href: http://3.bp.blogspot.com/-TPpm-YjWLK4/Tpx0CoLQs6I/AAAAAAAAABM/uVD69Urknec/s1600/marker_sh.jpg
+  href0:
+  href1:
+  href2:
+  href3:
+  source: http://cubeat.blogspot.com/2011/10/marker.html
+
 - name: marker1_sht
   desc: Blue shutter.
   format: png
@@ -114,3 +127,29 @@
   href2:
   href3:
   source: https://yuisin.com/jubeat/analyser/material.html
+
+- name: 20130206164648
+  desc: Sand Art.
+  format: png
+  format_e:
+  drawtype: 1
+  drawtype_e:
+  href: https://cdn-ak.f.st-hatena.com/images/fotolife/j/jabelin/20130206/20130206164648.png
+  href0:
+  href1:
+  href2:
+  href3:
+  source: https://f.hatena.ne.jp/jabelin/20130206164648
+
+- name: 20130206164647
+  desc: Copious marker.
+  format: png
+  format_e:
+  drawtype: 1
+  drawtype_e:
+  href: https://cdn-ak.f.st-hatena.com/images/fotolife/j/jabelin/20130206/20130206164647.png
+  href0:
+  href1:
+  href2:
+  href3:
+  source: https://f.hatena.ne.jp/jabelin/20130206164648
