@@ -37,6 +37,19 @@
   href3:
   source:
 
+- name: jb_festo_ytrip
+  desc: Festo marker ripped from youtube.
+  format: png
+  format_e: png
+  drawtype: 7
+  drawtype_e: 7
+  href: jb_festo_ytrip.png
+  href0: jb_festo_ytrip_0.png
+  href1: jb_festo_ytrip_1.png
+  href2: jb_festo_ytrip_2.png
+  href3: jb_festo_ytrip_3.png
+  source:
+
 - name: marker1_sh
   desc: Low res shutter.
   format: jpg
