@@ -1,4 +1,4 @@
-# Jubeat Analyser Markers
+# Jubeat Markers
 
 W.I.P.
 
