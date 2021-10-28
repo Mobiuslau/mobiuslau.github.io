@@ -10,7 +10,7 @@ I'm a theoretical physics grad student who loves to make music, make graphic des
 
 Perhaps you'll find something interesting here.
 
-Feel free to contact me. I can be found in [Kalesy's Hub Discord server](https://discord.gg/SQH7wsX). 
+Feel free to contact me.
 
 <br>
 
