@@ -64,7 +64,7 @@ W.I.P.
 
 <br>
 
-Arcade style button PCB's can be used in ASC builds. In this project, the PSB's came with the original panel. Otherwise, similar button PCB's can be acquired from Yubiparts [[5]](https://yubiparts.com/products/jubeat-button-sensor-pcb-board-frame?variant=40168391147707). 
+Arcade style button PCB's can be used in ASC builds. In this project, the PCB's came with the original panel. Otherwise, similar button PCB's can be acquired from Yubiparts [[5]](https://yubiparts.com/products/jubeat-button-sensor-pcb-board-frame?variant=40168391147707). 
 
 Each button PCB accounts for 2 buttons, oriented in a horizontal manner. The PCB is constructed such that a rubberdome switch is placed on each corner of a button section (See figure 1). The acryllic buttons extend out on each corner, resting on these rubbers. This way, the view is not obstructed by switches. In this project, the rubbers came with the original panel. Otherwise, similar rubbers can be acquired from Yubiparts [[6]](https://yubiparts.com/products/jubeat-rubbers?variant=40168392753339).
 
