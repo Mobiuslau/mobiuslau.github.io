@@ -12,8 +12,9 @@ Documentation about Jubeat markers and effects, as well as how to use them in Ju
 > &nbsp; &nbsp; [Table of Contents](#table-of-contents)<br>
 > &nbsp; &nbsp; [Glossary](#glossary)<br>
 > [Introduction](#introduction)<br>
-> &nbsp; &nbsp; [Format for Analyser](#format-for-analyser)<br>
-> &nbsp; &nbsp; [Installation for Analyser](#installation-for-analyser)<br>
+> [Jubeat Analyser 160325](#jubeat-analyser-160325)<br>
+> &nbsp; &nbsp; [Image Format](#image-format)<br>
+> &nbsp; &nbsp; [Markerfile](#markerfile)<br>
 > [Markers](#markers)<br>
 
 
@@ -32,19 +33,31 @@ Documentation about Jubeat markers and effects, as well as how to use them in Ju
 
 ## Introduction
 
-<br>
-
-### Format for Analyser
+W.I.P.
 
 <br>
 
-### Installation for Analyser
+## Jubeat Analyser 160325
+
+### Image Format
+
+W.I.P.
+
+<br>
+
+### Markerfile
+
+W.I.P.
 
 <br>
 
 ## Markers 
 
 Click the previews to be redirected to the fullsize marker images. Save the markers according to the table in  the marker folder inside the img folder for Jubeat Analyser, such that they are in the `/img/markers/` folder. Then write to `/img/markerlist.txt` according to the table.
+
+Some markers in this list were custom made. For those markers, no source is given. The custom markers were designed in vector format, and exported to png. These markers are stored along with this page.
+
+The other markers in the list are not stored on this page, and are instead being referred to their source with hyperlinks. Click on the `source` link to go to the source page of these markers.
 
 <table>
     <thead>
@@ -55,47 +68,59 @@ Click the previews to be redirected to the fullsize marker images. Save the mark
         </tr>
     </thead>
     <tbody>
+    {% for marker in site.data.markers %}
         <tr>
-        	<td>amy_clan_800.png</td>
-            <td>Custom. Based on Clan default</td>
-            <td rowspan=4>
-            	<a href="amy_clan_800.png">
-            		<img src="amy_clan_800.png" alt="amy_clan_800" width="200"/>
+        	<td>{{ marker.name }}</td>
+            <td>{{ marker.desc }}</td>
+            <td rowspan=5>
+            	<a href="{{ marker.href }}">
+            		<img src="{{ marker.href }}" alt="" width="256"/>
             	</a>
             </td>
             <td rowspan=2>
-            	<a href="">
-            		<img src="" alt="" width="80"/>
+            	<a href="{{ marker.href3 }}">
+            		<img src="{{ marker.href3 }}" alt="" width="80"/>
             	</a>
             </td>
             <td rowspan=2>
-            	<a href="">
-            		<img src="" alt="" width="80"/>
+            	<a href="{{ marker.href2 }}">
+            		<img src="{{ marker.href2 }}" alt="" width="80"/>
             	</a>
             </td>
         </tr>
         <tr>
             <td rowspan=3 colspan=2>
-<pre>*drawtype:7
-markers/amy_clan_800.png</pre>
+<pre>{% if marker.drawtype_e %}*drawtype_e:{{ marker.drawtype_e }}{% endif %}
+{% if marker.href0 %}*effect(0):markers/{{ marker.name }}_0.{{ marker.format_e }}{% endif %}
+{% if marker.href1 %}*effect(1):markers/{{ marker.name }}_1.{{ marker.format_e }}{% endif %}
+{% if marker.href2 %}*effect(2):markers/{{ marker.name }}_2.{{ marker.format_e }}{% endif %}
+{% if marker.href3 %}*effect(3):markers/{{ marker.name }}_3.{{ marker.format_e }}{% endif %}
+*drawtype:{{ marker.drawtype }}
+markers/{{ marker.name }}.{{ marker.format }}</pre>
             </td>
         </tr>
         <tr>
         	<td rowspan=2>
-            	<a href="">
-            		<img src="" alt="" width="80"/>
+            	<a href="{{ marker.href1 }}">
+            		<img src="{{ marker.href1 }}" alt="" width="80"/>
             	</a>
             </td>
             <td rowspan=2>
-            	<a href="">
-            		<img src="" alt="" width="80"/>
+            	<a href="{{ marker.href0 }}">
+            		<img src="{{ marker.href0 }}" alt="" width="80"/>
             	</a>
             </td>
         </tr>
         <tr></tr>
         <tr>
-        	<td colspan=5></td>
-        </tr>        
+        	<td colspan=2><a href="{{ marker.source }}">{% if marker.source %}Source{% endif %}</a></td>
+            <td></td>
+            <td></td>
+        </tr>   
+        <tr>
+            <td colspan="5" style="border-top: 1px solid #e5e5e5;"></td>
+        </tr>  
+        {% endfor %}     
     </tbody>
 </table>
 
