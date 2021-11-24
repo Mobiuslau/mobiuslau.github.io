@@ -45,25 +45,6 @@
         </p>
         {% endif %}
 
-        <!-- <p style="font-size: 16px; margin-left: 5px;">
-          <br>
-          <a href="/">Home</a>
-          <br>
-          <a href="/jubeat/">Jubeat</a>
-          <br>
-          &nbsp; <a href="/jubeat/analyser/">Analyser</a>
-          <br>
-          &nbsp; <a href="/jubeat/controller/">Controller</a>
-          <br>
-          &nbsp; <a href="/jubeat/markers/">Markers</a>
-          <br>
-          <a href="/sdvx/">Sound Voltex</a>
-          <br>
-          &nbsp; <a href="/sdvx/macros/">Macros</a>
-          <br>
-          &nbsp; <a href="/sdvx/resources/">Resources</a>
-        </p> -->
-
         <p style="font-size: 16px; margin-left: 5px;">
           {% for item in site.data.nav %}
             <br><a href="{{ item.url }}/">{{ item.title }}</a>
@@ -103,7 +84,7 @@
           <br>
           GitHub Pages. Updated {{ site.time }}
         </p>
-        <img src="/assets/img/Bars.svg" alt="Bars"/>
+        <img src="/assets/img/Bars.svg" alt="Bars" style="width: 160px; margin: 0 0 -4px 5px;"/>
       </footer>
     </div>
 
