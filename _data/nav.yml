@@ -2,7 +2,7 @@
 # /nav/subnav/ in the default layout.
 
 - title: Home
-  url:
+  url: /
 
 - title: Posts
   url: /posts.html
