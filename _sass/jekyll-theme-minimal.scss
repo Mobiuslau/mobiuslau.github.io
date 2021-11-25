@@ -68,6 +68,11 @@ a:hover small {
   margin:0 auto;
 }
 
+li:before {
+  content: "➔";
+  padding-right: 5px;
+}
+
 blockquote {
   border-left: 5px solid #e5e5e5;
   margin: 0;
