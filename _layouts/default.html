@@ -28,9 +28,9 @@
         </h1>
 
         {% if site.logo %}
-        <a href="{{ "/" | absolute_url }}">
+<!--         <a href="{{ "/" | absolute_url }}">
           <img src="{{ site.logo | absolute_url }}" alt="Logo"/>
-        </a>
+        </a> -->
         {% endif %}
 
         <!-- Site Desctription -->
@@ -45,11 +45,11 @@
         </p>
         {% endif %}
 
-        <p style="font-size: 16px; margin-left: 5px;">
+        <p style="font-size: 32px; margin-left: 5px; line-height: 110%;">
           {% for item in site.data.nav %}
             <br><a href="{{ item.url }}/">{{ item.title }}</a>
             {% for subItem in item.subnav %}
-              <br>&nbsp; &nbsp; <a href="{{ item.url }}{{ subItem.url}}/">{{ subItem.title }}</a>
+              <!-- <br>&nbsp; &nbsp; <a href="{{ item.url }}{{ subItem.url}}/">{{ subItem.title }}</a> -->
             {% endfor %} 
           {% endfor %} 
         </p>
@@ -84,7 +84,7 @@
           <br>
           GitHub Pages. Updated {{ site.time }}
         </p>
-        <img src="/assets/img/Bars.svg" alt="Bars" style="width: 160px; margin: 0 0 -4px 5px;"/>
+        <img src="/assets/img/Bars.svg" alt="Bars" style="width: 160px; margin: 0 0 -5px 5px;"/>
       </footer>
     </div>
 
