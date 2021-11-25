@@ -14,7 +14,8 @@ Feel free to contact me.
 
 <br>
 
-<button onclick="buttonFunc()"><img src="/assets/img/Bar-short.svg" style="width: 160px;">Music of the day.</button>
+Music of the day
+<button onclick="buttonFunc();pictureChange()"><img if="buttonImage" src="/assets/img/Bar-short.svg" style="width: 160px;"></button>
 
 <div id="buttonStyle" style="display:none;">
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/dAJAIxaV7a8" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,6 +28,14 @@ function buttonFunc() {
     x.style.display = "block";
   } else {
     x.style.display = "none";
+  }
+}
+function pictureChange() {
+  var x = document.getElementById('buttonImage');
+  if (x.src === "/assets/img/Bar-short.svg") {
+    x.src="/assets/img/Bar-long.svg";
+  } else {
+    x.src="/assets/img/Bar-short.svg"
   }
 }
 </script>
