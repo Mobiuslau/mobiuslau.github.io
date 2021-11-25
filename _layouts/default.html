@@ -50,7 +50,7 @@
             <br><a href="{{ item.url }}/">{{ item.title }}</a>
             {% for subItem in item.subnav %}
               {% if page.url == item.url %}
-              <br>&nbsp; &nbsp; <a href="{{ item.url }}{{ subItem.url}}/">{{ subItem.title }}</a>
+                <br>&nbsp; &nbsp; <a href="{{ item.url }}{{ subItem.url}}/">{{ subItem.title }}</a>
               {% endif %}
             {% endfor %} 
           {% endfor %} 
