@@ -14,7 +14,7 @@ Feel free to contact me.
 
 <br>
 
-<button onclick="buttonFunc()">Music of the day.</button>
+<button onclick="buttonFunc()"><img src="/assets/img/Bar-short.svg" style="width: 160px;">Music of the day.</button>
 
 <div id="buttonStyle" style="display:none;">
 <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/dAJAIxaV7a8" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
