@@ -19,10 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Amy's Nerdy Corner
+author: Amy
 description: Things I find interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mobiuslau.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Mobiuslau
+logo: /assets/img/Amy - Happy - 1 - Crop - Circ.png
+favicon: /assets/img/Amy - Happy - 1 - Crop - Circ.ico
+markdown: kramdown
 
 
 # Build settings

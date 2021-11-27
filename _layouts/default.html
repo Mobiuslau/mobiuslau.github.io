@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>{{ page.title }} | {{ site.title | default: site.github.repository_name }} 😊</title>
+
+		<link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon }}">
+
+    	<link rel="stylesheet" href="/assets/css/style.css?v=">
+    	<script src="/assets/js/scale.fix.js"></script>
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    	{% seo title=false %}
+	</head>
+
+	<body>
+		<div class="wrapper">
+			<header>
+	        	<h1 style="margin-left: 5px;">
+	          	<a href="{{ "/" | absolute_url }}">{{ site.title }}</a>
+	        	</h1>
+
+		        <p style="font-size: 32px; margin-left: 5px; line-height: 110%;">
+	          	{% for item in site.data.nav %}
+	            	<br><a href="{{ item.url }}">{{ item.title }}</a>
+	            	{% for subItem in item.subnav %}
+	              		{% if page.url contains item.url %}
+	                	<br>&nbsp; &nbsp; <a href="{{ item.url }}{{ subItem.url}}">{{ subItem.title }}</a>
+	              		{% endif %}
+	            	{% endfor %} 
+	          	{% endfor %} 
+	        	</p>
+	        </header>
+
+          	<section>
+      			{{ content }}
+      		</section>
+
+  		   	<footer>
+        		<p style="font-size: 10px; margin: 0 0 0 -9px;display: inline-block;">
+          			➔ ORIGINAL THEME BY
+        		</p>
+        		<p style="font-size: 10px; margin: 0 0 0 12px;display: inline-block;">
+          			| <a href="https://github.com/orderedlist" style="color: #727272;">ORDEREDLIST</a>
+        		</p>
+        		<br>
+        		<p style="display: inline-block;font-size: 8px;margin: 0 0 0 5px;">
+          			ALTERATION
+        		</p>
+        		<p style="display: inline-block;font-size: 8px;margin: 0 0 0 75px;">
+         			 AMY
+        		</p>
+        		<br>
+        			<img src="/assets/img/Bars.svg" alt="Bars" style="width: 160px; margin: 0 0 -5px 5px;">
+      		</footer>
+    	</div>
+
+    	<!--[if !IE]><!-->
+	      	<script>
+	        	fixScale(document);                               // fix current scale on iOS devices     
+	        	window.onorientationchange = fixScale(document);  // and when orientation changes
+	        	// See https://stackoverflow.com/questions/14855571/what-does-fixscaledocument-do
+	      	</script>
+    	<!--<![endif]-->
+  	</body>
+</html>

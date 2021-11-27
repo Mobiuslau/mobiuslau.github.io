@@ -1,0 +1,32 @@
+# subnav url's are relative to the item before. So the subnav url will contribute as
+# /nav/subnav/ in the default layout.
+
+- title: Home
+  url: /
+
+- title: Posts
+  url: /posts.html
+
+- title: Physics
+  url: /physics
+
+- title: Jubeat
+  url: /jubeat
+  subnav:
+    - title: Analyser
+      url: /analyser
+
+    - title: Controller
+      url: /controller
+
+    - title: Markers
+      url: /markers
+
+- title: Sound Voltex
+  url: /sdvx
+  subnav:
+    - title: Macros
+      url: /macros
+
+    - title: Resources
+      url: /resources
