@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Amy
+title:  "Welcome to Jekyll!"
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras molestie erat in est consequat elementum. Sed vel mi quam. Ut dignissim mauris ac elit ultricies vestibulum. Proin mauris odio, convallis laoreet nulla sed, ullamcorper congue ligula. Vestibulum vestibulum, tortor tempus egestas condimentum, risus sem tempus dolor, id dictum tellus lorem vel ex. Nunc venenatis metus arcu, eget eleifend nunc porta quis. Sed velit ex, maximus vel mauris ut, accumsan tempor turpis. Nam sit amet enim augue. Integer laoreet dignissim iaculis. Etiam pellentesque nisl at luctus sollicitudin. Donec luctus lorem at erat viverra euismod nec non nibh. Nulla orci lacus, pharetra non tellus eu, convallis imperdiet elit. Nullam quis porttitor ex.
 
