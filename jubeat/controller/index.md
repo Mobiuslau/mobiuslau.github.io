@@ -6,7 +6,6 @@ The controller as built in this article is currently W.I.P, along with this webp
 
 <br>
 
-
 ### Table of Contents
 
 > [Jubeat Controller](#jubeat-controller)<br>
@@ -42,11 +41,15 @@ The controller as built in this article is currently W.I.P, along with this webp
 
 <br>
 
+
+
 ## Arcade Cabinet
 
 W.I.P. 
 
 <br>
+
+
 
 ## Arcade Style Controller
 

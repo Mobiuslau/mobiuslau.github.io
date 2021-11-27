@@ -12,6 +12,9 @@
     	<meta name="viewport" content="width=device-width, initial-scale=1">
 
     	{% seo title=false %}
+  		<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  		<script id="MathJax-script" async
+          src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 	</head>
 
 	<body>
@@ -26,8 +29,13 @@
 	            	<br><a href="{{ item.url }}">{{ item.title }}</a>
 	            	{% for subItem in item.subnav %}
 	              		{% if page.url contains item.url %}
-	                	<br>&nbsp; &nbsp; <a href="{{ item.url }}{{ subItem.url}}">{{ subItem.title }}</a>
+	                	<br>&nbsp; &nbsp; <a href="{{ item.url }}{{ subItem.url }}">{{ subItem.title }}</a>
 	              		{% endif %}
+	              		{% for subSubItem in subItem.subsubnav %}
+	              			{% if page.url contains subItem.url %}
+	              				<br>&nbsp; &nbsp; &nbsp; &nbsp; <a href="{{ item.url }}{{ subItem.url }}{{ subSubItem.url }}">{{ subSubItem.title }}</a>
+	              			{% endif %}
+	              		{% endfor %}
 	            	{% endfor %} 
 	          	{% endfor %} 
 	        	</p>
