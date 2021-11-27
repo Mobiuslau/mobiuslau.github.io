@@ -1,4 +1,4 @@
-$blue: #46B7FB;
+$col1: #46B7FB;
 $grey: #727272;
 $white: #FFFFFF;
 
@@ -44,7 +44,7 @@ h3{
 }
 
 a {
-  color: $blue;
+  color: $col1;
   text-decoration: none;
 }
 
@@ -223,6 +223,16 @@ footer {
   position: fixed;
   bottom: 0px;
   -webkit-font-smoothing: subpixel-antialiased;
+}
+
+button {
+  background-color: $white; 
+  color: $grey;
+}
+
+button:hover {
+  background-color: $col1;
+  color: $grey;
 }
 
 @media print, screen and (max-width: 960px) {

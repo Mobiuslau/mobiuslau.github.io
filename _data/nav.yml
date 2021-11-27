@@ -15,6 +15,9 @@
   subnav:
     - title: Analyser
       url: /analyser
+      subsubnav: 
+        - title: Panelsize
+          url: /panelsize
 
     - title: Controller
       url: /controller
