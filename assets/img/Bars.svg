@@ -7,51 +7,51 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="Bars.svg"
-   width="42.333332mm"
-   height="7.4082799mm"
-   viewBox="0 0 42.333332 7.4082797"
-   version="1.1"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
    id="svg8"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+   version="1.1"
+   viewBox="0 0 42.333332 7.4082797"
+   height="7.4082799mm"
+   width="42.333332mm"
+   sodipodi:docname="Bars.svg">
   <defs
      id="defs2" />
   <sodipodi:namedview
-     inkscape:snap-global="true"
-     id="base"
-     pagecolor="#f6f5f4"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="39.743438"
-     inkscape:cy="-19.458964"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:pagecheckerboard="false"
-     inkscape:snap-bbox="true"
-     inkscape:bbox-paths="true"
-     inkscape:bbox-nodes="true"
-     inkscape:snap-bbox-edge-midpoints="true"
-     inkscape:snap-bbox-midpoints="true"
-     inkscape:object-paths="true"
-     inkscape:snap-intersection-paths="true"
-     inkscape:snap-smooth-nodes="true"
-     inkscape:snap-midpoints="true"
-     inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-text-baseline="true"
-     inkscape:snap-page="true"
-     showguides="true"
-     inkscape:guide-bbox="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
+     inkscape:window-maximized="1"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="-8"
+     inkscape:window-height="1057"
+     inkscape:window-width="1920"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-page="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:pagecheckerboard="false"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="20.759057"
+     inkscape:cx="138.52107"
+     inkscape:zoom="16"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#f6f5f4"
+     id="base"
+     inkscape:snap-global="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -65,19 +65,19 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
+     transform="translate(44.93783,-215.99092)"
      id="layer1"
-     transform="translate(44.93783,-215.99092)">
-    <path
-       d="m -44.93783,215.99092 v 7.40828 h 31.749969 v -6.28541 l -1.12619,-1.12287 z"
-       style="opacity:1;fill:#46b7fb;fill-opacity:1;stroke-width:1.2;stroke-linecap:square"
-       id="path874"
-       sodipodi:nodetypes="cccccc" />
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
     <path
        sodipodi:nodetypes="cccccc"
-       id="path876"
+       id="path874"
+       style="opacity:1;fill:#46b7fb;fill-opacity:1;stroke-width:1.2;stroke-linecap:square"
+       d="m -44.93783,215.99092 v 7.40828 h 31.749969 v -6.08536 l -1.32292,-1.32292 z" />
+    <path
+       d="m -12.658662,215.99092 -3e-6,7.40828 h 10.0541652 l 3.4e-6,-6.08536 -1.3229197,-1.32292 z"
        style="opacity:1;fill:#727272;fill-opacity:1;stroke-width:1.2;stroke-linecap:square"
-       d="m -12.658662,215.99092 -3e-6,7.40828 h 10.0541652 l 3.4e-6,-6.28541 -1.1261838,-1.12287 z" />
+       id="path876"
+       sodipodi:nodetypes="cccccc" />
   </g>
 </svg>
