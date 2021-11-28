@@ -1,43 +1,48 @@
 /*Blue Grey*/
 $col1: #46B7FB;
 $col2: #727272;
-$coltext: #727272;
+$colText: #727272;
+$colBlock: #E5E5E5;
 $white: #FFFFFF;
 
 /*Pink Light*/
 /*$col1: #FB467B;
 $col2: #FDA3BD;
-$coltext: #727272;
+$colText: #727272;
+$colBlock: #E5E5E5;
 $white: #FFFFFF;*/
 
 /*Pink Light*/
 /*$col1: #FE79B8;
 $col2: #FEA7CB;
-$coltext: #727272;
+$colText: #727272;
+$colBlock: #E5E5E5;
 $white: #FFFFFF;*/
 
 /*Pink Orange*/
 /*$col1: #FE79B8;
 $col2: #FEB6A7;
-$coltext: #727272;
+$colText: #727272;
+$colBlock: #E5E5E5;
 $white: #FFFFFF;*/
 
 /*Icaras:*/
 /*$col1: #A71F58;
 $col2: #D288A8;
-$coltext: #727272;
+$colText: #727272;
+$colBlock: #E5E5E5;
 $white: #FFFFFF;*/
 
 body {
   background-color: $white;
   padding: 30px;
   font: 14px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: $coltext;
+  color: $colText;
   font-weight: 400;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: $coltext;
+  color: $colText;
   margin: 0 0 20px 0;
 }
 
@@ -60,7 +65,7 @@ h1 {
 
 h2 {
   font-size: 28px;
-  border-bottom: 1px solid #e5e5e5;
+  border-bottom: 1px solid $colBlock;
   /*margin-left: -28px; To account for the black triangle right.*/
 }
 
@@ -87,7 +92,7 @@ a small {
 }
 
 a:hover small {
-  color: $coltext;
+  color: $colText;
 }
 
 .wrapper {
@@ -96,7 +101,7 @@ a:hover small {
 }
 
 blockquote {
-  border-left: 5px solid #e5e5e5;
+  border-left: 5px solid $colBlock;
   margin: 0;
   padding: 0 0 0 20px;
   border-radius: .4em;
@@ -104,17 +109,17 @@ blockquote {
 
 code, pre {
   /*font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;*/
-  color: $coltext;
-  background: #F3F4F4;
+  color: $colText;
+  background: $colBlock;
   padding: .1em .3em;
   border-radius: .4em;
 }
 
 pre {
   padding: 8px 15px;
-  background: #f8f8f8;
+  background: $colBlock;
   border-radius: 5px;
-  border: 1px solid #e5e5e5;
+  border: 1px solid $colBlock;
   overflow-x: auto;
 }
 
@@ -129,16 +134,16 @@ th, td {
   text-align: left;
   padding: 5px 10px;
   vertical-align: top;
-/*  border-bottom: 1px solid #e5e5e5;*/
+/*  border-bottom: 1px solid $colBlock;*/
 }
 
 dt {
-  color: $coltext;
+  color: $colText;
   font-weight: 700;
 }
 
 th {
-  color: $coltext;
+  color: $colText;
 }
 
 img {
@@ -211,7 +216,7 @@ ul.downloads {
 }
 
 strong {
-  color: $coltext;
+  color: $colText;
   font-weight: 700;
 }
 
@@ -238,7 +243,7 @@ small {
 
 hr {
   border: 0;
-  background: #e5e5e5;
+  background: $colBlock;
   height: 1px;
   margin: 0 0 20px;
 }
@@ -253,12 +258,12 @@ footer {
 
 button {
   background-color: $white; 
-  color: $coltext;
+  color: $colText;
 }
 
 button:hover {
   background-color: $col1;
-  color: $coltext;
+  color: $colText;
 }
 
 .svgcol1 {
@@ -287,7 +292,7 @@ button:hover {
   }
 
   section {
-    border: 5px solid #e5e5e5;
+    border: 5px solid $colBlock;
     border-width: 1px 0;
     padding: 20px 0;
     margin: 0 0 20px;
@@ -340,7 +345,7 @@ button:hover {
   body {
     padding: 0.4in;
     font-size: 12pt;
-    color: $coltext;
+    color: $colText;
   }
 }
 
