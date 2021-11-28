@@ -68,7 +68,7 @@ The other markers in the list are not stored on this page, and are instead being
         </tr>
     </thead>
     <tbody>
-    {% for marker in site.data.markers %}
+    {% for marker in site.data.jubeat_analyser_markers_markers %}
         <tr>
         	<td>{{ marker.name }}</td>
             <td>{{ marker.desc }}</td>

@@ -1,3 +1,8 @@
+---
+cite: site.data.jubeat_analyser_panelsize_biblio
+---
+{% assign biblio = site.data.jubeat_analyser_panelsize_biblio %}
+
 # Jubeat Analyser Panelsize
 
 W.I.P.
@@ -33,7 +38,7 @@ The base playfield size is (a+b)*pw+b horizontally and (a+b)*ph+b vertically whe
 
 <img src="Jubeat - Screen Dimensions - PNG.png" alt="Jubeat - Screen Dimensions - PNG" width="700"/>
 
-<p><strong>Figure 1:</strong> Jubeat screen object dimensions. Total screen dimensions are \( 768 \times 1360 \, \text{px} \).</p>
+<p><strong>Figure 1:</strong> Jubeat screen object dimensions. Total screen dimensions are \( 768 \times 1360 \, \text{px} \) [1].</p>
 
 <br>
 
@@ -65,3 +70,18 @@ as then the infodisplay can have the correct size. To summarize;
 - Practical/desired playfield resolution: (767x767)px.
 - Corresponding base infodisp resolution: (825x454)px.
 - Practical/desired infodisp resolution: (768x464)px.
+
+<br>
+
+## Bibliography
+
+<table>
+    <thead>
+    </thead>
+    <tbody>
+    	<tr>
+    		<td>[1]</td>
+    		<td>“「jubeat clan」が稼働開始。‘人とつながる’をテーマにしたシリーズ最新作,” 4gamer.NET, 26-Jul-2017. [Online]. Available: <a href="https://www.4gamer.net/games/389/G038903/20170726115/screenshot.html?mode=thumbs">https://www.4gamer.net/games/389/G038903/20170726115/screenshot.html?mode=thumbs</a>. [Accessed: 28-Nov-2021].</td>
+    	</tr>
+	</tbody>
+</table>

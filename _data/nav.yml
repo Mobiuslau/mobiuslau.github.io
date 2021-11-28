@@ -19,11 +19,11 @@
         - title: Panelsize
           url: /panelsize
 
+        - title: Markers
+          url: /markers
+
     - title: Controller
       url: /controller
-
-    - title: Markers
-      url: /markers
 
 - title: Sound Voltex
   url: /sdvx
