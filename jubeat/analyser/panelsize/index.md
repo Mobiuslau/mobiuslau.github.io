@@ -1,8 +1,6 @@
 ---
 cite: site.data.jubeat_analyser_panelsize_biblio
 ---
-{% assign biblio = site.data.jubeat_analyser_panelsize_biblio %}
-
 # Jubeat Analyser Panelsize
 
 W.I.P.
@@ -72,6 +70,9 @@ as then the infodisplay can have the correct size. To summarize;
 - Practical/desired infodisp resolution: (768x464)px.
 
 <br>
+
+
+
 
 ## Bibliography
 
