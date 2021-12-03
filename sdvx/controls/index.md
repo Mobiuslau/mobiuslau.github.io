@@ -1,6 +1,6 @@
 # Sound Voltex Controls
 
-The Sound Voltex games have a moderate list of controls and macros. The in-game tutorial should introduce the player to the basic gameplay controls of the game well enough. However, the game does not convey some of the other useful controls very well. Therefore, this page does not outline the basic gameplay controls, but instead catalogues a comprehensive list of controls which can be used to navigate through sound voltex, change settings, and activate certain features. 
+The Sound Voltex games have a moderate list of controls and macros. The in-game tutorial should introduce the player to the basic gameplay controls of the game well enough. However, the game does not convey some of the other useful controls very well. Therefore, this page does not outline the basic gameplay controls, but instead catalogues a comprehensive list of controls which can be used to navigate through Sound Voltex, change settings, and activate certain features. 
 
 This list was first written for the *SOUND VOLTEX VIVID WAVE* arcade games. Some features are locked behind the *Premium Time* mode, while others are accessable through standard play. This page was revisited in light of the recent release of *SOUND VOLTEX EXCEED GEAR Konasute* for the *E-Amusement Cloud* home service. Most controls are similar, and thus this list has been updated to document both games. However, the Premium Time exclusive controls are enabled by default; it is as if the Premium Time mode is the default mode for this game. 
 
