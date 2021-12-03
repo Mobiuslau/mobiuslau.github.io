@@ -26,7 +26,7 @@ Hopefully this catalogue proves to be helpful to both new, and veteran players, 
 |Term|Abbreviation|Meaning|
 |:-|:-|:-|
 |SOUND VOLTEX EXCEED GEAR Konasute|SDVX EG Konasute|Home version of Konami's SOUND VOLTEX EXCEED GEAR arcade game.|
-|Premium Time|[p]|10 minutes of safe gameplay with extra features (enabled in SDVX EG EAC).|
+|Premium Time|[p]|10 minutes of safe gameplay with extra features (enabled in SDVX EG).|
 |Hexa Diver|[h]|Mode where tracks can be unlocked by damaging bosses.|
 |Numpad key|num-#|Button on the numpad. # could be a number.|
 |Song wheel||The chart select screen.|
