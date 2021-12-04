@@ -84,7 +84,7 @@ There is no waiting lobby when using Premium Time. These controls should also fu
 |:-|:-|:-|:-|
 |[p] Force track crash|FX-L + FX-R + start|FX-L + FX-R + start|Also works to skip tutorial.|
 |[p] Force retry|Hold (FX-L + FX-R + start)|Hold (FX-L + FX-R + start)||
-|[p] Auto retry|00|0||
+|[p] Auto retry|00|num-.||
 
 <br>
 
