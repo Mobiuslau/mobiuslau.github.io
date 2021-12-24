@@ -95,9 +95,29 @@ a:hover small {
   color: $colText;
 }
 
+strong {
+  color: $colText;
+  font-weight: 700;
+}
+
 .wrapper {
   width: 1060px;
   margin: 0 0 0 300px; /*250px for section center*/
+}
+
+header {
+  width: 270px;
+  float: left;
+  position: fixed;
+  -webkit-font-smoothing: subpixel-antialiased;
+}
+
+footer {
+  width: 270px;
+  float: left;
+  position: fixed;
+  bottom: 0px;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 blockquote {
@@ -164,11 +184,39 @@ kbd {
   vertical-align: middle;
 }
 
-header {
-  width: 270px;
-  float: left;
-  position: fixed;
-  -webkit-font-smoothing: subpixel-antialiased;
+section {
+  width: 700px;
+  float: right;
+  padding-bottom: 50px;
+}
+
+small {
+  font-size: 11px;
+}
+
+hr {
+  border: 0;
+  background: $colBlock;
+  height: 1px;
+  margin: 0 0 20px;
+}
+
+button {
+  background-color: $white; 
+  color: $colText;
+}
+
+button:hover {
+  background-color: $col1;
+  color: $colText;
+}
+
+.svgcol1 {
+  fill: $col1;
+}
+
+.svgcol2 {
+  fill: $col2;
 }
 
 ul.downloads {
@@ -215,10 +263,6 @@ ul.downloads {
   background-color: #f0f0f0;
 }
 
-strong {
-  color: $colText;
-  font-weight: 700;
-}
 
 .downloads li + li + li {
   border-right: none;
@@ -231,50 +275,16 @@ strong {
   color: #222;
 }
 
-section {
-  width: 700px;
-  float: right;
-  padding-bottom: 50px;
+
+@media print, screen and (max-width: 1280px) { 
+
+  div.wrapper {
+    width: 1000px;
+    margin: 0 0 0 100px; /*250px for section center*/
+  }
 }
 
-small {
-  font-size: 11px;
-}
-
-hr {
-  border: 0;
-  background: $colBlock;
-  height: 1px;
-  margin: 0 0 20px;
-}
-
-footer {
-  width: 270px;
-  float: left;
-  position: fixed;
-  bottom: 0px;
-  -webkit-font-smoothing: subpixel-antialiased;
-}
-
-button {
-  background-color: $white; 
-  color: $colText;
-}
-
-button:hover {
-  background-color: $col1;
-  color: $colText;
-}
-
-.svgcol1 {
-  fill: $col1;
-}
-
-.svgcol2 {
-  fill: $col2;
-}
-
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 960px) { 
 
   div.wrapper {
     width: auto;
