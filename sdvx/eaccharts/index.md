@@ -1,6 +1,6 @@
 # Sound Voltex Exceed Gear コナステ Charts
 
-*Sound Voltex Exceed Gear コナステ*, or SDVX EAC for short, comes with a large catalogue of charts, some of which come with the basic course *最初からプレーできます*, and some of which come with purchasable packs [[1](https://p.eagate.573.jp/gate/p/eamusement/coop/list.html?shop=1&category=45&cc=0&ls=2), [2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. This page contains a table of all charts, as of 2021-12-24, as fetched from the main website [[2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. The charts can then also be inspected through https://sdvx.in/.
+*Sound Voltex Exceed Gear コナステ*, or SDVX EAC for short, comes with a large catalogue of charts, some of which come with the basic course *最初からプレーできます*, and some of which come with purchasable packs [[1](https://p.eagate.573.jp/gate/p/eamusement/coop/list.html?shop=1&category=45&cc=0&ls=2), [2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. This page contains a table of all charts, as of 2021-12-24, as fetched from the main website [[2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. The charts can then also be inspected through [sdvx.in](https://sdvx.in/).
 
 ## Chart List
 
