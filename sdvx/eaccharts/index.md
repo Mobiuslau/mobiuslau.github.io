@@ -1,8 +1,13 @@
 # Sound Voltex Exceed Gear コナステ Charts
 
-*Sound Voltex Exceed Gear コナステ*, or SDVX EAC for short, comes with a large catalogue of charts, some of which come with the basic course *最初からプレーできます*, and some of which come with purchasable packs [[1](https://p.eagate.573.jp/gate/p/eamusement/coop/list.html?shop=1&category=45&cc=0&ls=2), [2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. This page contains a table of all charts, as of 2021-12-24, as fetched from the main website [[2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. For more convenient use of this table, browser extensions which enable table sorting on html web pages can be used. The charts themselves can also be inspected through [sdvx.in](https://sdvx.in/).
+*Sound Voltex Exceed Gear コナステ*, or SDVX EAC for short, comes with a large catalogue of charts, some of which come with the basic course *最初からプレーできます*, and some of which come with purchasable packs [[1](https://p.eagate.573.jp/gate/p/eamusement/coop/list.html?shop=1&category=45&cc=0&ls=2), [2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. This page contains a table of all charts, as of 2021-12-24, as fetched from the main website [[2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. This table allows for sorting; just press the header item (Made possible by the script from Stuart Langridge)[[3](https://www.kryogenix.org/code/browser/sorttable/)].  The charts themselves can also be inspected through [sdvx.in](https://sdvx.in/).
 
 ## Chart List
+
+<!-- https://stackoverflow.com/questions/10683712/html-table-sort -->
+<!-- https://www.kryogenix.org/code/browser/sorttable/ -->
+<!-- https://gist.github.com/tamouse/4204dddabb6b072b0242 -->
+<script src="/assets/js/sorttable.js"></script>
 
 |Artist|Title|Nov|ADV|EXH|+  |Genre|Pack|
 |------|-----|---|---|---|---|-----|----|
@@ -1139,3 +1144,4 @@
 |Yooh  |Enter The Fire|4  |11 |14 |17 |FLOOR|Starter Pack Vol.01|
 |Yu_Asahina|The Clown of 24stairs|7  |14 |17 |19 |FLOOR|Starter Pack Vol.01|
 |中島由貴 × いちか|ランカーキラーガール|5  |12 |15 |18 |BEMANI|Starter Pack Vol.01|
+{: .sortable }
