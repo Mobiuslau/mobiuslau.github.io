@@ -9,6 +9,10 @@ bundle exec jekyll serve
 
 Then check http://localhost:4000/
 
+---
+
+bundle install installs dependencies as written in gemfile.lock.
+
 
 https://docs.github.com/en/get-started/quickstart/create-a-repo
 https://surge.sh/help/deploying-a-jekyll-project
