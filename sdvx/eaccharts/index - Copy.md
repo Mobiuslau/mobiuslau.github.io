@@ -9,23 +9,8 @@
 <!-- https://gist.github.com/tamouse/4204dddabb6b072b0242 -->
 <script src="/assets/js/sorttable.js"></script>
 
-|Artist|Title|NOV|ADV|EXH|+  |Genre|Pack|
+|Artist|Title|Nov|ADV|EXH|+  |Genre|Pack|
 |------|-----|---|---|---|---|-----|----|
-|2時間でPUCされたかぼちゃ|Perfect Ultimate Celebration!!|6  |13 |16 |18 |SDVXオリジナル|10th Anniversary Pack|
-|BlackY|業焔繚乱 |6  |12 |15 |18 |SDVXオリジナル|10th Anniversary Pack|
-|Cororo|ウエンレラの氷華|5  |12 |16 |17 |SDVXオリジナル|10th Anniversary Pack|
-|EZFG  |cloud|4  |8  |12 |17 |SDVXオリジナル|10th Anniversary Pack|
-|kamome sano|sparky spark|6  |12 |15 |17 |SDVXオリジナル|10th Anniversary Pack|
-|Kobaryo|Royal Judgement|6  |11 |14 |17 |SDVXオリジナル|10th Anniversary Pack|
-|lapix |Foolish Again|5  |12 |15 |17 |SDVXオリジナル|10th Anniversary Pack|
-|SHIKI |Sephirot|3  |9  |13 |17 |BEMANI|10th Anniversary Pack|
-|SOUND HOLIC feat. Nana Takahashi|PLANISPHERE|4  |11 |14 |17 |SDVXオリジナル|10th Anniversary Pack|
-|TAKU1175 feat.かなたん|スピーカーガール！|5  |10 |13 |16 |SDVXオリジナル|10th Anniversary Pack|
-|TAKU1175 ft.駄々子|夢の終わり、世界のはじまり。|4  |11 |14 |17 |SDVXオリジナル|10th Anniversary Pack|
-|Vocal by ＯＲＩ姫|ペタ靴と憂夜リムーバー|5  |11 |14 |17 |SDVXオリジナル|10th Anniversary Pack|
-|xi    |Grand Chariot|5  |11 |16 |17 |BEMANI|10th Anniversary Pack|
-|かめりあ feat. ななひら|ゔぉるみっくす!!!!|6  |13 |16 |18 |SDVXオリジナル|10th Anniversary Pack|
-|黒魔    |Test Flight|5  |12 |15 |18 |SDVXオリジナル|10th Anniversary Pack|
 |10calorie|New Days|4  |10 |15 |   |FLOOR|Basic Course|
 |556ミリメートル|I feel something for you|2  |7  |12 |15 |東方アレンジ|Basic Course|
 |7mai  |月々紅花 |6  |13 |15 |18 |FLOOR|Basic Course|
@@ -42,7 +27,6 @@
 |Amateras Records feat.築山さえ|Addicted Moon|4  |10 |13 |16 |東方アレンジ|Basic Course|
 |Amateras Records feat.築山さえ|Lonly Ranunculus|4  |9  |15 |   |東方アレンジ|Basic Course|
 |Amateras Records feat.築山さえ|Regretful Flower|4  |11 |14 |16 |東方アレンジ|Basic Course|
-|Amateras Records feat.築山さえ|SkyDrive!|3  |9  |15 |   |東方アレンジ|Basic Course|
 |Amateras Records feat.築山さえ×抹(魂音泉)|Sweetest Paranoia|4  |10 |14 |16 |東方アレンジ|Basic Course|
 |Antinomic Paradox|UnivEarth|6  |12 |18 |   |FLOOR|Basic Course|
 |ARM (IOSYS)|恋する☆宇宙戦争っ！！ あばばばみっくす|6  |12 |15 |15 |BEMANI|Basic Course|
@@ -112,11 +96,7 @@
 |daniwell|バタフライキャット|3  |8  |13 |15 |ボーカロイド|Basic Course|
 |daph  |Monkey Business(Band Edit.)|4  |10 |16 |   |BEMANI|Basic Course|
 |DecisionS(kanone + nora2r)|INFINITY OVERDRIVE|5  |11 |15 |17 |FLOOR|Basic Course|
-|Demetori|メイガスナイト 〜 Arr.Demetori|5  |10 |16 |   |東方アレンジ|Basic Course|
-|Demetori|信仰は儚き人間の為に ～ Arr.Demetori|5  |11 |17 |   |東方アレンジ|Basic Course|
-|Demetori|感情の魔天楼 ～ Arr.Demetori|5  |11 |17 |   |東方アレンジ|Basic Course|
 |Diceros Bicornis|Innocent Tempest|6  |12 |17 |19 |FLOOR|Basic Course|
-|DiGiTAL WiNG feat.花たん|Paranoia|4  |9  |16 |   |東方アレンジ|Basic Course|
 |DiGiTAL WiNG feat.花たん/YURiCa|Dystopia|2  |7  |12 |15 |東方アレンジ|Basic Course|
 |DiGiTAL WiNG with 空音|Little Big Princess(DJ katsu EDIT)|4  |9  |13 |16 |東方アレンジ|Basic Course|
 |DiGiTAL WiNG with 空音|Together Going My Way|4  |10 |13 |16 |東方アレンジ|Basic Course|
@@ -132,9 +112,7 @@
 |DOUBLE HELIX|Our Faith (Faithful MTL Remix)|5  |11 |17 |   |BEMANI|Basic Course|
 |Dustboxxxx|Blue Rain Dustboxxxx RMX|5  |10 |14 |   |BEMANI|Basic Course|
 |Dustboxxxx|Unicorn tail Dustboxxxx RMX|5  |10 |16 |18 |BEMANI|Basic Course|
-|EastNewSound|Lemures Prelude|3  |9  |14 |   |東方アレンジ|Basic Course|
 |EastNewSound|Rot in hell！！|3  |8  |13 |   |東方アレンジ|Basic Course|
-|EastNewSound|緋色月下、狂咲ノ絶 (nayuta 2017 ver)|4  |11 |15 |18 |東方アレンジ|Basic Course|
 |EastNewSound feat. 3L from NJK Record|Locus of Control|3  |9  |13 |   |東方アレンジ|Basic Course|
 |EastNewSound feat. 茶太|星霜輪廻〜Repeat〜|2  |8  |13 |   |東方アレンジ|Basic Course|
 |eicaTV vs kanone|MG277|6  |12 |18 |   |FLOOR|Basic Course|
@@ -164,8 +142,6 @@
 |Gowrock|Engraved Mark-Gow's ill! RMX-|6  |10 |13 |16 |BEMANI|Basic Course|
 |GRACE COLORS（かめりあ ft. 紫崎 雪、藍月なくる、荒巻、ＯＲＩ姫、かなたん、駄々子、はるの、ななひら）|Believe (y)our Wings {GRA5P WAVES}|5  |11 |14 |17 |SDVXオリジナル|Basic Course|
 |Halozy feat. ななひら|物凄いスペースシャトルでこいしが物凄いうた|5  |11 |15 |17 |東方アレンジ|Basic Course|
-|Halozy feat. ななひら|物凄い勢いでけーねが物凄いうた|5  |10 |15 |   |東方アレンジ|Basic Course|
-|Halozy feat. ななひら|物凄い狂っとるフランちゃんが物凄いうた|5  |11 |17 |   |東方アレンジ|Basic Course|
 |Hate  |gigadelic -stance xxxx-|5  |11 |17 |   |BEMANI|Basic Course|
 |Hate vs Brilliance|Quark|5  |11 |14 |17 |その他  |Basic Course|
 |Hate vs Brilliance|Qubism|5  |11 |16 |18 |FLOOR|Basic Course|
@@ -239,7 +215,6 @@
 |LeaF  |壊Rave*it!! 壊Rave*it!!|6  |13 |15 |18 |BEMANI|Basic Course|
 |LeaF  |音楽 -壊音楽 mix-|5  |11 |17 |   |BEMANI|Basic Course|
 |LiLA'c Records|Burn everything|2  |8  |13 |16 |東方アレンジ|Basic Course|
-|Lime  |Chronomia|7  |14 |17 |19 |その他  |Basic Course|
 |Lite Show Magic (t+pazolite vs C-Show)|Crack Traxxxx|6  |11 |16 |18 |FLOOR|Basic Course|
 |Liz Triangle|The Starry true|2  |7  |12 |   |東方アレンジ|Basic Course|
 |MAD CHILD|Barbless Ego|6  |13 |15 |18 |SDVXオリジナル|Basic Course|
@@ -296,7 +271,6 @@
 |Pa's Lam System|If   |5  |11 |14 |17 |BEMANI|Basic Course|
 |pan   |€omet popcorn|6  |13 |16 |18 |FLOOR|Basic Course|
 |Paradise Eve feat.しゃみお|夢見草奇譚|5  |11 |14 |17 |FLOOR|Basic Course|
-|paraoka|L9   |6  |13 |16 |18 |その他  |Basic Course|
 |paraoka|vivid landscape|6  |12 |15 |17 |SDVXオリジナル|Basic Course|
 |PHQUASE|rainbow flyer -gratitude remix-|5  |9  |16 |   |BEMANI|Basic Course|
 |polysha|World of Iris|6  |13 |16 |18 |FLOOR|Basic Course|
@@ -331,9 +305,6 @@
 |Shiron＋こふ×モリモリあつしと提供でお送りします。|Demise Quartet|6  |12 |18 |   |FLOOR|Basic Course|
 |Shiron＋こふ×モリモリあつしと提供でお送りします。|Lucky*Clover|6  |11 |17 |   |FLOOR|Basic Course|
 |Silentroom|Nhelv|6  |13 |16 |18 |その他  |Basic Course|
-|Silver Forest|Phantasm Brigade|2  |8  |13 |   |東方アレンジ|Basic Course|
-|Silver Forest feat. くろねこ アキ さきち カガリ|つるぺったん|4  |10 |13 |16 |東方アレンジ|Basic Course|
-|Silver Forest feat. めらみぽっぷ|ケロ⑨destiny|4  |10 |15 |17 |東方アレンジ|Basic Course|
 |siqlo |Electric Injury|6  |13 |16 |18 |FLOOR|Basic Course|
 |siromaru|Absurd Gaff|6  |12 |16 |18 |FLOOR|Basic Course|
 |siromaru + cranky|conflict|5  |12 |17 |   |その他  |Basic Course|
@@ -369,7 +340,6 @@
 |Spacelectro feat.椎木レク|トマヨイ |6  |13 |15 |18 |FLOOR|Basic Course|
 |SUi   |planetarium|6  |12 |15 |17 |FLOOR|Basic Course|
 |SUPER STAR 満-MITSURU-|She is my wife|5  |11 |16 |   |BEMANI|Basic Course|
-|sweez / Meine Meinung|Adansonia|3  |8  |13 |16 |その他  |Basic Course|
 |SYNC.ART'S feat. 美里|エピクロスの虹はもう見えない|1  |7  |12 |   |東方アレンジ|Basic Course|
 |Syrufit feat.綾倉盟 / 市松椿|Jump!|4  |10 |13 |   |東方アレンジ|Basic Course|
 |Syrufit feat.綾倉盟 / 市松椿|Wheel|3  |11 |16 |17 |東方アレンジ|Basic Course|
@@ -477,9 +447,7 @@
 |ここなつ Produced by uma|千客万来☆無問題！|5  |10 |16 |   |ひなビタ♪/バンめし♪|Basic Course|
 |ここなつ Produced by ぬゆり|アナーキーインザ夕景|5  |12 |16 |   |ひなビタ♪/バンめし♪|Basic Course|
 |ここなつ Produced by はるなば|ムラサキグルマ|5  |11 |18 |   |ひなビタ♪/バンめし♪|Basic Course|
-|こなぐすり |-Rayrain-|3  |9  |12 |   |東方アレンジ|Basic Course|
 |こふ    |Milkyway - memorable -|5  |10 |16 |   |FLOOR|Basic Course|
-|さゆり (Silver Forest)|蒼空に舞え、墨染の桜|1  |6  |11 |   |東方アレンジ|Basic Course|
 |さわわ   |きらきらタイム☆|5  |11 |17 |   |FLOOR|Basic Course|
 |さわわ   |雪月花 -さわわRemix-|6  |12 |17 |   |BEMANI|Basic Course|
 |しーけー  |Liar rain|6  |12 |15 |18 |SDVXオリジナル|Basic Course|
@@ -550,14 +518,12 @@
 |君の美術館 |八雲藍の唯心論|3  |9  |14 |   |東方アレンジ|Basic Course|
 |君の美術館 |碧の疾風 |4  |9  |13 |   |東方アレンジ|Basic Course|
 |君の美術館 |秘封倶楽部の未踏世界|2  |9  |12 |   |東方アレンジ|Basic Course|
-|夕月椿(EastNewSound)|迷夢ソウル|5  |10 |13 |16 |東方アレンジ|Basic Course|
 |天音 (Rolling Contact)|Technical Master|4  |8  |14 |17 |東方アレンジ|Basic Course|
 |奏瀬いちこ (Silver Forest)|Sweet little Lily|3  |8  |13 |   |東方アレンジ|Basic Course|
 |岸田教団＆THE明星ロケッツ|DesireDrive|5  |10 |13 |   |東方アレンジ|Basic Course|
 |岸田教団＆THE明星ロケッツ|REDO the NIGHT|6  |12 |15 |18 |SDVXオリジナル|Basic Course|
 |岸田教団＆THE明星ロケッツ|scary night|6  |11 |14 |17 |SDVXオリジナル|Basic Course|
 |岸田教団＆THE明星ロケッツ|明星ロケット|3  |8  |13 |   |東方アレンジ|Basic Course|
-|岸田教団＆THE明星ロケッツ|竹取飛翔 |3  |9  |15 |17 |東方アレンジ|Basic Course|
 |平茸＋夕野ヨシミ＋山本椛|sweet dream|2  |9  |13 |   |東方アレンジ|Basic Course|
 |幽閉カタルシス|RED ZONE NeoClassical Party Remix|4  |11 |14 |   |ボーカロイド|Basic Course|
 |幽閉カタルシス|RPGシンドローム|5  |10 |13 |   |ボーカロイド|Basic Course|
@@ -622,16 +588,12 @@
 |発熱巫女〜ず|Two Fates|2  |6  |11 |   |東方アレンジ|Basic Course|
 |矢鴇つかさ feat. 三澤秋 (SoundOnline)|Starlight Vision|2  |7  |12 |   |東方アレンジ|Basic Course|
 |矢鴇つかさ feat. 佳織みちる|Prominence|3  |9  |13 |   |東方アレンジ|Basic Course|
-|石鹸屋   |ってゐ！ 〜えいえんてゐVer〜|3  |8  |12 |15 |東方アレンジ|Basic Course|
-|石鹸屋   |東方妖々夢 〜the maximum moving about〜|2  |8  |13 |   |東方アレンジ|Basic Course|
 |立秋 feat.ちょこ|おはようからおやすみまでかまってポメポメ|6  |13 |16 |18 |FLOOR|Basic Course|
 |立秋 feat.ちょこ|プナイプナイたいそう|6  |13 |16 |18 |その他  |Basic Course|
 |立秋 feat.ちょこ|竹    |6  |14 |17 |19 |その他  |Basic Course|
 |臨界モスキー党|悪いところがひとつもない！|3  |9  |14 |   |FLOOR|Basic Course|
-|舞風-MAIKAZE/沙紗飛鳥|神々の祈り|1  |7  |10 |   |東方アレンジ|Basic Course|
 |蝶々P   |とある少-の一日|3  |7  |12 |   |ボーカロイド|Basic Course|
 |豚乙女   |三つ数えろ|3  |10 |16 |   |東方アレンジ|Basic Course|
-|豚乙女   |囲い無き世は一期の月影|5  |10 |16 |   |東方アレンジ|Basic Course|
 |豚乙女   |幻想のサテライト|5  |11 |16 |18 |東方アレンジ|Basic Course|
 |豚乙女   |待チ人ハ来ズ。|3  |7  |12 |   |東方アレンジ|Basic Course|
 |豚乙女   |或る春の日|3  |9  |14 |   |東方アレンジ|Basic Course|
@@ -649,10 +611,6 @@
 |黒魔    |Pon-Pon-Pompoko Dai-Sen-Saw!|6  |12 |18 |   |FLOOR|Basic Course|
 |黒魔    |Sayonara Planet Wars|6  |13 |18 |   |FLOOR|Basic Course|
 |黒魔    |大宇宙ステージ|5  |11 |17 |19 |FLOOR|Basic Course|
-|cold kiss|TrailBlazer|3  |9  |13 |16 |FLOOR|BLASTER Banned 2022-01|
-|uma meets モリモリあつし|Re：Elemental Creation|6  |13 |16 |18 |BEMANI|BLASTER Banned 2022-01|
-|そよもぎ  |honey trap|2  |7  |12 |   |FLOOR|BLASTER Banned 2022-01|
-|日向美ビタースイーツ♪|恋とキングコング|3  |8  |12 |15 |ひなビタ♪/バンめし♪|BLASTER Banned 2022-01|
 |BEMANI Sound Team 劇団レコード"feat.結良まり"|風鈴花火 |4  |10 |13 |16 |BEMANI|Member Unlock 2019-10|
 |remixed by cosMo＠暴走P|GERBERA-For Finalists-|7  |13 |17 |19 |SDVXオリジナル|Member Unlock 2019-10|
 |uma   |sink into the dream|4  |10 |14 |17 |FLOOR|Member Unlock 2019-10|
@@ -818,11 +776,6 @@
 |BlackY|αzalea|7  |14 |17 |19 |SDVXオリジナル|Member Unlock 2021-7|
 |かめりあ as Revenge of Riot""|BAYONEX|7  |14 |17 |19 |SDVXオリジナル|Member Unlock 2021-8|
 |ぺのれり  |Reverenced Flower|7  |14 |17 |19 |SDVXオリジナル|Member Unlock 2021-9|
-|mazuka153|スノウイコン|4  |11 |14 |17 |BEMANI|MÚSECA Selection Pack vol.01|
-|PandaBoY feat.ななひら|Star☆Beat|6  |13 |16 |18 |BEMANI|MÚSECA Selection Pack vol.01|
-|unatra×Nego_tiator|eXtridia|5  |13 |15 |17 |BEMANI|MÚSECA Selection Pack vol.01|
-|Yunomi|みたらしプラトニック (feat. nicamoq)|5  |11 |14 |17 |BEMANI|MÚSECA Selection Pack vol.01|
-|こすも８ｂｉｔ|Red＋White＝Kawaii|6  |13 |16 |18 |BEMANI|MÚSECA Selection Pack vol.01|
 |Ancraft|Game Over|5  |11 |14 |17 |FLOOR|Song Pack Vol.01|
 |ARM×狐夢想 feat. RINA (I've)|OPEN MY GATE|5  |12 |14 |18 |SDVXオリジナル|Song Pack Vol.01|
 |Hommarju|BEAST BASS BOMB|6  |11 |15 |18 |SDVXオリジナル|Song Pack Vol.01|
