@@ -9,7 +9,7 @@
 <!-- https://gist.github.com/tamouse/4204dddabb6b072b0242 -->
 <script src="/assets/js/sorttable.js"></script>
 
-|Jacket|Artist|Title|NOV|ADV|EXH|Ex|Genre|Pack|Added|
+|Jacket|Artist|Title|NOV|ADV|EXH|Ex|Genre|Pack|Available From|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |<img src="jackets/2022-01/1_files/jacket_018.jpg" width="52" height="52">|かめりあ feat. ななひら|ゔぉるみっくす!!!!|6|13|16|18|SDVXオリジナル|10th Anniversary Pack|2022-01-18|
 |<img src="jackets/2022-01/1_files/jacket_017.jpg" width="52" height="52">|kamome sano|sparky spark|6|12|15|17|SDVXオリジナル|10th Anniversary Pack|2022-01-18|
