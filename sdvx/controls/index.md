@@ -14,8 +14,8 @@ Hopefully this catalogue proves to be helpful to both new, and veteran players, 
 > &nbsp; &nbsp; [Table of Contents](#table-of-contents)<br>
 > &nbsp; &nbsp; [Glossary](#glossary)<br>
 > [Controls List](#controls-list)<br>
-> &nbsp; &nbsp; [Options Menu](#options-menu)<br>
 > &nbsp; &nbsp; [Song Wheel](#song-wheel)<br>
+> &nbsp; &nbsp; [Options Menu](#options-menu)<br>
 > &nbsp; &nbsp; [Waiting Lobby](#waiting-lobby)<br>
 > &nbsp; &nbsp; [During Play](#during-play)<br>
 > &nbsp; &nbsp; [Result Screen](#result-screen)<br>
