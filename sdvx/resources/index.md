@@ -218,6 +218,7 @@ The *Sanwa* buttons are used in the arcade cabinet.
 - **[DJDAO PT-01-01-02](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=253)**. <br>FX button. Does not include microswitch. Comes with 40g spring.
 
 #### Microswitches
+The OMRON D2MV and V series have been the most used in the community. Please do your own research beforehand.
 
 - **[OMRON D2MV-01-1C1](https://item.rakuten.co.jp/sanwadenshi/ilumb_221/)**. <br>10g microswitch.
 - **[OMRON D2MV-01-1C2](https://item.rakuten.co.jp/sanwadenshi/ilumb_222/)**. <br>25g microswitch.
@@ -225,7 +226,15 @@ The *Sanwa* buttons are used in the arcade cabinet.
 - **[OMRON V-10-1A4](https://item.rakuten.co.jp/sanwadenshi/ilumb_215/)**. <br>100g microswitch.
 - **[OMRON V-10-1A5](https://item.rakuten.co.jp/sanwadenshi/ilumb_216/)**. <br>200g microswitch.
 
-- **[Sanwa OBSA-LHS1F-LN](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/)**. <br>200g microswitch. This is used in the arcade cabinet.
+The VX and D3V series' have been an interesting addition to the microswitch lineup. They may have different qualities to the D2MV series. Please do your own research beforehand.
+
+- **[OMRON VX-01-1C22](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-01-1C22/369961)**. <br>25g microswitch.
+- **[OMRON VX-01-1C23](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-01-1C23/369962)**. <br>50g microswitch.
+- **[OMRON D3V-011-1A3-K](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/D3V-011-1A3-K/1789124)**. <br>50g microswitch.
+
+Microswitch with lamp holder used in the arcade cabinets. 
+
+- **[Sanwa OBSA-LHS1F-LN](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/)**. <br>100g microswitch. This is used in the arcade cabinet.
 
 #### Springs
 
