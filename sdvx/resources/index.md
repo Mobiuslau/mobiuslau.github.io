@@ -35,7 +35,6 @@ Introduction to be written. I will do this later.
 > &nbsp; &nbsp; [Generally Useful Rhythm-Game Resources](#generally-useful-rhythm-game-resources)<br>
 > &nbsp; &nbsp; [Useful Discord Servers & Communities](#useful-discord-servers--communities)<br>
 
-
 <br>
 
 
@@ -109,7 +108,6 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[Hexa Diver Guide Image](https://cdn.discordapp.com/attachments/209316761428819969/752529843446480937/HEXA_DIVER_SYSTEM_TUTORIAL.png)**.
 
 <br>
-
 
 ### Community Resources
 
@@ -199,6 +197,9 @@ Virgoo Turbochargers are not supported anymore.
 - **[Controller Help](https://oniichan.wtf/help/)**.
 - **[Cons&Stuff](https://consandstuff.github.io/)** by *consandstuff*. <br>Compilation blog of controllers they made. Their pages detail their build processes. Their [Discord server](https://discord.gg/fknwz8s) has proven to be very useful for exchanging tips and tricks for DIY controller building. 
 - **[Rhythm.Market](https://rhythm.market/)**. <br>Newly established second-hand marketplace for exchanging parts, controllers, and more. 
+
+<br>
+
 
 
 ## Custom Charts
