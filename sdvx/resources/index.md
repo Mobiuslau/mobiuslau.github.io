@@ -27,7 +27,8 @@ Introduction to be written. I will do this later.
 > [Controllers](#controllers)<br>
 > &nbsp; &nbsp; [Vendors](#vendors)<br>
 > &nbsp; &nbsp; [Parts](#parts)<br>
-> &nbsp; &nbsp; [Community Guides & Resources](#community-guides--resources)<br>
+> &nbsp; &nbsp; [Community Guides](#community-guides-3)<br>
+> &nbsp; &nbsp; [Community Resources](#community-resources-4)<br>
 > [Custom Charts](#custom-charts)<br>
 > &nbsp; &nbsp; [Custom Chart Repositories & Packs](#custom-chart-repositories--packs)<br>
 > &nbsp; &nbsp; [Community Guides & Resources](#community-guides--resources-1)<br>
@@ -51,10 +52,8 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[SOUND VOLTEX III GRAVITY WARS コナステ](https://p.eagate.573.jp/game/eacsdvx/iii/p/common/top.html)**.
 - **[SOUND VOLTEX / Music pack Purchase Department](https://p.eagate.573.jp/gate/p/eamusement/coop/list.html?shop=1&category=45&cc=0&ls=1)**.
 - **[E-Amusement Dashboard](https://p.eagate.573.jp/gate/p/mypage/index.html)**.
-- **[e-amusement pass menu ](https://p.eagate.573.jp/gate/eapass/menu.html)**.
 - **[Basic Course Subscription Department](https://p.eagate.573.jp/payment/p/select_course.html)**.
 - **[PASELI Charge Site](https://paseli.konami.net/charge/top.html)**.
-- **[Charts Page](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)**.
 
 <br>
 
@@ -104,6 +103,9 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[HEXA DIVER](https://voltexes.com/hexa-diver/)** by *Latchal*.
 - **[Tips on playing level 16: Going to the other side](https://www.reddit.com/r/kshootmania/comments/n662if/dunno_whether_this_would_be_useful_but_heres_a/)** by *JiminP*.
 - **[Tips on playing: Few essential knowledge on turning knobs](https://www.reddit.com/r/kshootmania/comments/ncecac/tips_on_turning_knobs/)** by *JiminP*.
+- **[The Big List of Jack Charts](https://voltexes.com/jack-charts/)** by *Latchal*.
+- **[The Big List of Booths of Fighters Practice Charts](https://voltexes.com/the-big-list-of-bof-practice-charts/)** by *Latchal*.
+- **[The Big List of Cross-hand Knob Charts](https://voltexes.com/the-big-list-of-cross-hand-knobs/)** by *Latchal*.
 - **[SDVX Unlock Guide](https://docs.google.com/spreadsheets/d/1VBYWSUaKqHUOyfCtvkHFYBSnEPwxhTh8-m4UlU8zUL0/edit#gid=594247546)**. **Possibly outdated**. 
 - **[Hexa Diver Guide Image](https://cdn.discordapp.com/attachments/209316761428819969/752529843446480937/HEXA_DIVER_SYSTEM_TUTORIAL.png)**.
 
@@ -112,7 +114,7 @@ The main web page contains news feeds, quickstart guides and player data options
 ### Community Resources
 
 - **[sdvx.in](https://sdvx.in/)**. <br>One of the oldest, and most useful, resources available for the series. This website contains detailed overviews of the majority of charts for players to study and practice with. 
-- **[SDVX Difficulty Table](https://docs.google.com/spreadsheets/d/1cFltguBvPplBem-x1STHnG3k4TZzFfyNEZ-RwsQszoo/edit#gid=1555610727)**. <br>Community-made difficulty table cataloguing most charts of level 16 and above into various difficulty tiers. See legend [here](/sdvx/resources/difftable.txt). 
+- **[SDVX Difficulty Table](https://docs.google.com/spreadsheets/d/1cFltguBvPplBem-x1STHnG3k4TZzFfyNEZ-RwsQszoo/edit#gid=1555610727)**. <br>Community-made difficulty table cataloguing most charts of level 16 and above into various clear difficulty tiers. See legend [here](/sdvx/resources/difftable.txt). 
 - **[PUC Difficulty Charts Twitter](https://twitter.com/PUC_level)** by *@PUC_level *. <br>Regularly updated charts on PUC Difficulty.
 - **[SDVXDiffTable Twitter](https://twitter.com/SDVXDiffTable)** by *@SDVXDiffTable*. <br>Other difficulty tables published through Twitter. This is based 80% on their personal experience.
 - **[Gauge Drain Values Image](https://cdn.discordapp.com/attachments/209316761428819969/752529745668997130/unknown.png)**. **Possibly outdated**. 
@@ -138,7 +140,9 @@ The main web page contains news feeds, quickstart guides and player data options
 
 #### Community Resources
 
-- **[A Beginner’s guide to K-Shoot Mania](https://docs.google.com/document/d/1jPako8p8U1lA_EFvpJ8Ho4OvaR5o2LS_u-kyiFiUsnE/edit)** by *grumpybutter*.
+- **[A Beginner’s guide to K-Shoot Mania](https://docs.google.com/document/d/1jPako8p8U1lA_EFvpJ8Ho4OvaR5o2LS_u-kyiFiUsnE/edit)** by *grumpybutter & Ted_the_Red*. <br>Do not get the convert charts as listed there. If you are ademant about getting converts, you should be able to find the ones most players are using. 
+- **[r/kshootmania Skins](https://www.reddit.com/r/kshootmania/wiki/skins)**.
+- **[rdtoi1_K-Shoot skin](https://www.youtube.com/watch?v=_wEj5jrxnxk)** by *rdtoi1*.
 
 <br>
 
@@ -155,6 +159,7 @@ The main web page contains news feeds, quickstart guides and player data options
 #### Community Resources
 
 - **[Bokutachi](https://bokutachi.xyz/)** by *Bokutachi Dev*. <br>Internet ranking for USC and BMS. 
+- **[Crash Dump Submission](http://uscdmp.stackchk.fail/)** by *USC Dev*.
 - **[Skins](https://oniichan.wtf/help/skins.html)**. 
 - **[USC Tools](https://itszn.github.io/usc_db_tool/index.html)** by *Itszn*.
 - **[Unnamed SDVX Clone Event Client](https://github.com/itszn/unnamed-sdvx-clone)** by *Itszn*.
@@ -178,7 +183,7 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[GAMO2](https://www.gamo2.com/en/index.php?dispatch=categories.view&category_id=277)**. <br>Rhythm game controller vendor. 
 - **[YuanCon](https://yuancon.store/controller)**. <br>Rhythm game controller vendor. Often sold in batches. Stay up to date by joining their [Discord server](https://discord.gg/4ncuRrq). 
 - **[ISTMALL](https://istmall.co.kr/us/goods/goods_search.php?keyword=sound+voltex&recentCount=10)**. <br>Korean arcade & joystick game store.
-- **[SOUND VOLTEX CONSOLE -NEMSYS- Entry Model](https://www.konamistyle.jp/products/detail.php?product_id=109553)**. <br>This is Konami's official sound voltex controller. 
+- **[SOUND VOLTEX CONSOLE -NEMSYS- Entry Model](https://www.konamistyle.jp/products/detail.php?product_id=109553)**. <br>This is Konami's official sound voltex controller. The community has not been recommending this model, however. 
 - **[Speedy Labs](https://www.speedylabs.shop/)**. <br>*[Pocket-SDVX](https://github.com/speedypotato/Pocket-SDVX)* can be bought here.  
 
 Virgoo Turbochargers are not supported anymore.
@@ -192,10 +197,18 @@ Virgoo Turbochargers are not supported anymore.
 
 <br>
 
-### Community Guides & Resources
+### Community Guides
 
 - **[Controller Help](https://oniichan.wtf/help/)**.
-- **[Cons&Stuff](https://consandstuff.github.io/)** by *consandstuff*. <br>Compilation blog of controllers they made. Their pages detail their build processes. Their [Discord server](https://discord.gg/fknwz8s) has proven to be very useful for exchanging tips and tricks for DIY controller building. 
+- **[ORDERING A CONTROLLER FOR SDVX/KSM/USC GAMEPLAY](https://oniichan.wtf/help/)** by **OUTDATED**. <br>This is a buyers guide to buying a *Sound Voltex* controller. While it does not list the newest controllers, it remains useful in providing an understanding in the various parts involved when buying a controller. 
+- **[Cons&Stuff](https://consandstuff.github.io/)** by *consandstuff*. <br>Compilation blog of controllers they made a few years ago. Their pages detail their build processes. Their [Discord server](https://discord.gg/fknwz8s) has proven to be very useful for exchanging tips and tricks for DIY controller building. 
+- **[$70 SDVX Controller](https://mon.im/2016/07/70-sdvx-controller.html)** by **mon**. <br>Controller building article. While it is old, there is still useful wisdom to be obtained from this article. 
+- **[LEONARDOjoy](https://sdvxdiy.github.io/)** by *???*. <br>Controller building article. While it is old, there is still useful wisdom to be obtained from this article. 
+
+<br>
+
+### Community Resources
+
 - **[Rhythm.Market](https://rhythm.market/)**. <br>Newly established second-hand marketplace for exchanging parts, controllers, and more. 
 
 <br>
@@ -207,7 +220,7 @@ Virgoo Turbochargers are not supported anymore.
 ### Custom Chart Repositories & Packs
 
 - **[Nautica](https://ksm.dev)** by *Puddi*. <br>This chart repository is among the most popular for singular custom charts.
-- **[KSM Tables](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRH1beDh3I76qS-UUppW4_GibEj9bBDgcpO1XM4SrMylnSZYjyPjPYcMuQHaMrB-JGpIdsZtb-0wzmp/pubhtml)**. <br>os/us Difficulty tables for custom charts mainly from the Japanese *K-Shoot Mania* community. The rightmost tab can be used to find chart packs. Packs such as the *Shooters Festival*, a charting competition similar to *BMS of Fighters*, can be found here. 
+- **[KSM os/us Difficulty tables](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRH1beDh3I76qS-UUppW4_GibEj9bBDgcpO1XM4SrMylnSZYjyPjPYcMuQHaMrB-JGpIdsZtb-0wzmp/pubhtml)**. <br>os/us Difficulty tables for custom charts mainly from the Japanese *K-Shoot Mania* community. The rightmost tab can be used to find chart packs. Packs such as the *Shooters Festival*, a charting competition similar to *BMS of Fighters*, can be found here. 
 - **[Input Gate Pack](https://mega.nz/file/sohCmKya#i_FohRoetuuAWy6JFQpHFJe0Yv7OTHqdrVCmYK8et0c)**. <br>The *Input Gate* was a chart repository included with *K-Shoot Mania*. 
 - **[ksh chart vault](https://sites.google.com/site/ksh0hokansite/home/kshhokanko)**. <br>Collection of various charts published in *Niconico*. A bunch of charts linked on this page were catalogued [here](https://docs.google.com/spreadsheets/d/1pdNXO4dl9vh9WLdjIz5XF1kDPmfPbsJlbaAe-F9b1Ls/edit#gid=0) by *Rebcart*.
 - **[pulsevar.KSM](https://pulsevar-ksm.tumblr.com/)**. <br>Chart packs from prominant charters *Nitro*, *Jelly*, *XHERES*, *Silverhawke*, *Kurorak*, & *Terminus*.
@@ -248,4 +261,5 @@ The editor shipped with *K-Shoot Mania* is commonly used within the community to
 - **[Cons&Stuff](https://discord.gg/fknwz8s)**. <br>For anything DIY for controllers. 
 - **[YuanCon](https://discord.gg/4ncuRrq)**. <br>Official YuanCon Server. 
 
+- **[r/kshootmania](https://www.reddit.com/r/kshootmania/new/)**. <br>This subreddit is generally used for community driven *SOUND VOLTEX* gameplay. USC discussion is also included here.
 - **[K-Shoot MANIA (International)](https://www.facebook.com/groups/internationalksm/about)**. <br>The OG KSM / SDVX community, along with the [subreddit](https://www.reddit.com/r/kshootmania/new/). This group was established early 2015. It's most prominent members at the time can still be found in the various communities listed above. It is not active anymore and listing it here merely serves as a homage to what it once was. This also counts for the [forum](https://kshootmania.forumotion.com/) which was founded by some of the members of the Facebook group. It is suffice to say that this forum is now inactive as well. 
