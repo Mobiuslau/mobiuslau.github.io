@@ -331,8 +331,8 @@ The editor shipped with *K-Shoot Mania* is commonly used within the community to
 
 ### Useful Discord Servers & Communities
 
-- **[Kalesy's Hub](https://discord.gg/SQH7wsX)**. <br>English rhythm game Server. 
 - **[K-Shoot Mania](https://discord.gg/kshootmania)**. <br>English Community Server.
+- **[Kalesy's Hub](https://discord.gg/SQH7wsX)**. <br>English rhythm game Server. 
 - **[Bokutachi](https://discord.gg/E4n8ZZF5ES)**. <br>USC & BMS Internet Ranking Server. 
 - **[Unnamed SDVX Clone](https://discord.gg/ceCWx3X)**. <br>Official USC Server. 
 - **[Cons&Stuff](https://discord.gg/fknwz8s)**. <br>For anything DIY for controllers. 
