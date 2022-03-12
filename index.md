@@ -8,10 +8,10 @@ I like documenting things I find interesting. This is not my portfolio.
 
 |<img src="VRChat.png" style="margin: 6px 0 0 -9px;" width="512px">|I'm Amy (Mobiuslau), a theoretical physics grad student who loves to make & compose music, make graphic designs and play games like Sound Voltex, Jubeat, Beatmania IIDX and Falcon BMS. Perhaps you'll find something interesting here. Feel free to contact me too.|
 
-<button onclick="buttonFunc()">Music of the day.</button>
+<button onclick="buttonFunc()">Music of the month.</button>
 
 <div id="buttonStyle" style="display:none;">
-<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/XrY2m5rdlQQ" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/1s27A6oyEZA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <script>
