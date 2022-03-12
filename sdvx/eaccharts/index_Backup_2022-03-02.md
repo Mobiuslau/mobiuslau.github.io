@@ -1,6 +1,6 @@
 # Sound Voltex Exceed Gear コナステ Charts
 
-*SOUND VOLTEX EXCEED GEAR コナステ*, or EAC (*E-Amusement Cloud*) for short, comes with a large catalogue of charts, some of which come with the basic course *最初からプレーできます*, and some of which come with purchasable packs [[1](https://p.eagate.573.jp/gate/p/eamusement/coop/list.html?shop=1&category=45&cc=1&ls=1), [2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. This page contains a table of all charts, as of 2022-3-2, as fetched from the main website [[2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. Ctrl+F can be used to search for a specific chart. This table allows for sorting; just click the header of a column to sort by that column (Made possible by the script from Stuart Langridge)[[3](https://www.kryogenix.org/code/browser/sorttable/)]. [sdvx.in](https://sdvx.in/) is a useful website with which charts can be inspected. The *Available From* column entries are added manually. Please notify me of mistakes.  
+*SOUND VOLTEX EXCEED GEAR コナステ*, or EAC (*E-Amusement Cloud*) for short, comes with a large catalogue of charts, some of which come with the basic course *最初からプレーできます*, and some of which come with purchasable packs [[1](https://p.eagate.573.jp/gate/p/eamusement/coop/list.html?shop=1&category=45&cc=1&ls=1), [2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. This page contains a table of all charts, as of 2022-2-2, as fetched from the main website [[2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. Ctrl+F can be used to search for a specific chart. This table allows for sorting; just click the header of a column to sort by that column (Made possible by the script from Stuart Langridge)[[3](https://www.kryogenix.org/code/browser/sorttable/)]. [sdvx.in](https://sdvx.in/) is a useful website with which charts can be inspected. The *Available From* column entries are added manually. Please notify me of mistakes.  
 
 The *Pack* column specifies the chart packs as listed on the main website [[2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. Some charts are available for purchase through song packs, which can be purchased on the main *E-Amusement* portal [[1](https://p.eagate.573.jp/gate/p/eamusement/coop/list.html?shop=1&category=45&cc=1&ls=1)]. The *Available From* column specifies when a chart was released, and under which unlock conditions, or extras. If a chart does not have a date specified, it is not available to new players. However, users who played the *GRAVITY WARS コナステ* version of the game may have these charts unlocked [*Citation needed*].
 
@@ -29,16 +29,6 @@ The *Pack* column specifies the chart packs as listed on the main website [[2](h
 
 |Jacket|Artist|Title|NOV|ADV|EXH|Ex|Genre|Pack|Available From|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
-|<img src="jackets/2022-03-02/1_files/jacket_017.jpg" width="52" height="52">|borzy|Abyss (sharp stepp remix)|3|10|13||BEMANI|2022-3 BLASTER Release|2022-3-2 BLASTER GATE|
-|<img src="jackets/2022-03-02/1_files/jacket_014.jpg" width="52" height="52">|MarcheИ|odds and ends|5|9|15|17|FLOOR|2022-3 BLASTER Release|2022-3-2 BLASTER GATE|
-|<img src="jackets/2022-03-02/1_files/jacket_009.jpg" width="52" height="52">|かめりあ feat. ななひら|オリガミカル・スウィートラヴ|5|12|15|17|BEMANI|MÚSECA Selection Pack vol.2|2022-3-2|
-|<img src="jackets/2022-03-02/1_files/jacket_006.jpg" width="52" height="52">|はがね|キカイノミルユメ|4|10|13|16|BEMANI|MÚSECA Selection Pack vol.2|2022-3-2|
-|<img src="jackets/2022-03-02/1_files/jacket_002.jpg" width="52" height="52">|PiyoPiyo Kitchen|〜仔羊のナヴァラン・クリシェを添えて〜|6|13|16|18|BEMANI|MÚSECA Selection Pack vol.2|2022-3-2|
-|<img src="jackets/2022-03-02/1_files/jacket_010.jpg" width="52" height="52">|C-CLAYS feat.小峠舞|ツインソウル〜輪廻する旋律〜|3|9|13||東方アレンジ|2022-3 BLASTER Release|2022-3-2 BLASTER GATE|
-|<img src="jackets/2022-03-02/1_files/jacket_016.jpg" width="52" height="52">|Freezer|Narcissus At Oasis (Freezer Remix)|5|10|14|16|BEMANI|2022-3 BLASTER Release|2022-3-2 BLASTER GATE|
-|<img src="jackets/2022-03-02/1_files/jacket_008.jpg" width="52" height="52">|よああああ（ああああ＋yoa）|NIN-NIN-NIN!!|5|12|14|17|BEMANI|MÚSECA Selection Pack vol.2|2022-3-2|
-|<img src="jackets/2022-03-02/1_files/jacket_004.jpg" width="52" height="52">|Illusion Sonic|夢の空、約束の場所|2|7|11||東方アレンジ|2022-3 BLASTER Release|2022-3-2 BLASTER GATE|
-|<img src="jackets/2022-03-02/1_files/jacket_003.jpg" width="52" height="52">|お月さま交響曲|Refrain|6|13|16|18|BEMANI|MÚSECA Selection Pack vol.2|2022-3-2|
 |<img src="jackets/2022-02-02/1_files/jacket_005.jpg" width="52" height="52">|brz|Critical Crystal(brz_remix)|3|10|13||BEMANI|2022-2 BLASTER Release|2022-2-2 BLASTER GATE|
 |<img src="jackets/2022-02-02/1_files/jacket_008.jpg" width="52" height="52">|あべにゅうぷろじぇくと feat.佐倉紗織 produced by ave;new|恋はどう？モロ◎波動OK☆方程式!!|3|9|15||BEMANI|2022-2 BLASTER Release|2022-2-2 BLASTER GATE|
 |<img src="jackets/2022-02-02/1_files/jacket_003.jpg" width="52" height="52">|源屋|Sakura Reflection 音頭 -盆踊Remix-|4|9|13||BEMANI|2022-2 BLASTER Release|2022-2-2 BLASTER GATE|
@@ -61,7 +51,7 @@ The *Pack* column specifies the chart packs as listed on the main website [[2](h
 |<img src="jackets/2022-01/1_files/jacket_020.jpg" width="52" height="52">|Lime|Chronomia|7|14|17|19|その他|Basic Course|2022-1-18|
 |<img src="jackets/2022-01/1_files/jacket_012.jpg" width="52" height="52">|xi|Grand Chariot|5|11|16|17|BEMANI|10th Anniversary Pack|2022-1-18|
 |<img src="jackets/2022-01/1_files/jacket_003.jpg" width="52" height="52">|Silver Forest feat. めらみぽっぷ|ケロ⑨destiny|4|10|15|17|東方アレンジ|Basic Course|2022-1-18|
-|<img src="jackets/2022-01/1_files/jacket_008.jpg" width="52" height="52">|日向美ビタースイーツ♪|恋とキングコング|3|8|12|15|ひなビタ♪/バンめし♪|2022-1 BLASTER Release|2022-1-18 BLASTER GATE|
+|<img src="jackets/2022-01/1_files/jacket_008.jpg" width="52" height="52">|日向美ビタースイーツ♪|恋とキングコング|3|8|12|15|ひなビタ♪/バンめし♪|2022-1 BLASTER Unlock|2022-1-18 BLASTER GATE|
 |<img src="jackets/2022-01/1_files/jacket_015.jpg" width="52" height="52">|BlackY|業焔繚乱|6|12|15|18|SDVXオリジナル|10th Anniversary Pack|2022-1-18|
 |<img src="jackets/2022-01/1_files/jacket_016.jpg" width="52" height="52">|Demetori|信仰は儚き人間の為に ～ Arr.Demetori|5|11|17||東方アレンジ|Basic Course|2022-1-18|
 |<img src="jackets/2022-01/2_files/jacket_019.jpg" width="52" height="52">|Amateras Records feat.築山さえ|SkyDrive!|3|9|15||東方アレンジ|Basic Course|2022-1-18|
@@ -72,8 +62,8 @@ The *Pack* column specifies the chart packs as listed on the main website [[2](h
 |<img src="jackets/2022-01/2_files/jacket_008.jpg" width="52" height="52">|石鹸屋|ってゐ！ 〜えいえんてゐVer〜|3|8|12|15|東方アレンジ|Basic Course|2022-1-18|
 |<img src="jackets/2022-01/2_files/jacket_018.jpg" width="52" height="52">|Silver Forest feat. くろねこ アキ さきち カガリ|つるぺったん|4|10|13|16|東方アレンジ|Basic Course|2022-1-18|
 |<img src="jackets/2022-01/2_files/jacket_013.jpg" width="52" height="52">|石鹸屋|東方妖々夢 〜the maximum moving about〜|2|8|13||東方アレンジ|Basic Course|2022-1-18|
-|<img src="jackets/2022-01/2_files/jacket_020.jpg" width="52" height="52">|cold kiss|TrailBlazer|3|9|13|16|FLOOR|2022-1 BLASTER Release|2022-1-18 BLASTER GATE|
-|<img src="jackets/2022-01/2_files/jacket_014.jpg" width="52" height="52">|そよもぎ|honey trap|2|7|12||FLOOR|2022-1 BLASTER Release|2022-1-18 BLASTER GATE|
+|<img src="jackets/2022-01/2_files/jacket_020.jpg" width="52" height="52">|cold kiss|TrailBlazer|3|9|13|16|FLOOR|2022-1 BLASTER Unlock|2022-1-18 BLASTER GATE|
+|<img src="jackets/2022-01/2_files/jacket_014.jpg" width="52" height="52">|そよもぎ|honey trap|2|7|12||FLOOR|2022-1 BLASTER Unlock|2022-1-18 BLASTER GATE|
 |<img src="jackets/2022-01/2_files/jacket_006.jpg" width="52" height="52">|DiGiTAL WiNG feat.花たん|Paranoia|4|9|16||東方アレンジ|Basic Course|2022-1-18|
 |<img src="jackets/2022-01/2_files/jacket_010.jpg" width="52" height="52">|EastNewSound|緋色月下、狂咲ノ絶 (nayuta 2017 ver)|4|11|15|18|東方アレンジ|Basic Course|2022-1-18|
 |<img src="jackets/2022-01/2_files/jacket_011.jpg" width="52" height="52">|Silver Forest|Phantasm Brigade|2|8|13||東方アレンジ|Basic Course|2022-1-18|
@@ -82,24 +72,24 @@ The *Pack* column specifies the chart packs as listed on the main website [[2](h
 |<img src="jackets/2022-01/2_files/jacket_005.jpg" width="52" height="52">|夕月椿(EastNewSound)|迷夢ソウル|5|10|13|16|東方アレンジ|Basic Course|2022-1-18|
 |<img src="jackets/2022-01/2_files/jacket_017.jpg" width="52" height="52">|Halozy feat. ななひら|物凄い勢いでけーねが物凄いうた|5|10|15||東方アレンジ|Basic Course|2022-1-18|
 |<img src="jackets/2022-01/2_files/jacket.jpg" width="52" height="52">|Halozy feat. ななひら|物凄い狂っとるフランちゃんが物凄いうた|5|11|17||東方アレンジ|Basic Course|2022-1-18|
-|<img src="jackets/2022-01/2_files/jacket_002.jpg" width="52" height="52">|uma meets モリモリあつし|Re：Elemental Creation|6|13|16|18|BEMANI|2022-1 BLASTER Release|2022-1-18 BLASTER GATE|
+|<img src="jackets/2022-01/2_files/jacket_002.jpg" width="52" height="52">|uma meets モリモリあつし|Re：Elemental Creation|6|13|16|18|BEMANI|2022-1 BLASTER Unlock|2022-1-18 BLASTER GATE|
 |<img src="jackets/2022-01/2_files/jacket_007.jpg" width="52" height="52">|こなぐすり|-Rayrain-|3|9|12||東方アレンジ|Basic Course|2022-1-18|
 |<img src="jackets/2022-01/3_files/jacket_010.jpg" width="52" height="52">|EastNewSound|Lemures Prelude|3|9|14||東方アレンジ|Basic Course|2022-1-18|
 |<img src="jackets/2022-01/3_files/jacket_012.jpg" width="52" height="52">|Kobaryo|Royal Judgement|6|11|14|17|SDVXオリジナル|10th Anniversary Pack|2022-1-18|
-|<img src="jackets/2022-01/3_files/jacket_016.jpg" width="52" height="52">|unatra×Nego_tiator|eXtridia|5|13|15|17|BEMANI|MÚSECA Selection Pack vol.1|2022-1-5|
-|<img src="jackets/2022-01/3_files/jacket_003.jpg" width="52" height="52">|PandaBoY feat.ななひら|Star☆Beat|6|13|16|18|BEMANI|MÚSECA Selection Pack vol.1|2022-1-5|
-|<img src="jackets/2022-01/3_files/jacket_017.jpg" width="52" height="52">|mazuka153|スノウイコン|4|11|14|17|BEMANI|MÚSECA Selection Pack vol.1|2022-1-5|
-|<img src="jackets/2022-01/3_files/jacket_018.jpg" width="52" height="52">|Yunomi|みたらしプラトニック (feat. nicamoq)|5|11|14|17|BEMANI|MÚSECA Selection Pack vol.1|2022-1-5|
-|<img src="jackets/2022-01/3_files/jacket_004.jpg" width="52" height="52">|こすも８ｂｉｔ|Red＋White＝Kawaii|6|13|16|18|BEMANI|MÚSECA Selection Pack vol.1|2022-1-5|
+|<img src="jackets/2022-01/3_files/jacket_016.jpg" width="52" height="52">|unatra×Nego_tiator|eXtridia|5|13|15|17|BEMANI|MÚSECA Selection Pack vol.1|2021-1-5|
+|<img src="jackets/2022-01/3_files/jacket_003.jpg" width="52" height="52">|PandaBoY feat.ななひら|Star☆Beat|6|13|16|18|BEMANI|MÚSECA Selection Pack vol.1|2021-1-5|
+|<img src="jackets/2022-01/3_files/jacket_017.jpg" width="52" height="52">|mazuka153|スノウイコン|4|11|14|17|BEMANI|MÚSECA Selection Pack vol.1|2021-1-5|
+|<img src="jackets/2022-01/3_files/jacket_018.jpg" width="52" height="52">|Yunomi|みたらしプラトニック (feat. nicamoq)|5|11|14|17|BEMANI|MÚSECA Selection Pack vol.1|2021-1-5|
+|<img src="jackets/2022-01/3_files/jacket_004.jpg" width="52" height="52">|こすも８ｂｉｔ|Red＋White＝Kawaii|6|13|16|18|BEMANI|MÚSECA Selection Pack vol.1|2021-1-5|
 |<img src="jackets/2021-12/1_files/jacket_013.jpg" width="52" height="52">|立秋 feat.ちょこ|竹|6|14|17|19|その他|Basic Course|2021-12-1|
 |<img src="jackets/2021-12/1_files/jacket_007.jpg" width="52" height="52">|かねこちはる|《Re:miniscence》|8|15|18|20|SDVXオリジナル|2021-10 Member Unlock||
 |<img src="jackets/2021-12/1_files/jacket_002.jpg" width="52" height="52">|Yu_Asahina|The Clown of 24stairs|7|14|17|19|FLOOR|Starter Pack Vol.1|2021-12-1|
 |<img src="jackets/2021-12/1_files/jacket_018.jpg" width="52" height="52">|ぺのれり|Reverenced Flower|7|14|17|19|SDVXオリジナル|2021-9 Member Unlock||
 |<img src="jackets/2021-12/1_files/jacket_020.jpg" width="52" height="52">|nonomori feat. 亜沙美|文月|3|10|14|16|FLOOR|Starter Pack Vol.1|2021-12-1|
 |<img src="jackets/2021-12/1_files/jacket_012.jpg" width="52" height="52">|ビートまりお（COOL&CREATE）|Destined Marionette|6|12|16|18|その他|Basic Course|2021-12-1|
-|<img src="jackets/2021-12/1_files/jacket_003.jpg" width="52" height="52">|かめりあ as "Revenge of Riot"|BAYONEX|7|14|17|19|SDVXオリジナル|2021-8 Member Unlock|2022-3-2 AC Unlock Mar|
+|<img src="jackets/2021-12/1_files/jacket_003.jpg" width="52" height="52">|かめりあ as "Revenge of Riot"|BAYONEX|7|14|17|19|SDVXオリジナル|2021-8 Member Unlock||
 |<img src="jackets/2021-12/1_files/jacket_011.jpg" width="52" height="52">|BlackY|αzalea|7|14|17|19|SDVXオリジナル|2021-7 Member Unlock|2022-2-2 AC Unlock Feb|
-|<img src="jackets/2021-12/1_files/jacket_016.jpg" width="52" height="52">|cosMo＠暴走P|ドゥサンコオデッセイ!!|7|14|17|19|SDVXオリジナル|2021-6 Member Unlock|2022-1-5 AC Unlock Jan|
+|<img src="jackets/2021-12/1_files/jacket_016.jpg" width="52" height="52">|cosMo＠暴走P|ドゥサンコオデッセイ!!|7|14|17|19|SDVXオリジナル|2021-6 Member Unlock|2021-1-5 AC Unlock Jan|
 |<img src="jackets/2021-12/1_files/jacket_006.jpg" width="52" height="52">|COOL&CREATE × 宝鐘マリン|イヤホンロマンス|3|12|14|16|東方アレンジ|Basic Course|2021-12-1|
 |<img src="jackets/2021-12/1_files/jacket_010.jpg" width="52" height="52">|COOL&CREATE × 宝鐘マリン feat.不知火フレア|Over the Border|2|10|13|16|東方アレンジ|Basic Course|2021-12-1|
 |<img src="jackets/2021-12/1_files/jacket_005.jpg" width="52" height="52">|COOL&CREATE × 宝鐘マリン|キャプテン・マリンのケツアンカー|4|11|14|17|東方アレンジ|Basic Course|2021-12-1|
@@ -401,7 +391,7 @@ The *Pack* column specifies the chart packs as listed on the main website [[2](h
 |<img src="jackets/2021-12/16_files/jacket_020.jpg" width="52" height="52">|BEMANI Sound Team "猫叉Master"|Life is beautiful|6|11|14|17|BEMANI|Song Pack Vol.4|2021-12-1|
 |<img src="jackets/2021-12/16_files/jacket_016.jpg" width="52" height="52">|BEMANI Sound Team "HuΣeR feat.PON"|Rejoin|5|11|14|17|BEMANI|Song Pack Vol.4|2021-12-1|
 |<img src="jackets/2021-12/16_files/jacket_009.jpg" width="52" height="52">|猫叉Master feat.Mayumi Morinaga|Sleepless days|4|10|14|17|その他|Song Pack Vol.14|2021-12-1|
-|<img src="jackets/2021-12/16_files/jacket_005.jpg" width="52" height="52">|BEMANI Sound Team "dj TAKA"|MAXIVCORD|5|11|14|17|その他|2020-3 Member Unlock|2022-3-2 BLASTER GATE|
+|<img src="jackets/2021-12/16_files/jacket_005.jpg" width="52" height="52">|BEMANI Sound Team "dj TAKA"|MAXIVCORD|5|11|14|17|その他|2020-3 Member Unlock||
 |<img src="jackets/2021-12/16_files/jacket_015.jpg" width="52" height="52">|CielArc|灼熱のBlazin' Beat|4|10|13|16|東方アレンジ|2021-2 Member Unlock||
 |<img src="jackets/2021-12/16_files/jacket_010.jpg" width="52" height="52">|uma & nmk feat. 橘花音|Burning Spark!|5|11|13|16|東方アレンジ|Song Pack Vol.14|2021-12-1|
 |<img src="jackets/2021-12/16_files/jacket_002.jpg" width="52" height="52">|Noah|Black night|6|13|15|18|東方アレンジ|Song Pack Vol.9|2021-12-1|
@@ -450,7 +440,7 @@ The *Pack* column specifies the chart packs as listed on the main website [[2](h
 |<img src="jackets/2021-12/18_files/jacket_011.jpg" width="52" height="52">|Yu_Asahina as "papyrus"|PROVOES*PROPOSE <<êl fine>>|6|13|16|18|SDVXオリジナル|Basic Course|2021-12-1|
 |<img src="jackets/2021-12/18_files/jacket_005.jpg" width="52" height="52">|AMAZE|アワデコノヨヲ|5|12|15|17|東方アレンジ|Song Pack Vol.14|2021-12-1|
 |<img src="jackets/2021-12/18_files/jacket.jpg" width="52" height="52">|P*Light|SAtAN|6|13|16|18|FLOOR|Song Pack Vol.3|2021-12-1|
-|<img src="jackets/2021-12/18_files/jacket_013.jpg" width="52" height="52">|かゆき|Divine's:Bugscript|6|13|15|18|FLOOR|2020-3 Member Unlock|2022-3-2 BLASTER GATE|
+|<img src="jackets/2021-12/18_files/jacket_013.jpg" width="52" height="52">|かゆき|Divine's:Bugscript|6|13|15|18|FLOOR|2020-3 Member Unlock||
 |<img src="jackets/2021-12/19_files/jacket_017.jpg" width="52" height="52">|Sound CYCLONE|Two of Us|4|8|12|16|東方アレンジ|Basic Course|2021-12-1|
 |<img src="jackets/2021-12/19_files/jacket_020.jpg" width="52" height="52">|Alstroemeria Records|Dreaming feat. nomico|4|10|13|17|東方アレンジ|Basic Course|2021-12-1|
 |<img src="jackets/2021-12/19_files/jacket_018.jpg" width="52" height="52">|テヅカ feat. 大西あみみ|私の恋色。|5|11|13|16|東方アレンジ|Song Pack Vol.14|2021-12-1|
@@ -699,7 +689,7 @@ The *Pack* column specifies the chart packs as listed on the main website [[2](h
 |<img src="jackets/2021-12/31_files/jacket_003.jpg" width="52" height="52">|日向美ビタースイーツ♪|イブの時代っ！|3|8|14||ひなビタ♪/バンめし♪|Basic Course|2021-12-1|
 |<img src="jackets/2021-12/31_files/jacket_005.jpg" width="52" height="52">|t+pazolite|Angelic Jelly|6|12|16|18|BEMANI|Song Pack Vol.10|2021-12-1|
 |<img src="jackets/2021-12/31_files/jacket_020.jpg" width="52" height="52">|削除|StrayedCatz|3|8|15|17|BEMANI|2020-1 Member Unlock||
-|<img src="jackets/2021-12/31_files/jacket_009.jpg" width="52" height="52">|TAG|ZEPHYRANTHES|6|10|13|17|BEMANI|2020-3 Member Unlock|2022-3-2 BLASTER GATE|
+|<img src="jackets/2021-12/31_files/jacket_009.jpg" width="52" height="52">|TAG|ZEPHYRANTHES|6|10|13|17|BEMANI|2020-3 Member Unlock||
 |<img src="jackets/2021-12/31_files/jacket_013.jpg" width="52" height="52">|sky_delta|DIABLOSIS::Nāga|7|13|17|19|SDVXオリジナル|Song Pack Vol.7|2021-12-1|
 |<img src="jackets/2021-12/31_files/jacket_004.jpg" width="52" height="52">|DJ YOSHITAKA meets dj TAKA|Triple Counter|7|12|17|18|BEMANI|Song Pack Vol.10|2021-12-1|
 |<img src="jackets/2021-12/31_files/jacket_014.jpg" width="52" height="52">|lapix|NEO TREASON|5|12|16|18|SDVXオリジナル|Song Pack Vol.9|2021-12-1|
@@ -1096,7 +1086,7 @@ The *Pack* column specifies the chart packs as listed on the main website [[2](h
 |<img src="jackets/2021-12/51_files/jacket_013.jpg" width="52" height="52">|kuroburger|アルストロメリア KURO-HACO Remix|4|10|15||BEMANI|Basic Course|2021-12-1|
 |<img src="jackets/2021-12/51_files/jacket_012.jpg" width="52" height="52">|Team Grimoire|C18H27NO3|6|10|16|18|FLOOR|Basic Course|2021-12-1|
 |<img src="jackets/2021-12/51_files/jacket_008.jpg" width="52" height="52">|wa.|Lieselotte|4|8|15||FLOOR|Basic Course|2021-12-1|
-|<img src="jackets/2021-12/51_files/jacket_009.jpg" width="52" height="52">|Ryu☆|I'm so Happy|4|9|16||BEMANI|2020-3 Member Unlock|2022-3-2 BLASTER GATE|
+|<img src="jackets/2021-12/51_files/jacket_009.jpg" width="52" height="52">|Ryu☆|I'm so Happy|4|9|16||BEMANI|2020-3 Member Unlock||
 |<img src="jackets/2021-12/51_files/jacket_003.jpg" width="52" height="52">|DJ YOSHITAKA|VALLIS-NERIA|6|11|18||BEMANI|2020-1 Member Unlock||
 |<img src="jackets/2021-12/51_files/jacket_016.jpg" width="52" height="52">|Yooh|En FIRE-G SOUL|4|9|13||FLOOR|Basic Course|2021-12-1|
 |<img src="jackets/2021-12/51_files/jacket_020.jpg" width="52" height="52">|LeaF|音楽 -壊音楽 mix-|5|11|17||BEMANI|Basic Course|2021-12-1|
@@ -1199,7 +1189,7 @@ The *Pack* column specifies the chart packs as listed on the main website [[2](h
 |<img src="jackets/2021-12/56_files/jacket_008.jpg" width="52" height="52">|emon|U&M|2|5|8||ボーカロイド|Basic Course|2021-12-1|
 |<img src="jackets/2021-12/56_files/jacket_010.jpg" width="52" height="52">|ゆちゃP|サイコパスコミュニケーション|4|7|10|13|ボーカロイド|Basic Course|2021-12-1|
 |<img src="jackets/2021-12/56_files/jacket_009.jpg" width="52" height="52">|ラマーズP|Second Heaven Lamaze-REMIX|3|8|13||ボーカロイド|Basic Course|2021-12-1|
-|<img src="jackets/2021-12/56_files/jacket_015.jpg" width="52" height="52">|デッドボールP|Xepher Light and Darkness Dragon REMIX|5|9|16|18|ボーカロイド|2020-3 Member Unlock|2022-3-2 BLASTER GATE|
+|<img src="jackets/2021-12/56_files/jacket_015.jpg" width="52" height="52">|デッドボールP|Xepher Light and Darkness Dragon REMIX|5|9|16|18|ボーカロイド|2020-3 Member Unlock||
 |<img src="jackets/2021-12/56_files/jacket.jpg" width="52" height="52">|azuma|Diamond Dust Black Diamond Dust|4|8|12||ボーカロイド|2021-3 Member Unlock||
 |<img src="jackets/2021-12/56_files/jacket_016.jpg" width="52" height="52">|164|冥 Rockin' SWING REMIX|6|13|16|18|BEMANI|2019-11 Member Unlock|2022-1-18 BLASTER GATE|
 |<img src="jackets/2021-12/56_files/jacket_012.jpg" width="52" height="52">|幽閉カタルシス|RED ZONE NeoClassical Party Remix|4|11|14||ボーカロイド|Basic Course|2021-12-1|
