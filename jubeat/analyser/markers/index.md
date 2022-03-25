@@ -16,6 +16,7 @@ Documentation about Jubeat markers and effects, as well as how to use them in Ju
 > &nbsp; &nbsp; [Image Format](#image-format)<br>
 > &nbsp; &nbsp; [Markerfile](#markerfile)<br>
 > [Markers](#markers)<br>
+> [Bibliography](#bibliography)<br>
 
 
 <br>
@@ -125,3 +126,20 @@ markers/{{ marker.name }}.{{ marker.format }}</pre>
 </table>
 
 **Table 2:** Publically available markers.
+
+<br>
+
+
+
+## Bibliography
+
+<table>
+    <thead>
+    </thead>
+    <tbody>
+        <tr>
+            <td>[1]</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
