@@ -15,6 +15,7 @@ W.I.P.
 > [Jubeat Analyser](#jubeat-screen-dimensions)<br>
 > &nbsp; &nbsp; [Configuration File](#configuration-file)<br>
 > &nbsp; &nbsp; [Object Resolutions](#object-resolutions)<br>
+> [Bibliography](#bibliography)<br>
 
 <br>
 
@@ -70,7 +71,6 @@ as then the infodisplay can have the correct size. To summarize;
 - Practical/desired infodisp resolution: (768x464)px.
 
 <br>
-
 
 
 
