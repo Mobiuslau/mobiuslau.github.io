@@ -11,7 +11,7 @@ I like documenting things I find interesting. This is not my portfolio.
 <button onclick="buttonFunc()">Music of the month.</button>
 
 <div id="buttonStyle" style="display:none;">
-<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/1s27A6oyEZA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/ANDq1B0fbuU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <script>
