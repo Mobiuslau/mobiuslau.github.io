@@ -27,7 +27,7 @@ The *Pack* column specifies the chart packs as listed on the main website [[2](h
 <!-- https://gist.github.com/tamouse/4204dddabb6b072b0242 -->
 <script src="/assets/js/sorttable.js"></script>
 
-|Jacket|Artist|Title|NOV|ADV|EXH|Ex|Genre|Pack|Released|
+|Jacket|Artist|Title|Nov|Adv|Exh|Max|Genre|Pack|Released|
 |:-|:-|:-|:-|:-|:-|:-|:-|:-|:-|
 |<img src="jackets/2022-3-2/1_files/jacket_017.jpg" width="52" height="52">|borzy|Abyss (sharp stepp remix)|<a href="http://sdvx.in/01/01093n.htm">3</a>|<a href="http://sdvx.in/01/01093a.htm">10</a>|<a href="http://sdvx.in/01/01093e.htm">13</a>||BEMANI, FLOOR|2022-3 BLASTER Release|2022-3-2 BLASTER GATE|
 |<img src="jackets/2022-3-2/1_files/jacket_014.jpg" width="52" height="52">|MarcheИ|odds and ends|<a href="http://sdvx.in/02/02212n.htm">5</a>|<a href="http://sdvx.in/02/02212a.htm">9</a>|<a href="http://sdvx.in/02/02212e.htm">15</a>|<a href="http://sdvx.in/03/02212g.htm">17</a>|FLOOR|2022-3 BLASTER Release|2022-3-2 BLASTER GATE|
