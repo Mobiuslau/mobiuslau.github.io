@@ -1,3 +1,6 @@
+---
+sitemap: false
+---
 # Sound Voltex Exceed Gear コナステ Charts
 
 *SOUND VOLTEX EXCEED GEAR コナステ*, or EAC (*E-Amusement Cloud*) for short, comes with a large catalogue of charts, some of which come with the basic course *最初からプレーできます*, and some of which come with purchasable packs [[1](https://p.eagate.573.jp/gate/p/eamusement/coop/list.html?shop=1&category=45&cc=1&ls=1), [2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. This page contains a table of all charts, as of 2022-3-2, as fetched from the main website [[2](https://p.eagate.573.jp/game/eacsdvx/vi/music/index.html)]. Ctrl+F can be used to search for a specific chart. This table allows for sorting; just click the header of a column to sort by that column (Made possible by the script from Stuart Langridge)[[3](https://www.kryogenix.org/code/browser/sorttable/)]. [sdvx.in](https://sdvx.in/) is a useful website with which charts can be inspected. The *Available From* column entries are added manually. Please notify me of mistakes.  
