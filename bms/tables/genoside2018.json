@@ -1,0 +1,652 @@
+{
+    "name": "GENOSIDE 2018",
+    "symbol": "▽",
+    "course": [
+        [
+            {
+                "name": "GENOSIDE 2018 初段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "ae11930223a8f24e91633f1a7864e1eb",
+                    "cb661ee05c67990012bfd12703ba656c",
+                    "328dbf235f3b6cb2791e71bfb62951f8",
+                    "7c6ca04aa14d07b2c081f4dd35432844"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 二段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "56528c5f77d140bebf5c3b7070471808",
+                    "d3ed28d0958cd17a93635c6a5604d0aa",
+                    "daab2e157ac86ff4374ffff00a129f85",
+                    "a0aac381114f31691c16b864a401d926"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 三段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "ad6a62789520c5591c37dada7a063892",
+                    "fba939901ecf81d6d0ffe6c605f17676",
+                    "d89ea641d2ae9502d43f6905a5ede5a0",
+                    "29ff7e29c35b7d72cb1a7437fc09b36d"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 四段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "935ac8a2d9a3e2307a6e0206f87c22ad",
+                    "b177143ae68115a0702db737a7e7c504",
+                    "8e17f96a8440ff15923bfe228409c9b6",
+                    "6dddd7873ce15935d891730e6f17b992"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 五段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "c3912d126e1af67d32d236397a7510cb",
+                    "dbf71bc8344d4fd406e154e599c5c27c",
+                    "2e962e84f9ceeb87535fe50a382a380a",
+                    "d2f44370fe455dc1fbffd8c5c6505e77"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 六段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "33c6dd9cfe024f2600c2cfe6ae42df43",
+                    "c72d51c6d648ea7b5863ca3bfe52a66c",
+                    "f2ef13a310d8d500b918c5126e13ccb1",
+                    "52650f7ca6b989917f095f0635c71da4"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 七段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "4d87528933213d3427ee870c71791538",
+                    "761863c63ecfc1a579f87be40632cce1",
+                    "af07aa8958ee69c4b1ba0876adab86ea",
+                    "e9d2bc9465b6172c27df0d7da71f10d6"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 八段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "07193291a7222c7a1d1f542b6c081953",
+                    "cb95efd400d207ab019bb481c508060a",
+                    "86030ae0cb6945ba653176e021fca4fd",
+                    "5dc2ecda7d5a5615ed10a132ac3cd4bd"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 九段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "18aa482e76edfda904b3cf3d646c59bf",
+                    "07baa34abf34131ee20ab40b70354037",
+                    "7f31675fdb02c22e392e5b98de1baec4",
+                    "77dd6afb7bfb291774fbdcf5aa0db282"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 十段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "f14357d72c2c11081fd45dc00aa4cffa",
+                    "ce73f117ef9c4a3ff40fb8069e1c3dda",
+                    "2356c21a671f059293a24d4cf14f0db2",
+                    "5f6f1c5d3fca5edba8edd537d9927c61"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 発狂初段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "f872dd65dd08638b06d80470a3233fb9",
+                    "1b72e8f6439a698e78f94be16470b789",
+                    "2371263af3b0d644fba62526c9f49481",
+                    "8a8a6c2f3511eb0876a6c9a2027d7bbe"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 発狂二段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "d70e2549e841819708d279d2478bb1e2",
+                    "5e3711f2f576f3929156c9594b87efac",
+                    "a56ddb2169246817fb7527363fb9c687",
+                    "cefb4735c26f9488438021b4d7fdca31"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 発狂三段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "19fbf62d711282d81208f97f7135e2a2",
+                    "3791d42c00cdfa135df3779eb0f78505",
+                    "b46b23fa8e2ad96e02763f687bb5a494",
+                    "efae90d527a71d753ea7ad2847ec2006"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 発狂四段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "47de06762f16d164426e3197c5de967c",
+                    "a718de9a2cd2f88deafbd40f5929abb4",
+                    "5077cd14b4759d0e8d61e854eac4e88a",
+                    "c87682922d1b87622b34fe7a7ffba52c"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 発狂五段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "e9fc0fbbde68bfd10f2d289751a1fc6a",
+                    "3a500560e6ace69e08b51736ff1be0ca",
+                    "8a8019d432ab4dd9bde4e65faf1b663f",
+                    "7fd4d1b5a767fd97343129157782a95f"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 発狂六段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "f96cf3af3d9356407bff483d27f4aecc",
+                    "a29f9500cebd16cbb8d14b69ace79db1",
+                    "871c6aed53c5dd3ac35686d9a92af4f4",
+                    "40673cc8ea628a9452f6ae9ac74d5817"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 発狂七段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "a4b59ca055a856b9a200ccfd1bf5c7bc",
+                    "a0f48e96286e0ce275a33fd8cb851ff0",
+                    "c4134c29746e1ece168159ba4ae88d45",
+                    "67a76e7d26f3c3ea99fdc6f912f83021"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 発狂八段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "f0feb9654ae044c0e95ebf68e2497c2e",
+                    "51e0a29d5c7fc9cdf5e5e8eee1ad1124",
+                    "1cf2e138abd7199d6e4656447cfaed6c",
+                    "8e0df85dbf59c4753346f1582e2d4422"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 発狂九段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "603aae2c3681cc2562b9b53b50408c69",
+                    "79dc444b48299814462ff23a2bf3ab79",
+                    "ff5d7235ba643bc85b804a3df2778590",
+                    "451ed38cdba0323388027129f5929645"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 発狂十段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "d6fea1389a86fc14eb354fcc5e60e03e",
+                    "e58e3f718d089ec37caa0f2c7149a54b",
+                    "1e049d189ef9bef79824f55764517a58",
+                    "fb975909eb0f60a9190c7a1007515d4b"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 発狂皆伝",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "10420967a85371e65db57967e6c696cd",
+                    "ebc5946c3de24a01048d1c90cbd5c9d6",
+                    "45446f6c96bdb081a2054b80cd8f7208",
+                    "39d0732ef7fee9ad0c8b044ccbe8a396"
+                ]
+            },
+            {
+                "name": "GENOSIDE 2018 Overjoy",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2",
+                    "ln"
+                ],
+                "trophy": [
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "cfad3baadce9e02c45021963453d7c94",
+                    "77d23be22b2370925c573d922276bce0",
+                    "188a99f74ab71804f2e360dcf484545c",
+                    "c46a81cb184f5a804c119930d6eba748"
+                ]
+            }
+        ]
+    ]
+}
