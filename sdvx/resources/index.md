@@ -110,6 +110,11 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[EXCEED GEAR Play Options Guide](https://voltexes.com/exceed-gear-play-options-guide/)** by *Latchal*.
 - **[MEGAMIX BATTLE](https://voltexes.com/megamix-battle/)** by *Latchal*.
 - **[HEXA DIVER](https://voltexes.com/hexa-diver/)** by *Latchal*.
+- **[BLASTER PASS (EG ver.)](https://voltexes.com/blaster-pass-eg-ver/)** by *Latchal*.
+- **[ARENA BATTLE](https://voltexes.com/arena-battle/)** by *Latchal*.
+- **[Effect Radar](https://voltexes.com/effect-radar/)** by *Latchal*.
+- **[How to use nearnoah.net and myamya](https://voltexes.com/how-to-use-nearnoah-myamya/)** by *Latchal*.
+- **[How to use Vaddict](https://voltexes.com/how-to-use-vaddict/)** by *Latchal*.
 - **[Tips on playing level 16: Going to the other side](https://www.reddit.com/r/kshootmania/comments/n662if/dunno_whether_this_would_be_useful_but_heres_a/)** by *JiminP*.
 - **[Tips on playing: Few essential knowledge on turning knobs](https://www.reddit.com/r/kshootmania/comments/ncecac/tips_on_turning_knobs/)** by *JiminP*.
 - **[The Big List of Jack Charts](https://voltexes.com/jack-charts/)** by *Latchal*.
@@ -123,8 +128,11 @@ The main web page contains news feeds, quickstart guides and player data options
 ### Community Resources
 
 - **[sdvx.in](https://sdvx.in/)**. <br>One of the oldest, and most useful, resources available for the series. This website contains detailed overviews of the majority of charts for players to study and practice with. 
+- **[nearnoah.net](https://nearnoah.net/)**. <br>Score tracker specifically for *SOUND VOLTEX* arcade scores. See Latchal's guide on how to use it.
+- **[SDVX Task Song Generator](https://myamyasdvx.herokuapp.com/)**. <br>Receive chart recommendations based on nearnoah.net profile. See Latchal's guide on how to use it.
+- **[Vaddict](https://vaddict.mono-logic.com/)**. <br>Somewhat of a score tracker. It is useful for generating infographics from your *SOUND VOLTEX* arcade scores. See Latchal's guide on how to use it.
 - **[SDVX Difficulty Table](https://docs.google.com/spreadsheets/d/1cFltguBvPplBem-x1STHnG3k4TZzFfyNEZ-RwsQszoo/edit#gid=1555610727)**. <br>Community-made difficulty table cataloguing most charts of level 16 and above into various clear difficulty tiers. See legend [here](/sdvx/resources/difftable.txt). 
-- **[PUC Difficulty Charts Twitter](https://twitter.com/PUC_level)** by *@PUC_level *. <br>Regularly updated charts on PUC Difficulty.
+- **[PUC Difficulty Charts Twitter](https://twitter.com/PUC_level)** by *@PUC_level*. <br>Regularly updated charts on PUC Difficulty.
 - **[SDVXDiffTable Twitter](https://twitter.com/SDVXDiffTable)** by *@SDVXDiffTable*. <br>Other difficulty tables published through Twitter. This is based 80% on their personal experience.
 - **[GameRepair.info SOUND VOLTEX](https://gamerepair.info/games/35_sound_voltex)**. <br>Information about *SOUND VOLTEX* arcade cabinets. 
 - **[GameRepair.info Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)**. <br>Information about the knob brackets. 
