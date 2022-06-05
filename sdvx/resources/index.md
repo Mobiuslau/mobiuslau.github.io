@@ -1,6 +1,10 @@
 # Sound Voltex Resources
 
-Introduction to be written. I will do this later.
+It is undenyable that the *SOUND VOLTEX* series has grown in popularity throughout the years. As such, many players, maintainers, and other users have been making many contributious to the community, such as guides, messaging platforms, and even their own games simulating the *SOUND VOLTEX* gameplay experience along with custom charts. Through the years, many resources have accumulated in various places. As such, this webpage is an accumulation of those resources created by the community, official resources, and a parts list for controllers. This web page contains everything *SOUND VOLTEX*. 
+
+This webpage may not always be up to date with the newest resources available. An effort is made to update it somewhat regularly, however. The latest update was performed on 2022-06-05.
+
+The #faq-guides channel in the [SDVX Community Discord Server](https://discord.gg/sdvx) contains resources and useful information as well, such as guides on setting up *SOUND VOLTEX EXCEED GEAR コナステ*, a Buyers guide for controllers, Useful links, and other recommendations. It is therefore advised to read this as well since it can not be hot-linked from this webpage. However, an effort was made to collect publically available resources mentioned there.
 
 <br>
 
@@ -26,7 +30,13 @@ Introduction to be written. I will do this later.
 > &nbsp; &nbsp; [Community Guides](#community-guides-2)<br>
 > [Controllers](#controllers)<br>
 > &nbsp; &nbsp; [Vendors](#vendors)<br>
-> &nbsp; &nbsp; [Parts](#parts)<br>
+> &nbsp; &nbsp; [Community Guides](#community-guides-3)<br>
+> &nbsp; &nbsp; [Community Resources](#community-resources-4)<br>
+> [Parts](#parts)<br>
+> &nbsp; &nbsp; [Arcade Spec Parts](#arcade-spec-parts)<br>
+> &nbsp; &nbsp; &nbsp; &nbsp; [Buttons, Microswitches & Springs](#buttons-microswitches--springs)<br>
+> &nbsp; &nbsp; &nbsp; &nbsp; [Knob Assembly](#knob-assembly)<br>
+> &nbsp; &nbsp; [Controller Parts](#controller-parts)<br>
 > &nbsp; &nbsp; &nbsp; &nbsp; [Buttons](#buttons)<br>
 > &nbsp; &nbsp; &nbsp; &nbsp; [Microswitches](#microswitches)<br>
 > &nbsp; &nbsp; &nbsp; &nbsp; [Springs](#springs)<br>
@@ -34,8 +44,7 @@ Introduction to be written. I will do this later.
 > &nbsp; &nbsp; &nbsp; &nbsp; [LEDS](#leds)<br>
 > &nbsp; &nbsp; &nbsp; &nbsp; [Other](#other)<br>
 > &nbsp; &nbsp; &nbsp; &nbsp; [Stores](#stores)<br>
-> &nbsp; &nbsp; [Community Guides](#community-guides-3)<br>
-> &nbsp; &nbsp; [Community Resources](#community-resources-4)<br>
+> &nbsp; &nbsp; [Community Resources](#community-resources-5)<br>
 > [Custom Charts](#custom-charts)<br>
 > &nbsp; &nbsp; [Custom Chart Repositories & Packs](#custom-chart-repositories--packs)<br>
 > &nbsp; &nbsp; [Community Guides & Resources](#community-guides--resources-1)<br>
@@ -78,7 +87,9 @@ Also contains translations for the configuration menu.
 ### Community Resources
 
 - **[Sound Voltex Exceed Gear コナステ Charts](/sdvx/eaccharts/)** by *Amy*.<br>A comprehensive sortable list of the charts included in the game.
+- **[SDVX Song List](https://myshkin.io/sdvx/songlist)**.<br>Song list which includes PC availability.
 - **[konasute songlist](https://docs.google.com/spreadsheets/d/1WyH_iRGu5kJOXC0MPOgebicsc39k5yjsErX_c-nSbX4/edit#gid=0)**.<br>This list only contains charts of level 18 and beyond.
+
 - **[Sound Voltex Controls](/sdvx/controls)** by *Amy*.<br>This page details the available controls for both the *EXCEED GEAR コナステ* and *VIVID WAVE* entries in the series. 
 - **[GlovePIE script for SDVX cloud](https://pastebin.com/wQsHLcs0)** by *Drewol*.<br>This script allows one to use old controllers with EAC. This is to be avoided if not necessary. 
 
@@ -113,31 +124,48 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[BLASTER PASS (EG ver.)](https://voltexes.com/blaster-pass-eg-ver/)** by *Latchal*.
 - **[ARENA BATTLE](https://voltexes.com/arena-battle/)** by *Latchal*.
 - **[Effect Radar](https://voltexes.com/effect-radar/)** by *Latchal*.
+
 - **[How to use nearnoah.net and myamya](https://voltexes.com/how-to-use-nearnoah-myamya/)** by *Latchal*.
 - **[How to use Vaddict](https://voltexes.com/how-to-use-vaddict/)** by *Latchal*.
+
 - **[Tips on playing level 16: Going to the other side](https://www.reddit.com/r/kshootmania/comments/n662if/dunno_whether_this_would_be_useful_but_heres_a/)** by *JiminP*.
 - **[Tips on playing: Few essential knowledge on turning knobs](https://www.reddit.com/r/kshootmania/comments/ncecac/tips_on_turning_knobs/)** by *JiminP*.
+
 - **[The Big List of Jack Charts](https://voltexes.com/jack-charts/)** by *Latchal*.
 - **[The Big List of Booths of Fighters Practice Charts](https://voltexes.com/the-big-list-of-bof-practice-charts/)** by *Latchal*.
 - **[The Big List of Cross-hand Knob Charts](https://voltexes.com/the-big-list-of-cross-hand-knobs/)** by *Latchal*.
-- **[SDVX Unlock Guide](https://docs.google.com/spreadsheets/d/1VBYWSUaKqHUOyfCtvkHFYBSnEPwxhTh8-m4UlU8zUL0/edit#gid=594247546)**. **Possibly outdated**. 
+
+- **[SDVX Unlock Guide](https://docs.google.com/spreadsheets/d/1VBYWSUaKqHUOyfCtvkHFYBSnEPwxhTh8-m4UlU8zUL0/edit#gid=594247546)**. **Outdated**. 
 - **[Hexa Diver Guide Image](https://cdn.discordapp.com/attachments/209316761428819969/752529843446480937/HEXA_DIVER_SYSTEM_TUTORIAL.png)**.
+
+- **[Voltexes Guides List](https://voltexes.com/guides/)**.<br>Compilation of guides by Latchal and other resources.
 
 <br>
 
 ### Community Resources
 
 - **[sdvx.in](https://sdvx.in/)**.<br>One of the oldest, and most useful, resources available for the series. This website contains detailed overviews of the majority of charts for players to study and practice with. 
+- **[SDVX Song List](https://myshkin.io/sdvx/songlist)**.<br>Song list which includes PC availability.
+
+- **[Unofficial SDVX English Info Twitter](https://twitter.com/sdvx_english)**.<br>Translates announcements from the official *SOUND VOLTEX* Twitter accounts.
+
 - **[nearnoah.net](https://nearnoah.net/)**.<br>Score tracker specifically for *SOUND VOLTEX* arcade scores. See Latchal's guide on how to use it.
 - **[SDVX Task Song Generator](https://myamyasdvx.herokuapp.com/)**.<br>Receive chart recommendations based on nearnoah.net profile. See Latchal's guide on how to use it.
 - **[Vaddict](https://vaddict.mono-logic.com/)**.<br>Somewhat of a score tracker. It is useful for generating infographics from your *SOUND VOLTEX* arcade scores. See Latchal's guide on how to use it.
-- **[SDVX Difficulty Table](https://docs.google.com/spreadsheets/d/1cFltguBvPplBem-x1STHnG3k4TZzFfyNEZ-RwsQszoo/edit#gid=1555610727)**.<br>Community-made difficulty table cataloguing most charts of level 16 and above into various clear difficulty tiers. See legend [here](/sdvx/resources/difftable.txt). 
-- **[PUC Difficulty Charts Twitter](https://twitter.com/PUC_level)** by *@PUC_level*.<br>Regularly updated charts on PUC Difficulty.
-- **[SDVXDiffTable Twitter](https://twitter.com/SDVXDiffTable)** by *@SDVXDiffTable*.<br>Other difficulty tables published through Twitter. This is based 80% on their personal experience.
+
+- **[Maya2](https://voltexes.com/useful-links/)**.<br>Difficulty tables generated from *Vaddict* data. Users can mark charts within tables for their own purposes.
+- **[SDVX Clear Difficulty Table](https://docs.google.com/spreadsheets/d/1cFltguBvPplBem-x1STHnG3k4TZzFfyNEZ-RwsQszoo/edit#gid=1555610727)**.<br>Community-made difficulty table cataloguing most charts of level 16 and above into various clear difficulty tiers. See legend [here](/sdvx/resources/difftable.txt). 
+- **Twitter Difftables: [16 PUC by *@M2MR_SDVX*](https://twitter.com/M2MR_SDVX/status/1228545253101031424), [16 PUC by *@sdvx_16puc*](https://twitter.com/sdvx_16puc/status/1495693862878457856), [17 PUC by *@sdvx_17puc*](https://twitter.com/sdvx_17puc/status/1527953895594799105), [18 PUC by *@PUC_level*](https://twitter.com/PUC_level/status/1483107428590026754), [17S, 18S by *@patchesarna*](https://twitter.com/patchesarna/status/1183245847951110145), [17S by *@hyacinth_95*](https://twitter.com/hyacinth_95/status/1397536214853447682)**.<br>
+
+- **[SDVXDiffTable Twitter](https://twitter.com/SDVXDiffTable)** by *@SDVXDiffTable*.<br>Other difficulty tables published through Twitter. This is based 80% on their personal experience. No longer updated.
+
 - **[GameRepair.info SOUND VOLTEX](https://gamerepair.info/games/35_sound_voltex)**.<br>Information about *SOUND VOLTEX* arcade cabinets. 
 - **[GameRepair.info Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)**.<br>Information about the knob brackets. 
+
 - **[Gauge Drain Values Image](https://cdn.discordapp.com/attachments/209316761428819969/752529745668997130/unknown.png)**. **Possibly outdated**. 
 - **[VIVID WAVE Folder Translations Image](https://volteacademia.s-ul.eu/j5Q4On12.png)**. 
+
+- **[Voltexes Useful Links List](https://voltexes.com/useful-links/)**.<br>Other compilation of resources.
 
 <br>
 
@@ -194,91 +222,22 @@ The main web page contains news feeds, quickstart guides and player data options
 
 ## Controllers
 
+Before buying a controller, please do your research. Some buyer-guides are included below. Make an educated decision by reading and/or watching reviews, or inquire community members and/or the vendors about the controller models available. In case one might want to create a controller of their own, a few guides have been included below. The parts list presented further below might be of use.
+
 ### Vendors
+
+Arcade Style Controllers:
 
 - **[GAMO2](https://www.gamo2.com/en/index.php?dispatch=categories.view&category_id=277)**.<br>Rhythm game controller vendor. 
 - **[YuanCon](https://yuancon.store/controller)**.<br>Rhythm game controller vendor. Often sold in batches. Stay up to date by joining their [Discord server](https://discord.gg/4ncuRrq). 
 - **[ISTMALL](https://istmall.co.kr/us/goods/goods_search.php?keyword=sound+voltex&recentCount=10)**.<br>Korean arcade & joystick game store.
 - **[SOUND VOLTEX CONSOLE -NEMSYS- Entry Model](https://www.konamistyle.jp/products/detail.php?product_id=109553)**.<br>This is Konami's official sound voltex controller. The community has not been recommending this model, however. 
-- **[Speedy Labs](https://www.speedylabs.shop/)**.<br>*[Pocket-SDVX](https://github.com/speedypotato/Pocket-SDVX)* can be bought here.  
 
 Virgoo Turbochargers are not supported anymore.
 
-<br>
+Other:
 
-### Parts
-
-The parts as listed below could also be found on different web stores. A quick search with the part number may find you useful results.
-
-#### Buttons
-
-The *Sanwa* buttons are used in the arcade cabinet.
-
-- **Sanwa OBSA-60UK - Old Lamp Holder - With Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_078/)<br>Square buttons. Comes with *MS-O-3* microswitch (Omron V-10-1A4 100g) and 100g spring.
-- &nbsp; &nbsp; **[Without Lamp](https://item.rakuten.co.jp/sanwadenshi/ilumb_080/)**.<br>&nbsp; &nbsp; Square buttons. Comes with *MS-O-3* microswitch (Omron V-10-1A4 100g) and 100g spring.
-- **[Sanwa OBSA-45UK-B - Old Lamp Holder - With Lamp](https://item.rakuten.co.jp/sanwadenshi/ilumb_097/)**.<br>FX buttons. Comes with *MS-O-3* microswitch (Omron V-10-1A4 100g) and 100g spring.
-- &nbsp; &nbsp; **[Without Lamp](https://item.rakuten.co.jp/sanwadenshi/ilumb_098/)**.<br>&nbsp; &nbsp; FX buttons. Comes with *MS-O-3* microswitch (Omron V-10-1A4 100g) and 100g spring.
-- **[Sanwa OBSA-30UK - Old Lamp Holder - With Lamp](https://item.rakuten.co.jp/sanwadenshi/ilumb_237/)**.<br>Start buttons. Comes with *MS-O-3* microswitch (Omron V-10-1A4 100g) and 100g spring.
-- &nbsp; &nbsp; **[Without Lamp](https://item.rakuten.co.jp/sanwadenshi/ilumb_239/)**.<br>&nbsp; &nbsp; Start buttons. Comes with *MS-O-3* microswitch (Omron V-10-1A4 100g) and 100g spring.
-
-- **[Samducksa CWB 405](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992351)**.<br>FX button. Does not include LED. Comes with ??? microswitch and ??? spring.
-- **[Samducksa CWB 406](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992352)**.<br>FX button. Does not include LED. Comes with ??? microswitch and ??? spring.
-
-- **[DJDAO PT-01-01-03](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=254)**.<br>Square button. Does not include microswitch. Comes with 40g spring.
-- **[DJDAO PT-01-01-02](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=253)**.<br>FX button. Does not include microswitch. Comes with 40g spring.
-
-#### Microswitches
-The OMRON D2MV and V series have been the most used in the community. Please do your own research beforehand.
-
-- **[OMRON D2MV-01-1C1](https://item.rakuten.co.jp/sanwadenshi/ilumb_221/)**.<br>10g microswitch.
-- **[OMRON D2MV-01-1C2](https://item.rakuten.co.jp/sanwadenshi/ilumb_222/)**.<br>25g microswitch.
-- **[OMRON D2MV-01-1C3](https://item.rakuten.co.jp/sanwadenshi/ilumb_223/)**.<br>50g microswitch.
-- **[OMRON V-10-1A4](https://item.rakuten.co.jp/sanwadenshi/ilumb_215/)**.<br>100g microswitch.
-- **[OMRON V-10-1A5](https://item.rakuten.co.jp/sanwadenshi/ilumb_216/)**.<br>200g microswitch.
-
-The VX and D3V series' have been an interesting addition to the microswitch lineup. They may have different qualities to the D2MV series. Please do your own research beforehand.
-
-- **[OMRON VX-01-1C22](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-01-1C22/369961)**.<br>25g microswitch.
-- **[OMRON VX-01-1C23](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-01-1C23/369962)**.<br>50g microswitch.
-- **[OMRON D3V-011-1A3-K](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/D3V-011-1A3-K/1789124)**.<br>50g microswitch.
-
-Microswitch with lamp holder used in the arcade cabinets. 
-
-- **[Sanwa OBSA-LHS1F-LN](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/)**.<br>100g microswitch. This is used in the arcade cabinet.
-
-#### Springs
-
-- **[Sanwa OBSA-SP-K(20g)](https://item.rakuten.co.jp/sanwadenshi/ilumb_218/)**.<br>20g spring. For use with Sanwa buttons listed above.
-- **[Sanwa OBSA-SP-K(40g)](https://item.rakuten.co.jp/sanwadenshi/ilumb_303/)**.<br>40g spring. For use with Sanwa buttons listed above.
-- **[Sanwa OBSA-SP-K(50g)](https://item.rakuten.co.jp/sanwadenshi/ilumb_500/)**.<br>50g spring. For use with Sanwa buttons listed above.
-- **[Sanwa OBSA-SP-K](https://item.rakuten.co.jp/sanwadenshi/ilumb_300/)**.<br>60g spring. For use with Sanwa buttons listed above.
-- **[Sanwa OBSA-SP](https://item.rakuten.co.jp/sanwadenshi/ilumb_217/)**.<br>100g, 200g or 400g spring. For use with Sanwa buttons listed above.
-
-#### Encoders & Potentiometers
-
-- **[Sensatec ELV-24Y36A-K](https://www.sensatec.co.jp/products/detail.php?lang=e&product_id=47)**.<br>Listed as potentiometer. This is used in the arcade cabinet.
-- **[Nidec Copal RES20D-50-201-1](https://octopart.com/res20d-50-201-1-nidec+copal-87192281)**.<br>Can also be bought with SVSE5 bracker from [GAMO2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=316).
-- **[Alps EC12E2420801](https://nl.mouser.com/ProductDetail/Alps-Alpine/EC12E2420801?qs=m0BA540hBPdaLIy4F3c5Mg%3D%3D)**.<br>This used to be the SVSE5 default. It is considered not that great and it is listed here for reference for those who have an older SVSE5 version.
-
-#### LEDS
-
-- **[ISTMALL LED lamp](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992273)**.
-- **[GAMO2 LED light for button](https://www.gamo2.com/en/index.php?dispatch=categories.view&category_id=266)**.
-
-#### Other
-
-- **[MISUMI WSJW10-6-2](https://yubiparts.com/products/misumi-wsjw10-6-2-resin-washers-2x-for-sound-voltex-sdvx)**.<br>Resin Washer. This is used in the arcade cabinet.
-- **[Yubiparts Aluminum Arcade Knob Head Shaft](https://yubiparts.com/products/sound-voltex-sdvx-aluminum-arcade-knob-head-shaft)**.<br>Aftermarket knob. For use with encoders used in arcade cabinets. Not compatible with Copal encoders.
-- **[TOK TLE1-618-5W](https://yubiparts.com/products/tok-tle1-618-5w-torque-limiters-for-sound-voltex-sdvx)**.<br>Torque Limiter. This is used in the arcade cabinet.
-
-#### Stores
-
-The spare parts listed above, as well as other spare parts, can also be found elsewhere. Some useful spare parts stores are listed below.
-
-- **[GAMO2 Spare Parts](https://www.gamo2.com/en/index.php?dispatch=categories.view&category_id=255)**.<br>Spare parts supplied by GAMO2.
-- **[YubiParts](https://yubiparts.com/)**.<br>Store for Arcade cabinet replacement parts. May be useful to DIY builders.  
-- **[ISTMALL](https://www.istmall.co.kr/us/main/index.php)**.<br>Store for Arcade cabinet replacement parts. May be useful to DIY builders.  
-
+- **[Speedy Labs](https://www.speedylabs.shop/)**.<br>*[Pocket-SDVX](https://github.com/speedypotato/Pocket-SDVX)* can be bought here.  
 
 <br>
 
@@ -294,11 +253,134 @@ The spare parts listed above, as well as other spare parts, can also be found el
 
 ### Community Resources
 
+- **[Rhythm.Market](https://rhythm.market/)**.<br>Newly established second-hand marketplace for exchanging parts, controllers, and more. 
+
+<br>
+
+
+
+## Parts
+
+### Arcade Spec Parts
+
+Only the parts which are used in the cab. Not that useful for controllers. May be used as a reference though.
+
+#### Buttons, Microswitches & Springs
+
+- **Sanwa OBSA-60UK - micro switch integrated type - New Lamp Holder - With Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_073/).<br>(60 x 60)mm Square button. Comes with *OBSA-LHS1F-LN* 100g microswitch. Comes with *Sanwa OBSA-SP* 100g springs [*Citation Needed*]. A potential of 12V is used [*Citation Needed*]. 
+- **Sanwa OBSA-45UK-K - micro switch integrated type - New Lamp Holder - With Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/).<br>(50 x 33)mm rectangle button. Comes with *OBSA-LHS1F-LN* 100g microswitch. Comes with *Sanwa OBSA-SP* 100g springs [[1]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239#qna). A potential of 12V is used [*Citation Needed*]. 
+- **Sanwa OBSA-30UK - micro switch integrated type - New Lamp Holder - With Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/).<br>(33 x 33)mm Square button. Comes with *OBSA-LHS1F-LN* 100g microswitch. Comes with *Sanwa OBSA-SP* 100g springs [*Citation Needed*]. A potential of 12V is used [*Citation Needed*]. 
+- **Sanwa OBSA-LHS1F-LN**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/).<br>100g microswitch [[2]](https://gamerepair.info/games/35_sound_voltex).
+- **Sanwa OBSA-SP-K(20g)**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_218/).<br>20g spring for the button. This is what the *Valkyrie model* cabinet uses [*Citation Needed*].
+
+<br>
+
+#### Knob Assembly
+
+See [Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex_volume_assembly) on [gamerepair.info](https://gamerepair.info/) for a detailed breakdown of the volume assembly, and maintenance tips. Information below is taken from this webpage. (To be updated when Misumi is available.)
+
+<img src="https://gamerepair.info/images/60_sound_voltex_volume_assembly" width="350"/>
+
+**Figure 1:** Knob assembly schematic from Gamerepair.info [[3]](https://gamerepair.info/parts/79_sound_voltex_volume_assembly).
+
+- **2: Oiles 80F-0803**.<br>[YubiParts](https://yubiparts.com/collections/sound-voltex-knob-parts/products/oiles-80f-0603-80f-0803-bushings-for-sdvx-sound-voltex-arcade-knobs?variant=42846112841915), [Misumi](https://us.misumi-ec.com/vona2/detail/221000090789/?HissuCode=80F-0803).<br>Bottom bushing [[3]](https://gamerepair.info/parts/79_sound_voltex_volume_assembly). ([Information Page](https://www.oilesglobal.com/america/en/products/oiles-80.html))
+- **4: TOK TLE1-618-5W**.<br>[YubiParts](https://yubiparts.com/products/tok-tle1-618-5w-torque-limiters-for-sound-voltex-sdvx), [Misumi](https://us.misumi-ec.com/vona2/detail/221000521946/?HissuCode=TLE1-618-5W).<br>Torque limiter used in the *Nemsys model* cabinets [[4]](https://gamerepair.info/parts/102_tle1_618_5w).
+- **7: Sensatec ELV-24Y36A-K**.<br>[Metro Electric](http://www.e-metro.jp/quick/ELV-24.html).<br>Infinite pot meter for knobs [[3]](https://gamerepair.info/parts/79_sound_voltex_volume_assembly).
+- **9: Oiles 80F-0603**.<br>[YubiParts](https://yubiparts.com/collections/sound-voltex-knob-parts/products/oiles-80f-0603-80f-0803-bushings-for-sdvx-sound-voltex-arcade-knobs?variant=42846112841915), [Misumi](https://us.misumi-ec.com/vona2/detail/221000090789/?HissuCode=80F-0603).<br>Top bushing [[3]](https://gamerepair.info/parts/79_sound_voltex_volume_assembly).
+- **10: MISUMI WSJW10-6-2**.<br>[YubiParts](https://yubiparts.com/products/misumi-wsjw10-6-2-resin-washers-2x-for-sound-voltex-sdvx), [Misumi](https://us.misumi-ec.com/vona2/detail/110300235320/?HissuCode=WSJW10-6-2).<br>Resin Washer [[3]](https://gamerepair.info/parts/79_sound_voltex_volume_assembly).
+
+<br>
+
+### Controller Parts
+
+The parts as listed below could be used with most (diy) controllers. 
+
+#### Buttons
+
+Buttons analogous to arcade spec:
+
+- **Sanwa OBSA-60UK - Old Lamp Holder - With Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_078/).<br>(60a  x 60)mm Square button. Comes with a *MS-O-3* microswitch (Omron V-10-1A4 100g). Comes with a *Sanwa OBSA-SP* 100g spring [*Citation Needed*]. Comes with LED Lamp.
+- **↪ Without Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_080/), [IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992264).<br>(60 x 60)mm Square button. Comes with a *MS-O-3* microswitch (Omron V-10-1A4 100g). Comes with a *Sanwa OBSA-SP* 100g spring [*Citation Needed*].
+- **↪ Without Lamp & Switch**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_5002/).<br>(60 x 60)mm Square button. Comes with a *Sanwa OBSA-SP* 100g spring [*Citation Needed*].
+
+- **Sanwa OBSA-45UK-B - Old Lamp Holder - With 12V Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_097/).<br>(50 x 33)mm rectangle FX button. Comes with a *MS-O-3* microswitch (Omron V-10-1A4 100g). Comes with a *Sanwa OBSA-SP* 100g spring [[1]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239#qna). Comes with LED Lamp.
+- **↪ Without Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_098/), [IST MALL](http://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239).<br>(50 x 33)mm rectangle FX button. Comes with a *MS-O-3* microswitch (Omron V-10-1A4 100g). Comes with a *Sanwa OBSA-SP* 100g spring [[1]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239#qna).
+- **↪ Without Lamp & Switch**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_5001/).<br>(50 x 33)mm rectangle FX button. Comes with a *Sanwa OBSA-SP* 100g spring [[1]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239#qna).
+
+- **Sanwa OBSA-30UK - Old Lamp Holder - With Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_014/).<br>(33 x 33)mm square start button. Comes with a *MS-O-3* microswitch (Omron V-10-1A4 100g). Comes with a *Sanwa OBSA-SP* 100g spring [[1]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239#qna). Comes with LED Lamp.
+- **↪ Without Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_016/).<br>(33 x 33)mm square start button. Comes with a *MS-O-3* microswitch (Omron V-10-1A4 100g). Comes with a *Sanwa OBSA-SP* 100g spring [[1]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239#qna).
+
+Other buttons:
+
+- **IST 60UK**.<br>[IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992342).<br>(60 x 60)mm square button. Comes with a 45g microswitch & a 60g spring. [[5]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992342#qna)
+
+- **Samducksa CWB 405**.<br>[IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992351).<br>(50 x 33)mm rectangle FX button. Comes with a 45g microswitch & a 20g spring [[6]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992351#qna). Does not include LED.
+- **Samducksa CWB 406**.<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992352).<br>(33 x 33)mm square start button. Comes with a ???g microswitch & a ???g spring. Does not include LED.
+
+- **DJDAO PT-01-01-02**.<br>[Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=253).<br>(50 x 33)mm rectangle FX button. Does not include microswitch. Comes with 40g spring.
+- **DJDAO PT-01-01-03**.<br>[Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=254).<br>(33 x 33)mm square button. Does not include microswitch. Comes with 40g spring.
+
+<br>
+
+#### Microswitches
+
+The OMRON D2MV and V series have been the most used in the community. Please do your own research beforehand.
+
+- **OMRON D2MV-01-1C1**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_221/).<br>10g microswitch.
+- **OMRON D2MV-01-1C2**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_222/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992803), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2940), [Akishop](https://akishop.jp/collections/pushbutton-parts/products/microswitch-d2mv-01-1c2), [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/D2MV-01-1C2/5236583), [Mouser](https://nl.mouser.com/ProductDetail/Omron-Electronics/D2MV-01-1C2?qs=i1w9Bv2NFd3%252BulZmi2hfrQ%3D%3D), [Blue Spring Express](https://bluespringexpress.net/products/25g-omron-micro-switch-d2mv-01-1c2).<br>25g microswitch.
+- **OMRON D2MV-01-1C3**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_223/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992804), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2941), [Akishop](https://akishop.jp/collections/pushbutton-parts/products/microswitch-d2mv-01-1c3), [Digikey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2MV-01-1C3/5236584), [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/D2MV-01-1C3?qs=%2Fha2pyFaduhO2oGWGJJwEi1PO2bH3HTUBwhKOFR1P3o%3D), [Blue Spring Express](https://bluespringexpress.net/products/50g-omron-micro-switch-d2mv-01-1c3).<br>50g microswitch.
+- **OMRON V-10-1A4**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_215/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992411), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2937), [Akishop](https://akishop.jp/collections/pushbutton-parts/products/microswitch-sanwa-ms-o-3), [Digikey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/V-10-1A4/1828942), [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/V-10-1A4?qs=jlWqeHNmHbTuw%252Bapuv1yjg%3D%3D), [Blue Spring Express](https://bluespringexpress.net/products/100g-switch).<br>100g microswitch. Listed by Sanwa as *MS-O-3*.
+- **OMRON V-10-1A5**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_216/).<br>200g microswitch.
+
+The VX and D3V series' have been an interesting addition to the microswitch lineup. They may have different qualities to the D2MV series. Please do your own research beforehand.
+
+- **OMRON VX-01-1C22**.<br>[Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-01-1C22/369961).<br>25g microswitch.
+- **OMRON VX-01-1C23**.<br>[Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-01-1C23/369962).<br>50g microswitch.
+- **OMRON D3V-011-1A3-K**.<br>[Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/D3V-011-1A3-K/1789124).<br>50g microswitch.
+
+Other:
+
+- **Gersung GSM-V0303A06**.<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526).<br>Estimated as 75g [[7]](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526#qna).
+
+<br>
+
+#### Springs
+
+- **Sanwa OBSA-SP (20g)**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_218/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953), [Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=296), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2942), [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual).<br>For use with Sanwa buttons listed above.
+- **Sanwa OBSA-SP (40g)**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_303/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=5777), [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual).<br>For use with Sanwa buttons listed above.
+- **Sanwa OBSA-SP (50g)**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_500/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=6188), [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual).<br>For use with Sanwa buttons listed above.
+- **Sanwa OBSA-SP-K (60g)**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_300/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953), [Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=297), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2943), [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual).<br>For use with Sanwa buttons listed above.
+- **Sanwa OBSA-SP (100)**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_217/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953), [Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=298), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2944), [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual), [Akishop](https://akishop.jp/collections/pushbutton-parts/products/pushbutton-spring-sanwa-obsa-sp).<br>For use with Sanwa buttons listed above.
+
+- **IST MALL Springs**.<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992332).<br> 30g, 60g, 100g, and 200g options.
+
+<br>
+
+#### Encoders & Potentiometers
+
+- **Nidec Copal RES20D-50-201-1**.<br>[Digikey](https://www.digikey.nl/nl/products/detail/nidec-copal-electronics/RES20D-50-201-1/6469509), [Mouser](https://nl.mouser.com/ProductDetail/Nidec-Copal/RES20D-50-201-1?qs=XeJtXLiO41R3vokOTWDL3g%3D%3D).<br>Can also be bought with SVSE5 bracket from [GAMO2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=316). See [Octopart](https://octopart.com/res20d-50-201-1-nidec+copal-87192281) for other stores.
+- **Alps EC12E2420801**.<br>[mouser](https://nl.mouser.com/ProductDetail/Alps-Alpine/EC12E2420801?qs=m0BA540hBPdaLIy4F3c5Mg%3D%3D).<br>This used to be the SVSE5 default. It is considered not that great and it is listed here for reference for those who have an older SVSE5 version.
+
+<br>
+
+#### LEDS
+
+- **ISTMALL LED lamp**.<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992273).
+- **GAMO2 LED light for button**.<br>[Gamo2](https://www.gamo2.com/en/index.php?dispatch=categories.view&category_id=266).
+
+<br>
+
+#### Other
+
+- **Yubiparts Aluminum Arcade Knob Head Shaft**.<br>[Yubiparts](https://yubiparts.com/products/sound-voltex-sdvx-aluminum-arcade-knob-head-shaft).<br>Aftermarket knob. For use with encoders used in arcade cabinets. Not compatible with Copal encoders.
+
+<br>
+
+### Community Resources
+
 - **[Buttons List](https://rhythm-cons.wiki/w/Buttons)**.<br>Comprehensive collection of different buttons with their prices.
 - **[Microswitch List](https://rhythm-cons.wiki/w/Microswitches)**.<br>Comprehensive collection of different microswitches with their prices.
-- **[Buttons List](https://rhythm-cons.wiki/w/Springs)**.<br>Comprehensive collection of different springs with their prices.
-
-- **[Rhythm.Market](https://rhythm.market/)**.<br>Newly established second-hand marketplace for exchanging parts, controllers, and more. 
+- **[Springs List](https://rhythm-cons.wiki/w/Springs)**.<br>Comprehensive collection of different springs with their prices.
 
 <br>
 
@@ -343,12 +425,12 @@ The editor shipped with *K-Shoot Mania* is commonly used within the community to
 
 ### Useful Discord Servers & Communities
 
-- **[K-Shoot Mania](https://discord.gg/kshootmania)**.<br>English Community Server.
+- **[SDVX Community](https://discord.gg/sdvx)**.<br>English Community Server. Previously known as *K-Shoot MANIA Community*. The #faq-guides channel contains useful guides as well. Make sure to check it out.
 - **[Kalesy's Hub](https://discord.gg/SQH7wsX)**.<br>English rhythm game Server. 
 - **[Bokutachi](https://discord.gg/E4n8ZZF5ES)**.<br>USC & BMS Internet Ranking Server. 
 - **[Unnamed SDVX Clone](https://discord.gg/ceCWx3X)**.<br>Official USC Server. 
 - **[Cons&Stuff](https://discord.gg/fknwz8s)**.<br>For anything DIY for controllers. 
 - **[YuanCon](https://discord.gg/4ncuRrq)**.<br>Official YuanCon Server. 
 
-- **[r/kshootmania](https://www.reddit.com/r/kshootmania/new/)**.<br>This subreddit is generally used for community driven *SOUND VOLTEX* gameplay. USC discussion is also included here.
+- **[r/kshootmania](https://www.reddit.com/r/kshootmania/new/)**.<br>This subreddit is generally used for community driven *SOUND VOLTEX*-like gameplay. USC discussion is also included here.
 - **[K-Shoot MANIA (International)](https://www.facebook.com/groups/internationalksm/about)**.<br>The OG KSM / SDVX community, along with the [subreddit](https://www.reddit.com/r/kshootmania/new/). This group was established early 2015. It's most prominent members at the time can still be found in the various communities listed above. It is not active anymore and listing it here merely serves as a homage to what it once was. This also counts for the [forum](https://kshootmania.forumotion.com/) which was founded by some of the members of the Facebook group. It is suffice to say that this forum is now inactive as well. 
