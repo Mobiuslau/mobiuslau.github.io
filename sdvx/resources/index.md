@@ -153,7 +153,7 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[SDVX Task Song Generator](https://myamyasdvx.herokuapp.com/)**.<br>Receive chart recommendations based on nearnoah.net profile. See Latchal's guide on how to use it.
 - **[Vaddict](https://vaddict.mono-logic.com/)**.<br>Somewhat of a score tracker. It is useful for generating infographics from your *SOUND VOLTEX* arcade scores. See Latchal's guide on how to use it.
 
-- **[Maya2](https://voltexes.com/useful-links/)**.<br>Difficulty tables generated from *Vaddict* data. Users can mark charts within tables for their own purposes.
+- **[Maya2](https://sdvx.maya2silence.com/)**.<br>Difficulty tables generated from *Vaddict* data. Users can mark charts within tables for their own purposes.
 - **[SDVX Clear Difficulty Table](https://docs.google.com/spreadsheets/d/1cFltguBvPplBem-x1STHnG3k4TZzFfyNEZ-RwsQszoo/edit#gid=1555610727)**.<br>Community-made difficulty table cataloguing most charts of level 16 and above into various clear difficulty tiers. See legend [here](/sdvx/resources/difftable.txt). 
 - **Twitter Difftables: [16 PUC by *@M2MR_SDVX*](https://twitter.com/M2MR_SDVX/status/1228545253101031424), [16 PUC by *@sdvx_16puc*](https://twitter.com/sdvx_16puc/status/1495693862878457856), [17 PUC by *@sdvx_17puc*](https://twitter.com/sdvx_17puc/status/1527953895594799105), [18 PUC by *@PUC_level*](https://twitter.com/PUC_level/status/1483107428590026754), [17S, 18S by *@patchesarna*](https://twitter.com/patchesarna/status/1183245847951110145), [17S by *@hyacinth_95*](https://twitter.com/hyacinth_95/status/1397536214853447682)**.<br>
 
