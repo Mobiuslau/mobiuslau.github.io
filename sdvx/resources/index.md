@@ -86,8 +86,8 @@ Also contains translations for the configuration menu.
 
 ### Community Resources
 
-- **[Sound Voltex Exceed Gear コナステ Charts](/sdvx/eaccharts/)** by *Amy*.<br>A comprehensive sortable list of the charts included in the game.
-- **[SDVX Song List](https://myshkin.io/sdvx/songlist)**.<br>Song list which includes PC availability.
+- **[Sound Voltex Exceed Gear コナステ Charts](/sdvx/eaccharts/)** by *Amy*.<br>A sortable list of the charts included in the game, with linkks to respective [sdvx.in](sdvx.in) pages and song pack playlists.
+- **[SDVX Song List](https://myshkin.io/sdvx/songlist)**.<br>Song list which includes PC availability. Browsing for packs and chart levels is a bit easier with this list.
 - **[konasute songlist](https://docs.google.com/spreadsheets/d/1WyH_iRGu5kJOXC0MPOgebicsc39k5yjsErX_c-nSbX4/edit#gid=0)**.<br>This list only contains charts of level 18 and beyond.
 
 - **[Sound Voltex Controls](/sdvx/controls)** by *Amy*.<br>This page details the available controls for both the *EXCEED GEAR コナステ* and *VIVID WAVE* entries in the series. 
