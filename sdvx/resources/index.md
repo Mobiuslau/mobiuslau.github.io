@@ -295,15 +295,27 @@ Other:
 
 ### Arcade Spec Parts
 
-Only the parts which are used in the cab. Not that useful for controllers. May be used as a reference though.
+The control parts used by the arcade cabinets are listed below. This is only really useful for cabinet owners, users who want to create an exact replica controller, or for use as a reference. See section *Controller Parts* for general home arcade style controller parts.
 
 #### Buttons, Microswitches & Springs
 
-- **Sanwa OBSA-60UK - micro switch integrated type - New Lamp Holder - With Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_073/).<br>(60 x 60)mm Square button. Comes with *OBSA-LHS1F-LN* 100g microswitch. Comes with *Sanwa OBSA-SP* 100g springs [*Citation Needed*]. A potential of 12V is used [*Citation Needed*]. 
-- **Sanwa OBSA-45UK-K - micro switch integrated type - New Lamp Holder - With Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/).<br>(50 x 33)mm rectangle button. Comes with *OBSA-LHS1F-LN* 100g microswitch. Comes with *Sanwa OBSA-SP* 100g springs [[1]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239#qna). A potential of 12V is used [*Citation Needed*]. 
-- **Sanwa OBSA-30UK - micro switch integrated type - New Lamp Holder - With Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/).<br>(33 x 33)mm Square button. Comes with *OBSA-LHS1F-LN* 100g microswitch. Comes with *Sanwa OBSA-SP* 100g springs [*Citation Needed*]. A potential of 12V is used [*Citation Needed*]. 
-- **Sanwa OBSA-LHS1F-LN**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/).<br>100g microswitch [[2]](https://gamerepair.info/games/35_sound_voltex).
-- **Sanwa OBSA-SP-K(20g)**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_218/).<br>20g spring for the button. This is what the *Valkyrie model* cabinet uses [*Citation Needed*].
+The Sanwa buttons listed below come with an *Sanwa OBSA-SP* 100g spring, an *Sanwa OBSA-LHS1F-LN* integrated lamp & switch holder housing an *MS-O-3* (Omron V-10-1A4) 100g microswitch, and a *Sanwa SWA-LED-#-12V* LED [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741)]. The LEDs operate at 12V in the arcade cabinets [*Citation Needed*]. The switch can not be replaced with these lamp holders. For cleaning, it is recommended to use a neutral detergent or water [[1](https://www.tops-game.jp/products/detail.php?product_id=4740)] 
+
+See <a href="sanwa_button_product_codes">This table</a> for a description of the button product codes [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741)].
+
+<img src="https://www.tops-game.jp/upload/save_image/button/sanwa/OBSA-60UK_drawing.jpg" width="233"/><img src="https://www.tops-game.jp/upload/save_image/button/sanwa/OBSA-45UK_drawing.jpg" width="233"/><img src="https://www.tops-game.jp/upload/save_image/button/sanwa/OBSA-30UK_drawing.jpg" width="233"/>
+
+**Figure 1:** Button schematics from Tops Game [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741)].
+
+- **Sanwa OBSA-60UK-W-1F-LED-B-12V**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_073/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4740).<br>(60 x 60)mm square button. 
+- **Sanwa OBSA-45UK-K/W-1F-LED-R-12V**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4738).<br>(50 x 33)mm rectangle FX button. 
+- **Sanwa OBSA-30UK - Microswitch Integrated Type - LED**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4741).<br>(33 x 33)mm Square start button.
+
+- **Sanwa OBSA-LHS1F-LN**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3321).<br>100g microswitch & lamp holder [[4](https://gamerepair.info/games/35_sound_voltex)].
+- **Sanwa SWA-LED-#**.<br>[Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3343).<br>Leds for use with *OBSA-LHS1F-LN*. *#* denotes the colour code. 
+- **Sanwa LHS-H**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_193/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3302).<br>Cable harness for use with *OBSA-LHS1F-LN*.
+
+- **Sanwa OBSA-SP-20**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_218/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2942).<br>20g spring for the button. This is what the *Valkyrie model* cabinet uses [*Citation Needed*].
 
 <br>
 
@@ -313,14 +325,18 @@ See [Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex
 
 <img src="https://gamerepair.info/images/60_sound_voltex_volume_assembly" width="350"/>
 
-**Figure 1:** Knob assembly schematic from Gamerepair.info [[3]](https://gamerepair.info/parts/79_sound_voltex_volume_assembly).
+**Figure 2:** Knob assembly schematic from Gamerepair.info [[5](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)].
 
-- **2: Oiles 80F-0803**.<br>[YubiParts](https://yubiparts.com/collections/sound-voltex-knob-parts/products/oiles-80f-0603-80f-0803-bushings-for-sdvx-sound-voltex-arcade-knobs?variant=42846112841915), [Misumi](https://us.misumi-ec.com/vona2/detail/221000090789/?HissuCode=80F-0803).<br>Bottom bushing [[3]](https://gamerepair.info/parts/79_sound_voltex_volume_assembly). ([Information Page](https://www.oilesglobal.com/america/en/products/oiles-80.html))
-- **4: TOK TLE1-618-5W**.<br>[YubiParts](https://yubiparts.com/products/tok-tle1-618-5w-torque-limiters-for-sound-voltex-sdvx), [Misumi](https://us.misumi-ec.com/vona2/detail/221000521946/?HissuCode=TLE1-618-5W).<br>Torque limiter used in the *Nemsys model* cabinets [[4]](https://gamerepair.info/parts/102_tle1_618_5w).
-- **7: Sensatec ELV-24Y36A-K**.<br>[Metro Electric](http://www.e-metro.jp/quick/ELV-24.html).<br>Infinite pot meter for knobs [[3]](https://gamerepair.info/parts/79_sound_voltex_volume_assembly).
-- **9: Oiles 80F-0603**.<br>[YubiParts](https://yubiparts.com/collections/sound-voltex-knob-parts/products/oiles-80f-0603-80f-0803-bushings-for-sdvx-sound-voltex-arcade-knobs?variant=42846112841915), [Misumi](https://us.misumi-ec.com/vona2/detail/221000090789/?HissuCode=80F-0603).<br>Top bushing [[3]](https://gamerepair.info/parts/79_sound_voltex_volume_assembly).
-- **10: MISUMI WSJW10-6-2**.<br>[YubiParts](https://yubiparts.com/products/misumi-wsjw10-6-2-resin-washers-2x-for-sound-voltex-sdvx), [Misumi](https://us.misumi-ec.com/vona2/detail/110300235320/?HissuCode=WSJW10-6-2).<br>Resin Washer [[3]](https://gamerepair.info/parts/79_sound_voltex_volume_assembly).
+- **2: Oiles 80F-0803**.<br>[YubiParts](https://yubiparts.com/collections/sound-voltex-knob-parts/products/oiles-80f-0603-80f-0803-bushings-for-sdvx-sound-voltex-arcade-knobs?variant=42846112841915), [Misumi](https://us.misumi-ec.com/vona2/detail/221000090789/?HissuCode=80F-0803).<br>Bottom bushing [[5](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)]. ([Information Page](https://www.oilesglobal.com/america/en/products/oiles-80.html))
+- **4: TOK TLE1-618-5W**.<br>[YubiParts](https://yubiparts.com/products/tok-tle1-618-5w-torque-limiters-for-sound-voltex-sdvx), [Misumi](https://us.misumi-ec.com/vona2/detail/221000521946/?HissuCode=TLE1-618-5W).<br>Torque limiter used in the *Nemsys model* cabinets [[6](https://gamerepair.info/parts/102_tle1_618_5w)].
+- **7: Sensatec ELV-24Y36A-K**.<br>[Metro Electric](http://www.e-metro.jp/quick/ELV-24.html).<br>Infinite pot meter for knobs [[5](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)].
+- **9: Oiles 80F-0603**.<br>[YubiParts](https://yubiparts.com/collections/sound-voltex-knob-parts/products/oiles-80f-0603-80f-0803-bushings-for-sdvx-sound-voltex-arcade-knobs?variant=42846112841915), [Misumi](https://us.misumi-ec.com/vona2/detail/221000090789/?HissuCode=80F-0603).<br>Top bushing [[5](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)].
+- **10: MISUMI WSJW10-6-2**.<br>[YubiParts](https://yubiparts.com/products/misumi-wsjw10-6-2-resin-washers-2x-for-sound-voltex-sdvx), [Misumi](https://us.misumi-ec.com/vona2/detail/110300235320/?HissuCode=WSJW10-6-2).<br>Resin Washer [[5](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)].
 
+- **a: HPB-1.6X12**.<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221000596803/?HissuCode=HPB-1.6X12).<br>
+- **b: FNTS-SUS-M4** [*Citation Needed*].<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221000545065/?HissuCode=FNTS-SUS-M4).<br>
+- **c: SSHDP-ST-M4-5**.<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221005020350/?ProductCode=SSHDP-ST-M4-5).<br>
+- **d: SSHDP-ST-M4-4**.<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221005020350/?ProductCode=SSHDP-ST-M4-4).<br>
 <br>
 
 ### Controller Parts
@@ -329,24 +345,29 @@ The parts as listed below could be used with most (diy) controllers.
 
 #### Buttons
 
-Buttons analogous to arcade spec:
+The Sanwa buttons listed below are analogous to arcade spec. These buttons ship with the old lamp holder type. This is more convenient for home use since the microswitch can be replaced easily. They can ship with an *Sanwa OBSA-SP* 100g spring, an *MS-O-3* (Omron V-10-1A4) 100g microswitch, and either a LED, or a Wedge Bulb Lamp (See Rakuten & Tops Game product pages). One can choose to buy the button only without a switch or lamp as well.
 
-- **Sanwa OBSA-60UK - Old Lamp Holder - With Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_078/).<br>(60a  x 60)mm Square button. Comes with a *MS-O-3* microswitch (Omron V-10-1A4 100g). Comes with a *Sanwa OBSA-SP* 100g spring [*Citation Needed*]. Comes with LED Lamp.
-- **↪ Without Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_080/), [IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992264).<br>(60 x 60)mm Square button. Comes with a *MS-O-3* microswitch (Omron V-10-1A4 100g). Comes with a *Sanwa OBSA-SP* 100g spring [*Citation Needed*].
-- **↪ Without Lamp & Switch**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_5002/).<br>(60 x 60)mm Square button. Comes with a *Sanwa OBSA-SP* 100g spring [*Citation Needed*].
+See <a href="sanwa_button_product_codes">This table</a> for a description of the button product codes [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741)].
 
-- **Sanwa OBSA-45UK-B - Old Lamp Holder - With 12V Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_097/).<br>(50 x 33)mm rectangle FX button. Comes with a *MS-O-3* microswitch (Omron V-10-1A4 100g). Comes with a *Sanwa OBSA-SP* 100g spring [[1]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239#qna). Comes with LED Lamp.
-- **↪ Without Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_098/), [IST MALL](http://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239).<br>(50 x 33)mm rectangle FX button. Comes with a *MS-O-3* microswitch (Omron V-10-1A4 100g). Comes with a *Sanwa OBSA-SP* 100g spring [[1]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239#qna).
-- **↪ Without Lamp & Switch**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_5001/).<br>(50 x 33)mm rectangle FX button. Comes with a *Sanwa OBSA-SP* 100g spring [[1]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239#qna).
+- **Sanwa OBSA-60UK; With 5V, 12V or 24V LED**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_078/).<br>(60 x 60)mm Square button.
+- &nbsp; &nbsp; **↪ With 14V Wedge Bulb Lamp**.<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_079/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4687).<br>
+- &nbsp; &nbsp; **↪ Without Lamp**.<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_080/), [IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992264).<br>
+- &nbsp; &nbsp; **↪ Without Lamp & Switch**.<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_5002/), [Blue Spring Express](https://bluespringexpress.net/products/sdvx-sanwa-set).<br>
 
-- **Sanwa OBSA-30UK - Old Lamp Holder - With Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_014/).<br>(33 x 33)mm square start button. Comes with a *MS-O-3* microswitch (Omron V-10-1A4 100g). Comes with a *Sanwa OBSA-SP* 100g spring [[1]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239#qna). Comes with LED Lamp.
-- **↪ Without Lamp**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_016/).<br>(33 x 33)mm square start button. Comes with a *MS-O-3* microswitch (Omron V-10-1A4 100g). Comes with a *Sanwa OBSA-SP* 100g spring [[1]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239#qna).
+- **Sanwa OBSA-45UK; With 12V LED**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_097/).<br>(50 x 33)mm Square button.
+- &nbsp; &nbsp; **↪ With 14V Wedge Bulb Lamp**.<br>&nbsp; &nbsp; &nbsp; &nbsp; [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4684).<br>
+- &nbsp; &nbsp; **↪ Without Lamp**.<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_098/), [IST MALL](http://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239).<br>
+- &nbsp; &nbsp; **↪ Without Lamp & Switch**.<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_5001/), [Blue Spring Express](https://bluespringexpress.net/products/sdvx-sanwa-set).<br>
+
+- **Sanwa OBSA-30UK; With 5V, 12V or 24V LED**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_014/).<br>(33 x 33)mm Square button.
+- &nbsp; &nbsp; **↪ With 14V Wedge Bulb Lamp**.<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_015/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4679).<br>
+- &nbsp; &nbsp; **↪ Without Lamp**.<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_016/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992352).<br>
 
 Other buttons:
 
-- **IST 60UK**.<br>[IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992342).<br>(60 x 60)mm square button. Comes with a 45g microswitch & a 60g spring. [[5]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992342#qna)
+- **IST 60UK**.<br>[IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992342).<br>(60 x 60)mm square button. Comes with a 45g microswitch & a 60g spring. [[7](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992342#qna)]
 
-- **Samducksa CWB 405**.<br>[IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992351).<br>(50 x 33)mm rectangle FX button. Comes with a 45g microswitch & a 20g spring [[6]](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992351#qna). Does not include LED.
+- **Samducksa CWB 405**.<br>[IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992351).<br>(50 x 33)mm rectangle FX button. Comes with a 45g microswitch & a 20g spring [[8](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992351#qna)]. Does not include LED.
 - **Samducksa CWB 406**.<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992352).<br>(33 x 33)mm square start button. Comes with a ???g microswitch & a ???g spring. Does not include LED.
 
 - **DJDAO PT-01-01-02**.<br>[Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=253).<br>(50 x 33)mm rectangle FX button. Does not include microswitch. Comes with 40g spring.
@@ -372,7 +393,7 @@ The VX and D3V series' have been an interesting addition to the microswitch line
 
 Other:
 
-- **Gersung GSM-V0303A06**.<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526).<br>Estimated as 75g [[7]](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526#qna).
+- **Gersung GSM-V0303A06**.<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526).<br>Estimated as 75g [[9](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526#qna)].
 
 <br>
 
@@ -390,6 +411,7 @@ Other:
 
 #### Encoders & Potentiometers
 
+- **Sensatec ELV-24Y36A-K**.<br>[Metro Electric](http://www.e-metro.jp/quick/ELV-24.html).<br>Infinite pot meter for knobs [[5](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)].
 - **Nidec Copal RES20D-50-201-1**.<br>[Digikey](https://www.digikey.nl/nl/products/detail/nidec-copal-electronics/RES20D-50-201-1/6469509), [Mouser](https://nl.mouser.com/ProductDetail/Nidec-Copal/RES20D-50-201-1?qs=XeJtXLiO41R3vokOTWDL3g%3D%3D).<br>Can also be bought with SVSE5 bracket from [GAMO2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=316). See [Octopart](https://octopart.com/res20d-50-201-1-nidec+copal-87192281) for other stores.
 - **Alps EC12E2420801**.<br>[mouser](https://nl.mouser.com/ProductDetail/Alps-Alpine/EC12E2420801?qs=m0BA540hBPdaLIy4F3c5Mg%3D%3D).<br>This used to be the SVSE5 default. It is considered not that great and it is listed here for reference for those who have an older SVSE5 version.
 
