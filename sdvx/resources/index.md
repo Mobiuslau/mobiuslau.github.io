@@ -280,6 +280,8 @@ Other:
 - **[Cons&Stuff](https://consandstuff.github.io/)** by *consandstuff*.<br>Compilation blog of controllers they made a few years ago. Their pages detail their build processes. Their [Discord server](https://discord.gg/fknwz8s) has proven to be very useful for exchanging tips and tricks for DIY controller building. 
 - **[$70 SDVX Controller](https://mon.im/2016/07/70-sdvx-controller.html)** by **mon**.<br>Controller building article. While it is old, there is still useful wisdom to be obtained from this article. 
 - **[LEONARDOjoy](https://sdvxdiy.github.io/)** by *???*.<br>Controller building article. While it is old, there is still useful wisdom to be obtained from this article. 
+- **[A DIY SDVX/K-Shoot Mania Controller Guide](https://sdvx-diy.github.io/)** by *???*.<br>Controller building article. While it is old, there is still useful wisdom to be obtained from this article. 
+- **[Rhythm Cons Wiki: Sound Voltex](https://rhythm-cons.wiki/w/Sound_Voltex)**.<br>Compilation of concise information related to controllers.
 
 <br>
 
@@ -445,10 +447,22 @@ Other:
 #### DIY Controller Resources
 
 - **[sdvx-repo](https://github.com/veroxzik/sdvx-repo)** by *veroxzik*.<br>Contains part files for knobs and PCB designs.
-- **[arduino-konami-spoof](https://github.com/veroxzik/arduino-konami-spoof)** by *veroxzik*.<br>Library which aims to replicate IIDX and SDVX controllers.
 - **[SDVX-Controller-Project](https://github.com/eliasrenman/SDVX-Controller-Project)** by *eliasrenman*.<br>
 - **[LeonardoSDVX-Shield](https://github.com/Stormpegy/LeonardoSDVX-Shield)** by *Stormpegy*.<br>Open source IO shield for DIY SDVX controllers.
 - **[SDVX Controller References & Blueprints](https://drive.google.com/drive/folders/1eoIVi5EL2O50zfXw4_XU5H__uXGZi7O8)**.<br>
+
+#### DIY Controller Code
+
+- **[arduino-konami-spoof](https://github.com/veroxzik/arduino-konami-spoof)** by *veroxzik*.<br>*Arduino* library which aims to replicate IIDX and SDVX controllers.
+- **[RhythmCodes](https://github.com/knuckleslee/RhythmCodes)** by *knuckleslee*.<br>*Arduino Leonardo* code for various rhythm game controllers.
+- **[SoundVoltexIO](https://github.com/CrazyRedMachine/SoundVoltexIO)** by *CrazyRedMachine*.<br>*Arduino Leonardo* firmware for the *SOUND VOLTEX* arcade panel. EAC compatible.
+- **[Pico-Game-Controller](https://github.com/speedypotato/Pico-Game-Controller/tree/release/pocket-sdvx-pico)** by *speedypotato*.<br>Code for the *Raspberry Pi*.
+
+#### Pocket Voltex
+
+- **[Pocket Voltex](https://github.com/mon/PocketVoltex)** by *Mon*.<br>
+- **[pocketvtx](https://github.com/camprevail/pocketvtx)** by *camprevail*.<br>
+- **[Pocket-SDVX](https://github.com/speedypotato/Pocket-SDVX)** by *speedypotato*.<br>
 
 <br>
 
