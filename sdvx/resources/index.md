@@ -301,7 +301,7 @@ The control parts used by the arcade cabinets are listed below. This is only rea
 
 #### Buttons, Microswitches & Springs
 
-The Sanwa buttons listed below come with an *Sanwa OBSA-SP* 100g spring, an *Sanwa OBSA-LHS1F-LN* integrated lamp & switch holder housing an *MS-O-3* (Omron V-10-1A4) 100g microswitch, and a *Sanwa SWA-LED-#-12V* LED [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741)]. The LEDs operate at 12V in the arcade cabinets [*Citation Needed*]. The switch can not be replaced with these lamp holders. For cleaning, it is recommended to use a neutral detergent or water [[1](https://www.tops-game.jp/products/detail.php?product_id=4740)] 
+The Sanwa buttons listed below come with an *Sanwa OBSA-SP* 100g spring, an *Sanwa OBSA-LHS1F-LN* integrated lamp & switch holder housing an *MS-O-3* (Omron V-10-1A4) 100g microswitch, and a *Sanwa SWA-LED-#-12V* LED [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741)]. The LEDs operate at 12V in the arcade cabinets [*Citation Needed*]. The switch can not be replaced with these lamp holders.
 
 See <a href="sanwa_button_product_codes">This table</a> for a description of the button product codes [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741)].
 
