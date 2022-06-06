@@ -321,7 +321,7 @@ See <a href="sanwa_button_product_codes">This table</a> for a description of the
 
 #### Knob Assembly
 
-See [Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex_volume_assembly) on [gamerepair.info](https://gamerepair.info/) for a detailed breakdown of the volume assembly, and maintenance tips. Information below is taken from this webpage. (To be updated when Misumi is available.)
+See [Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex_volume_assembly) on [gamerepair.info](https://gamerepair.info/) for a detailed breakdown of the volume assembly, and maintenance tips. Information below is taken from this webpage. Epi recorded footage of the knob reassembly, which can be found [here](https://www.youtube.com/watch?v=QxZ3BoAf3iQ).
 
 <img src="https://gamerepair.info/images/60_sound_voltex_volume_assembly" width="350"/>
 
@@ -432,9 +432,23 @@ Other:
 
 ### Community Resources
 
+#### Other Parts Lists
+
 - **[Buttons List](https://rhythm-cons.wiki/w/Buttons)**.<br>Comprehensive collection of different buttons with their prices.
 - **[Microswitch List](https://rhythm-cons.wiki/w/Microswitches)**.<br>Comprehensive collection of different microswitches with their prices.
 - **[Springs List](https://rhythm-cons.wiki/w/Springs)**.<br>Comprehensive collection of different springs with their prices.
+
+#### Reference
+
+- **[SDVX AC-Style Knob Disassembly and Reassembly](https://www.youtube.com/watch?v=QxZ3BoAf3iQ)** by *Epi*.<br>
+
+#### DIY Controller Resources
+
+- **[sdvx-repo](https://github.com/veroxzik/sdvx-repo)** by *veroxzik*.<br>Contains part files for knobs and PCB designs.
+- **[arduino-konami-spoof](https://github.com/veroxzik/arduino-konami-spoof)** by *veroxzik*.<br>Library which aims to replicate IIDX and SDVX controllers.
+- **[SDVX-Controller-Project](https://github.com/eliasrenman/SDVX-Controller-Project)** by *eliasrenman*.<br>
+- **[LeonardoSDVX-Shield](https://github.com/Stormpegy/LeonardoSDVX-Shield)** by *Stormpegy*.<br>Open source IO shield for DIY SDVX controllers.
+- **[SDVX Controller References & Blueprints](https://drive.google.com/drive/folders/1eoIVi5EL2O50zfXw4_XU5H__uXGZi7O8)**.<br>
 
 <br>
 
