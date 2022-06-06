@@ -2,7 +2,7 @@
 
 It is undenyable that the *SOUND VOLTEX* series has grown in popularity throughout the years. As such, many players, maintainers, and other users have been making many contributious to the community, such as guides, messaging platforms, and even their own games simulating the *SOUND VOLTEX* gameplay experience along with custom charts. Through the years, many resources have accumulated in various places. As such, this webpage is an accumulation of those resources created by the community, official resources, and a parts list for controllers. This web page contains everything *SOUND VOLTEX*. 
 
-This webpage may not always be up to date with the newest resources available. An effort is made to update it somewhat regularly, however. The latest update was performed on 2022-06-05.
+This webpage may not always be up to date with the newest resources available. An effort is made to update it somewhat regularly, however. The latest update was performed on 2022-06-06.
 
 The #faq-guides channel in the [SDVX Community Discord Server](https://discord.gg/sdvx) contains resources and useful information as well, such as guides on setting up *SOUND VOLTEX EXCEED GEAR コナステ*, a Buyers guide for controllers, Useful links, and other recommendations. It is therefore advised to read this as well since it can not be hot-linked from this webpage. However, an effort was made to collect publically available resources mentioned there.
 
@@ -75,6 +75,8 @@ The main web page contains news feeds, quickstart guides and player data options
 
 ### Community Guides
 
+#### Game Setup
+
 - **[how to set up sound voltex exceed gear pc version](https://www.youtube.com/watch?v=LGNGPqIFF5g)** by *SV Kitten*.<br>
 - **[Setting Up SOUND VOLTEX Konasute EXCEED GEAR](https://voltexes.com/setting-up-sound-voltex-konasute-exceed-gear/)** by *Latchal*.<br>
 Also contains translations for the configuration menu.
@@ -82,13 +84,21 @@ Also contains translations for the configuration menu.
 - **[e-amusement How to: Charging PASELI and Basic Course Subscription](https://www.otaquest.com/e-amusement-how-to-charging-paseli-and-basic-course-subscription/)** by *Paul Richardson*.<br>Note that the *PASELI* website has recently updated.
 - **[How to bind your knobs for SDVX EACloud to work on SVSE5/RE9](https://www.youtube.com/watch?v=EAAR0kKzXok)** by *SV Kitten*.<br>Note that newer controllers usually have a dedicated EAC mode. Please use that instead. Use this method only when using an old controller.
 
+#### Other
+
+- **[Getting e-amusement Cards from Konasute Song Pack Campaigns](https://voltexes.com/getting-e-amusement-cards-from-konasute-song-pack-campaigns/)** by *Latchal*.
+
 <br>
 
 ### Community Resources
 
+#### Songlists
+
 - **[Sound Voltex Exceed Gear コナステ Charts](/sdvx/eaccharts/)** by *Amy*.<br>A sortable list of the charts included in the game, with linkks to respective [sdvx.in](sdvx.in) pages and song pack playlists.
 - **[SDVX Song List](https://myshkin.io/sdvx/songlist)**.<br>Song list which includes PC availability. Browsing for packs and chart levels is a bit easier with this list.
 - **[konasute songlist](https://docs.google.com/spreadsheets/d/1WyH_iRGu5kJOXC0MPOgebicsc39k5yjsErX_c-nSbX4/edit#gid=0)**.<br>This list only contains charts of level 18 and beyond.
+
+#### Input & Controls
 
 - **[Sound Voltex Controls](/sdvx/controls)** by *Amy*.<br>This page details the available controls for both the *EXCEED GEAR コナステ* and *VIVID WAVE* entries in the series. 
 - **[GlovePIE script for SDVX cloud](https://pastebin.com/wQsHLcs0)** by *Drewol*.<br>This script allows one to use old controllers with EAC. This is to be avoided if not necessary. 
@@ -118,6 +128,8 @@ The main web page contains news feeds, quickstart guides and player data options
 
 ### Community Guides
 
+#### Gameplay Guides
+
 - **[EXCEED GEAR Play Options Guide](https://voltexes.com/exceed-gear-play-options-guide/)** by *Latchal*.
 - **[MEGAMIX BATTLE](https://voltexes.com/megamix-battle/)** by *Latchal*.
 - **[HEXA DIVER](https://voltexes.com/hexa-diver/)** by *Latchal*.
@@ -125,18 +137,30 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[ARENA BATTLE](https://voltexes.com/arena-battle/)** by *Latchal*.
 - **[Effect Radar](https://voltexes.com/effect-radar/)** by *Latchal*.
 
+#### Resource Guides
+
 - **[How to use nearnoah.net and myamya](https://voltexes.com/how-to-use-nearnoah-myamya/)** by *Latchal*.
 - **[How to use Vaddict](https://voltexes.com/how-to-use-vaddict/)** by *Latchal*.
 
+#### Tips & Tricks
+
 - **[Tips on playing level 16: Going to the other side](https://www.reddit.com/r/kshootmania/comments/n662if/dunno_whether_this_would_be_useful_but_heres_a/)** by *JiminP*.
 - **[Tips on playing: Few essential knowledge on turning knobs](https://www.reddit.com/r/kshootmania/comments/ncecac/tips_on_turning_knobs/)** by *JiminP*.
-
 - **[The Big List of Jack Charts](https://voltexes.com/jack-charts/)** by *Latchal*.
 - **[The Big List of Booths of Fighters Practice Charts](https://voltexes.com/the-big-list-of-bof-practice-charts/)** by *Latchal*.
 - **[The Big List of Cross-hand Knob Charts](https://voltexes.com/the-big-list-of-cross-hand-knobs/)** by *Latchal*.
 
+#### Unlock Guides
+
 - **[SDVX Unlock Guide](https://docs.google.com/spreadsheets/d/1VBYWSUaKqHUOyfCtvkHFYBSnEPwxhTh8-m4UlU8zUL0/edit#gid=594247546)**. **Outdated**. 
 - **[Hexa Diver Guide Image](https://cdn.discordapp.com/attachments/209316761428819969/752529843446480937/HEXA_DIVER_SYSTEM_TUTORIAL.png)**.
+
+#### Shipping Guides
+
+- **[Proxy Shopping Services](https://voltexes.com/proxy-shopping-services/)** by *Latchal*.
+- **[Entering a Japanese Address into My KONAMI](https://voltexes.com/entering-a-japanese-address-into-my-konami/)** by *Latchal*.
+
+#### Other
 
 - **[Voltexes Guides List](https://voltexes.com/guides/)**.<br>Compilation of guides by Latchal and other resources.
 
@@ -144,14 +168,18 @@ The main web page contains news feeds, quickstart guides and player data options
 
 ### Community Resources
 
+#### Chart & Music Information
+
 - **[sdvx.in](https://sdvx.in/)**.<br>One of the oldest, and most useful, resources available for the series. This website contains detailed overviews of the majority of charts for players to study and practice with. 
 - **[SDVX Song List](https://myshkin.io/sdvx/songlist)**.<br>Song list which includes PC availability.
 
-- **[Unofficial SDVX English Info Twitter](https://twitter.com/sdvx_english)**.<br>Translates announcements from the official *SOUND VOLTEX* Twitter accounts.
+#### Score Trackers
 
 - **[nearnoah.net](https://nearnoah.net/)**.<br>Score tracker specifically for *SOUND VOLTEX* arcade scores. See Latchal's guide on how to use it.
 - **[SDVX Task Song Generator](https://myamyasdvx.herokuapp.com/)**.<br>Receive chart recommendations based on nearnoah.net profile. See Latchal's guide on how to use it.
 - **[Vaddict](https://vaddict.mono-logic.com/)**.<br>Somewhat of a score tracker. It is useful for generating infographics from your *SOUND VOLTEX* arcade scores. See Latchal's guide on how to use it.
+
+#### Difficulty Tables
 
 - **[Maya2](https://sdvx.maya2silence.com/)**.<br>Difficulty tables generated from *Vaddict* data. Users can mark charts within tables for their own purposes.
 - **[SDVX Clear Difficulty Table](https://docs.google.com/spreadsheets/d/1cFltguBvPplBem-x1STHnG3k4TZzFfyNEZ-RwsQszoo/edit#gid=1555610727)**.<br>Community-made difficulty table cataloguing most charts of level 16 and above into various clear difficulty tiers. See legend [here](/sdvx/resources/difftable.txt). 
@@ -159,12 +187,16 @@ The main web page contains news feeds, quickstart guides and player data options
 
 - **[SDVXDiffTable Twitter](https://twitter.com/SDVXDiffTable)** by *@SDVXDiffTable*.<br>Other difficulty tables published through Twitter. This is based 80% on their personal experience. No longer updated.
 
+#### Cabinet Information
+
 - **[GameRepair.info SOUND VOLTEX](https://gamerepair.info/games/35_sound_voltex)**.<br>Information about *SOUND VOLTEX* arcade cabinets. 
 - **[GameRepair.info Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)**.<br>Information about the knob brackets. 
 
+#### Other
+
 - **[Gauge Drain Values Image](https://cdn.discordapp.com/attachments/209316761428819969/752529745668997130/unknown.png)**. **Possibly outdated**. 
 - **[VIVID WAVE Folder Translations Image](https://volteacademia.s-ul.eu/j5Q4On12.png)**. 
-
+- **[Unofficial SDVX English Info Twitter](https://twitter.com/sdvx_english)**.<br>Translates announcements from the official *SOUND VOLTEX* Twitter accounts.
 - **[Voltexes Useful Links List](https://voltexes.com/useful-links/)**.<br>Other compilation of resources.
 
 <br>
@@ -425,12 +457,16 @@ The editor shipped with *K-Shoot Mania* is commonly used within the community to
 
 ### Useful Discord Servers & Communities
 
+#### Discord Servers
+
 - **[SDVX Community](https://discord.gg/sdvx)**.<br>English Community Server. Previously known as *K-Shoot MANIA Community*. The #faq-guides channel contains useful guides as well. Make sure to check it out.
 - **[Kalesy's Hub](https://discord.gg/SQH7wsX)**.<br>English rhythm game Server. 
 - **[Bokutachi](https://discord.gg/E4n8ZZF5ES)**.<br>USC & BMS Internet Ranking Server. 
 - **[Unnamed SDVX Clone](https://discord.gg/ceCWx3X)**.<br>Official USC Server. 
 - **[Cons&Stuff](https://discord.gg/fknwz8s)**.<br>For anything DIY for controllers. 
 - **[YuanCon](https://discord.gg/4ncuRrq)**.<br>Official YuanCon Server. 
+
+#### Other
 
 - **[r/kshootmania](https://www.reddit.com/r/kshootmania/new/)**.<br>This subreddit is generally used for community driven *SOUND VOLTEX*-like gameplay. USC discussion is also included here.
 - **[K-Shoot MANIA (International)](https://www.facebook.com/groups/internationalksm/about)**.<br>The OG KSM / SDVX community, along with the [subreddit](https://www.reddit.com/r/kshootmania/new/). This group was established early 2015. It's most prominent members at the time can still be found in the various communities listed above. It is not active anymore and listing it here merely serves as a homage to what it once was. This also counts for the [forum](https://kshootmania.forumotion.com/) which was founded by some of the members of the Facebook group. It is suffice to say that this forum is now inactive as well. 
