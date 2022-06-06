@@ -58,4 +58,8 @@ exclude:
   - 2021-11-26-welcome-to-jekyll.markdown
   - localserver.bat
   - Readme.md
+  - /sdvx/eaccharts/index_Backup_2022-4-4.md
+  - /sdvx/eaccharts/index_Backup_2022-5-2.md
+  - /sdvx/eaccharts/index_Backup_2022-6-2.md
+  - /sdvx/eaccharts/index_Backup_Playlist.md
   - /sdvx/eaccharts/index_Backup_sdvxin.md
