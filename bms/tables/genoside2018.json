@@ -1,10 +1,10 @@
 {
-    "name": "GENOSIDE 2018 段位認定",
+    "name": "GENOSIDE 2018",
     "symbol": "▽",
     "course": [
         [
             {
-                "name": "GENOSIDE 2018 初段",
+                "name": "段位認定 初段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
@@ -35,7 +35,7 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 二段",
+                "name": "段位認定 二段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
@@ -66,7 +66,7 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 三段",
+                "name": "段位認定 三段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
@@ -97,7 +97,7 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 四段",
+                "name": "段位認定 四段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
@@ -128,7 +128,7 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 五段",
+                "name": "段位認定 五段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
@@ -159,7 +159,7 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 六段",
+                "name": "段位認定 六段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
@@ -190,7 +190,7 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 七段",
+                "name": "段位認定 七段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
@@ -221,7 +221,7 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 八段",
+                "name": "段位認定 八段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
@@ -252,7 +252,7 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 九段",
+                "name": "段位認定 九段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
@@ -283,7 +283,7 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 十段",
+                "name": "段位認定 十段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
@@ -314,12 +314,17 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 発狂初段",
+                "name": "段位認定 発狂初段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
                 ],
                 "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
                     {
                         "name": "silvermedal",
                         "missrate": 5.0,
@@ -340,12 +345,17 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 発狂二段",
+                "name": "段位認定 発狂二段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
                 ],
                 "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
                     {
                         "name": "silvermedal",
                         "missrate": 5.0,
@@ -366,12 +376,17 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 発狂三段",
+                "name": "段位認定 発狂三段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
                 ],
                 "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
                     {
                         "name": "silvermedal",
                         "missrate": 5.0,
@@ -392,12 +407,17 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 発狂四段",
+                "name": "段位認定 発狂四段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
                 ],
                 "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
                     {
                         "name": "silvermedal",
                         "missrate": 5.0,
@@ -418,12 +438,17 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 発狂五段",
+                "name": "段位認定 発狂五段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
                 ],
                 "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
                     {
                         "name": "silvermedal",
                         "missrate": 5.0,
@@ -444,12 +469,17 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 発狂六段",
+                "name": "段位認定 発狂六段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
                 ],
                 "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
                     {
                         "name": "silvermedal",
                         "missrate": 5.0,
@@ -470,12 +500,17 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 発狂七段",
+                "name": "段位認定 発狂七段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
                 ],
                 "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
                     {
                         "name": "silvermedal",
                         "missrate": 5.0,
@@ -496,12 +531,17 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 発狂八段",
+                "name": "段位認定 発狂八段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
                 ],
                 "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
                     {
                         "name": "silvermedal",
                         "missrate": 5.0,
@@ -522,12 +562,17 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 発狂九段",
+                "name": "段位認定 発狂九段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
                 ],
                 "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
                     {
                         "name": "silvermedal",
                         "missrate": 5.0,
@@ -548,12 +593,17 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 発狂十段",
+                "name": "段位認定 発狂十段",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
                 ],
                 "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
                     {
                         "name": "silvermedal",
                         "missrate": 5.0,
@@ -574,12 +624,17 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 発狂皆伝",
+                "name": "段位認定 発狂皆伝",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
                 ],
                 "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
                     {
                         "name": "silvermedal",
                         "missrate": 5.0,
@@ -600,12 +655,17 @@
                 ]
             },
             {
-                "name": "GENOSIDE 2018 Overjoy",
+                "name": "段位認定 Overjoy",
                 "constraint": [
                     "grade_mirror",
                     "gauge_lr2"
                 ],
                 "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
                     {
                         "name": "silvermedal",
                         "missrate": 5.0,
@@ -623,6 +683,688 @@
                     "77d23be22b2370925c573d922276bce0",
                     "188a99f74ab71804f2e360dcf484545c",
                     "c46a81cb184f5a804c119930d6eba748"
+                ]
+            },
+            {
+                "name": "DP段位認定 初段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "98fa5d9e8e9ddca1dc78ba15d231bd27",
+                    "9a25380cede7740b2f61d03dc5480daf",
+                    "50a21694c6d36650104f07e5ecde5a31",
+                    "6c77ca5053489a4857ed4f6d53ff0bda"
+                ]
+            },
+            {
+                "name": "DP段位認定 二段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "b88c27b0eb914887e9866b17a9428f6c",
+                    "98b5e55861b7d80aa2f804bb8e7da67a",
+                    "9000d359f49fa0a5b23b57ba53a637b2",
+                    "d4d1121468e3a2c6df5e7ace219be6ed"
+                ]
+            },
+            {
+                "name": "DP段位認定 三段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "74aed698dbaaefcfb7c127ffa6e52df0",
+                    "864cd738c77820e47b534d5604076ad5",
+                    "8afe65a262f4baf6fe3e77ff14053e61",
+                    "5b0fe12541a65f142e8bbd6a82cfc05c"
+                ]
+            },
+            {
+                "name": "DP段位認定 四段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "4a61bd30f1c05fd31c4a8674e94cf997",
+                    "3340e601f36de19f588619bca3711cad",
+                    "1cedfdbcf57dfb61034742856d98ae49",
+                    "aa48dcf2d9e1255d486b68cf4ab7030c"
+                ]
+            },
+            {
+                "name": "DP段位認定 五段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "efb3782c7b24dfacdc5b4a82e271285c",
+                    "4fd0fd1666452b5b8303657e916c7e2b",
+                    "0b681af46981a7cf2b545b91a342558c",
+                    "dbf68c2913053f4bdd522bb22b603cf4"
+                ]
+            },
+            {
+                "name": "DP段位認定 六段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "b6c15d50d23d26dd6f4ed704bf841ca0",
+                    "30da8fb7c26513b4e4ddbe181f9f76f7",
+                    "d47f8fd5e6869fb8145faef6116d4103",
+                    "f07a6de8994eb2da3c042c22a312631f"
+                ]
+            },
+            {
+                "name": "DP段位認定 七段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "edf3b1ea6f50db56f0e60e6424d6be06",
+                    "409598edc02012ea8221a51a0e136532",
+                    "46b4e241f33bd7c6b29747baf35b31ec",
+                    "537cf5dab0dd15f0269883ca9637369a"
+                ]
+            },
+            {
+                "name": "DP段位認定 八段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "76ffc39aeb37f764acaf0438b4d96380",
+                    "8849d1b1d585c41169a0bd293df39bc2",
+                    "52c1eb44fd0349389922481998467eac",
+                    "8a5764f0870aef1cd76d7cddc0645dc5"
+                ]
+            },
+            {
+                "name": "DP段位認定 九段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "bdfe182cded7b5a9a3621e144b2cc721",
+                    "1aa32cee26bc4bd1015993ba90443b09",
+                    "163abdc453532bf9fffd7274017785cd",
+                    "209cc0bcdf99cc8bc20406d503a3aff6"
+                ]
+            },
+            {
+                "name": "DP段位認定 十段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "red",
+                "md5": [
+                    "1c99cfd2b59be2886912d33a4847c54b",
+                    "cd08172d882815ec050329e414d902b9",
+                    "3e95ebbb4a00a339a6c2507afa74e804",
+                    "dde0d1af6661b320ef3b5280e5bd1c7d"
+                ]
+            },
+            {
+                "name": "DP段位認定 発狂初段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "bce5f4227525f6d985080959d7cf8c45",
+                    "30ee162381930f52ade58071c5210298",
+                    "52ffc90743c0f229a15898df0408f6fe",
+                    "29f477f2d0010cd070f13ba7e799a731"
+                ]
+            },
+            {
+                "name": "DP段位認定 発狂二段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "04bd108676a4d74c9667f1d46c598771",
+                    "93001c4a476b60aefb397cd47e016ee6",
+                    "0679dc2738135b8584327e7440aa6046",
+                    "83dfffe6695cad75d18262e58c93803e"
+                ]
+            },
+            {
+                "name": "DP段位認定 発狂三段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "a18f96c14a98ce2290b35e1827f8ade6",
+                    "c02d8d918d8ce038129464211c9889af",
+                    "f05446eb6b77c79ee0d62114005d840b",
+                    "c0fcc9de190b380187921ebd8171d18a"
+                ]
+            },
+            {
+                "name": "DP段位認定 発狂四段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "a663bfa7a84978c1d96b024c7fa2b7dc",
+                    "40aaa9dc5ab54026719370c068ea39bd",
+                    "7345e3f41c6f0918d6dc431fd0be4bf0",
+                    "a27df82d4fcac0d543a397764a4f265c"
+                ]
+            },
+            {
+                "name": "DP段位認定 発狂五段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "3eb02eb1762dfa2cf6f2689ba15977fe",
+                    "c4a096ac67f6e8224e9872bd465308f7",
+                    "1db8dea9aabbe945ff39e16545f10f09",
+                    "180b0eb62d37b5cc74a3f5937bd9fdda"
+                ]
+            },
+            {
+                "name": "DP段位認定 発狂六段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "7480de49b770f6852898bf8b6ab51cbc",
+                    "a6f82198424691c199e5163f49506554",
+                    "b0a883ac48797b392c1dcf096592809c",
+                    "44f2352a791a52d7e584fa063b4d1b24"
+                ]
+            },
+            {
+                "name": "DP段位認定 発狂七段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "322ef08c16f7420069a67fb66301f93f",
+                    "706085fc30e345fb202037e2482e91f7",
+                    "952e1b207987c5941daa66ed4905e5c4",
+                    "29b709780e5bafad29dd451b94137bf8"
+                ]
+            },
+            {
+                "name": "DP段位認定 発狂八段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "c8dc214003898e6ace09d3341701fc01",
+                    "438ab055f0d920b181c67687cebf1cd4",
+                    "23ad14776bda285fe04640ebdf98e268",
+                    "1e4c60623dbcdec050af73f4260ba029"
+                ]
+            },
+            {
+                "name": "DP段位認定 発狂九段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "4d59b6c9c5e7ca79b899dc450c2a26d6",
+                    "30dc841e3829dfb3003c22fbc77d6fc1",
+                    "11ea77e96ba9a1a61447cd35ccecdb77",
+                    "876c09843f04168601f52aa4b17522f6"
+                ]
+            },
+            {
+                "name": "DP段位認定 発狂十段",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "a40ee9ce409b7b8ad3a6462843c6950a",
+                    "07ea69b9a864dac1a7e0535e28adccbc",
+                    "5eec61334ada9b17e6f9680283e312d8",
+                    "6abd5e8d57c981af7484d9fa25c44e51"
+                ]
+            },
+            {
+                "name": "DP段位認定 発狂皆伝",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "ce4b526b809db30a71e9e2be9880f303",
+                    "307012cfa0cdb675d0b1d4021cfd416a",
+                    "400f6ec1dd53fd3b97c82596f313ea56",
+                    "d085ad2a0303878aefbbd571d02e2790"
+                ]
+            },
+            {
+                "name": "DP段位認定 Overjoy",
+                "constraint": [
+                    "grade_mirror",
+                    "gauge_lr2"
+                ],
+                "trophy": [
+                    {
+                        "name": "bronzemedal",
+                        "missrate": 7.5,
+                        "scorerate": 0.0
+                    },
+                    {
+                        "name": "silvermedal",
+                        "missrate": 5.0,
+                        "scorerate": 70.0
+                    },
+                    {
+                        "name": "goldmedal",
+                        "missrate": 2.5,
+                        "scorerate": 85.0
+                    }
+                ],
+                "style": "lightgreen",
+                "md5": [
+                    "6fe6ad45f4759fe83787b7aa1da94236",
+                    "344270b1434da215f09d837cf282ca5c",
+                    "1337ece34d90ced31890c67bca9106da",
+                    "4d2362fba5a3940ce9c97763bd92a5a2"
                 ]
             }
         ]
