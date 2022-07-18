@@ -44,10 +44,11 @@ The #faq-guides channel in the [SDVX Community Discord Server](https://discord.g
 > &nbsp; &nbsp; &nbsp; &nbsp; [LEDS](#leds)<br>
 > &nbsp; &nbsp; &nbsp; &nbsp; [Other](#other)<br>
 > &nbsp; &nbsp; &nbsp; &nbsp; [Stores](#stores)<br>
+> &nbsp; &nbsp; [Community Guides](#community-guides-4)<br>
 > &nbsp; &nbsp; [Community Resources](#community-resources-5)<br>
 > [Custom Charts](#custom-charts)<br>
 > &nbsp; &nbsp; [Custom Chart Repositories & Packs](#custom-chart-repositories--packs)<br>
-> &nbsp; &nbsp; [Community Guides & Resources](#community-guides--resources-1)<br>
+> &nbsp; &nbsp; [Community Guides & Resources](#community-guides--resources)<br>
 > [Other](#other)<br>
 > &nbsp; &nbsp; [Generally Useful Rhythm-Game Resources](#generally-useful-rhythm-game-resources)<br>
 > &nbsp; &nbsp; [Useful Discord Servers & Communities](#useful-discord-servers--communities)<br>
@@ -78,7 +79,7 @@ The main web page contains news feeds, quickstart guides and player data options
 #### Game Setup
 
 - **[how to set up sound voltex exceed gear pc version](https://www.youtube.com/watch?v=LGNGPqIFF5g)** by *SV Kitten*.<br>
-- **[Setting Up SOUND VOLTEX Konasute EXCEED GEAR](https://voltexes.com/setting-up-sound-voltex-konasute-exceed-gear/)** by *Latchal*.<br>
+- **[Setting Up SOUND VOLTEX Konasute EXCEED GEAR](https://voltexes.com/setting-up-sound-voltex-konasute-exceed-gear/)** by *Voltexes*.<br>
 Also contains translations for the configuration menu.
 - **[How to: Japanese KONAMI ID registration & e-amusement pass management](https://www.otaquest.com/how-to-register-for-a-japanese-konami-id-and-manage-your-eamusement-pass/)** by *Paul Hartling*.<br>It's an old guide but the principles in the account creation remain roughly the same.
 - **[e-amusement How to: Charging PASELI and Basic Course Subscription](https://www.otaquest.com/e-amusement-how-to-charging-paseli-and-basic-course-subscription/)** by *Paul Richardson*.<br>Note that the *PASELI* website has recently updated.
@@ -86,7 +87,7 @@ Also contains translations for the configuration menu.
 
 #### Other
 
-- **[Getting e-amusement Cards from Konasute Song Pack Campaigns](https://voltexes.com/getting-e-amusement-cards-from-konasute-song-pack-campaigns/)** by *Latchal*.
+- **[Getting e-amusement Cards from Konasute Song Pack Campaigns](https://voltexes.com/getting-e-amusement-cards-from-konasute-song-pack-campaigns/)** by *Voltexes*.
 
 <br>
 
@@ -102,6 +103,8 @@ Also contains translations for the configuration menu.
 
 - **[Sound Voltex Controls](/sdvx/controls)** by *Amy*.<br>This page details the available controls for both the *EXCEED GEAR コナステ* and *VIVID WAVE* entries in the series. 
 - **[GlovePIE script for SDVX cloud](https://pastebin.com/wQsHLcs0)** by *Drewol*.<br>This script allows one to use old controllers with EAC. This is to be avoided if not necessary. 
+
+More useful resources can be found in [Sound Voltex Arcade Games](#sound-voltex-arcade-games) → [Community Guides](#community-guides-1) & [Community Resources](#community-resources-1).
 
 <br>
 
@@ -130,25 +133,26 @@ The main web page contains news feeds, quickstart guides and player data options
 
 #### Gameplay Guides
 
-- **[EXCEED GEAR Play Options Guide](https://voltexes.com/exceed-gear-play-options-guide/)** by *Latchal*.
-- **[MEGAMIX BATTLE](https://voltexes.com/megamix-battle/)** by *Latchal*.
-- **[HEXA DIVER](https://voltexes.com/hexa-diver/)** by *Latchal*.
-- **[BLASTER PASS (EG ver.)](https://voltexes.com/blaster-pass-eg-ver/)** by *Latchal*.
-- **[ARENA BATTLE](https://voltexes.com/arena-battle/)** by *Latchal*.
-- **[Effect Radar](https://voltexes.com/effect-radar/)** by *Latchal*.
+- **[[Arcade Quick Start] Your First SOUND VOLTEX Credit](https://voltexes.com/arcade-quick-start-guide-eg/)** by *Voltexes*.
+- **[EXCEED GEAR Play Options Guide](https://voltexes.com/exceed-gear-play-options-guide/)** by *Voltexes*.
+- **[MEGAMIX BATTLE](https://voltexes.com/megamix-battle/)** by *Voltexes*.
+- **[HEXA DIVER](https://voltexes.com/hexa-diver/)** by *Voltexes*.
+- **[BLASTER PASS (EG ver.)](https://voltexes.com/blaster-pass-eg-ver/)** by *Voltexes*.
+- **[ARENA BATTLE](https://voltexes.com/arena-battle/)** by *Voltexes*.
+- **[Effect Radar](https://voltexes.com/effect-radar/)** by *Voltexes*.
 
 #### Resource Guides
 
-- **[How to use nearnoah.net and myamya](https://voltexes.com/how-to-use-nearnoah-myamya/)** by *Latchal*.
-- **[How to use Vaddict](https://voltexes.com/how-to-use-vaddict/)** by *Latchal*.
+- **[How to use nearnoah.net and myamya](https://voltexes.com/how-to-use-nearnoah-myamya/)** by *Voltexes*.
+- **[How to use Vaddict](https://voltexes.com/how-to-use-vaddict/)** by *Voltexes*.
 
 #### Tips & Tricks
 
 - **[Tips on playing level 16: Going to the other side](https://www.reddit.com/r/kshootmania/comments/n662if/dunno_whether_this_would_be_useful_but_heres_a/)** by *JiminP*.
 - **[Tips on playing: Few essential knowledge on turning knobs](https://www.reddit.com/r/kshootmania/comments/ncecac/tips_on_turning_knobs/)** by *JiminP*.
-- **[The Big List of Jack Charts](https://voltexes.com/jack-charts/)** by *Latchal*.
-- **[The Big List of Booths of Fighters Practice Charts](https://voltexes.com/the-big-list-of-bof-practice-charts/)** by *Latchal*.
-- **[The Big List of Cross-hand Knob Charts](https://voltexes.com/the-big-list-of-cross-hand-knobs/)** by *Latchal*.
+- **[The Big List of Jack Charts](https://voltexes.com/jack-charts/)** by *Voltexes*.
+- **[The Big List of Booths of Fighters Practice Charts](https://voltexes.com/the-big-list-of-bof-practice-charts/)** by *Voltexes*.
+- **[The Big List of Cross-hand Knob Charts](https://voltexes.com/the-big-list-of-cross-hand-knobs/)** by *Voltexes*.
 
 #### Unlock Guides
 
@@ -157,12 +161,12 @@ The main web page contains news feeds, quickstart guides and player data options
 
 #### Shipping Guides
 
-- **[Proxy Shopping Services](https://voltexes.com/proxy-shopping-services/)** by *Latchal*.
-- **[Entering a Japanese Address into My KONAMI](https://voltexes.com/entering-a-japanese-address-into-my-konami/)** by *Latchal*.
+- **[Proxy Shopping Services](https://voltexes.com/proxy-shopping-services/)** by *Voltexes*.
+- **[Entering a Japanese Address into My KONAMI](https://voltexes.com/entering-a-japanese-address-into-my-konami/)** by *Voltexes*.
 
 #### Other
 
-- **[Voltexes Guides List](https://voltexes.com/guides/)**.<br>Compilation of guides by Latchal and other resources.
+- **[Voltexes Guides List](https://voltexes.com/guides/)**.<br>Compilation of guides by *Voltexes* and other resources.
 
 <br>
 
@@ -175,17 +179,16 @@ The main web page contains news feeds, quickstart guides and player data options
 
 #### Score Trackers
 
-- **[nearnoah.net](https://nearnoah.net/)**.<br>Score tracker specifically for *SOUND VOLTEX* arcade scores. See Latchal's guide on how to use it.
-- **[SDVX Task Song Generator](https://myamyasdvx.herokuapp.com/)**.<br>Receive chart recommendations based on nearnoah.net profile. See Latchal's guide on how to use it.
-- **[Vaddict](https://vaddict.mono-logic.com/)**.<br>Somewhat of a score tracker. It is useful for generating infographics from your *SOUND VOLTEX* arcade scores. See Latchal's guide on how to use it.
+- **[nearnoah.net](https://nearnoah.net/)**.<br>Score tracker specifically for *SOUND VOLTEX* arcade scores. See Voltexes's guide on how to use it.
+- **[SDVX Task Song Generator](https://myamyasdvx.herokuapp.com/)**.<br>Receive chart recommendations based on nearnoah.net profile. See Voltexes's guide on how to use it.
+- **[Vaddict](https://vaddict.mono-logic.com/)**.<br>Somewhat of a score tracker. It is useful for generating infographics from your *SOUND VOLTEX* arcade scores. See Voltexes's guide on how to use it.
 
 #### Difficulty Tables
 
 - **[Maya2](https://sdvx.maya2silence.com/)**.<br>Difficulty tables generated from *Vaddict* data. Users can mark charts within tables for their own purposes.
 - **[SDVX Clear Difficulty Table](https://docs.google.com/spreadsheets/d/1cFltguBvPplBem-x1STHnG3k4TZzFfyNEZ-RwsQszoo/edit#gid=1555610727)**.<br>Community-made difficulty table cataloguing most charts of level 16 and above into various clear difficulty tiers. See legend [here](/sdvx/resources/difftable.txt). 
-- **Twitter Difftables: [16 PUC by *@M2MR_SDVX*](https://twitter.com/M2MR_SDVX/status/1228545253101031424), [16 PUC by *@sdvx_16puc*](https://twitter.com/sdvx_16puc/status/1495693862878457856), [17 PUC by *@sdvx_17puc*](https://twitter.com/sdvx_17puc/status/1527953895594799105), [18 PUC by *@PUC_level*](https://twitter.com/PUC_level/status/1483107428590026754), [17S, 18S by *@patchesarna*](https://twitter.com/patchesarna/status/1183245847951110145), [17S by *@hyacinth_95*](https://twitter.com/hyacinth_95/status/1397536214853447682)**.<br>
 
-- **[SDVXDiffTable Twitter](https://twitter.com/SDVXDiffTable)** by *@SDVXDiffTable*.<br>Other difficulty tables published through Twitter. This is based 80% on their personal experience. No longer updated.
+- **Twitter Difftables: [16 PUC by *@M2MR_SDVX*](https://twitter.com/M2MR_SDVX/status/1228545253101031424), [16 PUC by *@sdvx_16puc*](https://twitter.com/sdvx_16puc/status/1495693862878457856), [17 PUC by *@sdvx_17puc*](https://twitter.com/sdvx_17puc/status/1527953895594799105), [18 PUC by *@PUC_level*](https://twitter.com/PUC_level/status/1483107428590026754), [17S, 18S by *@patchesarna*](https://twitter.com/patchesarna/status/1183245847951110145), [17S by *@hyacinth_95*](https://twitter.com/hyacinth_95/status/1397536214853447682)**, **[SDVXDiffTable by *@SDVXDiffTable*](https://twitter.com/SDVXDiffTable)**.<br>SDVXDiffTable is no longer updated.
 
 #### Cabinet Information
 
@@ -194,10 +197,12 @@ The main web page contains news feeds, quickstart guides and player data options
 
 #### Other
 
+- **[Volforce spreadsheet](https://docs.google.com/spreadsheets/d/1sTxid10yIxrGzxRemGo5IyB2GjMg1o2f7Tn2fR7Ym74/edit#gid=0)**.<br>Diagram of volforce given for a score calculated for level and lamp.
 - **[Gauge Drain Values Image](https://cdn.discordapp.com/attachments/209316761428819969/752529745668997130/unknown.png)**. **Possibly outdated**. 
 - **[VIVID WAVE Folder Translations Image](https://volteacademia.s-ul.eu/j5Q4On12.png)**. 
 - **[Unofficial SDVX English Info Twitter](https://twitter.com/sdvx_english)**.<br>Translates announcements from the official *SOUND VOLTEX* Twitter accounts.
-- **[Voltexes Useful Links List](https://voltexes.com/useful-links/)**.<br>Other compilation of resources.
+- **[VM locations](https://twitter.com/VMS_sdvx)**.<br>Spreadsheet of VM locations mentioned in the pinned tweet.
+- **[Voltexes Useful Links List](https://voltexes.com/useful-links/)**.<br>Other compilation of resources by *Voltexes*.
 
 <br>
 
@@ -432,6 +437,13 @@ Other:
 
 <br>
 
+### Community Guides
+
+- **[Chanwa button mod](https://rvtk-1.github.io/iidx-chanwa/)**<br>This guide details a major difference between Sanwa and other buttons, and how to mod your buttons to achieve a somewhat similar feel.
+- **[SDVX controller dismantle guide : Change chinese button to Sanwa](https://www.youtube.com/watch?v=d3ThWetHoFM)** by *Tokaku*.<br>
+
+<br>
+
 ### Community Resources
 
 #### Other Parts Lists
@@ -443,6 +455,7 @@ Other:
 #### Reference
 
 - **[SDVX AC-Style Knob Disassembly and Reassembly](https://www.youtube.com/watch?v=QxZ3BoAf3iQ)** by *Epi*.<br>
+- **[Photo reference of VM parts](https://twitter.com/ADXkasugai/status/1421892398251081730)** by *@ADXkasugai*.<br>
 
 #### DIY Controller Resources
 
