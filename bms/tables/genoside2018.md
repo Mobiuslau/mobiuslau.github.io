@@ -30,3 +30,10 @@ Both SP and DP courses are implemented. The courses can be recognised as follows
 |十段|10th dan|
 |||
 |発狂|Insane courses|
+
+The 'original' Beatoraja tables can be found here (Note that Bokutachi will not accept the constraints for some of these courses, which is why this table exists):
+
+- [Normal](http://rattoto10.jounin.jp/table.html)
+- [Insane](http://rattoto10.jounin.jp/table_insane.html)
+- [DP Delta](http://dpbmsdelta.web.fc2.com/table/dpdelta.html)
+- [DP Insane](http://dpbmsdelta.web.fc2.com/table/insane.html)
