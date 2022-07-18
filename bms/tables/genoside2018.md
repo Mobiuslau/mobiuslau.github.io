@@ -1,4 +1,4 @@
-# GENOSIDE 2018 Tables
+# GENOSIDE 2018 Course Table
 
 <meta name="bmstable" content="genoside2018.json">
 
