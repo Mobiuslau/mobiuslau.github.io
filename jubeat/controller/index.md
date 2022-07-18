@@ -134,13 +134,12 @@ Arcade size monitors are absurdly difficult to obtain. Therefore, a 27" monitor 
 
 ### Parts
 
-Here is a list of parts which can be used for Jubeat ASC projects. Links to hardware are to Dutch webshops, but these parts should be obtainable elsewhere.
-
-Currently there is no place which offers new acryllic buttons. Perhaps they can be obtained second hand, or along with an original panel.
+Here is a list of parts which can be used for Jubeat ASC projects. Links to hardware are to Dutch webshops, but these parts should be obtainable elsewhere. Jubeat specific parts can be obtained through [Yubiparts](https://yubiparts.com/).
 
 |Category|Part|#|
 |:-|:-|:-:|
-|Buttons|[PCB's](https://yubiparts.com/products/jubeat-button-sensor-pcb-board-frame?variant=40168391147707)|8|
+|Buttons|[Acrylic Buttons](https://yubiparts.com/products/jubeat-fb9-acrylic-buttons?variant=42102259941563)|16|
+||[PCB's](https://yubiparts.com/products/jubeat-button-sensor-pcb-board-frame?variant=40168391147707)|8|
 ||[Corner rubbers](https://yubiparts.com/products/jubeat-rubbers?variant=40168392753339)|64|
 ||||
 |Screws & Nuts|[M3x8L Pan Screw](https://tinyurl.com/24es6s7n)|36|
