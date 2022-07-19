@@ -16,7 +16,6 @@ I like documenting things I find interesting. This is not my portfolio.
 <button onclick="buttonFunc()">Music of the month.</button>
 
 <div id="buttonStyle" style="display:none;">
-    Stunning rhythms! I like the 7/4 grooves and 11/8 cleverness!<br>
     <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/L2eh4l0Z3qU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
