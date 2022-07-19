@@ -6,13 +6,13 @@ title: Hello!
 
 I like documenting things I find interesting. This is not my portfolio.
 
-|<img src="VRChat.png" style="margin: 6px 0 0 -9px;" width="512px">|I'm Amy (Mobiuslau), a theoretical physics grad student who loves to make & compose music, make graphic designs and play games like Sound Voltex, Jubeat, Beatmania IIDX and Falcon BMS. Perhaps you'll find something interesting here. Feel free to contact me too.|
+|<img src="VRChat.png" style="margin: 6px 0 0 -9px;" width="512px">|I’m Amy (Mobiuslau), a theoretical physics master student who loves to make & compose music, do graphic design, and play games like Sound Voltex, Chunithm, Beatmania IIDX, BMS, Jubeat, and occasionally Chess. Perhaps you’ll find something interesting here. Feel free to contact me too.|
 
 <button onclick="buttonFunc()">Music of the month.</button>
 
 <div id="buttonStyle" style="display:none;">
     Stunning rhythms! I like the 7/4 grooves and 11/8 cleverness!<br>
-    <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/TX3F0KyzaK8" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/L2eh4l0Z3qU" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <script>
