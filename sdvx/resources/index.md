@@ -306,7 +306,7 @@ The control parts used by the arcade cabinets are listed below. This is only rea
 
 #### Buttons, Microswitches & Springs
 
-The Sanwa buttons listed below come with an *Sanwa OBSA-SP* 100g spring, an *Sanwa OBSA-LHS1F-LN* integrated lamp & switch holder housing an *MS-O-3* (Omron V-10-1A4) 100g microswitch, and a *Sanwa SWA-LED-#-12V* LED [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741)]. The LEDs operate at 12V in the arcade cabinets [*Citation Needed*]. The switch can not be replaced with these lamp holders.
+The Sanwa buttons listed below come with an *Sanwa OBSA-SP* 100g spring, an *Sanwa OBSA-LHS1F-LN* integrated lamp & switch holder housing a *V-11-3D4-SD* 100g microswitch, and a *Sanwa SWA-LED-#-12V* LED [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741), [10](https://discord.com/channels/101851954677837824/290969876548419584/908570355411591198)]. The LEDs operate at 12V in the arcade cabinets [*Citation Needed*]. The switch can not be replaced with these lamp holders.
 
 See <a href="sanwa_button_product_codes">This table</a> for a description of the button product codes [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741)].
 
@@ -401,6 +401,7 @@ The VX and D3V series' have been an interesting addition to the microswitch line
 Other:
 
 - **Gersung GSM-V0303A06**.<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526).<br>Estimated as 75g [[9](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526#qna)].
+- **Cherry D45X**<br>[arcadexpress](https://www.arcadexpress.com/en/microswitches/284-4-x-microswitch-cherry-d45x-48mm.html).<br>100g switch [[11](https://datasheet.octopart.com/D41CR1LD-Cherry-datasheet-41857.pdf)].
 
 <br>
 
@@ -454,6 +455,8 @@ Other:
 
 #### Reference
 
+- **[GameRepair.info SOUND VOLTEX](https://gamerepair.info/games/35_sound_voltex)**.<br>Information about *SOUND VOLTEX* arcade cabinets. 
+- **[GameRepair.info Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)**.<br>Information about the knob brackets. 
 - **[SDVX AC-Style Knob Disassembly and Reassembly](https://www.youtube.com/watch?v=QxZ3BoAf3iQ)** by *Epi*.<br>
 - **[Photo reference of VM parts](https://twitter.com/ADXkasugai/status/1421892398251081730)** by *@ADXkasugai*.<br>
 
@@ -463,6 +466,7 @@ Other:
 - **[SDVX-Controller-Project](https://github.com/eliasrenman/SDVX-Controller-Project)** by *eliasrenman*.<br>
 - **[LeonardoSDVX-Shield](https://github.com/Stormpegy/LeonardoSDVX-Shield)** by *Stormpegy*.<br>Open source IO shield for DIY SDVX controllers.
 - **[SDVX Controller References & Blueprints](https://drive.google.com/drive/folders/1eoIVi5EL2O50zfXw4_XU5H__uXGZi7O8)**.<br>
+- **[Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers)**.<br>
 
 #### DIY Controller Code
 
