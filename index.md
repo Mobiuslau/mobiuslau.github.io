@@ -6,7 +6,7 @@ title: Hello!
 
 I like documenting things I find interesting. This is not my portfolio.
 
-|<img src="VRChat.png" style="margin: 6px 0 0 -9px;" width="512px">|I’m Amy (Mobiuslau), a theoretical physics master student who loves to make & compose music, do graphic design, and play games like Sound Voltex, Chunithm, Beatmania IIDX, BMS, Jubeat, and occasionally Chess. Perhaps you’ll find something interesting here. Feel free to contact me too.<br>|
+|<img src="VRChat_1920x1080_2022-08-07_00-50-58.546.png" style="margin: 6px 0 0 -9px;" width="512px">|I’m Amy (Mobiuslau), a theoretical physics master student who loves to make & compose music, do graphic design, and play games like Sound Voltex, Chunithm, Beatmania IIDX, BMS, Jubeat, and occasionally Chess. Perhaps you’ll find something interesting here. Feel free to contact me too.<br>|
 
 - [Amy's Nerdy Corner](https://mobiuslau.github.io/)
 - [Youtube](https://www.youtube.com/user/mobiuslau)
