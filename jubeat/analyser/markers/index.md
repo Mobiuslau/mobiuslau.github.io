@@ -1,4 +1,7 @@
-# Jubeat Markers
+---
+title: Jubeat Markers
+---
+# 🡾Jubeat Markers
 
 W.I.P.
 

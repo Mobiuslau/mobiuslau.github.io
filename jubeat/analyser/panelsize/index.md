@@ -1,7 +1,8 @@
 ---
 cite: site.data.jubeat_analyser_panelsize_biblio
+title: Jubeat Analyser Panelsize
 ---
-# Jubeat Analyser Panelsize
+# 🡾Jubeat Analyser Panelsize
 
 W.I.P.
 
