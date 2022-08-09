@@ -1,4 +1,7 @@
-# Sound Voltex Controls
+---
+title: Sound Voltex Controls
+---
+# 🡾Sound Voltex Controls
 
 The Sound Voltex games have a moderate list of controls and macros. The in-game tutorial should introduce the player to the basic gameplay controls of the game well enough. However, the game does not convey some of the other useful controls very well. Therefore, this page does not outline the basic gameplay controls, but instead catalogues a comprehensive list of controls which can be used to navigate through Sound Voltex, change settings, and activate certain features. 
 
