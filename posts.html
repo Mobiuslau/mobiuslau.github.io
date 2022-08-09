@@ -2,13 +2,13 @@
 layout: default
 title: Posts
 ---
-<h1>Latest Posts</h1>
+<h1>🡾Latest Posts</h1>
 
 <ul>
     {% for post in site.posts %}
         <li>
             <h2 style="margin: 0 0 -5px 0"><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            <small class="view">➔ by {{ post.author | default: site.author }}, &nbsp; &nbsp; date {{ post.date | date: "%-d %B %Y" }}</small>
+            <small class="view">🡪 by {{ post.author | default: site.author }} &nbsp; &nbsp; | date {{ post.date | date: "%-d %B %Y" }}</small>
             <br><br>
             {{ post.excerpt }}
             {% if post.tags %}
