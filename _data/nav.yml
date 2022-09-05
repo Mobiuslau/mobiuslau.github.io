@@ -36,3 +36,12 @@
 
     - title: Resources
       url: /resources
+
+- title: BMS Tables
+  url: /bms/tables
+  subnav:
+    - title: Genoside Courses
+      url: /genoside2018.html
+
+    # - title: Imokure
+    #   url: /imokure.html

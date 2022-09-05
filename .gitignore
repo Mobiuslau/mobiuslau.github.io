@@ -11,9 +11,11 @@ localserver.bat
 /sdvx/eaccharts/index_Backup_2022-7-13.md
 /sdvx/eaccharts/index_Backup_Playlist.md
 /sdvx/eaccharts/index_Backup_sdvxin.md
-/bms/tables/test.html
-/bms/tables/test_body.json
-/bms/tables/test_header.json
 /bms/tables/bokutachi_7K.html
 /bms/tables/bokutachi_body_7K.json
 /bms/tables/bokutachi_header_7K.json
+/bms/tables/imo-EC_body.json
+/bms/tables/imo-EC_head.json
+/bms/tables/imo-HC_body.json
+/bms/tables/imo-HC_head.json
+/bms/tables/imokure.md
