@@ -1,7 +1,7 @@
 ---
 title: GENOSIDE 2018 Course Table
 ---
-# GENOSIDE 2018 Course Table
+# 🡾GENOSIDE 2018 Course Table
 
 <meta name="bmstable" content="genoside2018.json">
 
@@ -36,7 +36,7 @@ Both SP and DP courses are implemented. The courses can be recognised as follows
 
 The 'original' Beatoraja tables can be found here (Note that Bokutachi will not accept the constraints for some of these courses, which is why this table exists):
 
-- [Normal](http://rattoto10.jounin.jp/table.html)
-- [Insane](http://rattoto10.jounin.jp/table_insane.html)
+- [Normal 2](http://rattoto10.jounin.jp/table.html)
+- [Insane 2](http://rattoto10.jounin.jp/table_insane.html)
 - [DP Delta](http://dpbmsdelta.web.fc2.com/table/dpdelta.html)
 - [DP Insane](http://dpbmsdelta.web.fc2.com/table/insane.html)
