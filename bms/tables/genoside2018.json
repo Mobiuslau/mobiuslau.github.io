@@ -312,7 +312,9 @@
                     "2356c21a671f059293a24d4cf14f0db2",
                     "5f6f1c5d3fca5edba8edd537d9927c61"
                 ]
-            },
+            }
+        ],
+        [
             {
                 "name": "段位認定 発狂初段",
                 "constraint": [
@@ -684,7 +686,9 @@
                     "188a99f74ab71804f2e360dcf484545c",
                     "c46a81cb184f5a804c119930d6eba748"
                 ]
-            },
+            }
+        ],
+        [
             {
                 "name": "DP段位認定 初段",
                 "constraint": [
@@ -994,7 +998,9 @@
                     "3e95ebbb4a00a339a6c2507afa74e804",
                     "dde0d1af6661b320ef3b5280e5bd1c7d"
                 ]
-            },
+            }
+        ],
+        [
             {
                 "name": "DP段位認定 発狂初段",
                 "constraint": [
