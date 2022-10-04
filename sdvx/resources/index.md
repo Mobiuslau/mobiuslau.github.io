@@ -107,7 +107,7 @@ Also contains translations for the configuration menu.
 - **[Sound Voltex Controls](/sdvx/controls)** by *Amy*.<br>This page details the available controls for both the *EXCEED GEAR コナステ* and *VIVID WAVE* entries in the series. 
 - **[GlovePIE script for SDVX cloud](https://pastebin.com/wQsHLcs0)** by *Drewol*.<br>This script allows one to use old controllers with EAC. This is to be avoided if not necessary. 
 
-More useful resources can be found in [Sound Voltex Arcade Games](#sound-voltex-arcade-games) → [Community Guides](#community-guides-1) & [Community Resources](#community-resources-1).
+More useful resources can be found in [Sound Voltex Arcade Games](#sound-voltex-arcade-games) 🡪 [Community Guides](#community-guides-1) & [Community Resources](#community-resources-1).
 
 <br>
 
@@ -156,6 +156,8 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[The Big List of Jack Charts](https://voltexes.com/jack-charts/)** by *Voltexes*.
 - **[The Big List of Booths of Fighters Practice Charts](https://voltexes.com/the-big-list-of-bof-practice-charts/)** by *Voltexes*.
 - **[The Big List of Cross-hand Knob Charts](https://voltexes.com/the-big-list-of-cross-hand-knobs/)** by *Voltexes*.
+- **[The Big List of Verse IV Practice Charts (One-handed FX trills)](https://voltexes.com/verse-iv-trills/)** by *Voltexes*.
+- **[The Big List of One-Handed Vertical Trill Charts](https://voltexes.com/vertical-trill-charts/)** by *Voltexes*.
 
 #### Unlock Guides
 
@@ -170,6 +172,7 @@ The main web page contains news feeds, quickstart guides and player data options
 #### Other
 
 - **[Voltexes Guides List](https://voltexes.com/guides/)**.<br>Compilation of guides by *Voltexes* and other resources.
+- **[BPL S2 Part 1: Tournament Flow, First Stage and Player Drafts](https://voltexes.com/bemani-pro-league-season-2-part-1/)**.<br>Explanation on how the *BEMANI PRO LEAGUE -SEASON 2-* works.
 
 <br>
 
@@ -179,17 +182,23 @@ The main web page contains news feeds, quickstart guides and player data options
 
 - **[sdvx.in](https://sdvx.in/)**.<br>One of the oldest, and most useful, resources available for the series. This website contains detailed overviews of the majority of charts for players to study and practice with. 
 - **[SDVX Song List](https://myshkin.io/sdvx/songlist)**.<br>Song list which includes PC availability.
+- **[SDVX song info](https://docs.google.com/spreadsheets/d/1LullF7bFylmb-QC-J8XkF2W0z0hkDb7LzClsz-upTy8/edit#gid=1164354470)**  by *ゆきみそ*.
+- **[Anzu Info](https://anzuinfo.me/)**. <br>Chart information website in Korean. It also features a score tracker and difficulty tables, among other things.
 
 #### Score Trackers
 
 - **[nearnoah.net](https://nearnoah.net/)**.<br>Score tracker specifically for *SOUND VOLTEX* arcade scores. See Voltexes's guide on how to use it.
 - **[SDVX Task Song Generator](https://myamyasdvx.herokuapp.com/)**.<br>Receive chart recommendations based on nearnoah.net profile. See Voltexes's guide on how to use it.
 - **[Vaddict](https://vaddict.mono-logic.com/)**.<br>Somewhat of a score tracker. It is useful for generating infographics from your *SOUND VOLTEX* arcade scores. See Voltexes's guide on how to use it.
+- **[SDVX-EST](https://sdvx-est.net/)**.<br>Tool for tracking EX-score.
+
+- **[SDVX VI Ranking spreadsheet](https://docs.google.com/spreadsheets/d/13bkeuecloo48akjvPHRsrUfK0CLd4_XnGFOyYbi9lMc)** by *NAIX*. Volforce ranking for public profiles.
 
 #### Difficulty Tables
 
 - **[Maya2](https://sdvx.maya2silence.com/)**.<br>Difficulty tables generated from *Vaddict* data. Users can mark charts within tables for their own purposes.
 - **[SDVX Clear Difficulty Table](https://docs.google.com/spreadsheets/d/1cFltguBvPplBem-x1STHnG3k4TZzFfyNEZ-RwsQszoo/edit#gid=1555610727)**.<br>Community-made difficulty table cataloguing most charts of level 16 and above into various clear difficulty tiers. See legend [here](/sdvx/resources/difftable.txt). 
+- **[Anzu Info Clear Sequence Table](https://anzuinfo.me/table.html)**.<br>Korean clear table for various levels. Can also be used to find chart info. 
 
 - **Twitter Difftables: [16 PUC by *@M2MR_SDVX*](https://twitter.com/M2MR_SDVX/status/1228545253101031424), [16 PUC by *@sdvx_16puc*](https://twitter.com/sdvx_16puc/status/1495693862878457856), [17 PUC by *@sdvx_17puc*](https://twitter.com/sdvx_17puc/status/1527953895594799105), [18 PUC by *@PUC_level*](https://twitter.com/PUC_level/status/1483107428590026754), [17S, 18S by *@patchesarna*](https://twitter.com/patchesarna/status/1183245847951110145), [17S by *@hyacinth_95*](https://twitter.com/hyacinth_95/status/1397536214853447682)**, **[SDVXDiffTable by *@SDVXDiffTable*](https://twitter.com/SDVXDiffTable)**.<br>SDVXDiffTable is no longer updated.
 
@@ -303,13 +312,13 @@ Other:
 
 ## Parts
 
-### Arcade Spec Parts
+### Arcade Spec Parts Japanese & American Cabinets
 
-The control parts used by the arcade cabinets are listed below. This is only really useful for cabinet owners, users who want to create an exact replica controller, or for use as a reference. See section *Controller Parts* for general home arcade style controller parts.
+The control parts used by the arcade cabinets in Japan and America are listed below. Other regions (may) use other configurations. This is only really useful for cabinet owners, users who want to create an exact replica controller, or for use as a reference. See section *Controller Parts* for general home arcade style controller parts.
 
 #### Buttons, Microswitches & Springs
 
-The Sanwa buttons listed below come with an *Sanwa OBSA-SP* 100g spring, an *Sanwa OBSA-LHS1F-LN* integrated lamp & switch holder housing a *V-11-3D4-SD* 100g microswitch, and a *Sanwa SWA-LED-#-12V* LED [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741), [10](https://discord.com/channels/101851954677837824/290969876548419584/908570355411591198)]. The LEDs operate at 12V in the arcade cabinets [*Citation Needed*]. The switch can not be replaced with these lamp holders.
+The Sanwa buttons listed below come with an *Sanwa OBSA-SP* 100g spring, an *Sanwa OBSA-LHS1F-LN* integrated lamp & switch holder housing a *V-11-3D4-SD* 100g microswitch, and a *Sanwa SWA-LED-#-12V* LED [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741), [10](https://discord.com/channels/101851954677837824/290969876548419584/908570355411591198), [12](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers)]. The LEDs operate at 12V in the arcade cabinets [*Citation Needed*]. The switch can not be replaced with these lamp holders.
 
 See <a href="sanwa_button_product_codes">This table</a> for a description of the button product codes [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741)].
 
@@ -347,6 +356,15 @@ See [Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex
 - **b: FNTS-SUS-M4** [*Citation Needed*].<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221000545065/?HissuCode=FNTS-SUS-M4).<br>
 - **c: SSHDP-ST-M4-5**.<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221005020350/?ProductCode=SSHDP-ST-M4-5).<br>
 - **d: SSHDP-ST-M4-4**.<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221005020350/?ProductCode=SSHDP-ST-M4-4).<br>
+
+<br>
+
+### Arcade Spec Parts Korean Cabinets
+
+In Korea, *Uniana* is responsible for launching *SOUND VOLTEX* cabinets [[13](http://www.uniana.com/main.php?mid=menu13), [14](http://www.uniana.com/main.php?mid=menu21)]. A different button configuration is used in cabinets in Korea [[15](https://smartstore.naver.com/partum/products/5882277767), [16](https://smartstore.naver.com/partum/products/5887067080)].
+
+W.I.P.
+
 <br>
 
 ### Controller Parts
@@ -382,6 +400,8 @@ Other buttons:
 
 - **DJDAO PT-01-01-02**.<br>[Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=253).<br>(50 x 33)mm rectangle FX button. Does not include microswitch. Comes with 40g spring.
 - **DJDAO PT-01-01-03**.<br>[Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=254).<br>(33 x 33)mm square button. Does not include microswitch. Comes with 40g spring.
+
+W.I.P.
 
 <br>
 
@@ -519,7 +539,8 @@ The editor shipped with *K-Shoot Mania* is commonly used within the community to
 ### Generally Useful Rhythm-Game Resources
 
 - **[Remywiki](https://remywiki.com/Main_Page)**.<br>One of the most useful resources in the community. This wiki documents information on the *Bemani* series of rhythm games.
-- **[BEMANIWiki](http://bemaniwiki.com/index.php?FrontPage)**.<br>Similar to the above, but it is published in Japanese.
+- **[BEMANIWiki](https://w.atwiki.jp/sdvx/)**.<br>Similar to the above, but it is published in Japanese.
+- **[namu.wiki](https://namu.wiki/w/%EC%82%AC%EC%9A%B4%EB%93%9C%20%EB%B3%BC%ED%85%8D%EC%8A%A4%20%EC%9D%B5%EC%8B%9C%EB%93%9C%20%EA%B8%B0%EC%96%B4?from=SOUND%20VOLTEX%20EXCEED%20GEAR)**.<br>Similar to the above, but it is published in Korean.
 - **[Zenius -I- vanisher > Arcades](https://zenius-i-vanisher.com/v5.2/arcades.php)**.<br>Community-maintained map containing information on where arcade cabinets from various series' can be found. 
 - **[Bemanistyle](https://www.otaquest.com/bemanistyle/)**.<br>English rhythm game blog. 
 
