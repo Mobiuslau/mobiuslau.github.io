@@ -361,7 +361,7 @@ See [Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex
 
 ### Arcade Spec Parts Korean Cabinets
 
-In Korea, *Uniana* is responsible for launching *SOUND VOLTEX* cabinets [[13](http://www.uniana.com/main.php?mid=menu13), [14](http://www.uniana.com/main.php?mid=menu21)]. A different button configuration is used in cabinets in Korea [[15](https://smartstore.naver.com/partum/products/5882277767), [16](https://smartstore.naver.com/partum/products/5887067080)].
+In Korea, *Uniana* is responsible for launching *SOUND VOLTEX* cabinets [[13](http://www.uniana.com/main.php?mid=menu13), [14](http://www.uniana.com/main.php?mid=menu21)]. A different button configuration is used in cabinets in Korea [*Citation Needed*].
 
 W.I.P.
 
