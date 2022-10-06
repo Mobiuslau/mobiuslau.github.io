@@ -100,6 +100,7 @@ Also contains translations for the configuration menu.
 
 - **[Sound Voltex Exceed Gear コナステ Charts](/sdvx/eaccharts/)** by *Amy*.<br>A sortable list of the charts included in the game, with links to respective [sdvx.in](sdvx.in) pages and song pack playlists.
 - **[SDVX Song List](https://myshkin.io/sdvx/songlist)**.<br>Song list which includes PC availability. Browsing for packs and chart levels is a bit easier with this list.
+- **[arcade-songs - sdvx](https://arcade-songs.zetaraku.dev/sdvx/)** by *@zetaraku*.<br>Complete list of music in popular rhythm games. 
 - **[konasute songlist](https://docs.google.com/spreadsheets/d/1WyH_iRGu5kJOXC0MPOgebicsc39k5yjsErX_c-nSbX4/edit#gid=0)**.<br>This list only contains charts of level 18 and beyond.
 
 #### Input & Controls
@@ -542,6 +543,7 @@ The editor shipped with *K-Shoot Mania* is commonly used within the community to
 - **[BEMANIWiki](https://w.atwiki.jp/sdvx/)**.<br>Similar to the above, but it is published in Japanese.
 - **[namu.wiki](https://namu.wiki/w/%EC%82%AC%EC%9A%B4%EB%93%9C%20%EB%B3%BC%ED%85%8D%EC%8A%A4%20%EC%9D%B5%EC%8B%9C%EB%93%9C%20%EA%B8%B0%EC%96%B4?from=SOUND%20VOLTEX%20EXCEED%20GEAR)**.<br>Similar to the above, but it is published in Korean.
 - **[Zenius -I- vanisher > Arcades](https://zenius-i-vanisher.com/v5.2/arcades.php)**.<br>Community-maintained map containing information on where arcade cabinets from various series' can be found. 
+- **[arcade-songs](https://arcade-songs.zetaraku.dev/)** by *@zetaraku*.<br>Complete list of music in popular rhythm games. 
 - **[Bemanistyle](https://www.otaquest.com/bemanistyle/)**.<br>English rhythm game blog. 
 
 <br>
@@ -555,7 +557,7 @@ The editor shipped with *K-Shoot Mania* is commonly used within the community to
 - **[Bokutachi](https://discord.gg/E4n8ZZF5ES)**.<br>USC & BMS Internet Ranking Server. 
 - **[Unnamed SDVX Clone](https://discord.gg/ceCWx3X)**.<br>Official USC Server. 
 - **[Cons&Stuff](https://discord.gg/fknwz8s)**.<br>For anything DIY for controllers. 
-- **[YuanCon](https://discord.gg/4ncuRrq)**.<br>Official YuanCon Server. 
+- **[YuanCon](https://discord.gg/4ncuRrq)**.<br>Official YuanCon Server.
 
 #### Other
 
