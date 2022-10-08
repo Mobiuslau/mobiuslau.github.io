@@ -1,47 +1,47 @@
 # subnav url's are relative to the item before. So the subnav url will contribute as
 # /nav/subnav/ in the default layout.
 
-- title: Home
-  url: /
+# - title: Home
+#   url: /
 
 - title: Posts
   url: /posts.html
 
 - title: Physics
-  url: /physics
+  url: /physics/
 
 - title: Jubeat
-  url: /jubeat
+  url: /jubeat/
   subnav:
     - title: Analyser
-      url: /analyser
+      url: analyser/
       subsubnav: 
         - title: Panelsize
-          url: /panelsize
+          url: panelsize/
 
         - title: Markers
-          url: /markers
+          url: markers/
 
     - title: Controller
-      url: /controller
+      url: controller/
 
 - title: Sound Voltex
-  url: /sdvx
+  url: /sdvx/
   subnav:
     - title: Controls
-      url: /controls
+      url: controls/
 
     - title: EAC Charts
-      url: /eaccharts
+      url: eaccharts/
 
     - title: Resources
-      url: /resources
+      url: resources/
 
 - title: BMS Tables
-  url: /bms/tables
+  url: /bms/tables/
   subnav:
     - title: Genoside Courses
-      url: /genoside2018.html
+      url: genoside2018.html
 
     # - title: Imokure
     #   url: /imokure.html
