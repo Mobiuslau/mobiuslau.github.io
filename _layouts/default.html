@@ -1,83 +1,87 @@
 <!DOCTYPE html>
 <html lang="en-US">
-	<head>
-		<meta charset="UTF-8">
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<title>{{ page.title }} | {{ site.title | default: site.github.repository_name }}🡾</title>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>{{ page.title }} | {{ site.title | default: site.github.repository_name }}🡾</title>
 
-		<link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon }}">
+        <link rel="shortcut icon" type="image/x-icon" href="{{ site.favicon }}">
 
-		<link href="http://fonts.cdnfonts.com/css/nimbus-sans-l" rel="stylesheet">                
-    	<link rel="stylesheet" href="/assets/css/style.css?v=">
+        <link href="http://fonts.cdnfonts.com/css/nimbus-sans-l" rel="stylesheet">                
+        <link rel="stylesheet" href="/assets/css/style.css?v=">
 
-    	<script src="/assets/js/scale.fix.js"></script>
-    	<meta name="viewport" content="width=device-width, initial-scale=1">
+        <script src="/assets/js/scale.fix.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    	{% seo title=false %}
-  		<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-  		<script id="MathJax-script" async
+        {% seo title=false %}
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+        <script id="MathJax-script" async
           src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-	</head>
+    </head>
 
-	<body>
-		<div class="wrapper">
-			<header>
-	        	<h1 style="margin-left: 5px;">
-	          		<a href="{{ "/" | absolute_url }}">{{ site.title }}🡾</a>
-	        	</h1>
+    <body>
+        <div class="wrapper">
+        <header>
+            <h1 style="margin-left: 5px;">
+                <a href="{{ "/" | absolute_url }}">{{ site.title }}<div class="animate-flicker">🡾</div></a>
+            </h1>
 
-		        <p style="font-size: 32px; margin-left: 5px; line-height: 1.1;">
-	          	{% for item in site.data.nav %}
-	            	<br><a href="{{ item.url }}">{{ item.title }}</a>
-	            	{% for subItem in item.subnav %}
-	              		{% if page.url contains item.url %}
-	                	<br>&nbsp; &nbsp; <a href="{{ item.url }}{{ subItem.url }}">{{ subItem.title }}</a>
-	              		{% endif %}
-	              		{% for subSubItem in subItem.subsubnav %}
-	              			{% if page.url contains subItem.url %}
-	              				<br>&nbsp; &nbsp; &nbsp; &nbsp; <a href="{{ item.url }}{{ subItem.url }}{{ subSubItem.url }}">{{ subSubItem.title }}</a>
-	              			{% endif %}
-	              		{% endfor %}
-	            	{% endfor %} 
-	          	{% endfor %} 
-	        	</p>
-	        </header>
+            <p style="font-size: 32px; margin-left: 5px; line-height: 1.1;">
+            	<br><a href="/" class="navigation {% if page.url == "/" %}navactive{% endif %}">Home</a>
+                {% for item in site.data.nav %}
+                    <br><a href="{{ item.url }}" class="navigation {% if page.url contains item.url %}navactive{% endif %}">{{ item.title }}</a>
+                    {% for subItem in item.subnav %}
+                        {% if page.url contains item.url %}
+                            <br>&nbsp; &nbsp; <a href="{{ item.url }}{{ subItem.url }}" class="navigation {% if page.url contains subItem.url %}navactive{% endif %}">{{ subItem.title }}</a>
+                        {% endif %}
+                        {% for subSubItem in subItem.subsubnav %}
+                            {% if page.url contains subItem.url %}
+                                <br>&nbsp; &nbsp; &nbsp; &nbsp; <a href="{{ item.url }}{{ subItem.url }}{{ subSubItem.url }}" class="navigation {% if page.url contains subSubItem.url %}navactive{% endif %}">{{ subSubItem.title }}</a>
+                            {% endif %}
+                        {% endfor %}
+                    {% endfor %} 
+                {% endfor %} 
+                </p>
+            </header>
 
-          	<section>
-      			{{ content }}
-      		</section>
+            <section>
+                {{ content }}
+            </section>
 
-  		   	<footer>
-        		<p style="font-size: 10px; margin: 0 0 0 -9px;display: inline-block;">
-          			🡪 ORIGINAL THEME BY
-        		</p>
-        		<p style="font-size: 10px; margin: 0 0 0 12px;display: inline-block;">
-          			| <a href="https://github.com/orderedlist" style="color: #727272;">ORDEREDLIST</a>
-        		</p>
-        		<br>
-        		<p style="display: inline-block;font-size: 8px;margin: 0 0 0 5px;">
-          			ALTERATION
-        		</p>
-        		<p style="display: inline-block;font-size: 8px;margin: 0 0 0 75px;">
-         			 AMY
-        		</p>
-        		<br>
-        		<svg width="160" height="28" style="margin: 0 0 -5px 5px;"
-        			 xmlns="http://www.w3.org/2000/svg" 
-        			 xmlns:xlink="http://www.w3.org/1999/xlink">
-    				<path class="svgcol1" d="M 0,0 V 28 H 120 V 5 L 115,0 Z" />
-    				<path class="svgcol2" d="M 122,0 V 28 H 160 V 5 L 155,0 Z" />
-        		</svg>
-      		</footer>
-    	</div>
+            <footer>
+                <p class = "animate-flicker" style="font-size: 10px; margin: 0 0 0 -9px;display: inline;">
+                    🡪 
+                </p>
+                <p style="font-size: 10px; margin: 0 0 0 0px;display: inline;">
+                	ORIGINAL THEME BY
+                </p>
+                <p style="font-size: 10px; margin: 0 0 0 18px;display: inline;">
+                    | <a href="https://github.com/orderedlist" style="color: #727272;">ORDEREDLIST</a>
+                </p>
+                <br>
+                <p style="display: inline-block;font-size: 8px;margin: 0 0 0 5px;">
+                    ALTERATION
+                </p>
+                <p style="display: inline-block;font-size: 8px;margin: 0 0 0 75px;">
+                    AMY
+                </p>
+                <br>
+                <svg width="160" height="28" style="margin: 0 0 -5px 5px;"
+                    xmlns="http://www.w3.org/2000/svg" 
+                    xmlns:xlink="http://www.w3.org/1999/xlink">
+                    <path class="svgcol1" d="M 0,0 V 28 H 120 V 5 L 115,0 Z" />
+                    <path class="svgcol2" d="M 122,0 V 28 H 160 V 5 L 155,0 Z" />
+                </svg>
+            </footer>
+        </div>
 
-    	<!--[if !IE]><!-->
-	      	<script>
-	        	fixScale(document);                               // fix current scale on iOS devices     
-	        	window.onorientationchange = fixScale(document);  // and when orientation changes
-	        	// See https://stackoverflow.com/questions/14855571/what-does-fixscaledocument-do
-	      	</script>
-    	<!--<![endif]-->
-  	</body>
+        <!--[if !IE]><!-->
+            <script>
+                fixScale(document);                               // fix current scale on iOS devices     
+                window.onorientationchange = fixScale(document);  // and when orientation changes
+                // See https://stackoverflow.com/questions/14855571/what-does-fixscaledocument-do
+            </script>
+        <!--<![endif]-->
+    </body>
 </html>
 
