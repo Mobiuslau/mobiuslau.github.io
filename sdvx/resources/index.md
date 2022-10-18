@@ -81,7 +81,8 @@ The main web page contains news feeds, quickstart guides and player data options
 
 #### Game Setup
 
-- **[how to set up sound voltex exceed gear pc version](https://www.youtube.com/watch?v=LGNGPqIFF5g)** by *SV Kitten*.<br>
+- **[How to set up SOUND VOLTEX EXCEED GEAR コナステ (PC)](https://www.youtube.com/watch?v=H8-2QERPGRI)** by *SV Kitten*.<br>
+- **[(outdated) how to set up sound voltex exceed gear pc version](https://www.youtube.com/watch?v=LGNGPqIFF5g)** by *SV Kitten*. **Outdated**.<br>
 - **[Setting Up SOUND VOLTEX Konasute EXCEED GEAR](https://voltexes.com/setting-up-sound-voltex-konasute-exceed-gear/)** by *Voltexes*.<br>
 Also contains translations for the configuration menu.
 - **[How to: Japanese KONAMI ID registration & e-amusement pass management](https://www.otaquest.com/how-to-register-for-a-japanese-konami-id-and-manage-your-eamusement-pass/)** by *Paul Hartling*.<br>It's an old guide but the principles in the account creation remain roughly the same.
