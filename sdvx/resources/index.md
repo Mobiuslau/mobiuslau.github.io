@@ -7,7 +7,7 @@ updated: 18 October 2022
 
 It is undenyable that the *SOUND VOLTEX* series has grown in popularity throughout the years. As such, many players, maintainers, and other users have been making many contributious to the community, such as guides, messaging platforms, and even their own games simulating the *SOUND VOLTEX* gameplay experience along with custom charts. Through the years, many resources have accumulated in various places. As such, this webpage is an accumulation of those resources created by the community, official resources, and a parts list for controllers. This web page contains everything *SOUND VOLTEX*. 
 
-This webpage may not always be up to date with the newest resources available. An effort is made to update it somewhat regularly, however. The latest update was performed on 2022-06-06.
+This webpage may not always be up to date with the newest resources available. An effort is made to update it somewhat regularly, however. The author is open to suggestions for inclusions.
 
 The #faq-guides channel in the [SDVX Community Discord Server](https://discord.gg/sdvx) contains resources and useful information as well, such as guides on setting up *SOUND VOLTEX EXCEED GEAR コナステ*, a Buyers guide for controllers, Useful links, and other recommendations. It is therefore advised to read this as well since it can not be hot-linked from this webpage. However, an effort was made to collect publically available resources mentioned there.
 
