@@ -6,7 +6,7 @@
 $col2: #727272;
 $colText: #727272;
 $colBlock: #E5E5E5;
-$white: #FFFFFF;*/
+$colWhite: #FFFFFF;*/
 
 /*Pink Yellow Grey*/
 /*$col1: #E686AD;*/
@@ -14,43 +14,43 @@ $col1: #FF8FBC;
 $col2: #E4D68B;
 $colText: #727272;
 $colBlock: #E5E5E5;
-/*$white: #F1F6F0;*/
-$white: #FFFFFF;
+/*$colWhite: #F1F6F0;*/
+$colWhite: #FFFFFF;
 
 /*Pink Light*/
 /*$col1: #FB467B;
 $col2: #FDA3BD;
 $colText: #727272;
 $colBlock: #E5E5E5;
-$white: #FFFFFF;*/
+$colWhite: #FFFFFF;*/
 
 /*Pink Light*/
 /*$col1: #FE79B8;
 $col2: #FEA7CB;
 $colText: #727272;
 $colBlock: #E5E5E5;
-$white: #FFFFFF;*/
+$colWhite: #FFFFFF;*/
 
 /*Pink Orange*/
 /*$col1: #FE79B8;
 $col2: #FEB6A7;
 $colText: #727272;
 $colBlock: #E5E5E5;
-$white: #FFFFFF;*/
+$colWhite: #FFFFFF;*/
 
 /*Icaras:*/
 /*$col1: #A71F58;
 $col2: #D288A8;
 $colText: #727272;
 $colBlock: #E5E5E5;
-$white: #FFFFFF;*/
+$colWhite: #FFFFFF;*/
 
 
 /* ======== */
 /* = Text = */
 /* ======== */
 body {
-  background-color: $white;
+  background-color: $colWhite;
   padding: 30px;
   font: 15px/1.3 "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: $colText;
@@ -254,7 +254,7 @@ hr {
 /* = Buttons = */
 /* =========== */
 button {
-    background-color: $white; 
+    background-color: $colWhite; 
     color: $colText;
 }
 
@@ -275,6 +275,10 @@ button:hover {
     fill: $col2;
 }
 
+.svgcolWhite {
+    fill: $colWhite;
+}
+
 
 
 /* ===================== */
@@ -292,6 +296,15 @@ button:hover {
     display:inline;
 }
 
+@keyframes fadeAnimation {
+  0%   { opacity:1; }
+  50%  { opacity:0; }
+  100% { opacity:1; }
+}
+
+.animate-fade {
+    animation: fadeAnimation .8s infinite;
+}
 
 /* ============== */
 /* = Resolution = */

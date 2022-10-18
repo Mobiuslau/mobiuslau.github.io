@@ -1,5 +1,7 @@
 ---
 title: Sound Voltex Resources
+author: Amy
+updated: 18 October 2022
 ---
 # 🡾Sound Voltex Resources
 
@@ -8,6 +10,8 @@ It is undenyable that the *SOUND VOLTEX* series has grown in popularity througho
 This webpage may not always be up to date with the newest resources available. An effort is made to update it somewhat regularly, however. The latest update was performed on 2022-06-06.
 
 The #faq-guides channel in the [SDVX Community Discord Server](https://discord.gg/sdvx) contains resources and useful information as well, such as guides on setting up *SOUND VOLTEX EXCEED GEAR コナステ*, a Buyers guide for controllers, Useful links, and other recommendations. It is therefore advised to read this as well since it can not be hot-linked from this webpage. However, an effort was made to collect publically available resources mentioned there.
+
+{% include article_block.html %}
 
 <br>
 
