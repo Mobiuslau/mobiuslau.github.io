@@ -3,7 +3,7 @@ title: Sound Voltex Resources
 author: Amy
 updated: 18 October 2022
 ---
-# 🡾Sound Voltex Resources
+# Sound Voltex Resources
 
 It is undenyable that the *SOUND VOLTEX* series has grown in popularity throughout the years. As such, many players, maintainers, and other users have been making many contributious to the community, such as guides, messaging platforms, and even their own games simulating the *SOUND VOLTEX* gameplay experience along with custom charts. Through the years, many resources have accumulated in various places. As such, this webpage is an accumulation of those resources created by the community, official resources, and a parts list for controllers. This web page contains everything *SOUND VOLTEX*. 
 
