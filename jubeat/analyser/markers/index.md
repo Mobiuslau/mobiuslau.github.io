@@ -1,11 +1,15 @@
 ---
 title: Jubeat Markers
+author: Amy
+updated: 18 October 2022
 ---
-# 🡾Jubeat Markers
+# Jubeat Markers
 
 W.I.P.
 
 Documentation about Jubeat markers and effects, as well as how to use them in Jubeat Analyser.
+
+{% include article_block.html %}
 
 <br>
 

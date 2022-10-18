@@ -1,11 +1,15 @@
 ---
 title: Jubeat Controller
+author: Amy
+updated: 18 October 2022
 ---
-# 🡾Jubeat Controller
+# Jubeat Controller
 
 This article outlines information about Jubeat arcade style controllers, as well as the process of building one. This was published and documented in the hopes of it being used as future reference, since there isn't much documentation about this publically available in English. 
 
 The controller as built in this article is currently W.I.P, along with this webpage. 
+
+{% include article_block.html %}
 
 <br>
 

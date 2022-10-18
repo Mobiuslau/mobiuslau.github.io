@@ -1,10 +1,14 @@
 ---
 cite: site.data.jubeat_analyser_panelsize_biblio
 title: Jubeat Analyser Panelsize
+author: Amy
+updated: 18 October 2022
 ---
-# 🡾Jubeat Analyser Panelsize
+# Jubeat Analyser Panelsize
 
 W.I.P.
+
+{% include article_block.html %}
 
 <br>
 
