@@ -5,6 +5,7 @@ author: Amy
 updated: 18 October 2022
 ---
 # Jubeat Analyser Panelsize
+{:.no_toc}
 
 W.I.P.
 
@@ -13,14 +14,10 @@ W.I.P.
 <br>
 
 ### Table of Contents
+{:.no_toc}
 
-> [Jubeat Analyser Panelsize](#jubeat-analyser-panelsize)<br>
-> &nbsp; &nbsp; [Table of Contents](#table-of-contents)<br>
-> [Jubeat Screen Dimensions](#jubeat-screen-dimensions)<br>
-> [Jubeat Analyser](#jubeat-screen-dimensions)<br>
-> &nbsp; &nbsp; [Configuration File](#configuration-file)<br>
-> &nbsp; &nbsp; [Object Resolutions](#object-resolutions)<br>
-> [Bibliography](#bibliography)<br>
+> - this unordered seed list will be replaced by toc as unordered list
+> {:toc}
 
 <br>
 

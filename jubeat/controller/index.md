@@ -4,6 +4,7 @@ author: Amy
 updated: 18 October 2022
 ---
 # Jubeat Controller
+{:.no_toc}
 
 This article outlines information about Jubeat arcade style controllers, as well as the process of building one. This was published and documented in the hopes of it being used as future reference, since there isn't much documentation about this publically available in English. 
 
@@ -14,20 +15,10 @@ The controller as built in this article is currently W.I.P, along with this webp
 <br>
 
 ### Table of Contents
+{:.no_toc}
 
-> [Jubeat Controller](#jubeat-controller)<br>
-> &nbsp; &nbsp; [Table of Contents](#table-of-contents)<br>
-> &nbsp; &nbsp; [Glossary](#glossary)<br>
-> [Arcade Cabinet](#arcade-cabinet)<br>
-> [Arcade Style Controller](#diy-arcade-style-controller)<br>
-> &nbsp; &nbsp; [Panel](#panel)<br>
-> &nbsp; &nbsp; [Buttons & Wiring](#buttons--wiring)<br>
-> &nbsp; &nbsp; [Input/Output](#inputoutput)<br>
-> &nbsp; &nbsp; [Monitor](#monitor)<br>
-> &nbsp; &nbsp; [Parts](#parts)<br>
-> &nbsp; &nbsp; [Files](#files)<br>
-> [Build Process](#build-process)<br>
-> &nbsp; &nbsp; [Expenses](#expenses)<br>
+> - this unordered seed list will be replaced by toc as unordered list
+> {:toc}
 
 <br>
 
