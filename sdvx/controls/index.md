@@ -4,6 +4,7 @@ author: Amy
 updated: 18 October 2022
 ---
 # Sound Voltex Controls
+{:.no_toc}
 
 The Sound Voltex games have a moderate list of controls and macros. The in-game tutorial should introduce the player to the basic gameplay controls of the game well enough. However, the game does not convey some of the other useful controls very well. Therefore, this page does not outline the basic gameplay controls, but instead catalogues a comprehensive list of controls which can be used to navigate through Sound Voltex, change settings, and activate certain features. 
 
@@ -16,16 +17,10 @@ Hopefully this catalogue proves to be helpful to both new, and veteran players, 
 <br>
 
 ### Table of Contents
+{:.no_toc}
 
-> [Sound Voltex Controls](#sound-voltex-controls)<br>
-> &nbsp; &nbsp; [Table of Contents](#table-of-contents)<br>
-> &nbsp; &nbsp; [Glossary](#glossary)<br>
-> [Controls List](#controls-list)<br>
-> &nbsp; &nbsp; [Song Wheel](#song-wheel)<br>
-> &nbsp; &nbsp; [Options Menu](#options-menu)<br>
-> &nbsp; &nbsp; [Waiting Lobby](#waiting-lobby)<br>
-> &nbsp; &nbsp; [During Play](#during-play)<br>
-> &nbsp; &nbsp; [Result Screen](#result-screen)<br>
+> - this unordered seed list will be replaced by toc as unordered list
+> {:toc}
 
 <br>
 

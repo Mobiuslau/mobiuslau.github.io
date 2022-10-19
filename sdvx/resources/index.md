@@ -4,6 +4,7 @@ author: Amy
 updated: 18 October 2022
 ---
 # Sound Voltex Resources
+{:.no_toc}
 
 It is undenyable that the *SOUND VOLTEX* series has grown in popularity throughout the years. As such, many players, maintainers, and other users have been making many contributious to the community, such as guides, messaging platforms, and even their own games simulating the *SOUND VOLTEX* gameplay experience along with custom charts. Through the years, many resources have accumulated in various places. As such, this webpage is an accumulation of those resources created by the community, official resources, and a parts list for controllers. This web page contains everything *SOUND VOLTEX*. 
 
@@ -16,49 +17,11 @@ The #faq-guides channel in the [SDVX Community Discord Server](https://discord.g
 <br>
 
 ### Table of Contents
+{:.no_toc}
 
-> [Sound Voltex Resources](#sound-voltex-resources)<br>
-> &nbsp; &nbsp; [Table of Contents](#table-of-contents)<br>
-> [Sound Voltex コナステ Games](#sound-voltex-コナステ-games)<br>
-> &nbsp; &nbsp; [Main Pages](#main-pages)<br>
-> &nbsp; &nbsp; [Community Guides](#community-guides)<br>
-> &nbsp; &nbsp; [Community Resources](#community-resources)<br>
-> [Sound Voltex Arcade Games](#sound-voltex-arcade-games)<br>
-> &nbsp; &nbsp; [Main Pages](#main-pages-1)<br>
-> &nbsp; &nbsp; [Community Guides](#community-guides-1)<br>
-> &nbsp; &nbsp; [Community Resources](#community-resources-1)<br>
-> [Community Games](#community-games)<br>
-> &nbsp; &nbsp; [K-Shoot Mania](#k-shoot-mania)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [Main Pages](#main-pages-2)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [Community Resources](#community-resources-2)<br>
-> &nbsp; &nbsp; [Unnamed SDVX Clone](#unnamed-sdvx-clone)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [Main Pages](#main-pages-3)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [Community Resources](#community-resources-3)<br>
-> &nbsp; &nbsp; [Community Guides](#community-guides-2)<br>
-> [Controllers](#controllers)<br>
-> &nbsp; &nbsp; [Vendors](#vendors)<br>
-> &nbsp; &nbsp; [Community Guides](#community-guides-3)<br>
-> &nbsp; &nbsp; [Community Resources](#community-resources-4)<br>
-> [Parts](#parts)<br>
-> &nbsp; &nbsp; [Arcade Spec Parts](#arcade-spec-parts)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [Buttons, Microswitches & Springs](#buttons-microswitches--springs)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [Knob Assembly](#knob-assembly)<br>
-> &nbsp; &nbsp; [Controller Parts](#controller-parts)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [Buttons](#buttons)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [Microswitches](#microswitches)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [Springs](#springs)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [Encoders & Potentiometers](#encoders--potentiometers)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [LEDS](#leds)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [Other](#other)<br>
-> &nbsp; &nbsp; &nbsp; &nbsp; [Stores](#stores)<br>
-> &nbsp; &nbsp; [Community Guides](#community-guides-4)<br>
-> &nbsp; &nbsp; [Community Resources](#community-resources-5)<br>
-> [Custom Charts](#custom-charts)<br>
-> &nbsp; &nbsp; [Custom Chart Repositories & Packs](#custom-chart-repositories--packs)<br>
-> &nbsp; &nbsp; [Community Guides & Resources](#community-guides--resources)<br>
-> [Other](#other)<br>
-> &nbsp; &nbsp; [Generally Useful Rhythm-Game Resources](#generally-useful-rhythm-game-resources)<br>
-> &nbsp; &nbsp; [Useful Discord Servers & Communities](#useful-discord-servers--communities)<br>
+> - this unordered seed list will be replaced by toc as unordered list
+> {:toc}
+
 
 <br>
 

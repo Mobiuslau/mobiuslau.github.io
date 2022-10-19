@@ -4,6 +4,7 @@ author: Amy
 updated: 18 October 2022
 ---
 # Jubeat Markers
+{:.no_toc}
 
 W.I.P.
 
@@ -14,16 +15,10 @@ Documentation about Jubeat markers and effects, as well as how to use them in Ju
 <br>
 
 ### Table of Contents
+{:.no_toc}
 
-> [Jubeat Analyser Markers](#jubeat-analyser-markers)<br>
-> &nbsp; &nbsp; [Table of Contents](#table-of-contents)<br>
-> &nbsp; &nbsp; [Glossary](#glossary)<br>
-> [Introduction](#introduction)<br>
-> [Jubeat Analyser 160325](#jubeat-analyser-160325)<br>
-> &nbsp; &nbsp; [Image Format](#image-format)<br>
-> &nbsp; &nbsp; [Markerfile](#markerfile)<br>
-> [Markers](#markers)<br>
-> [Bibliography](#bibliography)<br>
+> - this unordered seed list will be replaced by toc as unordered list
+> {:toc}
 
 
 <br>
