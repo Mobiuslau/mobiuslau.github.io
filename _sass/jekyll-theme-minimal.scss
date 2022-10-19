@@ -112,6 +112,7 @@ h1, h2, h3, h6 {
 
 h1 {
     font-size: 32px;
+    border-bottom: 2px solid $colText;
     /*margin-left: -32px; To account for the black triangle right.*/
 }
 
