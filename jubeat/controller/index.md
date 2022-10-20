@@ -12,15 +12,11 @@ The controller as built in this article is currently W.I.P, along with this webp
 
 {% include article_block.html %}
 
-<br>
-
 ### Table of Contents
 {:.no_toc}
 
 > - this unordered seed list will be replaced by toc as unordered list
 > {:toc}
-
-<br>
 
 ### Glossary
 
@@ -37,15 +33,11 @@ The controller as built in this article is currently W.I.P, along with this webp
 
 **Table 1:** Glossary used in this article.
 
-<br>
-
 
 
 ## Arcade Cabinet
 
 W.I.P. 
-
-<br>
 
 
 
@@ -55,15 +47,11 @@ W.I.P.
 
 W.I.P.
 
-<br>
-
 ### Buttons & Wiring
 
 <img src="circuit.png" alt="Wiring" width="700"/>
 
 **Figure 1:** Circuit diagram for the button PCB's. The wiring is such that each button is wired in parallel. The colours correspond to the colours from the cables used in the build as outlined in this article.
-
-<br>
 
 Arcade style button PCB's can be used in ASC builds. In this project, the PCB's came with the original panel. Otherwise, similar button PCB's can be acquired from Yubiparts [[5]](https://yubiparts.com/products/jubeat-button-sensor-pcb-board-frame?variant=40168391147707). 
 
@@ -77,15 +65,11 @@ Internal P-UR's on the Pro Micro ATmega32U4 will be used. Therefore, it is not r
 
 Wires used are [`JST PH-9P` cables with open ends](https://www.vanallesenmeer.nl/PH2.0-JST-9pin-kabel-30cm). Figure 1 takes the colour scheme of these cables into account.
 
-<br>
-
 ### Input/Output
 
 <img src="https://golem.hu/pic/pro_micro_pinout.jpg" alt="Pinout" width="700"/>
 
 **Figure 2:** Pinout diagram for the Arduino Pro Micro ATmega32U4 micro controller. Figure from Golem [[7]](https://golem.hu/article/pro-micro-pinout/).
-
-<br>
 
 There are two repo's with useful I/O code for the ATmega32U4:
 
@@ -99,8 +83,6 @@ The pinouts can be altered for the Pro Micro. The following list was used for th
 ```{2,3,4,5,6,7,8,9,10,14,15,16,A0,A1,A2,A3}```. 
 
 This was chosen such that only the bottom I/O pins on the micro controller were used (see figure 2). This is for convenience. 
-
-<br>
 
 ### Monitor
 
@@ -127,8 +109,6 @@ Arcade size monitors are absurdly difficult to obtain. Therefore, a 27" monitor 
 |Screen width||
 
 **Table 2:** Monitor information for BenQ GL2780. Data from Tweakers [[6]](https://tweakers.net/pricewatch/1405392/benq-gl2780-9h-punt-lj6lb-punt-qbe-zwart/specificaties/).
-
-<br>
 
 ### Parts
 
@@ -157,8 +137,6 @@ Here is a list of parts which can be used for Jubeat ASC projects. Links to hard
 
 **Table 3:** Parts list for Jubeat ASC projects. 
 
-<br>
-
 ### Files
 
 Here is a list of files which can be used for Jubeat ASC projects.
@@ -172,8 +150,6 @@ Here is a list of files which can be used for Jubeat ASC projects.
 
 **Table 4:** File list for Jubeat ASC projects. 
 
-<br>
-
 
 
 ## Build Process
@@ -184,32 +160,20 @@ W.I.P.
 
 **Figure 3:** The panel listing on Yahoo Auctions.
 
-<br>
-
 A listing for a Jubeat cabinet panel appeared on Yahoo Auctions on the 3rd of October, 2021 at 11:40 (Japan Time). This panel was bought out of impulse for ¥7,000 at 09:54 (Japan Time) a day later. The listing mentioned that the panel was damaged. However, according to the one image from the listing, the damage did not seem concerning to the panel mechanisms and electronics.
-
-<br>
 
 <img src="20211015_210433.jpg" alt="Panel-Shipped" width="700"/>
 <img src="20211016_150912.jpg" alt="Panel-Damaged" width="700"/>
 
 **Figure 4:** The panel as it arrived. It can be seen that the top part of the panel, it's mounting mechanism to the top, was bent.
 
-<br>
-
 The panel arrived on the 14th of October at the DHL warehouse, after which it was picked up a day later. The panel contains all the important electronics and buttons. It even came with the film layed between the panel and the protective acryllic plate in cabinets. The panel was indeed damaged, as well as dirty. The only damage seemed to be the top bar being bent (see figure 4). This was not concerning at all since this part can be removed from the panel. This would make designing the ASC easier as well.
-
-<br>
 
 <img src="IMG-20211020-WA0004.jpg" alt="Electronics-Shipped" width="700"/>
 
 **Figure 5:** The electronics as they arrived. Shown are the Pro Micro ATmega32U4 resting on a prototyping board, and JST PH-9P cables. 
 
-<br>
-
 The essential electronics were ordered on the 16th of October from Vanallesenmeer, and arrived on the 20th. The next step was to solder the correct groups of wires on the PH-9P cables in parallel, which is currently the state of the build. 
-
-<br>
 
 ### Expenses 
 

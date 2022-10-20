@@ -12,16 +12,12 @@ Documentation about Jubeat markers and effects, as well as how to use them in Ju
 
 {% include article_block.html %}
 
-<br>
-
 ### Table of Contents
 {:.no_toc}
 
 > - this unordered seed list will be replaced by toc as unordered list
 > {:toc}
 
-
-<br>
 
 ### Glossary
 
@@ -32,13 +28,13 @@ Documentation about Jubeat markers and effects, as well as how to use them in Ju
 
 **Table 1:** Glossary used in this article.
 
-<br>
+
 
 ## Introduction
 
 W.I.P.
 
-<br>
+
 
 ## Jubeat Analyser 160325
 
@@ -46,13 +42,11 @@ W.I.P.
 
 W.I.P.
 
-<br>
-
 ### Markerfile
 
 W.I.P.
 
-<br>
+
 
 ## Markers 
 
@@ -128,20 +122,3 @@ markers/{{ marker.name }}.{{ marker.format }}</pre>
 </table>
 
 **Table 2:** Publically available markers.
-
-<br>
-
-
-
-## Bibliography
-
-<table>
-    <thead>
-    </thead>
-    <tbody>
-        <tr>
-            <td>[1]</td>
-            <td></td>
-        </tr>
-    </tbody>
-</table>

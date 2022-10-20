@@ -1,7 +1,7 @@
 ---
 title: Sound Voltex Resources
 author: Amy
-updated: 18 October 2022
+updated: 20 October 2022
 ---
 # Sound Voltex Resources
 {:.no_toc}
@@ -14,16 +14,13 @@ The #faq-guides channel in the [SDVX Community Discord Server](https://discord.g
 
 {% include article_block.html %}
 
-<br>
 
-### Table of Contents
+
+## Table of Contents
 {:.no_toc}
 
 > - this unordered seed list will be replaced by toc as unordered list
 > {:toc}
-
-
-<br>
 
 
 
@@ -42,8 +39,6 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[Basic Course Subscription Department](https://p.eagate.573.jp/payment/p/select_course.html)**.
 - **[PASELI Charge Site](https://paseli.konami.net/charge/top.html)**.
 
-<br>
-
 ### Community Guides
 
 #### Game Setup
@@ -60,8 +55,6 @@ Also contains translations for the configuration menu.
 
 - **[Getting e-amusement Cards from Konasute Song Pack Campaigns](https://voltexes.com/getting-e-amusement-cards-from-konasute-song-pack-campaigns/)** by *Voltexes*.
 
-<br>
-
 ### Community Resources
 
 #### Songlists
@@ -77,8 +70,6 @@ Also contains translations for the configuration menu.
 - **[GlovePIE script for SDVX cloud](https://pastebin.com/wQsHLcs0)** by *Drewol*.<br>This script allows one to use old controllers with EAC. This is to be avoided if not necessary. 
 
 More useful resources can be found in [Sound Voltex Arcade Games](#sound-voltex-arcade-games) 🡪 [Community Guides](#community-guides-1) & [Community Resources](#community-resources-1).
-
-<br>
 
 
 
@@ -98,8 +89,6 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[SOUND VOLTEX BOOTH](https://p.eagate.573.jp/game/sdvx/sv/p/)**.
 
 - **[@SOUNDVOLTEX573 Twitter](https://twitter.com/soundvoltex573?lang=en)**.
-
-<br>
 
 ### Community Guides
 
@@ -143,8 +132,6 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[Voltexes Guides List](https://voltexes.com/guides/)**.<br>Compilation of guides by *Voltexes* and other resources.
 - **[BPL S2 Part 1: Tournament Flow, First Stage and Player Drafts](https://voltexes.com/bemani-pro-league-season-2-part-1/)**.<br>Explanation on how the *BEMANI PRO LEAGUE -SEASON 2-* works.
 
-<br>
-
 ### Community Resources
 
 #### Chart & Music Information
@@ -185,8 +172,6 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[VM locations](https://twitter.com/VMS_sdvx)**.<br>Spreadsheet of VM locations mentioned in the pinned tweet.
 - **[Voltexes Useful Links List](https://voltexes.com/useful-links/)**.<br>Other compilation of resources by *Voltexes*.
 
-<br>
-
 
 
 ## Community Games 
@@ -199,16 +184,14 @@ The main web page contains news feeds, quickstart guides and player data options
 
 - **[K-Shoot Mania](https://www.kshootmania.com/)** by *Masaka*.
 - **[K-Shoot Mania English Page](https://www.kshootmania.com/en/)** by *Masaka*.
+- **[kshootmania-v1-hsp Repo](https://github.com/m4saka/kshootmania-v1-hsp)** by *Masaka*.
 - **[K-Shoot Mania Internet Ranking System](https://ir.kshootmania.com/)**.
-
 
 #### Community Resources
 
 - **[A Beginner’s guide to K-Shoot Mania](https://docs.google.com/document/d/1jPako8p8U1lA_EFvpJ8Ho4OvaR5o2LS_u-kyiFiUsnE/edit)** by *grumpybutter & Ted_the_Red*.<br>Do not get the convert charts as listed there. If you are ademant about getting converts, you should be able to find the ones most players are using. 
 - **[r/kshootmania Skins](https://www.reddit.com/r/kshootmania/wiki/skins)**.
 - **[rdtoi1_K-Shoot skin](https://www.youtube.com/watch?v=_wEj5jrxnxk)** by *rdtoi1*.
-
-<br>
 
 ### Unnamed SDVX Clone
 
@@ -227,14 +210,10 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[Unnamed SDVX Clone Event Client](https://github.com/itszn/unnamed-sdvx-clone)** by *Itszn*.
 - **[usc-ir-server](https://github.com/Drewol/usc-ir-server)** by *Drewol*.
 
-<br>
-
 ### Community Guides
 
 - **[Tips on playing with a keyboard: Key bindings](https://www.reddit.com/r/kshootmania/comments/ndn1j2/tips_on_key_bindings_for_playing_sdvxksmusc_with/)** by *JiminP*.
 - **[SDVX Keyboard Playstyle Guide](https://docs.google.com/document/d/1Kc4ZScZU5rKoDF24hWpoSYk_Qx_1OGu6-w0qVBi3fpQ/edit)**.
-
-<br>
 
 
 
@@ -257,8 +236,6 @@ Other:
 
 - **[Speedy Labs](https://www.speedylabs.shop/)**.<br>*[Pocket-SDVX](https://github.com/speedypotato/Pocket-SDVX)* can be bought here.  
 
-<br>
-
 ### Community Guides
 
 - **[Controller Help](https://oniichan.wtf/help/)**.
@@ -269,13 +246,31 @@ Other:
 - **[A DIY SDVX/K-Shoot Mania Controller Guide](https://sdvx-diy.github.io/)** by *???*.<br>Controller building article. While it is old, there is still useful wisdom to be obtained from this article. 
 - **[Rhythm Cons Wiki: Sound Voltex](https://rhythm-cons.wiki/w/Sound_Voltex)**.<br>Compilation of concise information related to controllers.
 
-<br>
-
 ### Community Resources
 
 - **[Rhythm.Market](https://rhythm.market/)**.<br>Newly established second-hand marketplace for exchanging parts, controllers, and more. 
 
-<br>
+
+
+## Custom Charts
+
+### Custom Chart Repositories & Packs
+
+- **[Nautica](https://ksm.dev)** by *Puddi*.<br>This chart repository is among the most popular for singular custom charts.
+- **[KSM os/us Difficulty tables](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRH1beDh3I76qS-UUppW4_GibEj9bBDgcpO1XM4SrMylnSZYjyPjPYcMuQHaMrB-JGpIdsZtb-0wzmp/pubhtml)**.<br>os/us Difficulty tables for custom charts mainly from the Japanese *K-Shoot Mania* community. The rightmost tab can be used to find chart packs. Packs such as the *Shooters Festival*, a charting competition similar to *BMS of Fighters*, can be found here. 
+- **[Input Gate Pack](https://mega.nz/file/sohCmKya#i_FohRoetuuAWy6JFQpHFJe0Yv7OTHqdrVCmYK8et0c)**.<br>The *Input Gate* was a chart repository included with *K-Shoot Mania*. 
+- **[ksh chart vault](https://sites.google.com/site/ksh0hokansite/home/kshhokanko)**.<br>Collection of various charts published in *Niconico*. A bunch of charts linked on this page were catalogued [here](https://docs.google.com/spreadsheets/d/1pdNXO4dl9vh9WLdjIz5XF1kDPmfPbsJlbaAe-F9b1Ls/edit#gid=0) by *Rebcart*.
+- **[pulsevar.KSM](https://pulsevar-ksm.tumblr.com/)**.<br>Chart packs from prominant charters *Nitro*, *Jelly*, *XHERES*, *Silverhawke*, *Kurorak*, & *Terminus*.
+- **[Pack Vault V2](https://mega.nz/folder/3KxGESqC#dtwqQBbSZc5Z4LVmhBHcCw)**.<br>Old drive containing charts from various well known charters.
+- **[Taes Fun Pack](https://www.dropbox.com/s/s61883kvvka0mfz/Taes%20Fun%20Pack.rar?dl=0)**.
+
+### Community Guides & Resources
+
+The editor shipped with *K-Shoot Mania* is commonly used within the community to create charts. Therefore, a reference to *[K-Shoot Mania](https://www.kshootmania.com/)* will be made here.
+
+- **[kson-editor](https://github.com/Drewol/kson-editor)** by *Drewol*.
+- **[KSM EDITOR GUIDE](https://docs.google.com/document/d/1rDpndXsPxBsGQi_DkUmqAxq0PrmXjrPCWnK_zk639kQ/edit#)** by *Ted_the_red*.
+- **[How to create a user-defined effect ](http://mtstdy.blog.fc2.com/blog-entry-27.html)** by *Masaka*.<br>This is entirely in Japanese. 
 
 
 
@@ -305,8 +300,6 @@ See <a href="sanwa_button_product_codes">This table</a> for a description of the
 
 - **Sanwa OBSA-SP-20**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_218/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2942).<br>20g spring for the button. This is what the *Valkyrie model* cabinet uses [*Citation Needed*].
 
-<br>
-
 #### Knob Assembly
 
 See [Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex_volume_assembly) on [gamerepair.info](https://gamerepair.info/) for a detailed breakdown of the volume assembly, and maintenance tips. Information below is taken from this webpage. Epi recorded footage of the knob reassembly, which can be found [here](https://www.youtube.com/watch?v=QxZ3BoAf3iQ).
@@ -326,15 +319,11 @@ See [Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex
 - **c: SSHDP-ST-M4-5**.<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221005020350/?ProductCode=SSHDP-ST-M4-5).<br>
 - **d: SSHDP-ST-M4-4**.<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221005020350/?ProductCode=SSHDP-ST-M4-4).<br>
 
-<br>
-
 ### Arcade Spec Parts Korean Cabinets
 
 In Korea, *Uniana* is responsible for launching *SOUND VOLTEX* cabinets [[13](http://www.uniana.com/main.php?mid=menu13), [14](http://www.uniana.com/main.php?mid=menu21)]. A different button configuration is used in cabinets in Korea [*Citation Needed*].
 
 W.I.P.
-
-<br>
 
 ### Controller Parts
 
@@ -372,8 +361,6 @@ Other buttons:
 
 W.I.P.
 
-<br>
-
 #### Microswitches
 
 Always check the datasheets if supplied for the details and operating forces. Some switches have different terminal types which may be useful to some users. Certain users have documented their experiences with, and opinions about, some of these switches, which can be found [here](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers). It may be useful to consult this article when choosing a switch. There are more stores which sell these switches which may not be listed here. As such it is recommended to perform research.
@@ -397,8 +384,6 @@ Always check the datasheets if supplied for the details and operating forces. So
 
 - **Cherry D45X**<br>[arcadexpress](https://www.arcadexpress.com/en/microswitches/284-4-x-microswitch-cherry-d45x-48mm.html).<br>100g switch [[11](https://datasheet.octopart.com/D41CR1LD-Cherry-datasheet-41857.pdf)].
 
-<br>
-
 #### Springs
 
 - **Sanwa OBSA-SP (20g)**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_218/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953), [Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=296), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2942), [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual).<br>For use with Sanwa buttons listed above.
@@ -409,35 +394,25 @@ Always check the datasheets if supplied for the details and operating forces. So
 
 - **IST MALL Springs**.<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992332).<br> 30g, 60g, 100g, and 200g options.
 
-<br>
-
 #### Encoders & Potentiometers
 
 - **Sensatec ELV-24Y36A-K**.<br>[Metro Electric](http://www.e-metro.jp/quick/ELV-24.html).<br>Infinite pot meter for knobs [[5](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)].
 - **Nidec Copal RES20D-50-201-1**.<br>[Digikey](https://www.digikey.nl/nl/products/detail/nidec-copal-electronics/RES20D-50-201-1/6469509), [Mouser](https://nl.mouser.com/ProductDetail/Nidec-Copal/RES20D-50-201-1?qs=XeJtXLiO41R3vokOTWDL3g%3D%3D).<br>Can also be bought with SVSE5 bracket from [GAMO2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=316). See [Octopart](https://octopart.com/res20d-50-201-1-nidec+copal-87192281) for other stores.
 - **Alps EC12E2420801**.<br>[mouser](https://nl.mouser.com/ProductDetail/Alps-Alpine/EC12E2420801?qs=m0BA540hBPdaLIy4F3c5Mg%3D%3D).<br>This used to be the SVSE5 default. It is considered not that great and it is listed here for reference for those who have an older SVSE5 version.
 
-<br>
-
 #### LEDS
 
 - **ISTMALL LED lamp**.<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992273).
 - **GAMO2 LED light for button**.<br>[Gamo2](https://www.gamo2.com/en/index.php?dispatch=categories.view&category_id=266).
 
-<br>
-
 #### Other
 
 - **Yubiparts Aluminum Arcade Knob Head Shaft**.<br>[Yubiparts](https://yubiparts.com/products/sound-voltex-sdvx-aluminum-arcade-knob-head-shaft).<br>Aftermarket knob. For use with encoders used in arcade cabinets. Not compatible with Copal encoders.
-
-<br>
 
 ### Community Guides
 
 - **[Chanwa button mod](https://rvtk-1.github.io/iidx-chanwa/)**<br>This guide details a major difference between Sanwa and other buttons, and how to mod your buttons to achieve a somewhat similar feel.
 - **[SDVX controller dismantle guide : Change chinese button to Sanwa](https://www.youtube.com/watch?v=d3ThWetHoFM)** by *Tokaku*.<br>
-
-<br>
 
 ### Community Resources
 
@@ -452,17 +427,13 @@ Always check the datasheets if supplied for the details and operating forces. So
 - **[GameRepair.info SOUND VOLTEX](https://gamerepair.info/games/35_sound_voltex)**.<br>Information about *SOUND VOLTEX* arcade cabinets. 
 - **[GameRepair.info Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)**.<br>Information about the knob brackets. 
 - **[SDVX AC-Style Knob Disassembly and Reassembly](https://www.youtube.com/watch?v=QxZ3BoAf3iQ)** by *Epi*.<br>
-- **[Photo reference of VM parts](https://twitter.com/ADXkasugai/status/1421892398251081730)** by *@ADXkasugai*.<br>
-
-#### DIY Controller Resources
+- **[Photo reference of VM parts](https://twitter.com/ADXkasugai/status/1421892398251081730)** by *@ADXkasugai*.#### DIY Controller Resources
 
 - **[sdvx-repo](https://github.com/veroxzik/sdvx-repo)** by *veroxzik*.<br>Contains part files for knobs and PCB designs.
 - **[SDVX-Controller-Project](https://github.com/eliasrenman/SDVX-Controller-Project)** by *eliasrenman*.<br>
 - **[LeonardoSDVX-Shield](https://github.com/Stormpegy/LeonardoSDVX-Shield)** by *Stormpegy*.<br>Open source IO shield for DIY SDVX controllers.
 - **[SDVX Controller References & Blueprints](https://drive.google.com/drive/folders/1eoIVi5EL2O50zfXw4_XU5H__uXGZi7O8)**.<br>
-- **[Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers)**.<br>
-
-#### DIY Controller Code
+- **[Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers)**.#### DIY Controller Code
 
 - **[arduino-konami-spoof](https://github.com/veroxzik/arduino-konami-spoof)** by *veroxzik*.<br>*Arduino* library which aims to replicate IIDX and SDVX controllers.
 - **[RhythmCodes](https://github.com/knuckleslee/RhythmCodes)** by *knuckleslee*.<br>*Arduino Leonardo* code for various rhythm game controllers.
@@ -474,34 +445,6 @@ Always check the datasheets if supplied for the details and operating forces. So
 - **[Pocket Voltex](https://github.com/mon/PocketVoltex)** by *Mon*.<br>
 - **[pocketvtx](https://github.com/camprevail/pocketvtx)** by *camprevail*.<br>
 - **[Pocket-SDVX](https://github.com/speedypotato/Pocket-SDVX)** by *speedypotato*.<br>
-
-<br>
-
-
-
-## Custom Charts
-
-### Custom Chart Repositories & Packs
-
-- **[Nautica](https://ksm.dev)** by *Puddi*.<br>This chart repository is among the most popular for singular custom charts.
-- **[KSM os/us Difficulty tables](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRH1beDh3I76qS-UUppW4_GibEj9bBDgcpO1XM4SrMylnSZYjyPjPYcMuQHaMrB-JGpIdsZtb-0wzmp/pubhtml)**.<br>os/us Difficulty tables for custom charts mainly from the Japanese *K-Shoot Mania* community. The rightmost tab can be used to find chart packs. Packs such as the *Shooters Festival*, a charting competition similar to *BMS of Fighters*, can be found here. 
-- **[Input Gate Pack](https://mega.nz/file/sohCmKya#i_FohRoetuuAWy6JFQpHFJe0Yv7OTHqdrVCmYK8et0c)**.<br>The *Input Gate* was a chart repository included with *K-Shoot Mania*. 
-- **[ksh chart vault](https://sites.google.com/site/ksh0hokansite/home/kshhokanko)**.<br>Collection of various charts published in *Niconico*. A bunch of charts linked on this page were catalogued [here](https://docs.google.com/spreadsheets/d/1pdNXO4dl9vh9WLdjIz5XF1kDPmfPbsJlbaAe-F9b1Ls/edit#gid=0) by *Rebcart*.
-- **[pulsevar.KSM](https://pulsevar-ksm.tumblr.com/)**.<br>Chart packs from prominant charters *Nitro*, *Jelly*, *XHERES*, *Silverhawke*, *Kurorak*, & *Terminus*.
-- **[Pack Vault V2](https://mega.nz/folder/3KxGESqC#dtwqQBbSZc5Z4LVmhBHcCw)**.<br>Old drive containing charts from various well known charters.
-- **[Taes Fun Pack](https://www.dropbox.com/s/s61883kvvka0mfz/Taes%20Fun%20Pack.rar?dl=0)**.
-
-<br>
-
-### Community Guides & Resources
-
-The editor shipped with *K-Shoot Mania* is commonly used within the community to create charts. Therefore, a reference to *[K-Shoot Mania](https://www.kshootmania.com/)* will be made here.
-
-- **[kson-editor](https://github.com/Drewol/kson-editor)** by *Drewol*.
-- **[KSM EDITOR GUIDE](https://docs.google.com/document/d/1rDpndXsPxBsGQi_DkUmqAxq0PrmXjrPCWnK_zk639kQ/edit#)** by *Ted_the_red*.
-- **[How to create a user-defined effect ](http://mtstdy.blog.fc2.com/blog-entry-27.html)** by *Masaka*.<br>This is entirely in Japanese. 
-
-<br>
 
 
 
@@ -515,8 +458,6 @@ The editor shipped with *K-Shoot Mania* is commonly used within the community to
 - **[Zenius -I- vanisher > Arcades](https://zenius-i-vanisher.com/v5.2/arcades.php)**.<br>Community-maintained map containing information on where arcade cabinets from various series' can be found. 
 - **[arcade-songs](https://arcade-songs.zetaraku.dev/)** by *@zetaraku*.<br>Complete list of music in popular rhythm games. 
 - **[Bemanistyle](https://www.otaquest.com/bemanistyle/)**.<br>English rhythm game blog. 
-
-<br>
 
 ### Useful Discord Servers & Communities
 
