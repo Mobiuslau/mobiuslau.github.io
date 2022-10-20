@@ -217,6 +217,28 @@ The main web page contains news feeds, quickstart guides and player data options
 
 
 
+## Custom Charts
+
+### Custom Chart Repositories & Packs
+
+- **[Nautica](https://ksm.dev)** by *Puddi*.<br>This chart repository is among the most popular for singular custom charts.
+- **[KSM os/us Difficulty tables](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRH1beDh3I76qS-UUppW4_GibEj9bBDgcpO1XM4SrMylnSZYjyPjPYcMuQHaMrB-JGpIdsZtb-0wzmp/pubhtml)**.<br>os/us Difficulty tables for custom charts mainly from the Japanese *K-Shoot Mania* community. The rightmost tab can be used to find chart packs. Packs such as the *Shooters Festival*, a charting competition similar to *BMS of Fighters*, can be found here. 
+- **[Input Gate Pack](https://mega.nz/file/sohCmKya#i_FohRoetuuAWy6JFQpHFJe0Yv7OTHqdrVCmYK8et0c)**.<br>The *Input Gate* was a chart repository included with *K-Shoot Mania*. 
+- **[ksh chart vault](https://sites.google.com/site/ksh0hokansite/home/kshhokanko)**.<br>Collection of various charts published in *Niconico*. A bunch of charts linked on this page were catalogued [here](https://docs.google.com/spreadsheets/d/1pdNXO4dl9vh9WLdjIz5XF1kDPmfPbsJlbaAe-F9b1Ls/edit#gid=0) by *Rebcart*.
+- **[pulsevar.KSM](https://pulsevar-ksm.tumblr.com/)**.<br>Chart packs from prominant charters *Nitro*, *Jelly*, *XHERES*, *Silverhawke*, *Kurorak*, & *Terminus*.
+- **[Pack Vault V2](https://mega.nz/folder/3KxGESqC#dtwqQBbSZc5Z4LVmhBHcCw)**.<br>Old drive containing charts from various well known charters.
+- **[Taes Fun Pack](https://www.dropbox.com/s/s61883kvvka0mfz/Taes%20Fun%20Pack.rar?dl=0)**.
+
+### Community Guides & Resources
+
+The editor shipped with *K-Shoot Mania* is commonly used within the community to create charts. Therefore, a reference to *[K-Shoot Mania](https://www.kshootmania.com/)* will be made here.
+
+- **[kson-editor](https://github.com/Drewol/kson-editor)** by *Drewol*.
+- **[KSM EDITOR GUIDE](https://docs.google.com/document/d/1rDpndXsPxBsGQi_DkUmqAxq0PrmXjrPCWnK_zk639kQ/edit#)** by *Ted_the_red*.
+- **[How to create a user-defined effect ](http://mtstdy.blog.fc2.com/blog-entry-27.html)** by *Masaka*.<br>This is entirely in Japanese. 
+
+
+
 ## Controllers
 
 Before buying a controller, please do your research. Some buyer-guides are included below. Make an educated decision by reading and/or watching reviews, or inquire community members and/or the vendors about the controller models available. In case one might want to create a controller of their own, a few guides have been included below. The parts list presented further below might be of use.
@@ -249,28 +271,6 @@ Other:
 ### Community Resources
 
 - **[Rhythm.Market](https://rhythm.market/)**.<br>Newly established second-hand marketplace for exchanging parts, controllers, and more. 
-
-
-
-## Custom Charts
-
-### Custom Chart Repositories & Packs
-
-- **[Nautica](https://ksm.dev)** by *Puddi*.<br>This chart repository is among the most popular for singular custom charts.
-- **[KSM os/us Difficulty tables](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRH1beDh3I76qS-UUppW4_GibEj9bBDgcpO1XM4SrMylnSZYjyPjPYcMuQHaMrB-JGpIdsZtb-0wzmp/pubhtml)**.<br>os/us Difficulty tables for custom charts mainly from the Japanese *K-Shoot Mania* community. The rightmost tab can be used to find chart packs. Packs such as the *Shooters Festival*, a charting competition similar to *BMS of Fighters*, can be found here. 
-- **[Input Gate Pack](https://mega.nz/file/sohCmKya#i_FohRoetuuAWy6JFQpHFJe0Yv7OTHqdrVCmYK8et0c)**.<br>The *Input Gate* was a chart repository included with *K-Shoot Mania*. 
-- **[ksh chart vault](https://sites.google.com/site/ksh0hokansite/home/kshhokanko)**.<br>Collection of various charts published in *Niconico*. A bunch of charts linked on this page were catalogued [here](https://docs.google.com/spreadsheets/d/1pdNXO4dl9vh9WLdjIz5XF1kDPmfPbsJlbaAe-F9b1Ls/edit#gid=0) by *Rebcart*.
-- **[pulsevar.KSM](https://pulsevar-ksm.tumblr.com/)**.<br>Chart packs from prominant charters *Nitro*, *Jelly*, *XHERES*, *Silverhawke*, *Kurorak*, & *Terminus*.
-- **[Pack Vault V2](https://mega.nz/folder/3KxGESqC#dtwqQBbSZc5Z4LVmhBHcCw)**.<br>Old drive containing charts from various well known charters.
-- **[Taes Fun Pack](https://www.dropbox.com/s/s61883kvvka0mfz/Taes%20Fun%20Pack.rar?dl=0)**.
-
-### Community Guides & Resources
-
-The editor shipped with *K-Shoot Mania* is commonly used within the community to create charts. Therefore, a reference to *[K-Shoot Mania](https://www.kshootmania.com/)* will be made here.
-
-- **[kson-editor](https://github.com/Drewol/kson-editor)** by *Drewol*.
-- **[KSM EDITOR GUIDE](https://docs.google.com/document/d/1rDpndXsPxBsGQi_DkUmqAxq0PrmXjrPCWnK_zk639kQ/edit#)** by *Ted_the_red*.
-- **[How to create a user-defined effect ](http://mtstdy.blog.fc2.com/blog-entry-27.html)** by *Masaka*.<br>This is entirely in Japanese. 
 
 
 
@@ -427,13 +427,17 @@ Always check the datasheets if supplied for the details and operating forces. So
 - **[GameRepair.info SOUND VOLTEX](https://gamerepair.info/games/35_sound_voltex)**.<br>Information about *SOUND VOLTEX* arcade cabinets. 
 - **[GameRepair.info Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)**.<br>Information about the knob brackets. 
 - **[SDVX AC-Style Knob Disassembly and Reassembly](https://www.youtube.com/watch?v=QxZ3BoAf3iQ)** by *Epi*.<br>
-- **[Photo reference of VM parts](https://twitter.com/ADXkasugai/status/1421892398251081730)** by *@ADXkasugai*.#### DIY Controller Resources
+- **[Photo reference of VM parts](https://twitter.com/ADXkasugai/status/1421892398251081730)** by *@ADXkasugai*.
+
+#### DIY Controller Resources
 
 - **[sdvx-repo](https://github.com/veroxzik/sdvx-repo)** by *veroxzik*.<br>Contains part files for knobs and PCB designs.
 - **[SDVX-Controller-Project](https://github.com/eliasrenman/SDVX-Controller-Project)** by *eliasrenman*.<br>
 - **[LeonardoSDVX-Shield](https://github.com/Stormpegy/LeonardoSDVX-Shield)** by *Stormpegy*.<br>Open source IO shield for DIY SDVX controllers.
 - **[SDVX Controller References & Blueprints](https://drive.google.com/drive/folders/1eoIVi5EL2O50zfXw4_XU5H__uXGZi7O8)**.<br>
-- **[Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers)**.#### DIY Controller Code
+- **[Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers)**.
+
+#### DIY Controller Code
 
 - **[arduino-konami-spoof](https://github.com/veroxzik/arduino-konami-spoof)** by *veroxzik*.<br>*Arduino* library which aims to replicate IIDX and SDVX controllers.
 - **[RhythmCodes](https://github.com/knuckleslee/RhythmCodes)** by *knuckleslee*.<br>*Arduino Leonardo* code for various rhythm game controllers.
