@@ -14,15 +14,11 @@ Hopefully this catalogue proves to be helpful to both new, and veteran players, 
 
 {% include article_block.html %}
 
-<br>
-
 ### Table of Contents
 {:.no_toc}
 
 > - this unordered seed list will be replaced by toc as unordered list
 > {:toc}
-
-<br>
 
 ### Glossary
 
@@ -40,7 +36,7 @@ Hopefully this catalogue proves to be helpful to both new, and veteran players, 
 |mmod||Lane speed as kept as constant number.|
 |Not Available|N.A.|Function not in the game.|
 
-<br>
+
 
 ## Controls List
 
@@ -60,8 +56,6 @@ Hopefully this catalogue proves to be helpful to both new, and veteran players, 
 |[p] Leave premium time|Hold BT-A, BT-B, BT-C, BT-D|N.A.|Yes/no prompt. Yes = end session.|
 |[h] Leave Hexa Diver|FX-L|N.A.|Returns to songwheel.|
 
-<br>
-
 ### Options Menu
 
 |Function|Vivid Wave|Exceed Gear コナステ|Extra Description|
@@ -72,8 +66,6 @@ Hopefully this catalogue proves to be helpful to both new, and veteran players, 
 |Save mmod speed|N.A.|num-6|Changes red number when hovering over the Hi-speed options.|
 
 \*According to what is shown in-game. 
-
-<br>
 
 ### Waiting Lobby
 
@@ -89,8 +81,6 @@ There is no waiting lobby when using Premium Time. These controls should also fu
 |Headphone volume|Start + num-7, num-1|N.A.|Bottom right gauge.|
 |Skip lobby to play|FX-L + FX-R|N.A.||
 
-<br>
-
 ### During Play
 
 |Function|Vivid Wave|Exceed Gear コナステ|Description|
@@ -98,8 +88,6 @@ There is no waiting lobby when using Premium Time. These controls should also fu
 |[p] Force track crash|FX-L + FX-R + start|FX-L + FX-R + start|Also works to skip tutorial.|
 |[p] Force retry|Hold (FX-L + FX-R + start)|Hold (FX-L + FX-R + start)||
 |[p] Auto retry|00|num-.||
-
-<br>
 
 ### Result Screen
 

@@ -13,8 +13,6 @@ The *Pack* column specifies the chart packs as listed on the main website [[2](h
 
 {% include article_block.html %}
 
-<br>
-
 ### Glossary
 
 |Term|Meaning|
@@ -24,8 +22,6 @@ The *Pack* column specifies the chart packs as listed on the main website [[2](h
 |BLASTER GATE|Collect *BLASTER ENERGY* to gain access to the *BLASTER GATE* unlock procedure. Charts may be unlocked after a single play during events, regardless of the passing grade was obtained. Stay up to date with events on the main website [[4](https://p.eagate.573.jp/game/eacsdvx/vi/news/index.html)]. Listed under *Released*.|
 |BLASTER Release|Charts which were newly released as *BLASTER GATE* unlockables in the specified month. Listed under *Pack*.|
 |Member Unlock|Charts in these packs were released to monthly subscribers of the *GRAVITY WARS* version of konaste in the specified month. Some of these charts are re-released to *EXCEED GEAR* through the *BLASTER GATE*. Listed under *Pack*.|
-
-<br>
 
 
 

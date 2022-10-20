@@ -122,12 +122,16 @@ h1::before {
 
 h2 {
     font-size: 28px;
-    border-bottom: 1px solid $colBlock;
+    // border-bottom: 1px solid $colBlock;
+    border-bottom: 2px solid $colText;
+    margin-top: 88px;
     /*margin-left: -28px; To account for the black triangle right.*/
 }
 
 h3 {
     font-size: 24px;
+    border-bottom: 1px solid $colBlock;
+    margin-top: 44px;
     /*margin-left: -24px; To account for the black triangle right.*/
 }
 
@@ -391,8 +395,6 @@ button:hover {
         color: $colText;
     }
 }
-
-
 
 
 
