@@ -384,7 +384,7 @@ The *Sanwa OBSA-LHS1F-LN* switch used in Valkyrie cabinets could still be used w
 - **OMRON VX-5-1A2**.<br>[Mouser](https://eu.mouser.com/ProductDetail/Omron-Electronics/VX-5-1A2?qs=HDDQUw%2F3PhpqgaD1HfSCoQ%3D%3D), [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-5-1A2/369975).<br>25g microswitch [[15](https://eu.mouser.com/datasheet/2/307/en_vx-16332.pdf)].
 - **OMRON VX-5-1A3**.<br>[Mouser](https://eu.mouser.com/ProductDetail/Omron-Electronics/VX-5-1A3?qs=HDDQUw%2F3PhrDGKLihoCGqw%3D%3D). [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-5-1A3/369976)<br>50g microswitch [[15](https://eu.mouser.com/datasheet/2/307/en_vx-16332.pdf)].
 
-- **Sanwa OBSA-LHS1F-LN**.<br>[Blue Spring Express](https://bluespringexpress.net/products/lhs1f-switch-and-harness-set-for-sdvx).<br>100g microswitch & lamp holder housing an *OMRON V-11-3D4-SD* [[4](https://gamerepair.info/games/35_sound_voltex), [10](/sdvx/resources/IMG_2022.jpg)].
+- **Sanwa OBSA-LHS1F-LN**.<br>[Blue Spring Express](https://bluespringexpress.net/products/lhs1f-switch-and-harness-set-for-sdvx).<br>100g microswitch & lamp holder housing an *OMRON V-11-3D4-SD* [[4](https://gamerepair.info/games/35_sound_voltex), [10](/sdvx/resources/IMG_2022.jpg)] This listin is meant for use with Gamo2 and Yuancon controllers.
 
 - **OMRON D3V-011-1A3-K**.<br>[Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/D3V-011-1A3-K/1789124).<br>50g microswitch [[18](https://omronfs.omron.com/en_US/ecb/products/pdf/en-d3v-01.pdf)].
 
