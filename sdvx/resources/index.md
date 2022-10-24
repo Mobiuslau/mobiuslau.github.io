@@ -294,7 +294,7 @@ See <a href="sanwa_button_product_codes">This table</a> for a description of the
 - **Sanwa OBSA-45UK-K/W-1F-LED-R-12V**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4738).<br>(50 x 33)mm rectangle FX button. 
 - **Sanwa OBSA-30UK-B-1F-LED-B-12V**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4741).<br>(33 x 33)mm Square start button.
 
-- **Sanwa OBSA-LHS1F-LN**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3321).<br>100g microswitch & lamp holder [[4](https://gamerepair.info/games/35_sound_voltex)].
+- **Sanwa OBSA-LHS1F-LN**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3321), [Blue Spring Express](https://bluespringexpress.net/products/sanwa-microswitch-obsa-lhs1f).<br>100g microswitch & lamp holder housing an *OMRON V-11-3D4-SD* [[4](https://gamerepair.info/games/35_sound_voltex)].
 - **Sanwa SWA-LED-#**.<br>[Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3343).<br>Leds for use with *OBSA-LHS1F-LN*. *#* denotes the colour code. 
 - **Sanwa LHS-H**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_193/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3302).<br>Cable harness for use with *OBSA-LHS1F-LN*.
 
@@ -331,9 +331,13 @@ The parts as listed below could be used with most (diy) controllers.
 
 #### Buttons
 
-The Sanwa buttons listed below are analogous to arcade spec. These buttons ship with the old lamp holder type. This is more convenient for home use since the microswitch can be replaced easily. They can ship with an *Sanwa OBSA-SP* 100g spring, an *MS-O-3* (Omron V-10-1A4) 100g microswitch, and either a LED, or a Wedge Bulb Lamp (See Rakuten & Tops Game product pages). One can choose to buy the button only without a switch or lamp as well.
+The Sanwa buttons listed below are analogous to arcade spec. These buttons ship with the old lamp holder type. This is more convenient for home use since the microswitch can be replaced easily, and the *Sanwa OBSA-LHS1F-LN* switch wiring is less convenient for home controller use. They can ship with an *Sanwa OBSA-SP* 100g spring, an *MS-O-3* (Omron V-10-1A4) 100g microswitch, and either a LED, or a Wedge Bulb Lamp (See Rakuten & Tops Game product pages). One can choose to buy the button only, without a switch or lamp as well.
+
+Of course, the *Sanwa OBSA-LHS1F-LN* switch could still be used with Sanwa buttons if wired properly. [This listing on Blue Spring Express](https://bluespringexpress.net/en-us/products/lhs1f-switch-and-harness-set-for-sdvx) includes wires such that the switches can be used with Gamo2 and Yuancon controllers. It goes without saying that this switch is only compatible with Sanwa buttons.
 
 See <a href="sanwa_button_product_codes">This table</a> for a description of the button product codes [[1](https://www.tops-game.jp/products/detail.php?product_id=4740), [2](https://www.tops-game.jp/products/detail.php?product_id=4738), [3](https://www.tops-game.jp/products/detail.php?product_id=4741)].
+
+The list below also includes other buttons, as Sanwa buttons can be rather expensive to obtain.
 
 - **Sanwa OBSA-60UK; With 5V, 12V or 24V LED**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_078/).<br>(60 x 60)mm Square button.
 - &nbsp; &nbsp; **↪ With 14V Wedge Bulb Lamp**.<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_079/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4687).<br>
@@ -365,6 +369,8 @@ W.I.P.
 
 Always check the datasheets if supplied for the details and operating forces. Some switches have different terminal types which may be useful to some users. Certain users have documented their experiences with, and opinions about, some of these switches, which can be found [here](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers). It may be useful to consult this article when choosing a switch. There are more stores which sell these switches which may not be listed here. As such it is recommended to perform research.
 
+The *Sanwa OBSA-LHS1F-LN* switch used in Valkyrie cabinets could still be used with Sanwa buttons if wired properly. [This listing on Blue Spring Express](https://bluespringexpress.net/en-us/products/lhs1f-switch-and-harness-set-for-sdvx) includes wires such that the switches can be used with Gamo2 and Yuancon controllers. It goes without saying that this switch is only compatible with Sanwa buttons.
+
 - **OMRON D2MV-01-1C1**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_221/).<br>10g microswitch [[16](https://eu.mouser.com/datasheet/2/307/en-d2mv-20403.pdf)].
 - **OMRON D2MV-01-1C2**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_222/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992803), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2940), [Akishop](https://akishop.jp/collections/pushbutton-parts/products/microswitch-d2mv-01-1c2), [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/D2MV-01-1C2/5236583), [Mouser](https://nl.mouser.com/ProductDetail/Omron-Electronics/D2MV-01-1C2?qs=i1w9Bv2NFd3%252BulZmi2hfrQ%3D%3D), [Blue Spring Express](https://bluespringexpress.net/products/25g-omron-micro-switch-d2mv-01-1c2).<br>25g microswitch [[16](https://eu.mouser.com/datasheet/2/307/en-d2mv-20403.pdf)].
 - **OMRON D2MV-01-1C3**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_223/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992804), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2941), [Akishop](https://akishop.jp/collections/pushbutton-parts/products/microswitch-d2mv-01-1c3), [Digikey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2MV-01-1C3/5236584), [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/D2MV-01-1C3?qs=%2Fha2pyFaduhO2oGWGJJwEi1PO2bH3HTUBwhKOFR1P3o%3D), [Blue Spring Express](https://bluespringexpress.net/products/50g-omron-micro-switch-d2mv-01-1c3).<br>50g microswitch [[16](https://eu.mouser.com/datasheet/2/307/en-d2mv-20403.pdf)].
@@ -377,6 +383,8 @@ Always check the datasheets if supplied for the details and operating forces. So
 
 - **OMRON VX-5-1A2**.<br>[Mouser](https://eu.mouser.com/ProductDetail/Omron-Electronics/VX-5-1A2?qs=HDDQUw%2F3PhpqgaD1HfSCoQ%3D%3D), [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-5-1A2/369975).<br>25g microswitch [[15](https://eu.mouser.com/datasheet/2/307/en_vx-16332.pdf)].
 - **OMRON VX-5-1A3**.<br>[Mouser](https://eu.mouser.com/ProductDetail/Omron-Electronics/VX-5-1A3?qs=HDDQUw%2F3PhrDGKLihoCGqw%3D%3D). [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-5-1A3/369976)<br>50g microswitch [[15](https://eu.mouser.com/datasheet/2/307/en_vx-16332.pdf)].
+
+- **Sanwa OBSA-LHS1F-LN**.<br>[Blue Spring Express](https://bluespringexpress.net/products/lhs1f-switch-and-harness-set-for-sdvx).<br>100g microswitch & lamp holder housing an *OMRON V-11-3D4-SD* [[4](https://gamerepair.info/games/35_sound_voltex), [10](/sdvx/resources/IMG_2022.jpg)].
 
 - **OMRON D3V-011-1A3-K**.<br>[Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/D3V-011-1A3-K/1789124).<br>50g microswitch [[18](https://omronfs.omron.com/en_US/ecb/products/pdf/en-d3v-01.pdf)].
 
