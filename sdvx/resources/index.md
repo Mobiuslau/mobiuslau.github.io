@@ -294,7 +294,7 @@ See <a href="sanwa_button_product_codes">This table</a> for a description of the
 - **Sanwa OBSA-45UK-K/W-1F-LED-R-12V**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4738).<br>(50 x 33)mm rectangle FX button. 
 - **Sanwa OBSA-30UK-B-1F-LED-B-12V**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4741).<br>(33 x 33)mm Square start button.
 
-- **Sanwa OBSA-LHS1F-LN**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3321), [Blue Spring Express](https://bluespringexpress.net/products/sanwa-microswitch-obsa-lhs1f).<br>100g microswitch & lamp holder housing an *OMRON V-11-3D4-SD* [[4](https://gamerepair.info/games/35_sound_voltex)].
+- **Sanwa OBSA-LHS1F-LN**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3321), [Blue Spring Express](https://bluespringexpress.net/products/sanwa-microswitch-obsa-lhs1f).<br>100g microswitch & lamp holder housing an *OMRON V-11-3D4-SD* [[4](https://gamerepair.info/games/35_sound_voltex), [10](/sdvx/resources/IMG_2022.jpg)].
 - **Sanwa SWA-LED-#**.<br>[Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3343).<br>Leds for use with *OBSA-LHS1F-LN*. *#* denotes the colour code. 
 - **Sanwa LHS-H**.<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_193/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3302).<br>Cable harness for use with *OBSA-LHS1F-LN*.
 
