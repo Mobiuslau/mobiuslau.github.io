@@ -88,7 +88,7 @@ The main web page contains news feeds, quickstart guides and player data options
 - **[SOUND VOLTEX II -infinite infection-](https://p.eagate.573.jp/game/sdvx/ii/p/)**.
 - **[SOUND VOLTEX BOOTH](https://p.eagate.573.jp/game/sdvx/sv/p/)**.
 
-- **[SOUND VOLTEX BOOTH](https://p.eagate.573.jp/game/sdvx/vi/chara/index.html)**.
+- **[SOUND VOLTEX Characters](https://p.eagate.573.jp/game/sdvx/vi/chara/index.html)**.
 
 - **[@SOUNDVOLTEX573 Twitter](https://twitter.com/soundvoltex573?lang=en)**.
 
