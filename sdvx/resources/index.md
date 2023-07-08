@@ -258,7 +258,7 @@ Virgoo Turbochargers are not supported anymore.
 
 Other:
 
-- **[Speedy Labs](https://www.speedylabs.shop/)**.<br>*[Pocket-SDVX](https://github.com/speedypotato/Pocket-SDVX)* can be bought here.  
+- **[Speedy Labs](https://www.speedylabs.us/)**.<br>*[Pocket-SDVX](https://github.com/speedypotato/Pocket-SDVX)* can be bought here.  
 
 ### Community Guides
 
