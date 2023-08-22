@@ -128,7 +128,7 @@ Debuff mech. Received in purple circle. Stuff hurts more. Core:
 - At all times someone has to take it. Otherwise "cowards" and gives "win" hit (see later).
 - 2 stacks = death.
 
-Strategy: assign nums mod 1 & mod 2 beforehand: those players cycle debuff.
+Strategy: assign nums 1 & 2 beforehand: those players cycle debuff ($$n$$ mod $$2$$).
 
 <video src="demonising.mp4" controls="controls" style="max-width: 700px;"></video>
 
