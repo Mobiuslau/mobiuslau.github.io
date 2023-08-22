@@ -54,3 +54,6 @@
       subsubnav:
         - title: DRCH LB
           url: drch-lb/
+
+    - title: Settings
+      url: settings/ 
