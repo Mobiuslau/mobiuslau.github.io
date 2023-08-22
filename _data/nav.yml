@@ -45,3 +45,12 @@
 
     # - title: Imokure
     #   url: /imokure.html
+
+- title: Tera
+  url: /tera/
+  subnav:
+    - title: Dungeons
+      url: dungeons/
+      subsubnav:
+        - title: DRCH LB
+          url: drch-lb/
