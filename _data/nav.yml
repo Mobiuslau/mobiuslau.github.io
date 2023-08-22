@@ -46,8 +46,8 @@
     # - title: Imokure
     #   url: /imokure.html
 
-- title: Tera
-  url: /tera/
+- title: "MT:The Dream (Tera)"
+  url: /mt/
   subnav:
     - title: Dungeons
       url: dungeons/
