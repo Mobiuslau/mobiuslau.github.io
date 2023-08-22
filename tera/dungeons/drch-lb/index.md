@@ -6,7 +6,7 @@ updated: 22 August 2023
 # {{ page.title }}
 {:.no_toc}
 
-Please let me know if something should be corrected or improved.
+I wouldn't exactly call it a good guide but more like a footage archive of their attacks with some tips. Please let me know if something should be corrected or improved.
 
 {% include article_block.html %}
 
@@ -87,7 +87,7 @@ Swipe stays on 1 side:
 
 ### Hit Jump
 
-Note his movement right before he hits: that's the timing.
+Note Their movement right before he hits: that's the timing.
 
 <video src="jump.mp4" controls="controls" style="max-width: 700px;"></video>
 
@@ -107,7 +107,7 @@ Note his movement right before he hits: that's the timing.
 
 ### S-Swipes
 
-Take note of his stance: His first swipe will either be clockwise or counter clockwise. If you have trouble avoiding getting hit or getting out in time use the safe regions on the first swipe for some extra time to get out.
+Take note of Their stance: Their first swipe will either be clockwise or counter clockwise. If you have trouble avoiding getting hit or getting out in time use the safe regions on the first swipe for some extra time to get out.
 
 ***Counter clockwise start***
 
