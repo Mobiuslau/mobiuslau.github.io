@@ -52,8 +52,8 @@
     - title: Dungeons
       url: dungeons/
       subsubnav:
-        - title: DRCH LB
-          url: drch-lb/
+        - title: DRCH
+          url: drch/
 
     - title: Settings
       url: settings/ 

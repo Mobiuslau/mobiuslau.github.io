@@ -103,16 +103,13 @@ pre {
 /* =========== */
 h1, h2, h3, h4, h5, h6 {
     color: $colText;
-    margin: 0 0 20px 0;
-}
-
-h1, h2, h3, h6 {
     line-height: 1.1;
 }
 
 h1 {
     font-size: 32px;
     border-bottom: 2px solid $colText;
+    margin: 0 0 20px 0;
     /*margin-left: -32px; To account for the black triangle right.*/
 }
 
@@ -124,19 +121,35 @@ h2 {
     font-size: 28px;
     // border-bottom: 1px solid $colBlock;
     border-bottom: 2px solid $colText;
-    margin-top: 88px;
+    margin: 88px 0 20px 0;
     /*margin-left: -28px; To account for the black triangle right.*/
 }
 
 h3 {
     font-size: 24px;
     border-bottom: 1px solid $colBlock;
-    margin-top: 44px;
+    margin: 44px 0 20px 0;
     /*margin-left: -24px; To account for the black triangle right.*/
 }
 
+h4 {
+    font-size: 20px;
+    // border-bottom: 1px solid $colBlock;
+    margin: 22px 0 10px 0;
+    /*margin-left: -24px; To account for the black triangle right.*/
+}
+
+h5 {
+    font-size: 16px;
+    // border-bottom: 1px solid $colBlock;
+    margin: 22px 0 10px 0;
+    /*margin-left: -24px; To account for the black triangle right.*/
+}
+
+// Website Title Amy's Nerdy Corner.
 h6{
     font-size: 32px;
+    margin: 0 0 20px 0;
 }
 
 
@@ -318,6 +331,14 @@ button:hover {
 .animate-fade {
     animation: fadeAnimation .8s infinite;
 }
+
+/* ============== */
+/* = Resolution = */
+/* ============== */
+video {
+    margin-bottom: 15px;
+}
+
 
 /* ============== */
 /* = Resolution = */
