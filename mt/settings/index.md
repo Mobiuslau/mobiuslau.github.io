@@ -80,4 +80,4 @@ A simple usecase of this feature would be to add an "Edict" and "Thrall" TTS (te
     </abnormality>
 ```
 
-<video src="/mt/dungeons/drch-lb/tremble.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="/mt/dungeons/drch/lb/tremble.mp4" controls="controls" style="max-width: 700px;"></video>
