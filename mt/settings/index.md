@@ -48,7 +48,7 @@ The configuration is as follows:
 
 Upon inspecting these files the gist of how the notifications are configured should become more or less clear. There is some limited documentation on this which can be found [here](https://github.com/neowutran/ShinraMeter/wiki/Events). A list of `abnormality` ID's can be found [here](https://raw.githubusercontent.com/neowutran/TeraDpsMeterData/master/hotdot/hotdot-EU-EN.tsv).
 
-### Example
+### TTS Example
 
 A simple usecase of this feature would be to add an "Edict" and "Thrall" TTS (text to speech) notification. This can be achieved by adding the following to `events-common.xml`:
 
@@ -80,4 +80,60 @@ A simple usecase of this feature would be to add an "Edict" and "Thrall" TTS (te
     </abnormality>
 ```
 
+Take note however that there is a slight delay between the event happening and the TTS to say the text.
+
+
 <video src="/mt/dungeons/drch/lb/tremble.mp4" controls="controls" style="max-width: 700px;"></video>
+
+### Beep Example
+
+Similarly, one could use beeps of different frequencies and different lengths as event notification. The delay between the event and the beep is slightly better than the TTS. An example would be:
+
+```xml
+<!-- Adrenaline Rush -->
+    <abnormality active="true" ingame="true" trigger="Added" target="Self" ignore_classes="Mystic,Priest">
+        <abnormalities>
+            <abnormality>200701</abnormality>
+            <abnormality>200700</abnormality>
+        </abnormalities>
+        <actions>
+            <notify>
+                <beeps>
+                    <beep frequency="587" duration="250"/>
+                </beeps>
+            </notify>
+        </actions>
+    </abnormality>
+    
+    <!-- Priest boosts -->
+    <abnormality active="true" ingame="true" trigger="Added" target="Self" ignore_classes="Mystic,Priest">
+        <abnormalities>
+            <abnormality>805803</abnormality>
+            <abnormality>3012002</abnormality>
+        </abnormalities>
+        <actions>
+            <notify>
+                <beeps>
+                    <beep frequency="880" duration="250"/>
+                </beeps>
+            </notify>
+        </actions>
+    </abnormality>
+    
+    <!-- Mystic boosts -->
+    <abnormality active="true" ingame="true" trigger="Added" target="Self" ignore_classes="Mystic,Priest">
+        <abnormalities>
+            <abnormality>702004</abnormality>
+            <abnormality>3012012</abnormality>
+        </abnormalities>
+        <actions>
+            <notify>
+                <beeps>
+                    <beep frequency="880" duration="250"/>
+                </beeps>
+            </notify>
+        </actions>
+    </abnormality>
+```
+
+These frequencies correspond to the D5 and A5 notes to distinguish between Adrenaline Rush and Priest/Mystic boosts in this example.
