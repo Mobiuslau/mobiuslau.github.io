@@ -1,7 +1,7 @@
 ---
 title: Settings & Optimisations
 author: Amy
-updated: 22 August 2023
+updated: 23 August 2023
 ---
 # {{ page.title }}
 {:.no_toc}
