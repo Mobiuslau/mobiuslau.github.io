@@ -1,7 +1,7 @@
 ---
 title: DRCH
 author: Amy
-updated: 22 August 2023
+updated: 23 August 2023
 ---
 # {{ page.title }}
 {:.no_toc}
@@ -157,6 +157,5 @@ Strategy: Just get away when you see tremble or iframe right before them hitting
 
 ### Notes
 
-- I think most stuff is iframable. IIRC the S-swipes aren't so DPS get out and tank get out OR maneuver your way through S-swipes.
-- Hitting ring of fire causes some bleed stuff.
-- If most of the party is dead the boss can be kited without them doing much attacking to gain time for ressing people.
+- Hitting ring of fire causes bleeding.
+- If most of the party is dead the boss can be kited without them doing much attacking to gain time to resurrect.
