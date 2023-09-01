@@ -28,23 +28,23 @@ See [Tenacity](https://tenacity-tera.eu/en/dungeons/dark-reach-citadel/). Note t
 
 #### Swipe Swipe Front
 
-<video src="lb/ssf.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/ssf.mp4" controls="controls" style="max-width: 100%;"></video>
 
 #### Swipe Swipe Back
 
-<video src="lb/ssb.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/ssb.mp4" controls="controls" style="max-width: 100%;"></video>
 
 #### Front Hold
 
-<video src="lb/f.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/f.mp4" controls="controls" style="max-width: 100%;"></video>
 
 #### Swipe Swipe Swipe Back
 
-<video src="lb/sssb.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/sssb.mp4" controls="controls" style="max-width: 100%;"></video>
 
 #### Front Back
 
-<video src="lb/fb.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/fb.mp4" controls="controls" style="max-width: 100%;"></video>
 
 #### Cross Hits & Swipes
 
@@ -59,11 +59,11 @@ Always take note of where he looks: He will attack there.
 
 *Left*
 
-<video src="lb/crosshl.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/crosshl.mp4" controls="controls" style="max-width: 100%;"></video>
 
 *Right*
 
-<video src="lb/crosshr.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/crosshr.mp4" controls="controls" style="max-width: 100%;"></video>
 
 *Hit makes cross:*
 
@@ -75,11 +75,11 @@ Always take note of where he looks: He will attack there.
 
 *Left*
 
-<video src="lb/crosssl.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/crosssl.mp4" controls="controls" style="max-width: 100%;"></video>
 
 *Right*
 
-<video src="lb/crosssr.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/crosssr.mp4" controls="controls" style="max-width: 100%;"></video>
 
 *Swipe stays on 1 side:*
 
@@ -91,21 +91,21 @@ Always take note of where he looks: He will attack there.
 
 Note Their movement right before he hits: that's the timing.
 
-<video src="lb/jump.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/jump.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ### Specials
 
 #### Second Aggro Pull
 
-<video src="lb/sap.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/sap.mp4" controls="controls" style="max-width: 100%;"></video>
 
 #### Second Aggro Swipe
 
-<video src="lb/sas.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/sas.mp4" controls="controls" style="max-width: 100%;"></video>
 
 #### Res Attack
 
-<video src="lb/res.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/res.mp4" controls="controls" style="max-width: 100%;"></video>
 
 #### S-Swipes
 
@@ -113,11 +113,15 @@ Take note of Their stance: Their first swipe will either be clockwise or counter
 
 ##### Counter Clockwise Start
 
-<video src="lb/ssccws.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/ssccws.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ##### Clockwise Start
 
-<video src="lb/sscws.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/sscws.mp4" controls="controls" style="max-width: 100%;"></video>
+
+Strategy: Look at which arm he puts in front and look at his pose and how he is rotated. One could either get a feel for how the pose leads to CW or CCW attacks, or one could use the direction of the arm in front as indicator of where to go.
+
+<img src="lb/drch_ss_ccw_75.gif" controls="controls" style="max-width: 45%;">&emsp;<img src="lb/drch_ss_cw_75.gif" controls="controls" style="max-width: 45%; float: right;">
 
 ### Mechs
 
@@ -130,11 +134,11 @@ Debuff mech. Received in purple circle. Stuff hurts more. Core:
 
 Strategy: assign nums 1 & 2 beforehand: those players cycle debuff ($$n$$ mod $$2$$).
 
-<video src="lb/demonising.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/demonising.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ##### Win
 
-<video src="lb/win.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/win.mp4" controls="controls" style="max-width: 100%;"></video>
 
 Debuff player dies $$\Rightarrow$$ "I win": does flat dmg to party. Don't let this happen.
 
@@ -151,7 +155,7 @@ Someone in red circle $$\Rightarrow$$ gives boss stacks:
 - Moderate $$\#$$ of stacks: Weak dmg.
 - Many $$\#$$ of stacks: Likely wipe.
 
-<video src="lb/tremble.mp4" controls="controls" style="max-width: 700px;"></video>
+<video src="lb/tremble.mp4" controls="controls" style="max-width: 100%;"></video>
 
 Strategy: Just get away when you see tremble or iframe right before them hitting the ground. If someone got fucked they should be pulled out to avoid wipe.
 
