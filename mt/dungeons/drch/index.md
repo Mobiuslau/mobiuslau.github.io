@@ -48,12 +48,12 @@ See [Tenacity](https://tenacity-tera.eu/en/dungeons/dark-reach-citadel/). Note t
 
 #### Cross Hits & Swipes
 
-Looks over either shoulder, take note. 2 variants with boss looking to $$x$$ starting side:
+Looks over either shoulder, take note. 2 variants with boss looking to L/R (left/right) side first:
 
-- *Hits*; makes cross with hits starting from $$x$$ back.
-- *Swipes*; hits $$x$$ back $$\rightarrow$$ $$x$$ front. holds front $$\rightarrow$$ swipes cw/ccw, then ccw/cw from $$x$$ side.
+- *Hits*; makes cross with hits starting from L/R back.
+- *Swipes*; hits L/R back $$\rightarrow$$ L/R front. holds front $$\rightarrow$$ swipes cw/ccw, then ccw/cw from L/R side.
 
-Always take note of where he looks: He will attack there.
+Always take note of where they look: they will attack there.
 
 ##### Hits
 
@@ -89,7 +89,7 @@ Always take note of where he looks: He will attack there.
 
 #### Hit Jump
 
-Note Their movement right before he hits: that's the timing.
+Note Their movement right before they hit: that's the timing.
 
 <video src="lb/jump.mp4" controls="controls" style="max-width: 100%;"></video>
 
@@ -109,7 +109,7 @@ Note Their movement right before he hits: that's the timing.
 
 #### S-Swipes
 
-Take note of Their stance: Their first swipe will either be clockwise or counter clockwise. If you have trouble avoiding getting hit or getting out in time use the safe regions on the first swipe for some extra time to get out.
+Take note of Their stance and blades: Their first swipe will either be clockwise or counter clockwise. If you have trouble avoiding getting hit or getting out in time use the safe regions on the first swipe for some extra time to get out.
 
 ##### Counter Clockwise Start
 
@@ -119,9 +119,32 @@ Take note of Their stance: Their first swipe will either be clockwise or counter
 
 <video src="lb/sscws.mp4" controls="controls" style="max-width: 100%;"></video>
 
-Strategy: Look at which arm he puts in front and look at his pose and how he is rotated. One could either get a feel for how the pose leads to CW or CCW attacks, or one could use the direction of the arm in front as indicator of where to go.
+##### Strategy
 
-<img src="lb/drch_ss_ccw_75.gif" controls="controls" style="max-width: 45%;">&emsp;<img src="lb/drch_ss_cw_75.gif" controls="controls" style="max-width: 45%; float: right;">
+One could look at either of the following to determine the first safezone;
+
+- their pose and direction of the arm in front (yellow),
+- the direction of the blades; they point towards the hit zones (blue).
+
+Knowing the first gives you the second and third safezones (see footage). 
+
+![lb/arm_blades.png](lb/arm_blades.png)
+
+From either front or back there are 2 ways to get to the safezones:
+
+*Stepping to the side;*
+
+<img src="lb/drch_ss_ccw_1.gif" controls="controls" style="max-width: 45%;">&emsp;<img src="lb/drch_ss_cw_1.gif" controls="controls" style="max-width: 45%; float: right;">
+
+*Stepping diagonally across;*
+
+<img src="lb/drch_ss_ccw_2.gif" controls="controls" style="max-width: 45%;">&emsp;<img src="lb/drch_ss_cw_2.gif" controls="controls" style="max-width: 45%; float: right;">
+
+The goal is to get a feel for finding the safezones, and then just walking forwards and backwards.
+
+Example footage from *Charmor*, performing one of the the 's-walks':
+
+<video src="lb/charmor.mp4" controls="controls" style="max-width: 100%;"></video>
 
 ### Mechs
 
@@ -151,7 +174,7 @@ Events:
 
 Someone in red circle $$\Rightarrow$$ gives boss stacks:
 
-- Little $$\#$$ of stacks: He gets stunned.
+- Little $$\#$$ of stacks: They get stunned.
 - Moderate $$\#$$ of stacks: Weak dmg.
 - Many $$\#$$ of stacks: Likely wipe.
 
