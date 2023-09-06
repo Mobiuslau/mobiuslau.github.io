@@ -1,7 +1,7 @@
 ---
 title: Settings & Optimisations
 author: Amy
-updated: 23 August 2023
+updated: 06 September 2023
 ---
 # {{ page.title }}
 {:.no_toc}
@@ -54,7 +54,7 @@ A simple usecase of this feature would be to add an "Edict" and "Thrall" TTS (te
 
 ```xml
     <!-- Priest boosts -->
-    <abnormality active="true" ingame="true" trigger="Added" target="Self" ignore_classes="Mystic,Priest">
+    <abnormality active="true" ingame="true" trigger="Added" target="Self">
         <abnormalities>
             <abnormality>805803</abnormality>
             <abnormality>3012002</abnormality>
@@ -91,7 +91,7 @@ Similarly, one could use beeps of different frequencies and different lengths as
 
 ```xml
 <!-- Adrenaline Rush -->
-    <abnormality active="true" ingame="true" trigger="Added" target="Self" ignore_classes="Mystic,Priest">
+    <abnormality active="true" ingame="true" trigger="Added" target="Self">
         <abnormalities>
             <abnormality>200701</abnormality>
             <abnormality>200700</abnormality>
