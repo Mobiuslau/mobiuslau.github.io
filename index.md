@@ -6,7 +6,7 @@ title: Hello!
 
 I like documenting things I find interesting. This is not my portfolio.
 
-|<img src="VRChat_2023-01-07_12-04-40.728_1080x1920.png" style="margin: 6px 0 0 -9px;" width="700px">|I’m Amy (Mobiuslau), a theoretical physics master student who loves to compose music, play drums, graphic design, and play games like Sound Voltex, Beatmania IIDX, BMS and Tera. Perhaps you’ll find something interesting here. Feel free to contact me too.<br><br> &nbsp; &nbsp; &nbsp; 🡪 [Amy's Nerdy Corner](https://mobiuslau.github.io/)<br> &nbsp; &nbsp; &nbsp; 🡪 [Youtube](https://www.youtube.com/user/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Twitch](https://www.twitch.tv/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Bokutachi](https://bokutachi.xyz/dashboard/users/Mobiuslau/)|
+|<img src="VRChat_2023-01-07_12-04-40.728_1080x1920.png" style="margin: 6px 0 0 -9px;" width="700px">|I’m Amy (Mobiuslau), a theoretical physics master student who loves to compose music, play drums, graphic design, and play games like Sound Voltex, Beatmania IIDX, BMS and Tera. Perhaps you’ll find something interesting here. Feel free to contact me on Discord: `mobiuslau`.<br><br> &nbsp; &nbsp; &nbsp; 🡪 [Amy's Nerdy Corner](https://mobiuslau.github.io/)<br> &nbsp; &nbsp; &nbsp; 🡪 [Youtube](https://www.youtube.com/user/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Twitch](https://www.twitch.tv/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Bokutachi](https://bokutachi.xyz/dashboard/users/Mobiuslau/)|
 
 <button onclick="buttonFunc()">Music of the month.</button>
 
