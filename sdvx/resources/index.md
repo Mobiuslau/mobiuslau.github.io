@@ -1,7 +1,7 @@
 ---
 title: Sound Voltex Resources
 author: Amy
-updated: 04 November 2022
+updated: 14 December 2023
 ---
 # Sound Voltex Resources
 {:.no_toc}
@@ -139,6 +139,8 @@ The main web page contains news feeds, quickstart guides and player data options
 #### Chart & Music Information
 
 - **[sdvx.in](https://sdvx.in/)**.<br>One of the oldest, and most useful, resources available for the series. This website contains detailed overviews of the majority of charts for players to study and practice with. 
+- **[sdvx Index](https://sdvxindex.com/)**.<br>Serves a similar purpose to the above, but with a different interface and slightly faster load times.
+
 - **[SDVX Song List](https://myshkin.io/sdvx/songlist)**.<br>Song list which includes PC availability.
 - **[SDVX song info](https://docs.google.com/spreadsheets/d/1LullF7bFylmb-QC-J8XkF2W0z0hkDb7LzClsz-upTy8/edit#gid=1164354470)**  by *ゆきみそ*.
 - **[Anzu Info](https://anzuinfo.me/)**. <br>Chart information website in Korean. It also features a score tracker and difficulty tables, among other things.
@@ -176,7 +178,7 @@ The main web page contains news feeds, quickstart guides and player data options
 
 
 
-## Community Games 
+## Community Games
 
 ### K-Shoot Mania
 
