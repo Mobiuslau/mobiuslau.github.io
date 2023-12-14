@@ -4,7 +4,12 @@ _site
 .jekyll-metadata
 vendor
 2021-11-26-welcome-to-jekyll.markdown
+d5_majorita.afdesign
 localserver.bat
+template.md
+/_sass/jekyll-theme-minimal.scss
+/_sass/Not used.txt
+/assets/css/style.scss.bak
 /sdvx/eaccharts/index_Backup_2022-4-4.md
 /sdvx/eaccharts/index_Backup_2022-5-2.md
 /sdvx/eaccharts/index_Backup_2022-6-2.md

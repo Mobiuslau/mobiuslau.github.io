@@ -312,7 +312,13 @@ video {
 /* ============== */
 /* = Resolution = */
 /* ============== */
-@media print, screen and (max-width: 960px) { 
+@media print, screen and (max-width: 1619px) { 
+    div.wrapper {
+        margin: 0 auto;
+    }
+}
+
+@media print, screen and (max-width: 1139px) { 
     div.wrapper {
         width: auto;
         margin: 0;

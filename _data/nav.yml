@@ -37,6 +37,9 @@
     - title: Resources
       url: resources/
 
+    - title: Techniques & Tips
+      url: technique/
+
 - title: BMS Tables
   url: /bms/tables/
   subnav:

@@ -2,16 +2,15 @@
 title: Hello!
 ---
 
-# Hello! 😊
+# Hello!
 
-I like documenting things I find interesting. This is not my portfolio.
+<img src="d5_majorita.png" alt="Majorita from Disgaea 5." style="margin: 5px 16px 0 0; float: left" width="247px">
+I’m Amy (Mobiuslau), a theoretical physics master student who loves to compose music, play drums, graphic design, and play games like Sound Voltex, Beatmania IIDX, and BMS. Perhaps you’ll find something interesting here. Feel free to contact me on Discord: `mobiuslau` (Thinking of making a server).<br><br> &nbsp; &nbsp; &nbsp; 🡪 [Amy's Nerdy Corner](https://mobiuslau.github.io/)<br> &nbsp; &nbsp; &nbsp; 🡪 [Youtube](https://www.youtube.com/user/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Twitch](https://www.twitch.tv/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Bokutachi](https://bokutachi.xyz/dashboard/users/Mobiuslau/)<br><br>I like documenting things I find interesting or might consider helpful to others, which is the purpose of this website.
 
-|<img src="VRChat_2023-01-07_12-04-40.728_1080x1920.png" style="margin: 6px 0 0 -9px;" width="700px">|I’m Amy (Mobiuslau), a theoretical physics master student who loves to compose music, play drums, graphic design, and play games like Sound Voltex, Beatmania IIDX, BMS and Tera. Perhaps you’ll find something interesting here. Feel free to contact me on Discord: `mobiuslau`.<br><br> &nbsp; &nbsp; &nbsp; 🡪 [Amy's Nerdy Corner](https://mobiuslau.github.io/)<br> &nbsp; &nbsp; &nbsp; 🡪 [Youtube](https://www.youtube.com/user/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Twitch](https://www.twitch.tv/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Bokutachi](https://bokutachi.xyz/dashboard/users/Mobiuslau/)|
+<button onclick="buttonFunc()">f' Music piece of the {timeFrame}. '</button>
 
-<button onclick="buttonFunc()">Music of the month.</button>
-
-<div id="buttonStyle" style="display:none;">
-    <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/_d8I48rqRTA" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div id="buttonStyle" style="display:none; margin: 16px 0 0 0;">
+    <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/PAyvAqLXky4" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <script>
