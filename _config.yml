@@ -55,6 +55,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - README.md
   - 2021-11-26-welcome-to-jekyll.markdown
   - d5_majorita.afdesign
   - localserver.bat
