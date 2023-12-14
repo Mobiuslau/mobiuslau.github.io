@@ -11,7 +11,7 @@ I’m Amy (Mobiuslau), a theoretical physics master student who loves to compose
     xmlns="http://www.w3.org/2000/svg" 
     xmlns:xlink="http://www.w3.org/1999/xlink">
     <rect x="0" y="0" width="300" height="50" class="svgcol1"/>
-    <text x="19" y="23.9" class="svgcol3">LATEST SITE UPDATE</text>
+    <text x="19" y="23.9" class="svgcol3">LATEST DEPLOYMENT</text>
     <text x="20px" y="38.3px" class="svgcol3">{{ site.time | date: "%R UTC, %d %B %Y" | upcase }}</text>
     <g transform="matrix(-0.0846667,0,0,0.0846667,293,-28.28)">
         <path d="M0,416.693L0,771.024L283.464,771.024L283.464,841.89L318.897,841.89L425.197,735.592L318.897,629.291L283.464,629.291L283.464,700.159L70.865,700.159L70.865,487.558L141.733,487.558L141.733,416.693L0,416.693Z" class="svgcol3 animate-fade"/>
