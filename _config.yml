@@ -56,16 +56,23 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - 2021-11-26-welcome-to-jekyll.markdown
+  - d5_majorita.afdesign
   - localserver.bat
-  - Readme.md
+  - template.md
+  - /_sass/jekyll-theme-minimal.scss
+  - /_sass/Not used.txt
+  - /assets/css/style.scss.bak
   - /sdvx/eaccharts/index_Backup_2022-4-4.md
   - /sdvx/eaccharts/index_Backup_2022-5-2.md
   - /sdvx/eaccharts/index_Backup_2022-6-2.md
   - /sdvx/eaccharts/index_Backup_2022-7-13.md
   - /sdvx/eaccharts/index_Backup_Playlist.md
   - /sdvx/eaccharts/index_Backup_sdvxin.md
+  - /bms/tables/bokutachi_7K.html
+  - /bms/tables/bokutachi_body_7K.json
+  - /bms/tables/bokutachi_header_7K.json
   - /bms/tables/imo-EC_body.json
-  - /bms/tables/imo-EC_head.json
+  - /bms/tables/imo-EC_header.json
   - /bms/tables/imo-HC_body.json
-  - /bms/tables/imo-HC_head.json
+  - /bms/tables/imo-HC_header.json
   - /bms/tables/imokure.md
