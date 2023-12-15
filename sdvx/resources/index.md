@@ -138,8 +138,8 @@ The main web page contains news feeds, quickstart guides and player data options
 
 #### Chart & Music Information
 
-- **[sdvx.in](https://sdvx.in/)**.<br>One of the oldest, and most useful, resources available for the series. This website contains detailed overviews of the majority of charts for players to study and practice with. 
-- **[sdvx Index](https://sdvxindex.com/)**.<br>Serves a similar purpose to the above, but with a different interface and slightly faster load times.
+- **[sdvx Index](https://sdvxindex.com/)**.<br>This website contains detailed top-down overviews of charts for players to study and practice with. It is similar to *sdvx.in* below, however it provides every chart, including lower level difficulties, and it may load faster.
+- **[sdvx.in](https://sdvx.in/)**.<br>One of the oldest, and most useful, resources available for the series for studying charts similarly to the above. However, it does not provide overviews for a large group of lower level charts.
 
 - **[SDVX Song List](https://myshkin.io/sdvx/songlist)**.<br>Song list which includes PC availability.
 - **[SDVX song info](https://docs.google.com/spreadsheets/d/1LullF7bFylmb-QC-J8XkF2W0z0hkDb7LzClsz-upTy8/edit#gid=1164354470)**  by *ゆきみそ*.
