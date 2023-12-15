@@ -67,6 +67,7 @@ code, pre {
     color: var(--colText);
     background: var(--colBlock);
     border-radius: .4em;
+    padding: 0 5px 0 5px;
 }
 
 pre {
@@ -248,30 +249,80 @@ hr {
 /* =========== */
 /* = Buttons = */
 /* =========== */
-button {
-    background-color: var(--colBg); 
-    color: var(--colText);
-}
+// button {
+//     background-color: var(--colBg); 
+//     color: var(--colText);
+// }
 
-button:hover {
-    background-color: var(--colOne);
-    color: var(--colText);
-}
+// button:hover {
+//     background-color: var(--colOne);
+//     color: var(--colText);
+// }
 
+// Remove all default button styling.
+// https://stackoverflow.com/questions/2460100/remove-the-complete-styling-of-an-html-button-submit
+button, input[type="submit"], input[type="reset"] {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
 
 /* ======= */
 /* = SVG = */
 /* ======= */
-.svgcol1 {
+.svgcolone {
     fill: var(--colOne);
 }
 
-.svgcol2 {
+.svgcoltwo {
     fill: var(--colTwo);
 }
 
-.svgcol3 {
+.svgcolthree {
     fill: var(--colThree);
+}
+
+.svgcoltext {
+    fill: var(--colText);
+}
+
+.svgcolblock {
+    fill: var(--colBlock);
+}
+
+.svgcolbg {
+    fill: var(--colBg);
+}
+
+
+// Class to assign to button.
+.svgbutton {
+}
+
+// Class for part of button when it's off.
+.svgbuttoncoloff {
+    fill: var(--colText);
+}
+
+// Class for part of button when it's on.
+.svgbuttoncolon {
+    fill: var(--colOne);
+}
+
+// Change child class of class upon hover.
+// https://stackoverflow.com/questions/1935820/set-ahover-based-on-class
+// https://css-tricks.com/the-many-ways-to-change-an-svg-fill-on-hover-and-when-to-use-them/
+// https://stackoverflow.com/questions/10483323/use-hover-to-modify-the-css-of-another-class
+.svgbutton:hover .svgbuttoncoloff{
+    fill: var(--colTwo)
+}
+
+.svgbutton:hover .svgbuttoncolon{
+    fill: var(--colTwo)
 }
 
 

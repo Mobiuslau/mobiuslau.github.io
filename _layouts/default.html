@@ -24,7 +24,7 @@
         <header>
             <h6 style="margin-left: 5px;">
                 <a href="{{ "/" | absolute_url }}">{{ site.title }}<div class="animate-flicker">🡾</div></a>
-            </h1>
+            </h6>
 
             <p style="font-size: 32px; margin-left: 5px; line-height: 1.1;">
             	<br><a href="/" class="navigation {% if page.url == "/" %}navactive{% endif %}">Home</a>
@@ -66,12 +66,7 @@
                     AMY
                 </p>
                 <br>
-                <svg width="160" height="28" style="margin: 0 0 -5px 5px;"
-                    xmlns="http://www.w3.org/2000/svg" 
-                    xmlns:xlink="http://www.w3.org/1999/xlink">
-                    <path class="svgcol1" d="M 0,0 V 28 H 120 V 5 L 115,0 Z" />
-                    <path class="svgcol2" d="M 122,0 V 28 H 160 V 5 L 155,0 Z" />
-                </svg>
+                {% include footer_bars.html %}
             </footer>
         </div>
 
