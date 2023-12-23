@@ -24,8 +24,8 @@ description: Things I find interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mobiuslau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Mobiuslau
-logo: /assets/img/majorita_02_circ.png
-favicon: /assets/img/majorita_02_circ.ico
+logo: /assets/img/circ.png
+favicon: /assets/img/circ.ico
 markdown: kramdown
 plugins: 
   - jekyll-sitemap
@@ -56,7 +56,7 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   - 2021-11-26-welcome-to-jekyll.markdown
-  - d5_majorita.afdesign
+  - home_image.afdesign
   - localserver.bat
   - template.md
   - README.md
