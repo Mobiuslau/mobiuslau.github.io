@@ -24,8 +24,8 @@ description: Things I find interesting.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mobiuslau.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Mobiuslau
-logo: /assets/img/circ.png
-favicon: /assets/img/circ.ico
+logo: /assets/img/logo.png
+favicon: /assets/img/favicon.png
 markdown: kramdown
 plugins: 
   - jekyll-sitemap
