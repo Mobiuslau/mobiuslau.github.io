@@ -32,10 +32,10 @@ I’m Amy (Mobiuslau), a theoretical physics master student who loves to compose
     </g>
 </svg>
 
-<button class="svgbutton" onclick="buttonFunc()" style="margin: 28px 0 0 0;">{% include button_off.html buttontext="f' Music piece of the {timeFrame}. " %}</button>
+<button class="svgbutton" onclick="buttonFunc()" style="margin: 28px 0 0 0;">{% include button_off.html buttontext="f' Music piece of the {timeFrame}.'" %}</button>
 
 <div id="buttonYoutube" style="display:none; margin: 16px 0 0 0;">
-    <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/PAyvAqLXky4" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/SYQdsCnAzng" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <script>
