@@ -8,6 +8,8 @@ updated: 14 December 2023
 
 <!-- With *Sound Voltex* being a rhythm game which often requires some amount of creativity for hitting patterns, especially as the difficulty of the charts increases, there are often moments of discovery during, or discussion about, gameplay. A subset of the playerbase may actively want to seek out -->
 
+***WORK IN PROGRESS***
+
 There are often moments of discovery during, or discussions about, *Sound voltex* gameplay, since it is a rhythm game which (not exclusive) often requires some amount of creativity for hitting patterns, especially as the difficulty of the charts increases. With a subset of the playerbase which may actively seek to improve or develop their skill, it might be difficult to get a grasp of the different kinds of ideas players have come up with to tackle different kinds of gameplay situations. 
 
 As such, this page serves as;
