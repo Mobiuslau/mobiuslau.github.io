@@ -453,8 +453,8 @@ The *Sanwa OBSA-LHS1F-LN* switch used in Valkyrie cabinets could still be used w
 - **[GameRepair.info SOUND VOLTEX](https://gamerepair.info/games/35_sound_voltex)**<br>Information about *SOUND VOLTEX* arcade cabinets. 
 - **[GameRepair.info Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex_volume_assembly)**<br>Information about the knob brackets. 
 - **[SDVX AC-Style Knob Disassembly and Reassembly](https://www.youtube.com/watch?v=QxZ3BoAf3iQ)** by *Epi*<br>
-- **[Photo reference of VM parts](https://twitter.com/ADXkasugai/status/1421892398251081730)** by *@ADXkasugai*.
-- **[Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers)**.
+- **[Photo reference of VM parts](https://twitter.com/ADXkasugai/status/1421892398251081730)** by *@ADXkasugai*
+- **[Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers)**
 
 
 
@@ -473,9 +473,9 @@ The *Sanwa OBSA-LHS1F-LN* switch used in Valkyrie cabinets could still be used w
 
 *K-Shoot Mania*, or KSM for short. is a game made by *Masaka*, based on the gameplay of the *SOUND VOLTEX* series, which has been around for years. 
 
-- **[K-Shoot Mania](https://www.kshootmania.com/)** by *Masaka*.
-- **[K-Shoot Mania English Page](https://www.kshootmania.com/en/)** by *Masaka*.
-- **[kshootmania-v1-hsp Repo](https://github.com/m4saka/kshootmania-v1-hsp)** by *Masaka*.
+- **[K-Shoot Mania](https://www.kshootmania.com/)** by *Masaka*
+- **[K-Shoot Mania English Page](https://www.kshootmania.com/en/)** by *Masaka*
+- **[kshootmania-v1-hsp Repo](https://github.com/m4saka/kshootmania-v1-hsp)** by *Masaka*
 - **[K-Shoot Mania Internet Ranking System](https://ir.kshootmania.com/)**
 
 ### Unnamed SDVX Clone
