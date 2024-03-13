@@ -238,7 +238,7 @@ Arcade accurate would be the "integrated" switch `OBSA-LHS1F-LN`, which **can on
 Apart from the part manufacturer, the most important aspects to drastically change the feel of the button are the weights of the microswitch and spring. The weight combination between the spring and microswitch is often denoted as \\(m_{\textup{microswitch}}/m_{\textup{spring}}\\), with \\(m\\) the weight of the part in grams. For instance: `100/20` would be a configuration with 100g microswitches and 20g springs. Common configurations are:
 
 - **100/20**: 100g `OMRON V-10-1A4` switches with 20g springs.<br>A light and responsive setup.
-- **100/40**: 100g `OMRON V-10-1A4` switches with 40g springs.<br>This weight is the most arcade-like, even though cabinets use 20g springs [^hoshikara].
+- **100/40**: 100g `OMRON V-10-1A4` switches with 40g springs.<br>This weight is the most arcade-like, even though cabinets use 20g springs [^hoshikara] [^adxkasugai] [^goatgarien].
 - **50/60**: 100g `OMRON V-10-1A4` switches with 40g springs.<Br>This often used to be recommended to beginners due to its balanced feel.
 
 Arcade accurate would be Sanwa buttons with `OBSA-LHS1F-LN` switches and 20g springs. For a more comprehensive rundown of parts, see the [parts](#parts) section.
