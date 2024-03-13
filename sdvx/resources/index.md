@@ -93,7 +93,7 @@ Outdated resources and dead links are kept for a while for archival purposes.
 
 ### Difficulty Tables
 
-- **[SDVX Clear Difficulty Table](https://docs.google.com/spreadsheets/d/1cFltguBvPplBem-x1STHnG3k4TZzFfyNEZ-RwsQszoo/edit#gid=1555610727)**<br>Community-made difficulty table cataloguing most charts of level 16 and above into various clear difficulty tiers. See legend [here](/sdvx/resources/difftable.txt). 
+- **[SDVX Clear Difficulty Table](https://docs.google.com/spreadsheets/d/1cFltguBvPplBem-x1STHnG3k4TZzFfyNEZ-RwsQszoo/edit#gid=1555610727)**<br>Community-made difficulty table cataloguing most charts of level 16 and above into various clear difficulty tiers. See legend [here](https://discord.com/channels/209316761428819969/764754775174545429/1092658300308430868). 
 - **[Maya2](https://sdvx.maya2silence.com/)**<br>Difficulty tables generated from *Vaddict* data. Users can mark charts within tables for their own purposes.
 - **[Anzu Info Clear Sequence Table](https://anzuinfo.me/table.html)**<br>Korean clear table for various levels. Can also be used to find chart info. 
 
