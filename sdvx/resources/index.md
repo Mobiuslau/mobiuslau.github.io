@@ -70,8 +70,6 @@ Outdated resources and dead links are kept for a while for archival purposes.
 
 
 - **[SDVX Song List](https://myshkin.io/sdvx/songlist)** by *Myshkin*<br>Song list which includes PC availability. Browsing for packs and chart levels is a bit easier with this list.
-- **[Sound Voltex Exceed Gear コナステ Charts](/sdvx/eaccharts/)** by *Amy* ***OUTDATED***<br>A sortable list of the charts included in the game, with links to respective [sdvx.in](sdvx.in) pages and song pack playlists.
-- **[konasute songlist](https://docs.google.com/spreadsheets/d/1WyH_iRGu5kJOXC0MPOgebicsc39k5yjsErX_c-nSbX4/edit#gid=0)** ***OUTDATED***<br>This list only contains charts of level 18 and beyond.
 - **[arcade-songs - sdvx](https://arcade-songs.zetaraku.dev/sdvx/)** by *@zetaraku*<br>Complete list of music in popular rhythm games. 
 - **[SDVX song info](https://docs.google.com/spreadsheets/d/1LullF7bFylmb-QC-J8XkF2W0z0hkDb7LzClsz-upTy8/edit#gid=1164354470)** by *ゆきみそ*
 - **[Anzu Info](https://anzuinfo.me/)**<br>Chart information website in Korean. It also features a score tracker and difficulty tables, among other things.
@@ -132,10 +130,7 @@ Outdated resources and dead links are kept for a while for archival purposes.
 - **[How to use Vaddict](https://voltexes.com/how-to-use-vaddict/)** by *Voltexes*
 - **[How to use nearnoah.net and myamya](https://voltexes.com/how-to-use-nearnoah-myamya/)** by *Voltexes*
 - **[SOUND VOLTEX FAQ](https://www.myshkin.io/sdvx/faq)** by *Myshkin*
-- **[Sound Voltex Controls](/sdvx/controls)** by *Amy*<br>This page details the available controls for both the *EXCEED GEAR コナステ* and *VIVID WAVE* entries in the series. 
-- **[SDVX Unlock Guide](https://docs.google.com/spreadsheets/d/1VBYWSUaKqHUOyfCtvkHFYBSnEPwxhTh8-m4UlU8zUL0/edit#gid=594247546)** ***OUTDATED***
-- **[Hexa Diver Guide Image](https://cdn.discordapp.com/attachments/209316761428819969/752529843446480937/HEXA_DIVER_SYSTEM_TUTORIAL.png)** ***Dead link***
-- **[Gauge Drain Values Image](https://cdn.discordapp.com/attachments/209316761428819969/752529745668997130/unknown.png)** ***Dead link***
+- **[Sound Voltex Controls](/sdvx/controls)** by *Amy*<br>This page details the available controls for both the *EXCEED GEAR コナステ* and *VIVID WAVE* entries in the series.
 - **[VIVID WAVE Folder Translations Image](https://volteacademia.s-ul.eu/j5Q4On12.png)**
 
 ### Skill & Chart Practice
@@ -157,8 +152,6 @@ Outdated resources and dead links are kept for a while for archival purposes.
 - **[Getting e-amusement Cards from Konasute Song Pack Campaigns](https://voltexes.com/getting-e-amusement-cards-from-konasute-song-pack-campaigns/)** by *Voltexes*.
 - **[How to set up SOUND VOLTEX EXCEED GEAR コナステ (PC)](https://www.youtube.com/watch?v=H8-2QERPGRI)** by *SV Kitten*<br>
 - **[Recommended configuration for smoothly running beatmania IIDX Infinitas](https://iidx.org/infinitas_pc)**<br>Even though this page is written for Beatmania IIDX Infinitas, a lot of the wisdom contained here is applicable to Sound Voltex.
-- **[(Outdated) how to set up sound voltex exceed gear pc version](https://www.youtube.com/watch?v=LGNGPqIFF5g)** by *SV Kitten*. ***OUTDATED***<br>
-Also contains translations for the configuration menu.
 - **[How to: Japanese KONAMI ID registration & e-amusement pass management](https://www.otaquest.com/how-to-register-for-a-japanese-konami-id-and-manage-your-eamusement-pass/)** by *Paul Hartling*<br>It's an old guide but the principles in the account creation remain roughly the same.
 - **[e-amusement How to: Charging PASELI and Basic Course Subscription](https://www.otaquest.com/e-amusement-how-to-charging-paseli-and-basic-course-subscription/)** by *Paul Richardson*<br>Note that the *PASELI* website has recently updated.
 - **[How to bind your knobs for SDVX EACloud to work on SVSE5/RE9](https://www.youtube.com/watch?v=EAAR0kKzXok)** by *SV Kitten*<br>Note that newer controllers usually have a dedicated EAC mode. Please use that instead. Use this method only when using an old controller.
@@ -253,14 +246,12 @@ For more wisdom on microswitches, see [Subjective Thoughts on Switch Choices for
 - **[Controller Help](https://oniichan.wtf/help/)**
 - **[Rhythm Cons Wiki: Sound Voltex](https://rhythm-cons.wiki/w/Sound_Voltex)**<br>Compilation of concise information related to controllers.
 - **[Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers)**
-- **[ORDERING A CONTROLLER FOR SDVX/KSM/USC GAMEPLAY](https://drive.google.com/file/d/10a1e_qKsSZ-qniV_49hVNSp2lXWIpZBl/view)** ***Dead Link***<br>This is a buyers guide to buying a *Sound Voltex* controller. While it does not list the newest controllers, it remains useful in providing an understanding in the various parts involved when buying a controller. 
 
 - **[Cons&Stuff](https://consandstuff.github.io/)** by *consandstuff*<br>Compilation blog of controllers they made a few years ago. Their pages detail their build processes. Their [Discord server](https://discord.gg/fknwz8s) has proven to be very useful for exchanging tips and tricks for DIY controller building. 
 - **[$70 SDVX Controller](https://mon.im/2016/07/70-sdvx-controller.html)** by *mon*<br>Controller building article. While it is old, there is still useful wisdom to be obtained from this article. 
 - **[LEONARDOjoy](https://sdvxdiy.github.io/)**<br>Controller building article. While it is old, there is still useful wisdom to be obtained from this article. 
 - **[A DIY SDVX/K-Shoot Mania Controller Guide](https://sdvx-diy.github.io/)**<br>Controller building article. While it is old, there is still useful wisdom to be obtained from this article. 
 
-- **[Chanwa button mod](https://rvtk-1.github.io/iidx-chanwa/)** ***Dead Link***<br>This guide details a major difference between Sanwa and other buttons, and how to mod your buttons to achieve a somewhat similar feel.
 - **[How to bind your knobs for SDVX EACloud to work on SVSE5/RE9](https://www.youtube.com/watch?v=EAAR0kKzXok)** by *SV Kitten*<br>Note that newer controllers usually have a dedicated EAC mode. Please use that instead. Use this method only when using an old controller.
 
 ### Controller Code & References
@@ -489,7 +480,6 @@ The *Sanwa OBSA-LHS1F-LN* switch used in Valkyrie cabinets could still be used w
 - **[Nautica](https://ksm.dev)** by *Puddi*<br>This chart repository is among the most popular for singular custom charts.
 - **[KSM os/us Difficulty tables](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vRH1beDh3I76qS-UUppW4_GibEj9bBDgcpO1XM4SrMylnSZYjyPjPYcMuQHaMrB-JGpIdsZtb-0wzmp/pubhtml)**<br>os/us Difficulty tables for custom charts mainly from the Japanese *K-Shoot Mania* community. The rightmost tab can be used to find chart packs. Packs such as the *Shooters Festival*, a charting competition similar to *BMS of Fighters*, can be found here. 
 - **[Input Gate Pack](https://mega.nz/file/sohCmKya#i_FohRoetuuAWy6JFQpHFJe0Yv7OTHqdrVCmYK8et0c)**<br>The *Input Gate* was a chart repository included with *K-Shoot Mania*. 
-- **[ksh chart vault](https://sites.google.com/site/ksh0hokansite/home/kshhokanko)** ***Dead link***<br>Collection of various charts published in *Niconico*. A bunch of charts linked on this page were catalogued [here](https://docs.google.com/spreadsheets/d/1pdNXO4dl9vh9WLdjIz5XF1kDPmfPbsJlbaAe-F9b1Ls/edit#gid=0) by *Rebcart*.
 - **[pulsevar.KSM](https://pulsevar-ksm.tumblr.com/)**<br>Chart packs from prominant charters *Nitro*, *Jelly*, *XHERES*, *Silverhawke*, *Kurorak*, & *Terminus*.
 - **[Pack Vault V2](https://mega.nz/folder/3KxGESqC#dtwqQBbSZc5Z4LVmhBHcCw)**<br>Old drive containing charts from various well known charters.
 - **[Taes Fun Pack](https://www.dropbox.com/s/s61883kvvka0mfz/Taes%20Fun%20Pack.rar?dl=0)**
@@ -503,7 +493,6 @@ The *Sanwa OBSA-LHS1F-LN* switch used in Valkyrie cabinets could still be used w
 ### Tools
 
 - **[Bokutachi](https://bokutachi.xyz/)** by *Bokutachi Dev*<br>Internet ranking / score tracker for USC and BMS. 
-- **[Crash Dump Submission](http://uscdmp.stackchk.fail/)** by *USC Dev* ***Dead link***
 - **[kson-editor](https://github.com/Drewol/kson-editor)** by *Drewol*
 - **[USC Tools](https://itszn.github.io/usc_db_tool/index.html)** by *Itszn*
 - **[Unnamed SDVX Clone Event Client](https://github.com/itszn/unnamed-sdvx-clone)** by *Itszn*
@@ -560,6 +549,31 @@ The *Sanwa OBSA-LHS1F-LN* switch used in Valkyrie cabinets could still be used w
 
 - **[r/kshootmania](https://www.reddit.com/r/kshootmania/new/)**<br>This subreddit is generally used for community driven *SOUND VOLTEX*-like gameplay. USC discussion is also included here.
 - **[K-Shoot MANIA (International)](https://www.facebook.com/groups/internationalksm/about)**<br>The OG KSM / SDVX community, along with the [subreddit](https://www.reddit.com/r/kshootmania/new/). This group was established early 2015. It's most prominent members at the time can still be found in the various communities listed above. It is not active anymore and listing it here merely serves as a homage to what it once was. This also counts for the [forum](https://kshootmania.forumotion.com/) which was founded by some of the members of the Facebook group. It is suffice to say that this forum is now inactive as well. 
+
+
+
+
+
+
+
+
+
+
+<!-- ============ -->
+<!-- = Outdated = -->
+<!-- ============ -->
+## Outdated Resources and Dead Links
+
+- **[Sound Voltex Exceed Gear コナステ Charts](/sdvx/eaccharts/)** by *Amy* ***OUTDATED***<br>A sortable list of the charts included in the game, with links to respective [sdvx.in](sdvx.in) pages and song pack playlists.
+- **[konasute songlist](https://docs.google.com/spreadsheets/d/1WyH_iRGu5kJOXC0MPOgebicsc39k5yjsErX_c-nSbX4/edit#gid=0)** ***OUTDATED***<br>This list only contains charts of level 18 and beyond.
+- **[(Outdated) how to set up sound voltex exceed gear pc version](https://www.youtube.com/watch?v=LGNGPqIFF5g)** by *SV Kitten*. ***OUTDATED***<br>Also contains translations for the configuration menu.
+- **[SDVX Unlock Guide](https://docs.google.com/spreadsheets/d/1VBYWSUaKqHUOyfCtvkHFYBSnEPwxhTh8-m4UlU8zUL0/edit#gid=594247546)** ***OUTDATED***
+- **[Hexa Diver Guide Image](https://cdn.discordapp.com/attachments/209316761428819969/752529843446480937/HEXA_DIVER_SYSTEM_TUTORIAL.png)** ***Dead link***
+- **[Gauge Drain Values Image](https://cdn.discordapp.com/attachments/209316761428819969/752529745668997130/unknown.png)** ***Dead link***
+- **[ORDERING A CONTROLLER FOR SDVX/KSM/USC GAMEPLAY](https://drive.google.com/file/d/10a1e_qKsSZ-qniV_49hVNSp2lXWIpZBl/view)** ***Dead Link***<br>This is a buyers guide to buying a *Sound Voltex* controller. While it does not list the newest controllers, it remains useful in providing an understanding in the various parts involved when buying a controller. 
+- **[Chanwa button mod](https://rvtk-1.github.io/iidx-chanwa/)** ***Dead Link***<br>This guide details a major difference between Sanwa and other buttons, and how to mod your buttons to achieve a somewhat similar feel.
+- **[ksh chart vault](https://sites.google.com/site/ksh0hokansite/home/kshhokanko)** ***Dead link***<br>Collection of various charts published in *Niconico*. A bunch of charts linked on this page were catalogued [here](https://docs.google.com/spreadsheets/d/1pdNXO4dl9vh9WLdjIz5XF1kDPmfPbsJlbaAe-F9b1Ls/edit#gid=0) by *Rebcart*.
+- **[Crash Dump Submission](http://uscdmp.stackchk.fail/)** by *USC Dev* ***Dead link***
 
 
 
