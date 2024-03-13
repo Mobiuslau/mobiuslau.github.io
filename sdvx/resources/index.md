@@ -235,7 +235,7 @@ When it comes to microswitches, it is often recommended to buy OMRON microswitch
 
 Arcade accurate would be the "integrated" switch `OBSA-LHS1F-LN`, which **can only be used with Sanwa buttons** (more on arcade specs in the [parts](#parts) section) [^gamerepairSdvx] [^bluespringIntegrated]. However, not every vendor lists this as an option, and it might be considerably more expensive. The OMRON options listed above are just fine. Note that the `OBSA-LHS1F-LN` might feel slightly heavier compared to the `OMRON V-10-1A4` 100g switch [^hoshikara].
 
-Beside part manufacturer, the most important aspect to drastically change to feel of the button are the weights of the microswitch and spring. The weight combination between the spring and microswitch is often denoted as \\(m_{\textup{microswitch}}/m_{\textup{spring}}\\), with \\(m\\) the weight of the part in grams. For instance: `100/20` would be a configuration with 100g microswitches and 20g springs. Common configurations are:
+Apart from the part manufacturer, the most important aspects to drastically change the feel of the button are the weights of the microswitch and spring. The weight combination between the spring and microswitch is often denoted as \\(m_{\textup{microswitch}}/m_{\textup{spring}}\\), with \\(m\\) the weight of the part in grams. For instance: `100/20` would be a configuration with 100g microswitches and 20g springs. Common configurations are:
 
 - **100/20**: 100g `OMRON V-10-1A4` switches with 20g springs.<br>A light and responsive setup.
 - **100/40**: 100g `OMRON V-10-1A4` switches with 40g springs.<br>This weight is the most arcade-like, even though cabinets use 20g springs [^hoshikara].
