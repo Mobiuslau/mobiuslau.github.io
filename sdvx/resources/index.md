@@ -241,7 +241,7 @@ Apart from the part manufacturer, the most important aspects to drastically chan
 - **100/40**: 100g `OMRON V-10-1A4` switches with 40g springs.<br>This weight is the most arcade-like, even though cabinets use 20g springs [^hoshikara].
 - **50/60**: 100g `OMRON V-10-1A4` switches with 40g springs.<Br>This often used to be recommended to beginners due to its balanced feel.
 
-Arcade accurate would be Sanwa buttons with `OBSA-LHS1F-LN` switches and 20g springs. For a more comprihensive rundown of parts, see the [parts](#parts) section.
+Arcade accurate would be Sanwa buttons with `OBSA-LHS1F-LN` switches and 20g springs. For a more comprehensive rundown of parts, see the [parts](#parts) section.
 
 For more wisdom on microswitches, see [Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers#Omron_V-10-1A4_/_Sanwa_MS-O-3) on [Rhythm Cons Wiki](https://rhythm-cons.wiki/w/Main_Page).
 
