@@ -156,6 +156,7 @@ Outdated resources and dead links are kept for a while for archival purposes.
 - **[Setting Up SOUND VOLTEX Konasute EXCEED GEAR](https://voltexes.com/setting-up-sound-voltex-konasute-exceed-gear/)** by *Voltexes*<br>
 - **[Getting e-amusement Cards from Konasute Song Pack Campaigns](https://voltexes.com/getting-e-amusement-cards-from-konasute-song-pack-campaigns/)** by *Voltexes*.
 - **[How to set up SOUND VOLTEX EXCEED GEAR コナステ (PC)](https://www.youtube.com/watch?v=H8-2QERPGRI)** by *SV Kitten*<br>
+- **[Recommended configuration for smoothly running beatmania IIDX Infinitas](https://iidx.org/infinitas_pc)**<br>Even though this page is written for Beatmania IIDX Infinitas, a lot of the wisdom contained here is applicable to Sound Voltex.
 - **[(Outdated) how to set up sound voltex exceed gear pc version](https://www.youtube.com/watch?v=LGNGPqIFF5g)** by *SV Kitten*. ***OUTDATED***<br>
 Also contains translations for the configuration menu.
 - **[How to: Japanese KONAMI ID registration & e-amusement pass management](https://www.otaquest.com/how-to-register-for-a-japanese-konami-id-and-manage-your-eamusement-pass/)** by *Paul Hartling*<br>It's an old guide but the principles in the account creation remain roughly the same.
