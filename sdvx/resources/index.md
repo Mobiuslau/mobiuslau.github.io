@@ -232,9 +232,11 @@ Apart from the part manufacturer, the most important aspects to drastically chan
 
 - **100/20**: 100g `OMRON V-10-1A4` switches with 20g springs.<br>A light and responsive setup.
 - **100/40**: 100g `OMRON V-10-1A4` switches with 40g springs.<br>This weight is the most arcade-like, even though cabinets use 20g springs [^hoshikara] [^adxkasugai] [^goatgarien].
-- **50/60**: 50g `OMRON D2MV-01-1C3` switches with 60g springs.<Br>This often used to be recommended to beginners due to its balanced feel.
+- **50/60**: 50g `OMRON D2MV-01-1C3` switches with 60g springs.<br>This often used to be recommended to beginners due to its balanced feel.
 
 Arcade accurate would be Sanwa buttons with `OBSA-LHS1F-LN` switches and 20g springs. For a more comprehensive rundown of parts, see the [parts](#parts) section.
+
+My current personal setup, for what it's worth, is `65/60` with `Gersung/Geosung GSM-V0303A06` switches inside Taiwanese buttons for BT, and `65/30` inside `Samducksa CWB 405` buttons for FX.
 
 For more wisdom on microswitches, see [Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers#Omron_V-10-1A4_/_Sanwa_MS-O-3) on [Rhythm Cons Wiki](https://rhythm-cons.wiki/w/Main_Page).
 
@@ -289,9 +291,9 @@ For more wisdom on microswitches, see [Subjective Thoughts on Switch Choices for
 
 ***SECTION IS WORK IN PROGRESS.<br>ISTMALL LINKS ARE CURRENTLY BROKEN. WILL BE FIXED EVENTUALLY.<br>VOLUME ASSEMBLY ISN'T DETAILED ENOUGH.***
 
-### Arcade Spec Parts Japanese & American Cabinets
+### Arcade Spec Parts: Japanese Cabinets
 
-The control parts used by the arcade cabinets in Japan and America are listed below. Other regions (may) use other configurations. This is only really useful for cabinet owners, users who want to create an exact replica controller, or for use as a reference. See section *Controller Parts* for general home arcade style controller parts.
+The control parts used by the arcade cabinets in Japan are listed below. Other regions (may) use other configurations. This is only really useful for cabinet owners, users who want to create an exact replica controller, or for use as a reference. See section *Controller Parts* for general home arcade style controller parts.
 
 #### Buttons, Microswitches & Springs
 
@@ -301,20 +303,34 @@ See <a href="sanwa_button_product_codes">This table</a> for a description of the
 
 **Figure 1:** Button schematics from Tops Game [^topsBt] [^topsFx] [^topsSt].
 
-- **Sanwa OBSA-60UK-W-1F-LED-B-12V**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_073/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4740)<br>(60 x 60)mm square button [^adxkasugai]. 
-- **Sanwa OBSA-45UK-K/W-1F-LED-R-12V**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4738)<br>(50 x 33)mm rectangle FX button [^adxkasugai]. 
-- **Sanwa OBSA-30UK-B-1F-LED-B-12V**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4741)<br>(33 x 33)mm Square start button [^adxkasugai].
+- **Sanwa OBSA-60UK-W-1F-LED-B-12V** [^adxkasugai]<br>
+    (60 x 60)mm square button.<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_073/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4740)
+- **Sanwa OBSA-45UK-K/W-1F-LED-R-12V** [^adxkasugai]<br>
+    (50 x 33)mm rectangle FX button.
+    <br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4738)
+- **Sanwa OBSA-30UK-B-1F-LED-B-12V** [^adxkasugai]<br>
+    (33 x 33)mm Square start button.
+    <br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_101/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4741)
 
-- **Sanwa OBSA-LHS1F-LN**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3321), [Blue Spring Express](https://bluespringexpress.net/products/sanwa-microswitch-obsa-lhs1f)<br>Microswitch & lamp holder housing an *OMRON V-11-3D4-SD* [^gamerepairSdvx] [^karinge] [^subjective]. The switch can not easily be replaced with these lamp holders.
-- **Sanwa SWA-LED-#**<br>[Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3343)<br>Leds for use with *OBSA-LHS1F-LN*. *#* denotes the colour code. 
+- **Sanwa OBSA-LHS1F-LN** [^gamerepairSdvx]<br>
+    Microswitch & lamp holder housing an *OMRON V-11-3D4-SD* [^karinge] [^subjective].<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3321) \| [Blue Spring Express](https://bluespringexpress.net/products/sanwa-microswitch-obsa-lhs1f)
+- **Sanwa SWA-LED-#**<br>
+    Leds for use with *OBSA-LHS1F-LN*. *#* denotes the colour code.<br>
+    [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3343)
 
-- **Sanwa OBSA-SP-20**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_218/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2942)<br>20g spring for the button [^adxkasugai] [^goatgarien].
+- **Sanwa OBSA-SP-20**<br>
+    20g spring for the button [^adxkasugai] [^goatgarien].<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_218/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2942)
 
 The Sanwa buttons listed above come with a *Sanwa OBSA-SP* 100g spring, a *Sanwa OBSA-LHS1F-LN* integrated lamp & switch holder housing a *V-11-3D4-SD* 100g microswitch, and a *Sanwa SWA-LED-#-12V* LED.
 
 Other useful parts:
 
-- **Sanwa LHS-H**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_193/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3302)<br>Cable harness for use with *OBSA-LHS1F-LN*.
+- **Sanwa LHS-H**<br>
+    Cable harness for use with *OBSA-LHS1F-LN*.<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_193/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3302)
 
 #### Knob Assembly
 
@@ -324,26 +340,58 @@ See [Sound Voltex Volume Assembly](https://gamerepair.info/parts/79_sound_voltex
 
 **Figure 2:** Knob assembly schematic from Gamerepair.info [^gamerepairKnob].
 
-- **2: Oiles 80F-0803**<br>[YubiParts](https://yubiparts.com/collections/sound-voltex-knob-parts/products/oiles-80f-0603-80f-0803-bushings-for-sdvx-sound-voltex-arcade-knobs?variant=42846112841915), [Misumi](https://us.misumi-ec.com/vona2/detail/221000090789/?HissuCode=80F-0803)<br>Bottom bushing [^gamerepairKnob]. ([Information Page](https://www.oilesglobal.com/america/en/products/oiles-80.html)).
-- **4: TOK TLE1-618-5W**<br>[YubiParts](https://yubiparts.com/products/tok-tle1-618-5w-torque-limiters-for-sound-voltex-sdvx), [Misumi](https://us.misumi-ec.com/vona2/detail/221000521946/?HissuCode=TLE1-618-5W)<br>Torque limiter used in the *Nemsys model* cabinets [^gamerepairTorque].
-- **7: Sensatec ELV-24Y36A-K**<br>[Metro Electric](http://www.e-metro.jp/quick/ELV-24.html)<br>Infinite pot meter for knobs [^gamerepairKnob].
-- **9: Oiles 80F-0603**<br>[YubiParts](https://yubiparts.com/collections/sound-voltex-knob-parts/products/oiles-80f-0603-80f-0803-bushings-for-sdvx-sound-voltex-arcade-knobs?variant=42846112841915), [Misumi](https://us.misumi-ec.com/vona2/detail/221000090789/?HissuCode=80F-0603)<br>Top bushing [^gamerepairKnob].
-- **10: MISUMI WSJW10-6-2**<br>[YubiParts](https://yubiparts.com/products/misumi-wsjw10-6-2-resin-washers-2x-for-sound-voltex-sdvx), [Misumi](https://us.misumi-ec.com/vona2/detail/110300235320/?HissuCode=WSJW10-6-2)<br>Resin Washer [^gamerepairKnob].
+- **2: Oiles 80F-0803** [^gamerepairKnob]<br>
+    Bottom bushing. ([Information Page](https://www.oilesglobal.com/america/en/products/oiles-80.html)).<br>
+    [YubiParts](https://yubiparts.com/collections/sound-voltex-knob-parts/products/oiles-80f-0603-80f-0803-bushings-for-sdvx-sound-voltex-arcade-knobs?variant=42846112841915) \| [Misumi](https://us.misumi-ec.com/vona2/detail/221000090789/?HissuCode=80F-0803)
+- **4: TOK TLE1-618-5W** [^gamerepairTorque]<br>
+    Torque limiter used in the *Nemsys model* cabinets.<br>
+    [YubiParts](https://yubiparts.com/products/tok-tle1-618-5w-torque-limiters-for-sound-voltex-sdvx) \| [Misumi](https://us.misumi-ec.com/vona2/detail/221000521946/?HissuCode=TLE1-618-5W)
+- **7: Sensatec ELV-24Y36A-K** [^gamerepairKnob]<br>
+    Infinite pot meter for knobs.<br>
+    [Metro Electric](http://www.e-metro.jp/quick/ELV-24.html)<br>
+    &nbsp; &nbsp; *↪ ELV-24Y36G*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; Official replacement part [^gamerepairElv].<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Blue Spring Express](https://bluespringexpress.net/products/sdvx-potentiometer-elv-24y36g).
+- **9: Oiles 80F-0603** [^gamerepairKnob]<br>
+    Top bushing.<br>
+    [YubiParts](https://yubiparts.com/collections/sound-voltex-knob-parts/products/oiles-80f-0603-80f-0803-bushings-for-sdvx-sound-voltex-arcade-knobs?variant=42846112841915) \| [Misumi](https://us.misumi-ec.com/vona2/detail/221000090789/?HissuCode=80F-0603)
+- **10: MISUMI WSJW10-6-2** [^gamerepairKnob]<br>
+    Resin Washer.<br>
+    [YubiParts](https://yubiparts.com/products/misumi-wsjw10-6-2-resin-washers-2x-for-sound-voltex-sdvx) \| [Misumi](https://us.misumi-ec.com/vona2/detail/110300235320/?HissuCode=WSJW10-6-2)
 
 <!-- - **a: HPB-1.6X12**.<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221000596803/?HissuCode=HPB-1.6X12).<br>
 - **b: FNTS-SUS-M4** <sup>*Citation Needed*</sup>.<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221000545065/?HissuCode=FNTS-SUS-M4).<br>
 - **c: SSHDP-ST-M4-5**.<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221005020350/?ProductCode=SSHDP-ST-M4-5).<br>
 - **d: SSHDP-ST-M4-4**.<br>[Misumi](https://us.misumi-ec.com/vona2/detail/221005020350/?ProductCode=SSHDP-ST-M4-4).<br> -->
 
-#### Other
+#### Other / Aftermarket Parts
 
-- **Yubiparts Aluminum Arcade Knob Head Shaft**<br>[Yubiparts](https://yubiparts.com/products/sound-voltex-sdvx-aluminum-arcade-knob-head-shaft)<br>Aftermarket knob. For use with encoders used in arcade cabinets. Not compatible with Copal encoders.
+- **SDVX Valkyrie Knob Assembly (Pair)**<br>
+    Not for controller use.<br>
+    [Blue Spring Express](https://bluespringexpress.net/products/sdvx-valkyrie-knob-assembly-pair)
 
-### Arcade Spec Parts Korean Cabinets
+- **Sound Voltex Aluminium Knob for GAMO2 and Arcade**<br>
+    SpeedyLabs aftermarket knob.<br>
+    [Blue Spring Express](https://bluespringexpress.net/products/acknob)
 
-In Korea, *Uniana* is responsible for launching *SOUND VOLTEX* cabinets [^unianaHist] [^unianaGames]. A different button configuration is used in cabinets in Korea <sup>*Citation Needed*</sup>.
+- **Yubiparts Aluminum Arcade Knob Head Shaft**<br>
+    Aftermarket knob.<br>
+    [Yubiparts](https://yubiparts.com/products/sound-voltex-sdvx-aluminum-arcade-knob-head-shaft)<br>
+    For use with encoders used in arcade cabinets. Not compatible with Copal encoders.
 
-W.I.P.
+### Arcade Spec Parts: Korean Cabinets
+
+In Korea, *Uniana* is responsible for launching *SOUND VOLTEX* cabinets [^unianaHist] [^unianaGames]. The following buttons are used in cabinets in Korea:   
+
+- **Taiwanese Button** [^partumTaiwanese] [^naverConfig] [^naverTaiwanese]<br>
+    (60 x 60)mm square button.<br>
+    [Partum Global](https://global.partum.kr/shop/?idx=157)
+- **Samducksa CWB 405** [^naverConfig] [^partum405]<br>
+    (50 x 33)mm rectangle FX button.<br>
+    [Partum Global](https://global.partum.kr/shop/?idx=158)
+- **Samducksa CWB 406** [^partum406]<br>
+    (33 x 33)mm square start button.<br>
+    [Partum Global](https://global.partum.kr/shop/?idx=172)
 
 ### Controller Parts
 
@@ -351,7 +399,7 @@ The parts as listed below could be used with most (diy) controllers.
 
 #### Buttons
 
-The Sanwa buttons listed below are analogous to arcade spec. These buttons ship with the old lamp holder type. This is more convenient for home use since the microswitch can be replaced easily, and the *Sanwa OBSA-LHS1F-LN* switch wiring is less convenient for home controller use. They can ship with an *Sanwa OBSA-SP* 100g spring, an *MS-O-3* (Omron V-10-1A4) 100g microswitch, and either a LED, or a Wedge Bulb Lamp (See Rakuten & Tops Game product pages). One can choose to buy the button only, without a switch or lamp as well.
+The Sanwa buttons listed below are analogous to Japanese arcade cabinet spec. These buttons ship with the old lamp holder type. This is more convenient for home use since the microswitch can be replaced easily, and the *Sanwa OBSA-LHS1F-LN* switch wiring is less convenient for home controller use. They can ship with an *Sanwa OBSA-SP* 100g spring, an *MS-O-3* (Omron V-10-1A4) 100g microswitch, and either a LED, or a Wedge Bulb Lamp (See Rakuten & Tops Game product pages). One can choose to buy the button only, without a switch or lamp as well.
 
 Of course, the *Sanwa OBSA-LHS1F-LN* switch could still be used with Sanwa buttons if wired properly. [This listing on Blue Spring Express](https://bluespringexpress.net/en-us/products/lhs1f-switch-and-harness-set-for-sdvx) includes wires such that the switches can be used with Gamo2 and Yuancon controllers. It goes without saying that this switch is only compatible with Sanwa buttons.
 
@@ -359,31 +407,83 @@ See <a href="sanwa_button_product_codes">This table</a> for a description of the
 
 The list below also includes other buttons, as Sanwa buttons can be rather expensive to obtain.
 
-- **Sanwa OBSA-60UK; With 5V, 12V or 24V LED**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_078/)<br>(60 x 60)mm Square button.
-- &nbsp; &nbsp; **↪ With 14V Wedge Bulb Lamp**<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_079/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4687)<br>
-- &nbsp; &nbsp; **↪ Without Lamp**<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_080/), [IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992264)<br>
-- &nbsp; &nbsp; **↪ Without Lamp & Switch**<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_5002/), [Blue Spring Express](https://bluespringexpress.net/products/sdvx-sanwa-set)<br>
+- **Sanwa OBSA-60UK**<br>
+    (60 x 60)mm Square button.<br>
+    &nbsp; &nbsp; *↪ With 5V, 12V or 24V LED.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_078/)<br>
+    &nbsp; &nbsp; *↪ With 14V Wedge Bulb Lamp.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_079/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4687)<br>
+    &nbsp; &nbsp; *↪ Without Lamp.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_080/) \| [IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992264)<br>
+    &nbsp; &nbsp; *↪ Without Lamp & Switch.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_5002/) \| [Blue Spring Express](https://bluespringexpress.net/products/sdvx-sanwa-set)
+    
+- **Sanwa OBSA-45UK**<br>
+    (50 x 33)mm Square button.<br>
+    &nbsp; &nbsp; *↪ With 12V LED.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_097/)<br>
+    &nbsp; &nbsp; *↪ With 14V Wedge Bulb Lamp.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4684)<br>
+    &nbsp; &nbsp; *↪ Without Lamp.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_098/) \| [IST MALL](http://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239)<br>
+    &nbsp; &nbsp; *↪ Without Lamp & Switch.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_5001/) \| [Blue Spring Express](https://bluespringexpress.net/products/sdvx-sanwa-set)
 
-- **Sanwa OBSA-45UK; With 12V LED**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_097/)<br>(50 x 33)mm Square button.
-- &nbsp; &nbsp; **↪ With 14V Wedge Bulb Lamp**<br>&nbsp; &nbsp; &nbsp; &nbsp; [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4684)<br>
-- &nbsp; &nbsp; **↪ Without Lamp**<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_098/), [IST MALL](http://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992239)<br>
-- &nbsp; &nbsp; **↪ Without Lamp & Switch**<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_5001/), [Blue Spring Express](https://bluespringexpress.net/products/sdvx-sanwa-set)<br>
+- **Sanwa OBSA-30UK;**<br>
+    (33 x 33)mm Square button.<br>
+    &nbsp; &nbsp; *↪ With 5V, 12V or 24V LED.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_014/)<br>
+    &nbsp; &nbsp; *↪ With 14V Wedge Bulb Lamp.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_015/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4679)<br>
+    &nbsp; &nbsp; *↪ Without Lamp.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_016/) \| [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992352)
 
-- **Sanwa OBSA-30UK; With 5V, 12V or 24V LED**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_014/)<br>(33 x 33)mm Square button.
-- &nbsp; &nbsp; **↪ With 14V Wedge Bulb Lamp**<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_015/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=4679)<br>
-- &nbsp; &nbsp; **↪ Without Lamp**<br>&nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_016/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992352)<br>
+Sanwa button set for controllers: [Blue Spring Express](https://bluespringexpress.net/products/sdvx-sanwa-set).
+
+The buttons listed below are (analogous to) Korean arcade cabinet spec.
+
+- **Taiwanese Button**<br>
+    (60 x 60)mm square button.<br>
+    &nbsp; &nbsp; *↪ Without Switch, Spring, LED.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Partum Global](https://global.partum.kr/shop/?idx=157)<br>
+    It is slightly taller than other buttons. It barely fits the Faucetwo when the lamp holder terminals are bent very carefully. 
+
+- **Samducksa CWB 405**<br>
+    (50 x 33)mm rectangle FX button.<br>
+    &nbsp; &nbsp; *↪ With GSM-V0303A06 Switch, 30g Spring, Without LED.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992351)<br>
+    &nbsp; &nbsp; *↪ Without Switch, Spring, LED.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Partum Global](https://global.partum.kr/shop/?idx=158)<br>
+    &nbsp; &nbsp; *↪ Transparent Without Switch, Spring, LED.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Partum Global](https://global.partum.kr/shop/?idx=181)
+
+- **Samducksa CWB 406**<br>
+    (33 x 33)mm square start button.<br>
+    &nbsp; &nbsp; *↪ With ??? Switch, ???g Spring, Without LED.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992352)<br>
+    &nbsp; &nbsp; *↪ Without Switch, Spring, LED.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Partum Global](https://global.partum.kr/shop/?idx=172)<br>
+    &nbsp; &nbsp; *↪ Transparent Without Switch, Spring, LED.*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Partum Global](https://global.partum.kr/shop/?idx=182)
 
 Other buttons:
 
-- **IST 60UK**<br>[IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992342)<br>(60 x 60)mm square button. Comes with a 45g microswitch & a 60g spring. [^ist60Uk]
+- **DJDAO PT-01-01-02**<br>
+    (50 x 33)mm rectangle FX button.<br>
+    &nbsp; &nbsp; *↪ With 40g Spring, Without Switch*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=253)
+    
+- **DJDAO PT-01-01-03**<br>
+    (33 x 33)mm square button.<br>
+    &nbsp; &nbsp; *↪ With 40g Spring, Without Switch*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=254)
 
-- **Samducksa CWB 405**<br>[IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992351)<br>(50 x 33)mm rectangle FX button. Comes with a 45g microswitch & a 20g spring [^ist405]. Does not include LED.
-- **Samducksa CWB 406**<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992352)<br>(33 x 33)mm square start button. Comes with a ???g microswitch & a ???g spring. Does not include LED.
+- **IST 60UK**<br>
+    (60 x 60)mm square button.<br>
+    &nbsp; &nbsp; *↪ With 45g Switch & 60g spring.* [^ist60Uk]<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [IST MALL](https://www.istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992342)
 
-- **DJDAO PT-01-01-02**<br>[Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=253)<br>(50 x 33)mm rectangle FX button. Does not include microswitch. Comes with 40g spring.
-- **DJDAO PT-01-01-03**<br>[Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=254)<br>(33 x 33)mm square button. Does not include microswitch. Comes with 40g spring.
-
-W.I.P.
+A search on Aliexpress will also find relevantly sized buttons.
 
 #### Microswitches
 
@@ -391,53 +491,133 @@ Always check the datasheets if supplied for the details and operating forces. So
 
 The *Sanwa OBSA-LHS1F-LN* switch used in Valkyrie cabinets could still be used with Sanwa buttons if wired properly. [This listing on Blue Spring Express](https://bluespringexpress.net/en-us/products/lhs1f-switch-and-harness-set-for-sdvx) includes wires such that the switches can be used with Gamo2 and Yuancon controllers. It goes without saying that this switch is only compatible with Sanwa buttons.
 
-- **OMRON D2MV-01-1C1**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_221/)<br>10g microswitch [^mouserD2mv].
-- **OMRON D2MV-01-1C2**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_222/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992803), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2940), [Akishop](https://akishop.jp/collections/pushbutton-parts/products/microswitch-d2mv-01-1c2), [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/D2MV-01-1C2/5236583), [Mouser](https://nl.mouser.com/ProductDetail/Omron-Electronics/D2MV-01-1C2?qs=i1w9Bv2NFd3%252BulZmi2hfrQ%3D%3D), [Blue Spring Express](https://bluespringexpress.net/products/25g-omron-micro-switch-d2mv-01-1c2)<br>25g microswitch [^mouserD2mv].
-- **OMRON D2MV-01-1C3**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_223/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992804), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2941), [Akishop](https://akishop.jp/collections/pushbutton-parts/products/microswitch-d2mv-01-1c3), [Digikey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2MV-01-1C3/5236584), [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/D2MV-01-1C3?qs=%2Fha2pyFaduhO2oGWGJJwEi1PO2bH3HTUBwhKOFR1P3o%3D), [Blue Spring Express](https://bluespringexpress.net/products/50g-omron-micro-switch-d2mv-01-1c3)<br>50g microswitch [^mouserD2mv].
+- **OMRON D2MV-01-1C1**<br>
+    10g microswitch [^mouserD2mv].<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_221/)
+- **OMRON D2MV-01-1C2**<br>
+    25g microswitch [^mouserD2mv].<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_222/) \| [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992803) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2940) \| [Akishop](https://akishop.jp/collections/pushbutton-parts/products/microswitch-d2mv-01-1c2) \| [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/D2MV-01-1C2/5236583) \| [Mouser](https://nl.mouser.com/ProductDetail/Omron-Electronics/D2MV-01-1C2?qs=i1w9Bv2NFd3%252BulZmi2hfrQ%3D%3D) \| [Blue Spring Express](https://bluespringexpress.net/products/25g-omron-micro-switch-d2mv-01-1c2)
+- **OMRON D2MV-01-1C3**<br>
+    50g microswitch [^mouserD2mv].<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_223/) \| [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992804) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2941) \| [Akishop](https://akishop.jp/collections/pushbutton-parts/products/microswitch-d2mv-01-1c3) \| [Digikey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/D2MV-01-1C3/5236584) \| [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/D2MV-01-1C3?qs=%2Fha2pyFaduhO2oGWGJJwEi1PO2bH3HTUBwhKOFR1P3o%3D) \| [Blue Spring Express](https://bluespringexpress.net/products/50g-omron-micro-switch-d2mv-01-1c3)
 
-- **OMRON V-10-1A4**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_215/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992411), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2937), [Akishop](https://akishop.jp/collections/pushbutton-parts/products/microswitch-sanwa-ms-o-3), [Digikey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/V-10-1A4/1828942), [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/V-10-1A4?qs=jlWqeHNmHbTuw%252Bapuv1yjg%3D%3D), [Blue Spring Express](https://bluespringexpress.net/products/100g-switch)<br>100g microswitch [^mouserV10]. Listed by Sanwa as *MS-O-3*.
-- **OMRON V-10-1A5**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_216/)<br>200g microswitch [^mouserV10].
+- **OMRON V-10-1A4**<br>
+    100g microswitch [^mouserV10]. Listed by Sanwa as *MS-O-3*.<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_215/) \| [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992411) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2937) \| [Akishop](https://akishop.jp/collections/pushbutton-parts/products/microswitch-sanwa-ms-o-3) \| [Digikey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/V-10-1A4/1828942) \| [Mouser](https://www.mouser.com/ProductDetail/Omron-Electronics/V-10-1A4?qs=jlWqeHNmHbTuw%252Bapuv1yjg%3D%3D) \| [Blue Spring Express](https://bluespringexpress.net/products/100g-switch)
+- **OMRON V-10-1A5**<br>
+    200g microswitch [^mouserV10].<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_216/)
 
-- **OMRON VX-01-1A2**<br>[Mouser](https://eu.mouser.com/ProductDetail/Omron-Electronics/VX-01-1A2?qs=1tDaWCEHQQ4SOBjGUm0oKQ%3D%3D), [Digikey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/VX-01-1A3/369960)<br>25g microswitch [^mouserVx].
-- **OMRON VX-01-1A3**<br>[Mouser](https://eu.mouser.com/ProductDetail/Omron-Electronics/VX-01-1A3?qs=1tDaWCEHQQ7dDSClBUQeww%3D%3D). [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-01-1A2/369959)<br>50g microswitch [^mouserVx].
+- **OMRON VX-01-1A2**<br>
+    25g microswitch [^mouserVx].<br>
+    [Mouser](https://eu.mouser.com/ProductDetail/Omron-Electronics/VX-01-1A2?qs=1tDaWCEHQQ4SOBjGUm0oKQ%3D%3D) \| [Digikey](https://www.digikey.com/en/products/detail/omron-electronics-inc-emc-div/VX-01-1A3/369960)
+- **OMRON VX-01-1A3**<br>
+    50g microswitch [^mouserVx].<br>
+    [Partum Global](https://global.partum.kr/shop/?idx=167) \| [Mouser](https://eu.mouser.com/ProductDetail/Omron-Electronics/VX-01-1A3?qs=1tDaWCEHQQ7dDSClBUQeww%3D%3D) \| [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-01-1A2/369959)
 
-- **OMRON VX-5-1A2**<br>[Mouser](https://eu.mouser.com/ProductDetail/Omron-Electronics/VX-5-1A2?qs=HDDQUw%2F3PhpqgaD1HfSCoQ%3D%3D), [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-5-1A2/369975)<br>25g microswitch [^mouserVx]. ***Extremely prone to failure*** due to contact material (see [Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers#Omron_VX-5-1C23))
-- **OMRON VX-5-1A3**<br>[Mouser](https://eu.mouser.com/ProductDetail/Omron-Electronics/VX-5-1A3?qs=HDDQUw%2F3PhrDGKLihoCGqw%3D%3D). [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-5-1A3/369976)<br>50g microswitch [^mouserVx]. ***Extremely prone to failure*** due to contact material (see [Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers#Omron_VX-5-1C23))
+- **OMRON VX-5-1A2**<br>
+    25g microswitch [^mouserVx].<br>
+    [Mouser](https://eu.mouser.com/ProductDetail/Omron-Electronics/VX-5-1A2?qs=HDDQUw%2F3PhpqgaD1HfSCoQ%3D%3D) \| [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-5-1A2/369975)<br>
+    ***Extremely prone to failure*** due to contact material (see [Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers#Omron_VX-5-1C23))
+- **OMRON VX-5-1A3**<br>
+    50g microswitch [^mouserVx].<br>
+    [Mouser](https://eu.mouser.com/ProductDetail/Omron-Electronics/VX-5-1A3?qs=HDDQUw%2F3PhrDGKLihoCGqw%3D%3D) \| [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/VX-5-1A3/369976)<br>
+    ***Extremely prone to failure*** due to contact material (see [Subjective Thoughts on Switch Choices for Controllers](https://rhythm-cons.wiki/w/Subjective_Thoughts_on_Switch_Choices_for_Controllers#Omron_VX-5-1C23))
 
-- **Sanwa OBSA-LHS1F-LN**<br>[Blue Spring Express](https://bluespringexpress.net/products/lhs1f-switch-and-harness-set-for-sdvx)<br>100g microswitch & lamp holder housing an *OMRON V-11-3D4-SD* [^gamerepairSdvx] [^karinge] This listing is meant for use with Gamo2 and Yuancon controllers.
+- **OMRON D3V-011-1A3-K**<br>
+    50g microswitch [^d3vSpec].<br>
+    [Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/D3V-011-1A3-K/1789124)
 
-- **OMRON D3V-011-1A3-K**<br>[Digikey](https://www.digikey.nl/en/products/detail/omron-electronics-inc-emc-div/D3V-011-1A3-K/1789124)<br>50g microswitch [^d3vSpec].
+- **Sanwa OBSA-LHS1F-LN**<br>
+    Japanese arcade spec switch & lamp holder housing an *OMRON V-11-3D4-SD* [^gamerepairSdvx] [^karinge].<br>
+    &nbsp; &nbsp; *↪ Standalone Switch*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_204/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=3321) \| [Blue Spring Express](https://bluespringexpress.net/products/sanwa-microswitch-obsa-lhs1f)<br>
+    &nbsp; &nbsp; *↪ With Cables for Gamo2 & Yuancon Controllers*<br>
+    &nbsp; &nbsp; &nbsp; &nbsp; [Blue Spring Express](https://bluespringexpress.net/products/lhs1f-switch-and-harness-set-for-sdvx)<br>
+    *Only compatible with Sanwa buttons.*
 
-- **Gersung/Geosung GSM-V0303A06**<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526)<br>Estimated as 75g [^istGersung].
+- **Gersung/Geosung GSM-V0303A06**<br>
+    Listed as a 65g[^wikiGersung] or 60g[^partumGersung] switch.<br>
+    [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526) \| [Partum Global](https://global.partum.kr/shop/?idx=168) \| [Partum 100pcs](https://global.partum.kr/shop/?idx=169)
 
-- **Cherry D45X**<br>[arcadexpress](https://www.arcadexpress.com/en/microswitches/284-4-x-microswitch-cherry-d45x-48mm.html)<br>100g switch [^octopartCherry].
+- **Cherry D45X**<br>
+    100g switch [^octopartCherry].<br>
+    [arcadexpress](https://www.arcadexpress.com/en/microswitches/284-4-x-microswitch-cherry-d45x-48mm.html)
+
+- **ZIPPY 20g**<br>
+    20g switch [^partumZippy].<br>
+    [Partum Global](https://global.partum.kr/shop/?idx=170)
 
 #### Springs
 
-- **Sanwa OBSA-SP (20g)**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_218/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953), [Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=296), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2942), [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual)<br>For use with Sanwa buttons listed above.
-- **Sanwa OBSA-SP (40g)**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_303/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=5777), [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual)<br>For use with Sanwa buttons listed above.
-- **Sanwa OBSA-SP (50g)**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_500/), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=6188), [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual)<br>For use with Sanwa buttons listed above.
-- **Sanwa OBSA-SP-K (60g)**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_300/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953), [Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=297), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2943), [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual)<br>For use with Sanwa buttons listed above.
-- **Sanwa OBSA-SP (100)**<br>[Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_217/), [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953), [Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=298), [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2944), [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual), [Akishop](https://akishop.jp/collections/pushbutton-parts/products/pushbutton-spring-sanwa-obsa-sp)<br>For use with Sanwa buttons listed above.
+The Sanwa springs below are only to be used with Sanwa buttons.
 
-- **IST MALL Springs**<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992332)<br> 30g, 60g, 100g, and 200g options.
+- **Sanwa OBSA-SP (20g)**<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_218/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2942) \| [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual) \| [Partum Global](https://global.partum.kr/shop/?idx=162) \| [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953) \| [Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=296)
+- **Sanwa OBSA-SP (40g)**<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_303/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=5777) \| [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual) \| [Partum Global](https://global.partum.kr/shop/?idx=162) \| [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953)
+- **Sanwa OBSA-SP (50g)**<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_500/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=6188) \| [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual) \| [Partum Global](https://global.partum.kr/shop/?idx=162)
+- **Sanwa OBSA-SP-K (60g)**<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_300/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2943) \| [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual) \| [Partum Global](https://global.partum.kr/shop/?idx=162) \| [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953) \| [Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=297)
+- **Sanwa OBSA-SP (100)**<br>
+    [Rakuten](https://item.rakuten.co.jp/sanwadenshi/ilumb_217/) \| [Tops Game](https://www.tops-game.jp/products/detail.php?product_id=2944) \| [Blue Spring Express](https://bluespringexpress.net/collections/all?filter.p.product_type=Spring&sort_by=manual) \| [Partum Global](https://global.partum.kr/shop/?idx=162) \| [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992953) \| [Gamo2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=298) \| [Akishop](https://akishop.jp/collections/pushbutton-parts/products/pushbutton-spring-sanwa-obsa-sp)
 
-#### Encoders & Potentiometers
+- **Samducksa Spring**<br>
+    30g & 60g options.<br>
+    [Partum Global](https://global.partum.kr/shop/?idx=161)
 
-- **Sensatec ELV-24Y36A-K**<br>[Metro Electric](http://www.e-metro.jp/quick/ELV-24.html)<br>Infinite pot meter for knobs [^gamerepairKnob].
-- **Nidec Copal RES20D-50-201-1**<br>[Digikey](https://www.digikey.nl/nl/products/detail/nidec-copal-electronics/RES20D-50-201-1/6469509), [Mouser](https://nl.mouser.com/ProductDetail/Nidec-Copal/RES20D-50-201-1?qs=XeJtXLiO41R3vokOTWDL3g%3D%3D)<br>Can also be bought with SVSE5 bracket from [GAMO2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=316). See [Octopart](https://octopart.com/res20d-50-201-1-nidec+copal-87192281) for other stores.
-- **Alps EC12E2420801**<br>[mouser](https://nl.mouser.com/ProductDetail/Alps-Alpine/EC12E2420801?qs=m0BA540hBPdaLIy4F3c5Mg%3D%3D)<br>This used to be the SVSE5 default. It is considered not that great and it is listed here for reference for those who have an older SVSE5 version.
+- **IST MALL Springs**<br>
+    30g, 60g, 100g, and 200g options.<br>
+    [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992332)
 
 #### LEDS
 
-- **ISTMALL LED lamp**<br>[IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992273).
-- **GAMO2 LED light for button**<br>[Gamo2](https://www.gamo2.com/en/index.php?dispatch=categories.view&category_id=266).
+- **Samducksa 5V/12V non-polarity LED**<br>
+    [Partum Global](https://global.partum.kr/shop/?idx=165).
+
+- **ISTMALL LED lamp**<br>
+    [IST MALL](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992273).
+
+- **GAMO2 LED light for button**<br>
+    [Gamo2](https://www.gamo2.com/en/index.php?dispatch=categories.view&category_id=266).
+
+#### Encoders, Potentiometers & Knobs
+
+- **Sensatec ELV-24Y36A-K**<br>
+    Infinite pot meter for knobs [^gamerepairKnob].<br>
+    [Metro Electric](http://www.e-metro.jp/quick/ELV-24.html)
+- **Sensatec ELV-24Y36G**<br>
+    Official replacement part for ELV-24Y36A-K[^gamerepairElv].<br>
+    [Blue Spring Express](https://bluespringexpress.net/products/sdvx-potentiometer-elv-24y36g).
+- **Nidec Copal RES20D-50-201-1**<br>
+    Can also be bought with SVSE5 bracket from [GAMO2](https://www.gamo2.com/en/index.php?dispatch=products.view&product_id=316). See [Octopart](https://octopart.com/res20d-50-201-1-nidec+copal-87192281) for other stores.<br>
+    [Digikey](https://www.digikey.nl/nl/products/detail/nidec-copal-electronics/RES20D-50-201-1/6469509) \| [Mouser](https://nl.mouser.com/ProductDetail/Nidec-Copal/RES20D-50-201-1?qs=XeJtXLiO41R3vokOTWDL3g%3D%3D)
+- **Alps EC12E2420801**<br>
+    This used to be the SVSE5 default. It is considered not that great and it is listed here for reference for those who have an older SVSE5 version.<br>
+    [mouser](https://nl.mouser.com/ProductDetail/Alps-Alpine/EC12E2420801?qs=m0BA540hBPdaLIy4F3c5Mg%3D%3D)
+
+- **Sound Voltex Aluminium Knob for GAMO2 and Arcade**<br>
+    SpeedyLabs aftermarket knob.<br>
+    [Blue Spring Express](https://bluespringexpress.net/products/acknob)
+
+- **Sound Voltex Aluminium Knob for Yuancon / DIY**<br>
+    SpeedyLabs aftermarket knob.<br>
+    [Blue Spring Express](https://bluespringexpress.net/products/speedylabs-sound-voltex-aluminium-knob-for-controllers)
+
+- **Yubiparts Aluminum Arcade Knob Head Shaft**<br>
+    Aftermarket knob.<br>
+    [Yubiparts](https://yubiparts.com/products/sound-voltex-sdvx-aluminum-arcade-knob-head-shaft)<br>
+    For use with encoders used in arcade cabinets. Not compatible with Copal encoders.
 
 ### Other Parts Lists
 
-- **[Buttons List](https://rhythm-cons.wiki/w/Buttons)**<br>Comprehensive collection of different buttons with their prices.
-- **[Microswitch List](https://rhythm-cons.wiki/w/Microswitches)**<br>Comprehensive collection of different microswitches with their prices.
-- **[Springs List](https://rhythm-cons.wiki/w/Springs)**<br>Comprehensive collection of different springs with their prices.
+- **[Buttons List](https://rhythm-cons.wiki/w/Buttons)**<br>
+    Comprehensive collection of different buttons with their prices.
+- **[Microswitch List](https://rhythm-cons.wiki/w/Microswitches)**<br>
+    Comprehensive collection of different microswitches with their prices.
+- **[Springs List](https://rhythm-cons.wiki/w/Springs)**<br>
+    Comprehensive collection of different springs with their prices.
 
 ### Reference
 
@@ -612,3 +792,12 @@ The *Sanwa OBSA-LHS1F-LN* switch used in Valkyrie cabinets could still be used w
 [^istGersung]: [https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526#qna](https://istmall.co.kr/us/goods/goods_view.php?goodsNo=1009992526#qna)
 [^octopartCherry]: [https://datasheet.octopart.com/D41CR1LD-Cherry-datasheet-41857.pdf](https://datasheet.octopart.com/D41CR1LD-Cherry-datasheet-41857.pdf)
 [^bluespringIntegrated]: [https://bluespringexpress.net/products/lhs1f-switch-and-harness-set-for-sdvx](https://bluespringexpress.net/products/lhs1f-switch-and-harness-set-for-sdvx)
+[^partumTaiwanese]: [https://global.partum.kr/shop/?idx=157](https://global.partum.kr/shop/?idx=157)
+[^partum405]: [https://global.partum.kr/shop/?idx=158](https://global.partum.kr/shop/?idx=158)
+[^partum406]: [https://global.partum.kr/shop/?idx=172](https://global.partum.kr/shop/?idx=172)
+[^naverTaiwanese]: [https://smartstore.naver.com/partum/products/5882277767](https://smartstore.naver.com/partum/products/5882277767)
+[^naverConfig]: [https://smartstore.naver.com/partum/products/5887067080](https://smartstore.naver.com/partum/products/5887067080)
+[^wikiGersung]: [https://rhythm-cons.wiki/w/Microswitches#GSM-V0303A06_(65g)](https://rhythm-cons.wiki/w/Microswitches#GSM-V0303A06_(65g))
+[^partumGersung]: [https://global.partum.kr/shop/?idx=168](https://global.partum.kr/shop/?idx=168)
+[^gamerepairElv]: [https://gamerepair.info/parts/61_elv_24y36a_k](https://gamerepair.info/parts/61_elv_24y36a_k)
+[^partumZippy]: [https://global.partum.kr/shop/?idx=170](https://global.partum.kr/shop/?idx=170)
