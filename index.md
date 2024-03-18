@@ -4,16 +4,7 @@ title: Hello!
 
 # Hello!
 
-<script>
-    var images = ['home_image_01_01.png', 'home_image_02_01.png', 'home_image_03_01.png', 'home_image_04_01.png', 'home_image_05_01.png', 'home_image_01_02.png', 'home_image_02_02.png', 'home_image_03_02.png', 'home_image_04_02.png', 'home_image_05_02.png'];
-    function getRandomHomeImage() {
-        var index = Math.floor( Math.random() * images.length);
-        var img = images[index];
-        document.getElementById("homeImage").src = '/assets/img/' + img
-    }
-</script>
-
-<a href="https://picrew.me/en/image_maker/1852270"><img id="homeImage" alt="Homepage avatar image." style="margin: 5px 16px 0 0; float: left" width="247px"></a>
+<img src="/assets/img/amy.PNG" alt="Homepage avatar image." style="margin: 5px 16px 0 0; float: left" height="379px">
 I’m Amy (Mobiuslau), a theoretical physics master student who loves to compose music, play drums, graphic design, and play games like Sound Voltex, Beatmania IIDX, and BMS. Perhaps you’ll find something interesting here. Feel free to contact me on Discord: `mobiuslau` (thinking of making a server).<br><br> &nbsp; &nbsp; &nbsp; 🡪 [Amy's Nerdy Corner](https://mobiuslau.github.io/)<br> &nbsp; &nbsp; &nbsp; 🡪 [Youtube](https://www.youtube.com/user/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Twitch](https://www.twitch.tv/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Bokutachi](https://bokutachi.xyz/dashboard/users/Mobiuslau/)<br><br>I like documenting things I find interesting or might consider helpful to others, which is the purpose of this website.
 
 <svg width="300" height="50"
@@ -65,7 +56,4 @@ function buttonFunc() {
 }
 </script>
 
-<script>
-    getRandomHomeImage()
-</script>
 <!-- Button help from https://stackoverflow.com/questions/45136270/opening-a-div-a-box-with-a-list-of-links-after-click-of-button -->
