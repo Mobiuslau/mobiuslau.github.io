@@ -1,7 +1,7 @@
 ---
 title: Sound Voltex Resources
 author: Amy
-updated: 13 March 2024
+updated: 24 March 2024
 ---
 # Sound Voltex Resources
 {:.no_toc}
@@ -65,9 +65,7 @@ Outdated resources and dead links are kept for a while for archival purposes.
 
 ### Chart & Song Info
 
-- **[SDVX Index](https://sdvxindex.com/)**<br>This website contains detailed top-down overviews of charts for players to study and practice with. It is similar to *sdvx.in* below, however it provides every chart, including lower level difficulties, and it may load faster.
 - **[sdvx.in](https://sdvx.in/)**<br>One of the oldest, and most useful, resources available for the series for studying charts similarly to the above. However, it does not provide overviews for a large group of lower level charts.
-
 
 - **[SDVX Song List](https://myshkin.io/sdvx/songlist)** by *Myshkin*<br>Song list which includes PC availability. Browsing for packs and chart levels is a bit easier with this list.
 - **[arcade-songs - sdvx](https://arcade-songs.zetaraku.dev/sdvx/)** by *@zetaraku*<br>Complete list of music in popular rhythm games. 
@@ -209,24 +207,25 @@ Arcade Style Controllers:
 
 ***It is recommended to read other sources as well to make educated purchases! Do not use this as your sole source. If in doubt, ask around.***
 
-Before purchasing a controller, or the parts for a DIY controller, a choice has to be made on the button, microswitche and spring configuration. When buying a controller specifically, usually the user is prompted to select specific parts from drop-down lists. But which ones to buy?
+Before purchasing a controller, or the parts for a DIY controller, a choice has to be made on the button, microswitch and spring configuration. When buying a controller specifically, usually the user is prompted to select specific parts from drop-down lists. But, which ones to buy?
 
 For those unfamiliar, the entire button configuration consists of the following 4 parts:
 
+- a housing which, well, houses some of the parts below,
 - a microswitch which sits in the button housing,
 - the button piece which anctuates the microswitch when pressing it,
-- a spring which sita in the housing lifting the button piece.
+- a spring which sits in the housing lifting the button piece,
 - a screw which holds the button housing in place in the controller.
 
 First and foremost: *don't buy Sanwa buttons unless you're already a seasoned player and can not sleep without having a more arcade accurate setup*. They are extremely expensive and really not worth it for a beginner or intermediate player to consider (even seasoned players don't strictly *need* them). Even though they are used in actual arcade cabinets (see the [parts](#parts) section below), the difference in feel is mostly a luxury while the default button options (such as DJ DAO buttons) are usually sufficient and can be used to achieve great scores too!
 
 When it comes to microswitches, it is often recommended to buy OMRON microswitches. The durability and feel are usually considered well worth the slight increase in price. Popular choices are:
 
-- 50g: `OMRON D2MV-01-1C3`.
-- 100g: `OMRON V-10-1A4`.
+- 50g: `OMRON D2MV-01-1C3`,
+- 100g: `OMRON V-10-1A4`,
 - 50g: `OMRON VX-01-1A3`.
 
-Arcade accurate would be the "integrated" switch `OBSA-LHS1F-LN`, which **can only be used with Sanwa buttons** (more on arcade specs in the [parts](#parts) section) [^gamerepairSdvx] [^bluespringIntegrated]. However, not every vendor lists this as an option, and it might be considerably more expensive. The OMRON options listed above are just fine. Note that the `OBSA-LHS1F-LN` might feel slightly heavier compared to the `OMRON V-10-1A4` 100g switch [^hoshikara].
+Arcade accurate would be the "integrated" switch `OBSA-LHS1F-LN`, which **can only be used with Sanwa buttons** (more on arcade specs in the [parts](#parts) section) [^gamerepairSdvx] [^bluespringIntegrated]. However, not every vendor lists this as an option, and it might be considerably more expensive for those which do. The OMRON options listed above are just fine. Note that the `OBSA-LHS1F-LN` might feel slightly heavier compared to the `OMRON V-10-1A4` 100g switch [^hoshikara].
 
 Apart from the part manufacturer, the most important aspects to drastically change the feel of the button are the weights of the microswitch and spring. The weight combination between the spring and microswitch is often denoted as \\(m_{\textup{microswitch}}/m_{\textup{spring}}\\), with \\(m\\) the weight of the part in grams. For instance: `100/20` would be a configuration with 100g microswitches and 20g springs. Common configurations are:
 
