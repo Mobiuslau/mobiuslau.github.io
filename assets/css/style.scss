@@ -1,4 +1,9 @@
 ---
+# this ensures Jekyll reads the file to be transformed into CSS later
+# only Main files contain this front matter, not partials.
+# Usually a partial from _sass is imported. However, this is not done here.
+# Somehow Jekyll can't interface nicely when it's css; it wouldn't reload properly.
+# As such, the scss -> css conversion is still used with this being scss.
 ---
 
 /* =========== */

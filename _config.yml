@@ -55,14 +55,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - 2021-11-26-welcome-to-jekyll.markdown
+  - README.md
   - home_image.afdesign
   - localserver.bat
   - template.md
-  - README.md
-  - /sdvx/eaccharts/index_Backup_2022-4-4.md
-  - /sdvx/eaccharts/index_Backup_2022-5-2.md
-  - /sdvx/eaccharts/index_Backup_2022-6-2.md
-  - /sdvx/eaccharts/index_Backup_2022-7-13.md
-  - /sdvx/eaccharts/index_Backup_Playlist.md
-  - /sdvx/eaccharts/index_Backup_sdvxin.md
