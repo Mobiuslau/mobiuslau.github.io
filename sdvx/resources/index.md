@@ -8,11 +8,14 @@ updated: 24 March 2024
 
 It is undenyable that the *SOUND VOLTEX* series has grown in popularity throughout the years. As such, many players, maintainers, and other users have been making many contributious to the community, such as guides, messaging platforms, and even their own games simulating the *SOUND VOLTEX* gameplay experience along with custom charts. Through the years, many resources have accumulated in various places. As such, this webpage is an accumulation of those resources created by the community, official resources, and a parts list for controllers. This web page contains everything *SOUND VOLTEX*. 
 
-This webpage may not always be up to date with the newest resources available. An effort is made to update it somewhat regularly, however. I would greatly appreciate it if the reader would notify me of a new resource which would be useful to list here.
-
 The #faq-guides channel in the [SDVX Community Discord Server](https://discord.gg/sdvx) contains resources and useful information as well, such as guides on setting up *SOUND VOLTEX EXCEED GEAR コナステ*, a Buyers guide for controllers, Useful links, and other recommendations. It is therefore advised to read this as well since it can not be hot-linked from this webpage. However, an effort was made to collect publically available resources mentioned there.
 
 Outdated resources and dead links are kept for a while for archival purposes.
+
+An effort is made to update this page somewhat regularly with new and updated resources. However, it may not always be up to date. Feel free to either contact me or to submit a [PR on github](https://github.com/Mobiuslau/mobiuslau.github.io/pulls). I will try my best to respond.
+
+Extra credits:
+- *gBasil* for notifying me on speedylabs' domain update (I'm sorry I never responded).
 
 {% include article_block.html %}
 
@@ -272,7 +275,7 @@ For more wisdom on microswitches, see [Subjective Thoughts on Switch Choices for
 
 - **[Pocket Voltex](https://github.com/mon/PocketVoltex)** by *Mon*<br>
 - **[pocketvtx](https://github.com/camprevail/pocketvtx)** by *camprevail*<br>
-- **[Pocket-SDVX](https://github.com/speedypotato/Pocket-SDVX)** by *speedypotato*<br>
+- **[Speedy Labs](https://www.speedylabs.us/)** by *speedypotato*.<br>*[Pocket-SDVX](https://github.com/speedypotato/Pocket-SDVX)* can be bought here.
 
 
 
@@ -289,6 +292,8 @@ For more wisdom on microswitches, see [Subjective Thoughts on Switch Choices for
 ## Parts
 
 ***SECTION IS WORK IN PROGRESS.<br>ISTMALL LINKS ARE CURRENTLY BROKEN. WILL BE FIXED EVENTUALLY.<br>VOLUME ASSEMBLY ISN'T DETAILED ENOUGH.***
+
+<!-- Add parts stores section. -->
 
 ### Arcade Spec Parts: Japanese Cabinets
 
