@@ -1,7 +1,7 @@
 ---
 title: Sound Voltex Controls
 author: Amy
-updated: 18 October 2022
+updated: 28 April 2022
 ---
 # Sound Voltex Controls
 {:.no_toc}
@@ -10,7 +10,7 @@ The Sound Voltex games have a moderate list of controls and macros. The in-game 
 
 This list was first written for the *SOUND VOLTEX VIVID WAVE* arcade games. Some features are locked behind the *Premium Time* mode, while others are accessable through standard play. This page was revisited in light of the recent release of *SOUND VOLTEX EXCEED GEAR コナステ* (Konaste) for the *E-Amusement Cloud* (EAC) home service. Most controls are similar, and thus this list has been updated to document both games. However, the Premium Time exclusive controls are enabled by default; it is as if the Premium Time mode is the default mode for this game. 
 
-Hopefully this catalogue proves to be helpful to both new, and veteran players, who like to know about some slightly hidden features of the game.
+Hopefully this catalogue would be helpful to both new, and veteran players, who like to know about some slightly hidden features of the game.
 
 {% include article_block.html %}
 
@@ -20,7 +20,45 @@ Hopefully this catalogue proves to be helpful to both new, and veteran players, 
 > - this unordered seed list will be replaced by toc as unordered list
 > {:toc}
 
-### Glossary
+
+## Music Select
+
+<img src="music_select.svg">
+
+<br>
+
+<img src="music_select_num.svg">
+
+## Options
+
+<img src="options.svg">
+
+<br>
+
+<img src="options_num.svg">
+
+## Play
+
+<img src="play.svg">
+
+<br>
+
+<img src="play_num.svg">
+
+## Results
+
+<img src="results.svg">
+
+<br>
+
+<img src="results_num.svg">
+
+
+<script src="/assets/js/button.js"></script>
+<button class="svgbutton" onclick="buttonFunc('divOld', 'buttonOlfOff', 'buttonOldOn')" style="margin: 28px 0 0 0;">{% include button_off.html buttontext="button(f'Old Tables')" buttonOff="buttonOlfOff" buttonOn="buttonOldOn" %}</button>
+<div id="divOld" style="display: none;" class="buttondiv" markdown="1">
+
+**Glossary**
 
 |Term|Abbreviation|Meaning|
 |:-|:-|:-|
@@ -37,10 +75,7 @@ Hopefully this catalogue proves to be helpful to both new, and veteran players, 
 |Not Available|N.A.|Function not in the game.|
 
 
-
-## Controls List
-
-### Song Wheel
+**Song Wheel**
 
 |Function|Vivid Wave|Exceed Gear コナステ|Extra Description|
 |:-|:-:|:-:|:-|
@@ -56,7 +91,7 @@ Hopefully this catalogue proves to be helpful to both new, and veteran players, 
 |[p] Leave premium time|Hold BT-A, BT-B, BT-C, BT-D|N.A.|Yes/no prompt. Yes = end session.|
 |[h] Leave Hexa Diver|FX-L|N.A.|Returns to songwheel.|
 
-### Options Menu
+**Options Menu**
 
 |Function|Vivid Wave|Exceed Gear コナステ|Extra Description|
 |:-|:-:|:-:|:-|
@@ -67,7 +102,7 @@ Hopefully this catalogue proves to be helpful to both new, and veteran players, 
 
 \*According to what is shown in-game. 
 
-### Waiting Lobby
+**Waiting Lobby**
 
 There is no waiting lobby when using Premium Time. These controls should also function during gameplay. Note that Exceed Gear コナステ uses mmod by default.
 
@@ -81,7 +116,7 @@ There is no waiting lobby when using Premium Time. These controls should also fu
 |Headphone volume|Start + num-7, num-1|N.A.|Bottom right gauge.|
 |Skip lobby to play|FX-L + FX-R|N.A.||
 
-### During Play
+**During Play**
 
 |Function|Vivid Wave|Exceed Gear コナステ|Description|
 |:-|:-:|:-:|:-|
@@ -89,9 +124,11 @@ There is no waiting lobby when using Premium Time. These controls should also fu
 |[p] Force retry|Hold (FX-L + FX-R + start)|Hold (FX-L + FX-R + start)||
 |[p] Auto retry|00|num-.||
 
-### Result Screen
+**Result Screen**
 
 |Function|Vivid Wave|Exceed Gear コナステ|Description|
 |:-|:-:|:-:|:-|
 |Show/hide detailed results|FX-L + FX-R|FX-L + FX-R||
 |[p] Retry chart|Hold start|Hold Start||
+
+</div>
