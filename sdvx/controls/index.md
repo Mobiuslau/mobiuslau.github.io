@@ -20,6 +20,9 @@ Hopefully this catalogue would be helpful to both new, and veteran players, who 
 > - this unordered seed list will be replaced by toc as unordered list
 > {:toc}
 
+<br><br><br>
+
+<img src="colours.svg">
 
 ## Music Select
 
