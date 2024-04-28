@@ -251,34 +251,10 @@ hr {
 }
 
 
-/* =========== */
-/* = Buttons = */
-/* =========== */
-// button {
-//     background-color: var(--colBg); 
-//     color: var(--colText);
-// }
-
-// button:hover {
-//     background-color: var(--colOne);
-//     color: var(--colText);
-// }
-
-// Remove all default button styling.
-// https://stackoverflow.com/questions/2460100/remove-the-complete-styling-of-an-html-button-submit
-button, input[type="submit"], input[type="reset"] {
-    background: none;
-    color: inherit;
-    border: none;
-    padding: 0;
-    font: inherit;
-    cursor: pointer;
-    outline: inherit;
-}
-
 /* ======= */
 /* = SVG = */
 /* ======= */
+// Classes for fill colours.
 .svgcolone {
     fill: var(--colOne);
 }
@@ -304,6 +280,20 @@ button, input[type="submit"], input[type="reset"] {
 }
 
 
+/* =========== */
+/* = Buttons = */
+/* =========== */
+// https://stackoverflow.com/questions/2460100/remove-the-complete-styling-of-an-html-button-submit
+button, input[type="submit"], input[type="reset"] {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
 // Class to assign to button.
 .svgbutton {
 }
@@ -328,6 +318,17 @@ button, input[type="submit"], input[type="reset"] {
 
 .svgbutton:hover .svgbuttoncolon{
     fill: var(--colTwo)
+}
+
+// Class for div the button reveals.
+// https://talk.jekyllrb.com/t/when-inserting-text-inside-a-div-in-markdown-markdown-doesnt-renders-correctly-whats-inside/1496/2
+// https://sentry.io/answers/how-do-i-add-a-tab-space-instead-of-multiple-non-breaking-spaces/
+// https://talk.jekyllrb.com/t/rendering-markdown-inside-an-html-include/4186/3
+.buttondiv {
+    margin: -10px 0px 16px 0px;
+    padding: 0px 0px 0px 20px;
+    border-left: 5px solid var(--colBlock);
+    border-radius: 0.4em;
 }
 
 

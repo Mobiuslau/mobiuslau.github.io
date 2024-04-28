@@ -32,28 +32,10 @@ I’m Amy (Mobiuslau), a theoretical physics master student who loves to compose
     </g>
 </svg>
 
-<button class="svgbutton" onclick="buttonFunc()" style="margin: 28px 0 0 0;">{% include button_off.html buttontext="f' Music piece of the {timeFrame}.'" %}</button>
-
-<div id="buttonYoutube" style="display:none; margin: 16px 0 0 0;">
-    <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/ujmOETXcG0Y" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<script src="/assets/js/button.js"></script>
+<button class="svgbutton" onclick="buttonFunc('divYT', 'buttonYTOff', 'buttonYTOn')" style="margin: 28px 0 0 0;">{% include button_off.html buttontext="button(f'Music of the {timeFrame}.')" buttonOff="buttonYTOff" buttonOn="buttonYTOn" %}</button>
+<div id="divYT" style="display: none;" class="buttondiv">
+    <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/Dg7e4xXTDio" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
-<script>
-// This works by finding by ID. NOT CLASS.
-function buttonFunc() {
-  var x = document.getElementById("buttonYoutube");
-  var y = document.getElementById("buttonOff");
-  var z = document.getElementById("buttonOn");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-    y.style.display = "none"
-    z.style.display = "block"
-  } else {
-    x.style.display = "none";
-    y.style.display = "block"
-    z.style.display = "none"
-  }
-}
-</script>
 
 <!-- Button help from https://stackoverflow.com/questions/45136270/opening-a-div-a-box-with-a-list-of-links-after-click-of-button -->

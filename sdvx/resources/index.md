@@ -1,7 +1,7 @@
 ---
 title: Sound Voltex Resources
 author: Amy
-updated: 24 March 2024
+updated: 28 April 2024
 ---
 # Sound Voltex Resources
 {:.no_toc}
@@ -12,10 +12,17 @@ The #faq-guides channel in the [SDVX Community Discord Server](https://discord.g
 
 Outdated resources and dead links are kept for a while for archival purposes.
 
-An effort is made to update this page somewhat regularly with new and updated resources. However, it may not always be up to date. Feel free to either contact me or to submit a [PR on github](https://github.com/Mobiuslau/mobiuslau.github.io/pulls). I will try my best to respond.
+An effort is made to update this page somewhat regularly with new and updated resources. However, it may not always be up to date. Feel free to contact me by submitting either an [issue](https://github.com/Mobiuslau/mobiuslau.github.io/issues) or a [pull request](https://github.com/Mobiuslau/mobiuslau.github.io/pulls) on Github. I will try my best to check this somewhat regularly.
 
-Extra credits:
-- *gBasil* for notifying me on speedylabs' domain update (I'm sorry I never responded).
+<script src="/assets/js/button.js"></script>
+<button class="svgbutton" onclick="buttonFunc('divCredits', 'buttonCreditsOff', 'buttonCreditsOn')" style="margin: 28px 0 0 0;">{% include button_off.html buttontext="button(f'Extra Credits.')" buttonOff="buttonCreditsOff" buttonOn="buttonCreditsOn" %}</button>
+<div id="divCredits" style="display: none;" class="buttondiv" markdown="1">
+
+The following people have contributed to this page:
+
+- *gBasil* for [notifying me](https://github.com/Mobiuslau/mobiuslau.github.io/pull/1) on speedylabs' domain update (I'm sorry I never responded).
+
+</div>
 
 {% include article_block.html %}
 
