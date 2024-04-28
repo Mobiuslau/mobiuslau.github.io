@@ -1,7 +1,7 @@
 ---
 title: Sound Voltex Controls
 author: Amy
-updated: 28 April 2022
+updated: 28 April 2024
 ---
 # Sound Voltex Controls
 {:.no_toc}
