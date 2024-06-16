@@ -108,6 +108,8 @@ The following people have contributed to this page:
 ### Tools
 
 - **[SDVX Input Viewer](https://chinimuruhi.github.io/sdvx-input-viewer/)** by *chinimuruhi*<br>
+- **[sdvx_helper](https://github.com/dj-kata/sdvx_helper/blob/main/en_README.md)** by *dj-kata*<br>Streaming tool which periodically captures information such as current chart and score logs through image processing.
+- **[SDVX Request Helper Twitch Extension](https://www.youtube.com/watch?v=AIvVHjY0MPA)** by *Kanri*<br>
 
 ### Other Stuff
 
