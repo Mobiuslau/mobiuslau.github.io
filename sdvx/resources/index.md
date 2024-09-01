@@ -1,7 +1,7 @@
 ---
 title: Sound Voltex Resources
 author: Amy
-updated: 16 June 2024
+updated: 01 September 2024
 ---
 # Sound Voltex Resources
 {:.no_toc}
@@ -84,6 +84,7 @@ The following people have contributed to this page:
 
 - **[Bemaniwiki: Exceed Gear Skill Analysers](https://bemaniwiki.com/index.php?SOUND%20VOLTEX%20EXCEED%20GEAR/SKILL%20ANALYZER)**
 
+- **[A collection of minor pattern problems in Sound Vortex.ZIP](https://note.com/mini208/n/n4f46e9279b9d)** by *Mini*<br>A collection of patterns which either have odd note spacing, are not consistent, do not match the music, or have incorrect BPM values.
 
 ### Score Trackers & Volforce
 
