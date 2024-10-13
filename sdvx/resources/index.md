@@ -169,11 +169,11 @@ The following people have contributed to this page:
 
 ### K-Shoot Mania & Unnamed SDVX Clone
 
-See [Simulators: Guides](#guides-1).
+See [Simulators: Guides](#guides-2).
 
 ### Controller
 
-See [Controller: Guides](#guides-2).
+See [Controller: Guides](#guides-1).
 
 ### Other
 
