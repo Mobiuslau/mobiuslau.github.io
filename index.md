@@ -4,7 +4,7 @@ title: Hello!
 
 # Hello!
 
-<img src="/assets/img/amy.png" alt="Homepage avatar image." style="margin: 5px 16px 0 0; float: left" height="379px">
+<img src="/assets/img/amy.png" alt="Homepage avatar image." style="margin: 5px 16px 0 0; float: left" width="220px">
 I’m Amy (Mobiuslau), a theoretical physics master alumna who loves composing music, playing drums, graphic design, and playing games like Sound Voltex, Beatmania IIDX and BMS. Perhaps you’ll find something interesting here. Feel free to contact me too.<br><br> &nbsp; &nbsp; &nbsp; 🡪 [Amy's Nerdy Corner](https://mobiuslau.github.io/)<br> &nbsp; &nbsp; &nbsp; 🡪 [Youtube](https://www.youtube.com/user/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Twitch](https://www.twitch.tv/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Bokutachi](https://bokutachi.xyz/dashboard/users/Mobiuslau/)<br><br>I like documenting things I find interesting or might consider helpful to others, which is the purpose of this website.
 
 <svg width="300" height="50"
