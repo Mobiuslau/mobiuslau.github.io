@@ -35,7 +35,7 @@ I’m Amy (Mobiuslau), a theoretical physics master alumna who loves composing m
 <script src="/assets/js/button.js"></script>
 <button class="svgbutton" onclick="buttonFunc('divYT', 'buttonYTOff', 'buttonYTOn')" style="margin: 28px 0 0 0;">{% include button_off.html buttontext="button(f'Music of the {timeFrame}.')" buttonOff="buttonYTOff" buttonOn="buttonYTOn" %}</button>
 <div id="divYT" style="display: none;" class="buttondiv">
-    <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/Dg7e4xXTDio" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="448" height="252" src="https://www.youtube-nocookie.com/embed/SYQdsCnAzng" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <!-- Button help from https://stackoverflow.com/questions/45136270/opening-a-div-a-box-with-a-list-of-links-after-click-of-button -->
