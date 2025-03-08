@@ -12,10 +12,10 @@
 @media (prefers-color-scheme: light) {
     :root {
         color-scheme: light;
-        --colOne: #FF8FBC;
-        --colTwo: #F5E4A3;
+        --colOne: #B16839;
+        --colTwo: #EDC991;
         --colThree: #FFFFFF;
-        --colText: #727272;
+        --colText: #212121;
         --colBlock: #E5E5E5;
         --colBg: #FFFFFF;
     }
@@ -24,8 +24,8 @@
 @media (prefers-color-scheme: dark) {
     :root {
         color-scheme: dark;
-        --colOne: #DD89AB;
-        --colTwo: #DDCB88;
+        --colOne: #B16839;
+        --colTwo: #EDC991;
         --colThree: #EBEBEB;
         --colText: #EBEBEB;
         --colBlock: #474747;
