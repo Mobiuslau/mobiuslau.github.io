@@ -7,7 +7,7 @@
                 {
                     "name": "Capone\"Gang\"Bege",
                     "nick": "Bege",
-                    "desc": "Bege is one of the most important cards in the deck. For only 1 Don, it can stack life with a card from hand, which can then be played out using LA. When bounced back, it even doubles as a 2k counter card, which can be pitched to protect the board later on. Since a card is taken from life to hand as part of its cost requirement, it can be used to grab a known card from life if this card is crucial for a win, such as <a href=\"#hody\">Hody</a> or <a href=\"#dmg\">DMG</a>.",
+                    "desc": "Bege is one of the most important cards in the deck. For only 1 DON!!, it can stack life with a card from hand, which can then be played out using LA. When bounced back, it even doubles as a 2k counter card, which can be pitched to protect the board later on. Since a card is taken from life to hand as part of its cost requirement, it can be used to grab a known card from life if this card is crucial for a win, such as <a href=\"#hody\">Hody</a> or <a href=\"#dmg\">DMG</a>.",
                     "num": "4.",
                     "id": "OP10-103",
                     "label": "bege",
@@ -15,7 +15,7 @@
                 {
                     "name": "Monkey D. Luffy",
                     "nick": "Luffy",
-                    "desc": "The basic yet fantastic searcher in the deck. Search any <code>Supernovas</code> type card except itself for 1 Don, and it has 1k counter. It being so cheap makes it ideal to loop with.",
+                    "desc": "The basic yet fantastic searcher in the deck. Search any <code>Supernovas</code> type card except itself for 1 DON!!, and it has 1k counter. It being so cheap makes it ideal to loop with.",
                     "num": "4.",
                     "id": "OP10-111",
                     "label": "luffy",
@@ -31,7 +31,7 @@
                 {
                     "name": "Cavendish",
                     "nick": "Cav",
-                    "desc": "This is the engine of the deck. The 2 rested DON!! this effect restands enables the highly Don-efficient plays this deck is known for. As a result, it is the prime target for swings and removal effects from opponents. It is therefore of utmost importance to protect it, if possible, by countering swings or by using removal protection. The early-game often involves getting this card on the board as soon as possible. Optimally, it is played on 4d from life using LA when going second, and raw on 5d when going first.",
+                    "desc": "This is the engine of the deck. The 2 rested DON!! this effect restands enables the highly DON!!-efficient plays this deck is known for. As a result, it is the prime target for swings and removal effects from opponents. It is therefore of utmost importance to protect it, if possible, by countering swings or by using removal protection. The early-game often involves getting this card on the board as soon as possible. Optimally, it is played on 4d from life using LA when going second, and raw on 5d when going first.",
                     "num": "4.",
                     "id": "EB01-012",
                     "label": "cav",
@@ -45,7 +45,7 @@
                 {
                     "name": "Jewelry Bonney",
                     "nick": "1c Bonney",
-                    "desc": "This card is typically played right before the start of the mid-game against decks with removal effects to help protect pieces against them in the mid-game. Keeping pieces such as <a href=\"#cav\">Cavendish</a> on the board is often more valuable than the life this card requires to be taken to protect them, especially now that the deck is more capable of healing with <a href=\"#borsa\">Borsa</a> and <a href=\"#femlaw\">FemLaw</a> in the pool. Since it has a low cost of only 1 Don, it is fairly easy to play out at any point in the game, and it can be used to help fulfil the LA's cost requirement in the early-game when going second. This being a searchable 2k in addition makes it a great utility card. It is often bounced back later into the game, both to make space for bigger bodies if it is safe to do so, and to gain a 2k counter card back in hand.",
+                    "desc": "This card is typically played right before the start of the mid-game against decks with removal effects to help protect pieces against them in the mid-game. Keeping pieces such as <a href=\"#cav\">Cavendish</a> on the board is often more valuable than the life this card requires to be taken to protect them, especially now that the deck is more capable of healing with <a href=\"#borsa\">Borsa</a> and <a href=\"#femlaw\">FemLaw</a> in the pool. Since it has a low cost of only 1 DON!!, it is fairly easy to play out at any point in the game, and it can be used to help fulfil the LA's cost requirement in the early-game when going second. This being a searchable 2k in addition makes it a great utility card. It is often bounced back later into the game, both to make space for bigger bodies if it is safe to do so, and to gain a 2k counter card back in hand.",
                     "num": "4.",
                     "id": "OP15-105",
                     "label": "1c-bonney",
@@ -62,7 +62,7 @@
                     "name": "Jewelry Bonney",
                     "name": "Jewelry Bonney",
                     "nick": "Freezebon",
-                    "desc": "This card packs quite the utility punch when played at the right time. Freezing a DON!! can deny the opponent strong plays or turns, slowing them down or outright preventing them from going for lethal. Examples of strong Don-freezing plays are denying 7c Zoro to prevent the opponent's leader from gaining +2k power, the 8c I Am Whitebeard event, or 10c Roger. Moreover, it is one of the only tools this deck has which can keep bigger characters in check.",
+                    "desc": "This card packs quite the utility punch when played at the right time. Freezing a DON!! can deny the opponent strong plays or turns, slowing them down or outright preventing them from going for lethal. Examples of strong DON!!-freezing plays are denying 7c Zoro to prevent the opponent's leader from gaining +2k power, the 8c I Am Whitebeard event, or 10c Roger. Moreover, it is one of the only tools this deck has which can keep bigger characters in check.",
                     "num": "2 to 4.",
                     "id": "OP07-026",
                     "label": "freezebon",
@@ -154,7 +154,7 @@
                 {
                     "name": "Perona",
                     "nick": null,
-                    "desc": "The benefits of including Perona are that it is the only searcher that can find <a href=\"#femlaw\">FemLaw</a> and any green event, and that it has a low cost of 1 Don, such that it is easy to play out anytime and can help to fulfil the LA's cost requirement. Like <a href=\"#bonney-searcher\">Bonney</a>, Perona has downsides. For starters, it does not find many essential cards in the deck, as not all cards have a <code>Slash</code> attribute. Moreover, it has relatively few targets, about 19 or 20 on average, making it prone to whiff.",
+                    "desc": "The benefits of including Perona are that it is the only searcher that can find <a href=\"#femlaw\">FemLaw</a> and any green event, and that it has a low cost of 1 DON!!, such that it is easy to play out anytime and can help to fulfil the LA's cost requirement. Like <a href=\"#bonney-searcher\">Bonney</a>, Perona has downsides. For starters, it does not find many essential cards in the deck, as not all cards have a <code>Slash</code> attribute. Moreover, it has relatively few targets, about 19 or 20 on average, making it prone to whiff.",
                     "num": "0 to 4.",
                     "id": "OP12-034",
                     "label": "perona",
@@ -168,7 +168,7 @@
                 {
                     "name": "Jewelry Bonney",
                     "nick": "3c Bonney",
-                    "desc": "An incredible card for setting up <a href=\"#cav\">Cavendish</a> on 4d. It costs 3 Don, the crucial amount that leaves 1 DON!! for LA after stacking life, often with <a href=\"#cav\">Cavendish</a>. Moreover, it is a blocker, which helps to alleviate pressure from the opponent on their next turn(s), resulting in life being less fragile. It was quite a strong piece pre-rotation, as it could be played out of <a href=\"#5c\">5c</a> during later turns. However, the only window in which this card is mostly realistically played now is during the 4-DON!! turn, such that it becomes a dead 1k counter card in hand most of the time. As a result, this card is seeing less and less play.",
+                    "desc": "An incredible card for setting up <a href=\"#cav\">Cavendish</a> on 4d. It costs 3 DON!!, the crucial amount that leaves 1 DON!! for LA after stacking life, often with <a href=\"#cav\">Cavendish</a>. Moreover, it is a blocker, which helps to alleviate pressure from the opponent on their next turn(s), resulting in life being less fragile. It was quite a strong piece pre-rotation, as it could be played out of <a href=\"#5c\">5c</a> during later turns. However, the only window in which this card is mostly realistically played now is during the 4-DON!! turn, such that it becomes a dead 1k counter card in hand most of the time. As a result, this card is seeing less and less play.",
                     "num": "0 to 4.",
                     "id": "OP10-107",
                     "label": "3c-bonney",
@@ -220,7 +220,7 @@
                 {
                     "name": "Tashigi",
                     "nick": null,
-                    "desc": "This card saw a lot of play pre-rotation to protect the board from removal effects. It is, however, unfortunately unsearchable. It was still effective pre-rotation since it could be played out of <a href=\"#5c\">5c</a> to avoid paying the steep price of 3 Don. Without <a href=\"#5c\">5c</a>, there is little room to play this card due to its cost. Therefore, <a href=\"#1c-bonney\">1c Bonney</a> is the preferred option currently.",
+                    "desc": "This card saw a lot of play pre-rotation to protect the board from removal effects. It is, however, unfortunately unsearchable. It was still effective pre-rotation since it could be played out of <a href=\"#5c\">5c</a> to avoid paying the steep price of 3 DON!!. Without <a href=\"#5c\">5c</a>, there is little room to play this card due to its cost. Therefore, <a href=\"#1c-bonney\">1c Bonney</a> is the preferred option currently.",
                     "num": "0 to 4.",
                     "id": "OP10-032",
                     "label": "tashigi",

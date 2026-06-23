@@ -511,7 +511,7 @@ As such, the goal is essentially to produce a very large swing as the definitive
 
 Therefore, the most effective strategy, assuming the opponent has no extra life or `Blocker` characters in play, is usually to poke them with 5k and 6k swings, demanding either counter from their hand or DON!!. When a sufficient amount of DON!! is rested, and counters are played from hand, a large swing with as much DON!! given as possible produces the best chance at achieving lethal, since RG Luffy tends to include more bricks and fewer 2k counter cards in the deck. While the pokes discourage the opponent from doing so, Charlestone may be used to counter one of them, which is one of the better plays the opponent actually has in this situation. It is up to the player to evaluate the number of pokes that can be dared before the lethal swing is made and avoid Charlestone from being played at all.
 
-In some situations, when only 3 of the opponent's DON!! are active, it can also be effective to play either Hody or DMG to rest 2 DON!! such that Charlestone can not be played at all.
+In some situations, when only 3 of the opponent's DON!! are active, it can also be effective to play either [Hody](#hody) or [DMG](#dmg) to rest 2 DON!! such that Charlestone can not be played at all.
 
 
 ## Afterword
