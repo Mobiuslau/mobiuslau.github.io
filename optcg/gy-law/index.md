@@ -19,7 +19,7 @@ This article serves as a starting point for players new to the deck and those lo
 
 Changes and additions can be suggested by submitting a [Pull Request](https://github.com/Mobiuslau/mobiuslau.github.io/pulls), writing an [issue](https://github.com/Mobiuslau/mobiuslau.github.io/issues), or sending a message to `mobiuslau` on Discord.
 
-Changelog: page history, cardlist history.
+Changelog: [page history](https://github.com/Mobiuslau/mobiuslau.github.io/commits/main/optcg/gy-law/index.md), [cardlist history](https://github.com/Mobiuslau/mobiuslau.github.io/commits/main/_data/gy_law.json).
 
 ## Acknowledgements
 {:.no_toc}
