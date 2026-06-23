@@ -117,9 +117,9 @@ Decklists may vary from player to player. Since this is a toolbox deck, suitable
 
 It can be helpful to deckbuilders to make educated decisions on the amount of a particular card included based on the Hypergeometric Distribution, which is used to calculate the probabilities of sampling without replacement[^hypersource]. In the context of the game, it can be used to calculate the probability of finding one or multiple of a particular card (successes) after some number of draws (sample) from the deck (population). The equation is not given here, but it can be found in David M. Lane et al.[^hypersource]. An online calculator may be used to evaluate such probabilities[^hypercalc].
 
-Suitable cards for the deck are categorised and listed below. "Number of copies" denotes the number of copies of a particular card that are typically played or seen in lists, which, in principle, can be deviated from.
-
 ### 2.2. &nbsp; Suitable Cards
+
+Suitable cards for the deck are categorised and listed below. "Number of copies" denotes the number of copies of a particular card that are typically played or seen in lists, which, in principle, can be deviated from.
 
 {% for item in site.data.gy_law.mainPieces %}
 #### 2.2.{{forloop.index}}. &nbsp; {{ item.title }}
