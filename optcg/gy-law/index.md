@@ -57,15 +57,15 @@ These ‘abilities' make for an incredibly flexible leader, which plays an equal
 
 ### 1.2. &nbsp; Game Plan
 
-The goal of the deck is to outtempo the opponent by cheating out bodies to make explosive, and Don-efficient plays while disrupting the opponent's game plan. It typically creates a strong, wide board rather quickly, with characters of 6k power or more during the mid-game. As such, it can be played somewhat aggressively, but it has tools to sustain a longer game, though typically the end-game is not as strong as that of other decks, such that most tempo is gained during the mid-game.
+The goal of the deck is to outtempo the opponent by cheating out bodies to make explosive, and DON!!-efficient plays while disrupting the opponent's game plan. It typically creates a strong, wide board rather quickly, with characters of 6k power or more during the mid-game. As such, it can be played somewhat aggressively, but it has tools to sustain a longer game, though typically the end-game is not as strong as that of other decks, such that most tempo is gained during the mid-game.
 
 The early game usually involves searching heavily to find vital pieces, such as 5c `Supernovas` and cards that set up life. Searchers will contribute to the LA's requirement of having a total cost of 5 on the board. The goal here is to establish a 5c body as early as possible, typically Cavendish, which allows for an additional 2 DON!! to be used every turn, enabling the highly DON!!-efficient plays this deck is known for. Going 2nd, this is possible as early as during the 4d turn, in which Cavendish, or any other 5c `Supernovas` for that matter, can be played from life. Going 1st, the most optimal scenario is for [Cavendish](#cav) to be played raw and another 5c `Supernovas` from life during the 5d turn.
 
-During the mid-game, a wider board is built by utilising the  LA and pieces like [6c Law](#6c) that cheat out bodies. [Stunbon](#stunbon) can be used to hinder enemy swings or blocks, and [Freezebon](#freezebon) to prevent the opponent from playing their vital turns correctly by freezing their Don. This deck can quickly run out of steam, so it is important to plan an out during the mid-game.
+During the mid-game, a wider board is built by utilising the  LA and pieces like [6c Law](#6c) that cheat out bodies. [Stunbon](#stunbon) can be used to hinder enemy swings or blocks, and [Freezebon](#freezebon) to prevent the opponent from playing their vital turns correctly by freezing their DON!!. This deck can quickly run out of steam, so it is important to plan an out during the mid-game.
 
 In the late-game the focus is usually set on finding a way to go for lethal quickly. If that isn't possible, it is instead possible to stall by utilising stunning, freezing and healing. The deck has the tools to do both, but it is not capable of playing big, scary characters to strengthen the board unless a card like [Law & Bepo](#lawpo) is included as tech.
 
-Since a lot of focus is placed on building a strong board during the early- and mid-game, it is vitally important that it is well protected with counter and board-protection cards. It can be incredibly difficult to rebuild a strong and healthy board later in the game. [Cavendish](#cav) is often the target for swings and removal effects, and has priority for protection as well. The deck is rather good at developing a healthy hand early, though, to help counter board swings. Decks focused on removal and board control are typically tough opponents. Keeping removal-protection throughout the mid-game is vital in such matchups.
+Since a lot of focus is placed on building a strong board during the early- and mid-game, it is vitally important that it is well protected with counter and board-protection cards. It can be incredibly difficult to rebuild a strong and healthy board later in the game. [Cavendish](#cav) is often the target for swings and removal effects, therefore having priority for protection. The deck is rather good at developing a healthy hand early, though, to help counter board swings. Decks focused on removal and board control are typically tough opponents. Keeping removal-protection throughout the mid-game is vital in such matchups.
 
 ### 1.3. &nbsp; Difficulty
 
@@ -81,13 +81,13 @@ This deck is rather flexible, such that it benefits greatly from the player know
 An important part of the game plan is to disrupt the opponent, and this deck provides useful tools to do so. As a result, it is vital to sufficiently know the game plan and serious threats of the opponent, so that the right tool can be used and the right play can be made at the right time. Moreover, knowing the strengths and weaknesses of the opponent leads to better decision-making on defensive and offensive strategies and which of the many to employ in the moment. Since this deck is rather fragile and does not have many tall bodies, it is key to play to the opponent's strengths and capitalise on their weaknesses. Lastly, by knowing the opponent well, the right turn order can be chosen. This deck does not necessarily have a large preference for starting either first or second. As a result, it is often more effective for players to pick the opponent's preferred turn order. In a particular sense, this deck is both proactive and reactive.
 
 🡪 *It is a toolbox deck.*<br>
-The deck does not include many by-definition strong cards. Most of its roster consists of cards with particular beneficial effects, its *tools*, chosen to be included based on the strong decks in the current landscape. Hence, *toolbox* deck. It does not play many proactive strong cards, but rather includes the tools specifically to increase tempo against strong decks currently played. A clear example is the inclusion of Promo Kid when Green Zoro was a strong, prominent deck in the landscape.
+The deck does not include many by-definition strong cards. Most of its roster consists of cards with particular beneficial effects, its *tools*, chosen to be included based on the strong decks in the current landscape. Hence, *toolbox* deck. It does not play many proactive strong cards, but rather includes the tools specifically to increase tempo against strong decks currently played. A clear example is the inclusion of [Promo Kid](#promo-kid) when Green Zoro was a strong, prominent deck in the landscape.
 
 🡪 *This deck searches, a lot.*<br>
 Searchers play a vital role in finding the right tool for the right time. Not only is the number of searchers in the deck typically high, but they are also often bounced and replayed, such that this deck searches almost every turn. A lot of cards are seen this way, making this deck rather consistent. The difficulty lies in understanding which of the many cards to search for or pick. Different opponents and situations call for different tools. Being able to think ahead is incredibly valuable for this deck.
 
 🡪 *There are many different playlines and combos it can play.*<br>
-It thrives off a creative mind that can come up with DON!!- and hand-efficient yet effective playlines and combos. It doesn't necessarily have a strict curve past the early game, typically after the 5d or 6d turns. Since many options are presented to the player, it can be rather difficult at times to pick the right one or come up with one to begin with.
+It thrives off a creative mind that can come up with DON!!- and hand-efficient yet effective playlines and combos. It doesn't necessarily have a strict curve past the early game, typically after the 5d or 6d turns. Since many options are presented to the player, it can be rather overwhelming at times to pick the right ones or come up with one to begin with.
 
 🡪 *It can be exhausting to play many games, such as during regional-level tournaments.*<br>
 Typically, sufficient consideration is put into each turn and each of the many actions this deck performs. This may be exhausting relatively quickly for newer players and even some veteran players.
@@ -101,16 +101,16 @@ It will take time to understand the deck, its playlines, and what plays are stro
 
 A basic list for this deck typically includes the following:
 
-- *12 searcher cards.*
+- *12 searcher cards.*<br>
 Searchers are the bread and butter of the deck, since they allow the player to find the right pieces at the right time. Having more searchers, therefore, improves the consistency of the deck and increases the probability of finding one or more in the opening hand. 12 is a good balance between the number of searchers and the searchable pieces. Having 10 or 11 searchers is playable, but often less desirable by most current players.
 
-- *8 to 12 2k counter character cards.*
+- *8 to 12 2k counter character cards.*<br>
 It is vital to protect the board after it is established and to keep the tempo. 12 is the most comfortable amount, but it is possible to include fewer, though no fewer than 8.
 
-- *A minimum of 11 or 12 LA targets, i.e. 5c `Supernovas` type cards.*
+- *A minimum of 11 or 12 LA targets, i.e. 5c `Supernovas` type cards.*<br>
 Cheating out 5 cost characters with LA or [6c](#6c) increases tempo massively. As such, it is desirable to include enough targets for these abilities.
 
-- *2 to 4 finisher cards.*
+- *2 to 4 finisher cards.*<br>
 These cards greatly aid with, or create the opportunities for, lethal turns to win the game. 2 or 3 are the most common amount.
 
 Decklists may vary from player to player. Since this is a toolbox deck, suitable tools should be chosen for the environment in which the deck will be played, from locals to regional-level tournaments. It may have to face different opponents at different events.
@@ -176,7 +176,7 @@ In the end, Shimona played a similar list, with 2 [Freezebon](#freezebon) swappe
 
 ### 3.1. &nbsp; Example Playlines and combos
 
-Listed below are some example playlines and combos suitable for amounts of DON!!, and hence turns. Some are also applicable when more DON!! is available during the turn. For instance, any 6d playline can also be played during a 7d turn. Keep in mind that these are *examples*; it is up to the player to come up with the best line of play for the situation they are in. These examples, more so, serve to show some of the things this deck can do. Therefore, it is not necessary to learn them by heart. However, it is beneficial to understand how the pieces interact with each other, like in the examples, so that a creative mind can make the most of each situation.
+Listed below are some example playlines and combos suitable for particular amounts of DON!!, and hence turns. Some are also applicable when more DON!! is available during the turn. For instance, any 6d line can also be played during a 7d turn. Keep in mind that these are *examples*; it is up to the player to come up with the best line of play for the situation they are in. These examples, more so, serve to show some of the things this deck can do. Therefore, it is not necessary to learn them by heart. However, it is beneficial to understand how the pieces interact with each other, like in the examples, so that a creative mind can make the most of each situation.
 
 In any of the examples below, if any DON!! remains active at the end of the line(s), they may be used to additionally search with if there is space on the field, or to swing taller with the leader, for instance.
 
@@ -187,11 +187,11 @@ In any of the examples below, if any DON!! remains active at the end of the line
 
 <video src="playline-videos/4d_turbo_cav.mp4" controls="controls" style="max-width: 100%;"></video>
 
-This is often the best-case scenario for the early game, as it establishes [Cavendish](#cav) early. The goal here is to set up bodies on the field for a total cost of 5, whilst being able to stack life, to then LA. Most of the time, this entails searching with the first 4 DON!! for [Cavendish](#cav), [Bege](#bege), searchers, or any other low-cost bodies which can help satisfy the cost requirement for LA. Then ideally, [Bege](#bege) is used to stack [Cavendish](#cav) into life, after which the last active DON!! is used to LA with. The mulligan is often decided based on whether such a play is feasible. However, it is important to keep the rest of the game in mind as well.
+This is often the best-case scenario for the early game, as it establishes [Cavendish](#cav) early. The goal here is to set up bodies on the field for a total cost of 5, whilst being able to stack life, to then LA. Most of the time, this entails searching with the first 4 DON!! for [Cavendish](#cav), [Bege](#bege), searchers, or any other low-cost bodies which can help satisfy the cost requirement for the LA. Then ideally, [Bege](#bege) is used to stack [Cavendish](#cav) into life, after which the last active DON!! is used for the LA. The mulligan is often decided based on whether such a play is feasible. However, it is important to keep the rest of the game in mind as well.
 
 After [Cavendish](#cav) is established, the 2 extra DON!! obtained can be used to search more, play [1c Bonney](#1c-bonney), or swing taller with the leader.
 
-If it is not possible to stack life, yet it is possible to gather a cumulative cost of 5 on the board before LA, it might be an option to “gamble”, meaning to LA blind and hope a 5c `Supernovas` body is on life.
+If it is not possible to stack life, yet it is possible to gather a cumulative cost of 5 on the board in time, it might be an option to "gamble", meaning to fire the LA blind and hope a 5c `Supernovas` body is on life.
 
 #### 3.1.2. &nbsp; 5-DON!! Turns
 
@@ -200,7 +200,7 @@ If it is not possible to stack life, yet it is possible to gather a cumulative c
 
 <video src="playline-videos/5d.mp4" controls="controls" style="max-width: 100%;"></video>
 
-Playing [Cavendish](#cav) first immediately satisfies the LA's cost requirement, so earlier searchers do not necessarily have to remain on the board. Ideally, life is then stacked using Bege with any 5c Supernova to be played out by LA afterwards, such that 2 5c 6k bodies are established in the same turn. This is one of the more obvious plays this deck offers. [Stunbon](#stunbon) and [Freezebon](#freezebon) are strong candidates. Which option is stronger depends on the situation.
+Playing [Cavendish](#cav) first immediately satisfies the LA's cost requirement, so earlier searchers do not necessarily have to remain on the board. Ideally, life is then stacked using [Bege](#bege) with any 5c `Supernovas` character to be played out using the LA afterwards, such that 2 5c 6k bodies are established in the same turn. This is one of the more obvious plays this deck offers. [Stunbon](#stunbon) and [Freezebon](#freezebon) are strong candidates. Which option is stronger depends on the situation.
 
 This line is also playable during the 6d turn, in which an extra DON!! is available to search with before playing [Cavendish](#cav). Alternatively, [Cavendish](#cav) can be played out of [6c](#6c) instead, with the rest of the line naturally following.
 
@@ -212,7 +212,7 @@ This line is also playable during the 6d turn, in which an extra DON!! is availa
 
 <video src="playline-videos/6d.mp4" controls="controls" style="max-width: 100%;"></video>
 
-[6c](#6c) can be thought of as the equivalent of LA without needing to “spend” a life to play the extra body. Here, an entire turn is given as an example, before which the Turbo [Cavendish](#cav) line was successful. Similar to the [5d - Standard Cavendish](#-5d---standard-cavendish) playline, [Stunbon](#stunbon) and [Freezebon](#freezebon) are strong candidates to play from [6c](#6c). It is usually not recommended to play a body from life using LA again here, which might leave the player too vulnerable if a heal on the 8d turn is not guaranteed.
+[6c](#6c) can be thought of as the equivalent of LA without needing to "spend" a life to play the extra body. Here, an entire turn is given as an example, before which the [4d - Turbo Cavendish](#-4d---turbo-cavendish) line was successful. Similar to the [5d - Standard Cavendish](#-5d---standard-cavendish) playline, [Stunbon](#stunbon) and [Freezebon](#freezebon) are strong candidates to play from [6c](#6c). It is usually not recommended to play a body from life using the LA again here, which might leave the player too vulnerable if a heal on the 8d turn is not guaranteed.
 
 
 ##### 🡮 6d - [6c](#6c) into [Cavendish](#cav)
@@ -220,14 +220,14 @@ This line is also playable during the 6d turn, in which an extra DON!! is availa
 
 <video src="playline-videos/6d_6c_cav.mp4" controls="controls" style="max-width: 100%;"></video>
 
-If [Cavendish](#cav) was not established during the 4d turn, it is usually played from [6c](#6c) during the 6d turn, after which [Stunbon](#stunbon) or [Freezebon](#freezebon) can still be stacked into life and played with LA. This idea is similar to [5d Standard](#5d-standard), except [Cavendish](#cav) is played from 6c. If [6c](#6c) is not in hand, or [Cavendish](#cav) needs to be active during the opponent's following turn, the turn can be played out as [5d - Standard Cavendish](#-5d---standard-cavendish).
+If [Cavendish](#cav) was not established during the 4d turn, it is usually played from [6c](#6c) during the 6d turn, after which [Stunbon](#stunbon) or [Freezebon](#freezebon) can still be stacked into life and played with LA. This idea is similar to [5d - Standard Cavendish](#-5d---standard-cavendish), except [Cavendish](#cav) is played from [6c](#6c). If [6c](#6c) is not in hand, or [Cavendish](#cav) needs to be active during the opponent's following turn, the turn can be played out as [5d - Standard Cavendish](#-5d---standard-cavendish).
 
 ##### 🡮 6d - Turbo
 {:.no_toc}
 
 <video src="playline-videos/6d_turbo.mp4" controls="controls" style="max-width: 100%;"></video>
 
-Playing [Borsa](#borsa) from [6c](#6c) allows for LA to be used to play another body from life without going net down in life by the end of the turn, such that 3 bodies can safely be played in this singular turn. This effectively is a 19 or 20 DON!! play for the price of 6 DON!! and 0 life!
+Playing [Borsa](#borsa) from [6c](#6c) allows for the LA to be used to play another body from life without going net down in life by the end of the turn, such that 3 bodies can safely be played in this singular turn. This effectively is a 19 or 20 DON!! play for the price of 6 DON!! and 0 life!
 
 #### 3.1.4. &nbsp; 7-DON!! Turns
 
@@ -236,7 +236,7 @@ Playing [Borsa](#borsa) from [6c](#6c) allows for LA to be used to play another 
 
 <video src="playline-videos/7d.mp4" controls="controls" style="max-width: 100%;"></video>
 
-This is one of the more “on curve” kinds of plays. [7c](#7c) is basically a “LA setup” card, as it heals a `Supernova` card into life and gives a rested DON!! card to the leader. By the end of the turn, the net life-loss is 0 if LA is used, which is beneficial, whilst establishing a 6k and a 9k body. This is a strong play against leaders which can grow taller, such as UY Nami, RP Roger, RY Bonney, etc.
+This is one of the more "on curve" kinds of plays. [7c](#7c) is basically a "LA setup" card, as it heals a `Supernovas` character into life and gives a rested DON!! card to the leader. By the end of the turn, the net life-loss is 0 if the LA is used, which is beneficial, whilst establishing a 6k and a 9k body. This is a strong play against leaders which can grow taller, such as UY Nami, RP Roger, RY Bonney, etc.
 
 #### 3.1.5. &nbsp; 8-DON!! Turns
 
@@ -252,14 +252,14 @@ A fairly standard line utilising [FemLaw](#femlaw) and playing [6c](#6c) from it
 
 <video src="playline-videos/8d_femlaw_6c_re.mp4" controls="controls" style="max-width: 100%;"></video>
 
-6c can be used to replay an already established body, such as [Stunbon](#stunbon) or [Freezebon](#freezebon), to fire the `On-Play` effect again. One such way is by playing 8c, swinging with it and the body which is to be replayed, then playing [6c](#6c) from 8c, replaying said body. In principle, just playing a [6c](#6c) is sufficient to execute this idea, such that it is not necessary to have [Femlaw](#femlaw) to replay bodies with [6c](#6c). Playing [6c](#6c) through [Femlaw](#femlaw) heals a life and swings wider; however, sometimes it may be more beneficial to play [6c](#6c) raw as it costs less Don, such that larger swings can be produced.
+6c can be used to replay an already established body, such as [Stunbon](#stunbon) or [Freezebon](#freezebon), to fire the `On-Play` effect again. One such way is by playing [Femlaw](#femlaw), swinging with it and the body which is to be replayed, then playing [6c](#6c) from [Femlaw](#femlaw), replaying said body. In principle, just playing a [6c](#6c) is sufficient to execute this idea, such that it is not necessary to have [Femlaw](#femlaw) to replay bodies with [6c](#6c). Playing [6c](#6c) through [Femlaw](#femlaw) heals a life and swings wider; however, sometimes it may be more beneficial to play [6c](#6c) raw as it costs less DON!!, such that larger swings can be produced.
 
 ##### 🡮 8d - Turbo
 {:.no_toc}
 
 <video src="playline-videos/8d_femlaw_6c_turbo.mp4" controls="controls" style="max-width: 100%;"></video>
 
-This is essentially the same as the [6d - Turbo](#-6d---turbo) line after [6c](#6c) is played from 8c. 3 bodies can be established from this whilst gaining net life. It is also a way to double-heal if LA is not used. This line is only possible if the player has only 1 life remaining, since [Borsa](#borsa) can only heal when the player has 2 or fewer lives, and it is played from [6c](#6c) after [Femlaw](#femlaw) has already healed.
+This is essentially the same as the [6d - Turbo](#-6d---turbo) line after [6c](#6c) is played from [Femlaw](#femlaw). 3 bodies can be established from this whilst gaining net life. It is also a way to double-heal if LA is not used. This line is only possible if the player has only 1 life remaining, since [Borsa](#borsa) can only heal when the player has 2 or fewer lives, and it is played from [6c](#6c) after [Femlaw](#femlaw) has already healed.
 
 ##### 🡮 8d - Standard [FemLaw](#femlaw) into [7c](#7c)
 {:.no_toc}
@@ -321,7 +321,7 @@ Pre-rotation, [Restand Law](#restand-law) was a popular choice to stack into lif
 
 <video src="playline-videos/fin_grab_hody.mp4" controls="controls" style="max-width: 100%;"></video>
 
-LA is used on most turns to bounce characters back to hand for various reasons, revealing life in the process. If [Hody](#hody) or [DMG](#dmg), for instance, are necessary for lethal, but are not in hand, yet one of them sits at the top of life, Bege can be used to grab it for 1 Don. This is another reason why having Bege in the late game can be helpful at times.
+LA is used on most turns to bounce characters back to hand for various reasons, revealing life in the process. If [Hody](#hody) or [DMG](#dmg), for instance, are necessary for lethal, but are not in hand, yet one of them sits at the top of life, Bege can be used to grab it for 1 DON!!. This is another reason why having Bege in the late game can be helpful at times.
 
 #### 3.1.8. &nbsp; Other
 
@@ -330,11 +330,11 @@ LA is used on most turns to bounce characters back to hand for various reasons, 
 
 <video src="playline-videos/other_searcher_loop.mp4" controls="controls" style="max-width: 100%;"></video>
 
-If a card is desperately needed, and a search does not find it, LA can be used to bounce the searcher, such that it can be played again to search deeper. 1c searchers are the most suitable due to the low cost committed to the searches. In principle, any card can be looped like this if necessary, and if there is enough DON!! available.le.
+If a card is desperately needed, and a search does not find it, LA can be used to bounce the searcher, such that it can be played again to search deeper. 1c searchers are the most suitable due to the low cost committed to the searches. In principle, any card can be looped like this if necessary, and if there is enough DON!! available.
 
 ### 3.2. &nbsp; Matchup Strategies (OP15)
 
-OP16 strategies are a work in progress.egies.
+OP16 strategies are a work in progress.
 
 #### 3.2.1. &nbsp; P Enel
 
@@ -385,7 +385,7 @@ Barrier-Barrier Pistol is a card that can doom GY Law very early on. Having [Cav
 
 {% include optcg_card_inline.html id="OP15-046" side="left" %}
 
-7c Sabo is one of Lucy's strongest pieces. It develops a tall `Blocker` that activates one of Lucy's very powerful Events, its 7c events in particular. Lucy wants to establish these on 7d and 9d to develop a strong field to use with 10c Roger, such that it is preferred for GY Law to go first. [Stunbon](#stunbon) should be used to deny Sabo from blocking and swinging, increasing the pressure on Lucy while reducing the potential for a clapback. Before Lucy is to be taken down to 0 life, it should be considered whether it is possible to survive 10c Roger. It might be more advantageous to swing at the board and stun what's left, and finish the game on the following turn. Hody or DMG are extremely useful in this MU because of Lucy's many `Blocker` characters in the endgame. 
+7c Sabo is one of Lucy's strongest pieces. It develops a tall `Blocker` that activates one of Lucy's very powerful Events, its 7c events in particular. Lucy wants to establish these on 7d and 9d to develop a strong field to use with 10c Roger, such that it is preferred for GY Law to go first. [Stunbon](#stunbon) should be used to deny Sabo from blocking and swinging, increasing the pressure on Lucy while reducing the potential for a clapback. Before Lucy is to be taken down to 0 life, it should be considered whether it is possible to survive 10c Roger. It might be more advantageous to swing at the board and stun what's left, and finish the game on the following turn. [Hody](#hody) or [DMG](#dmg) are extremely useful in this MU because of Lucy's many `Blocker` characters in the endgame. 
 
 <br clear="all">
 {% include optcg_card_inline.html id="OP15-020" side="right" %}
@@ -423,7 +423,7 @@ The next threat appears from 9d onwards: 9c Mihawk. The great stat line, the abi
 
 {% include optcg_card_inline.html id="OP11-041" side="right" %}
 
-Nami can be viewed as a pseudo-”7k” leader, since its `On Your Opponent's Attack` ability allows for a card to be pitched as counter, such that it gains +2k power for the rest of the turn. As such, this ability is typically activated during the first swing. Notably, a DON!! is required to be given to the leader for this effect, such that it is punishable either if the opponent is not able to give a Don, or if it is forgotten.
+Nami can be viewed as a pseudo-"7k" leader, since its `On Your Opponent's Attack` ability allows for a card to be pitched as counter, such that it gains +2k power for the rest of the turn. As such, this ability is typically activated during the first swing. Notably, a DON!! is required to be given to the leader for this effect, such that it is punishable either if the opponent is not able to give a DON!!, or if it is forgotten.
 
 This ability significantly impacts which lines of play and swing patterns are effective. Since most of GY Law's bodies are of 6k power, it requires DON!! to be given to them to form effective swings. It is ideal to mostly swing for 7k power, as this does not commit too much DON!! to the swings, such that particular effective playlines are still possible, whilst always demanding counter from the opponent. As such, it is important to determine which swing pattern is the most effective balance between demanding counter from the opponent, and making effective playlines. If it is not possible to pressure life with each swing, it can still be effective to attack bodies of lower power with remaining lower swings, such as 4c Perona, which has 5k power, to pressure the opponent and demand some kind of compromise, be it in counter or resources on the field.
 
@@ -431,15 +431,15 @@ This ability significantly impacts which lines of play and swing patterns are ef
 
 Speaking of Perona, it is a fairly dangerous card which often sees play either from hand or from its trigger. Most bodies in GY Law's deck are targets for its effect. It may, therefore, be intimidating to attack it because of its `On-K.O.` effect. However, this can be played around: Its `On-K.O.` ability is effectively useless if all the bodies the player intended to attack with have already swung. Attacking Perona with the last intended swing, after pressuring life, for instance, is therefore incredibly effective.
 
-The player should also be wary of its trigger. Another Perona will likely be the target of the trigger if there is one in the trash, which typically results in a body of the player being stunned. Therefore, checking trash often during the game will be quite helpful, especially when attacking for lethal.
+The player should also be wary of its trigger. Another Perona will likely be the target of the trigger if there is one in the trash, which typically results in a body of the player being stunned. Therefore, checking trash often during the game is be quite helpful, especially when attacking for lethal.
 
 <br clear="all">
 
 {% include optcg_card_inline.html id="OP11-106" side="right" %}
 
-Note as well that UY Nami plays Zeus for removal. Critical cards such as Cavendish are vulnerable to this threat. It would therefore be favourable to have 1c Bonney in play to mitigate this threat.
+Note as well that UY Nami plays Zeus for removal. Critical cards such as Cavendish are vulnerable to this threat. It would therefore be favourable to have [1c Bonney](#1c-bonney) in play to mitigate this threat.
 
-UY Nami usually plays 'on-curve', that is, the player can expect the opponent to make particular plays on particular DON!! turns. It is recommended for players to study popular lists beforehand to make educated decisions for which targets to stun and when to freeze Don. Note that 5c Nami often isn't a threat since it is highly likely its conditions will not be fulfilled, as GY Law typically takes the first hit and uses a life to LA before 5c Nami can be played.
+UY Nami usually plays 'on-curve', that is, the player can expect the opponent to make particular plays on particular DON!! turns. It is recommended for players to study popular lists beforehand to make educated decisions for which targets to stun and when to freeze DON!!. Note that 5c Nami often isn't a threat since it is highly likely its conditions will not be fulfilled, as GY Law typically takes the first hit and uses a life to LA before 5c Nami can be played.
 
 <br clear="all">
 
@@ -453,7 +453,7 @@ As a deck with massive card draw and powerful endgame, RU Ace can be a tall task
 
 {% include optcg_card_inline.html id="PRB02-008" side="left" %}
 
-The first character to take note of is 4c Marco. It's a Blocker with the `On K.O.` ability that draws 2 cards, which, in combination with the LA, draws a total of 3, an insane tempo gain. Luckily, Law has a couple of pieces to deal with this. First and foremost, [Stunbon](#stunbon), which prevents Marco from resting, and secondly, [3c Drake](#drake), which can rest 4c and below characters if the opponent has the same amount of life cards or more. When going 2nd, it isn't unusual to be down to 2 life at 4d (if the [4d - Turbo Cavendish](#-4d—turbo-cavendish) line succeeds), so this condition shouldn't be too hard to fulfil.
+The first character to take note of is 4c Marco. It's a Blocker with the `On K.O.` ability that draws 2 cards, which, in combination with the LA, draws a total of 3, an insane tempo gain. Luckily, Law has a couple of pieces to deal with this. First and foremost, [Stunbon](#stunbon), which prevents Marco from resting, and secondly, [3c Drake](#drake), which can rest 4c and below characters if the opponent has the same amount of life cards or more. When going 2nd, it isn't unusual to be down to 2 life at 4d (if the [4d - Turbo Cavendish](#-4d---turbo-cavendish) line succeeds), so this condition shouldn't be too hard to fulfil.
 
 <br clear="all">
 
@@ -486,7 +486,7 @@ The second part of the Event allows Ace to take a life in exchange for gaining 2
 
 On the surface, RG Luffy seems like an incredibly rough matchup. GY Law tends to swing with 6k power a lot, which RG Luffy can perfectly counter with DON!! using its LA. As a result, it can play more bricks and fewer 2k counter cards, however. Therefore, it is recommended to swing with 7k power if possible, as this asks a card from hand or an additional DON!! to be rested, the latter of which is more inefficient. Multiple such pokes can pressure the opponent. Take note whether a DON!! is given to the opponent's leader to begin with, as its LA requires one. If this is not the case, multiple pokes can put a lot of pressure on the opponent.
 
-Take note of the number of active DON!! of the opponent before deciding to swing. It is quite ineffective to swing with bodies if those can fully be countered using Don, leaving them vulnerable to attacks or Electrical Luna.
+Take note of the number of active DON!! of the opponent before deciding to swing. It is quite ineffective to swing with bodies if those can fully be countered using DON!!, leaving them vulnerable to attacks or Electrical Luna.
 
 <br clear="all">
 
@@ -503,13 +503,13 @@ The 6c Monkey.D.Luffy with `Double Attack` can be a serious threat, since GY Law
 <br clear="all">
 
 {% include optcg_card_inline.html id="OP05-038" side="left" %}
-The calculations for lethal are somewhat different from other matchups simply due to the combination of RG Luffy's LA and the 2c Charlestone event. It costs 2 to play, gives 4k counter power, and restands 3 Don. Blindly swinging for lethal without taking this card into account can destroy any chances of winning. To play around this card, a good understanding of the rules is required.
+The calculations for lethal are somewhat different from other matchups simply due to the combination of RG Luffy's LA and the 2c Charlestone event. It costs 2 to play, gives 4k counter power, and restands 3 DON!!. Blindly swinging for lethal without taking this card into account can destroy any chances of winning. To play around this card, a good understanding of the rules is required.
 
 As of the moment of writing, rule `7-1` in the comprehensive rules dictates that any `On Your Opponent's Attack` effects (`7-1-1-3`) are processed before the counter step (`7-1-3`), meaning that the restood DON!! from Charlestone can not be reused by RG Luffy's LA to counter the same attack once it is played[^comprehensive]. Those DON!! can only be used again for the next attack. This is the open window which will be exploited in the lethal calculation.
 
 As such, the goal is essentially to produce a very large swing as the definitive lethal swing, since this renders Charlestone ineffective. The +4k counter power Charlestone provides is equivalent to the counter 2 DON!! can provide with the LA. This effectively turns Charlestone into a brick in hand, and likely another card as well, which would have been pitched to allow for 3 DON!! to be restood.
 
-Therefore, the most effective strategy, assuming the opponent has no extra life or `Blocker` characters in play, is usually to poke them with 5k and 6k swings, demanding either counter from their hand or Don. When a sufficient amount of DON!! is rested, and counters are played from hand, a large swing with as much DON!! given as possible produces the best chance at achieving lethal, since RG Luffy tends to include more bricks and fewer 2k counter cards in the deck. While the pokes discourage the opponent from doing so, Charlestone may be used to counter one of them, which is one of the better plays the opponent actually has in this situation. It is up to the player to evaluate the number of pokes that can be dared before the lethal swing is made and avoid Charlestone from being played at all.
+Therefore, the most effective strategy, assuming the opponent has no extra life or `Blocker` characters in play, is usually to poke them with 5k and 6k swings, demanding either counter from their hand or DON!!. When a sufficient amount of DON!! is rested, and counters are played from hand, a large swing with as much DON!! given as possible produces the best chance at achieving lethal, since RG Luffy tends to include more bricks and fewer 2k counter cards in the deck. While the pokes discourage the opponent from doing so, Charlestone may be used to counter one of them, which is one of the better plays the opponent actually has in this situation. It is up to the player to evaluate the number of pokes that can be dared before the lethal swing is made and avoid Charlestone from being played at all.
 
 In some situations, when only 3 of the opponent's DON!! are active, it can also be effective to play either Hody or DMG to rest 2 DON!! such that Charlestone can not be played at all.
 
