@@ -568,7 +568,6 @@ General community with channels dedicated to each leader. The `#🟢🟡op10-law
 |Tempo|An advantage of resources in time compared to the opponent.|
 |Whiff|A search without a legal target in its options.|
 |Wide|Many bodies.|
- of power.|
 |Tempo|An advantage of resources in time compared to the opponent.|
 |Whiff|A search without a legal target in its options.|
 |Wide|Many bodies.|
