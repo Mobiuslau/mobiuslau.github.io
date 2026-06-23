@@ -203,15 +203,6 @@
                     "id": "OP11-106",
                     "label": "zeus",
                 },
-                {
-                    "name": "Tashigi",
-                    "nick": null,
-                    "desc": "This card saw a lot of play pre-rotation to protect the board from removal effects. It is, however, unfortunately unsearchable. It was still effective pre-rotation since it could be played out of <a href=\"#5c\">5c</a> to avoid paying the steep price of 3 Don. Without <a href=\"#5c\">5c</a>, there is little room to play this card due to its cost. Therefore, <a href=\"#1c-bonney\">1c Bonney</a> is the preferred option currently.",
-                    "num": "0 to 4.",
-                    "id": "OP10-032",
-                    "label": "tashigi",
-                },
-
             ],
         },
         {
@@ -225,6 +216,14 @@
                     "num": "0 to 2.",
                     "id": "OP11-101",
                     "label": "2c-bege",
+                },
+                {
+                    "name": "Tashigi",
+                    "nick": null,
+                    "desc": "This card saw a lot of play pre-rotation to protect the board from removal effects. It is, however, unfortunately unsearchable. It was still effective pre-rotation since it could be played out of <a href=\"#5c\">5c</a> to avoid paying the steep price of 3 Don. Without <a href=\"#5c\">5c</a>, there is little room to play this card due to its cost. Therefore, <a href=\"#1c-bonney\">1c Bonney</a> is the preferred option currently.",
+                    "num": "0 to 4.",
+                    "id": "OP10-032",
+                    "label": "tashigi",
                 },
                 {
                     "name": "Eustass\"Captain\"Kid",
