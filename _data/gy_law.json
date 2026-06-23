@@ -53,7 +53,7 @@
                 {
                     "name": "Jewelry Bonney",
                     "nick": "Stunbon",
-                    "desc": "Stunning is the new removal. This card is often the next prime target for LA or 6c if <a href=\"#cav\">Cavendish</a> is already established. This deck's LA makes it rather fragile on life, so a 6k body which stuns another body before it can even swing helps to reduce pressure on life and the board, as well as slow down the opponent by denying <code>When Attacking</code> effects. Being able to stun 8c or lower bodies is quite strong; the range is quite large. Moreover, it can be used to stun blockers during lethal or other aggressive turns. Prime targets would, for instance, be 4c Cavendish, 7c Sabo, or 6c Enels.",
+                    "desc": "Stunning is the new removal. This card is often the next prime target for LA or 6c if <a href=\"#cav\">Cavendish</a> is already established. This deck's LA makes it rather fragile on life, so a 6k body which stuns another body before it can even swing helps to reduce pressure on life and the board, as well as slow down the opponent by denying <code>When Attacking</code> effects. Being able to stun 8c or lower bodies is quite strong; the range is quite large. Moreover, it can be used to stun <code>Blocker</code> characters during lethal or other aggressive turns. Prime targets would, for instance, be 4c Cavendish, 7c Sabo, or 6c Enels.",
                     "num": "4.",
                     "id": "EB03-017",
                     "label": "stunbon",
@@ -70,7 +70,7 @@
                 {
                     "name": "Borsalino",
                     "nick": "Borsa",
-                    "desc": "Borsa is already one of the strongest cards in the general pool, but in this deck, it can be even more abused. It can be played out with <a href=\"#6c\">6c</a>, allowing for quite the explosive turns, as one can use LA afterwards to play another body without a net loss in life. Once on the board it can be bounced back by <a href=\"#6c\">6c</a> or using LA to then be played <em>again</em> either raw or using <a href=\"#6c\">6c</a>. The life-gain aspect is already strong, but it's a blocker as well, and even has 1k counter to top it off. Ah, Bandai, you shouldn't have.. It is unfortunately unsearchable.",
+                    "desc": "Borsa is already one of the strongest cards in the general pool, but in this deck, it can be even more abused. It can be played out with <a href=\"#6c\">6c</a>, allowing for quite the explosive turns, as one can use LA afterwards to play another body without a net loss in life. Once on the board it can be bounced back by <a href=\"#6c\">6c</a> or using LA to then be played <em>again</em> either raw or using <a href=\"#6c\">6c</a>. The life-gain aspect is already strong, but it's a <code>Blocker</code> as well, and even has 1k counter to top it off. Ah, Bandai, you shouldn't have.. It is unfortunately unsearchable.",
                     "num": "0 or 4.",
                     "id": "EB04-058",
                     "label": "borsa",
@@ -78,7 +78,7 @@
                 {
                     "name": "Trafalgar Law",
                     "nick": "6c",
-                    "desc": "This card is, in a way, LA without needing to take a life. Bounce a body, then play one rested, enabling quite the explosive turns. 6c can also be interpreted as a card which allows for an <code>On Play</code> from a body on the board to fire again by bouncing and replaying it. Cards coming into play rested is not necessarily an issue, as this deck keeps a fair amount of counter power in hand due to the large amount of bouncing, and <a href=\"#cav\">Cavendish</a> is usually a more attractive target for swings. <a href=\"#6c\">6c</a> is, moreover, a blocker when the player has 1 or fewer life, helping with survivability. This can, however, lead to anti-synergy with cards that heal, such as <a href=\"#borsa\">Borsa</a> or <a href=\"#femlaw\">FemLaw</a>, which should be kept in mind.",
+                    "desc": "This card is, in a way, LA without needing to take a life. Bounce a body, then play one rested, enabling quite the explosive turns. 6c can also be interpreted as a card which allows for an <code>On Play</code> from a body on the board to fire again by bouncing and replaying it. Cards coming into play rested is not necessarily an issue, as this deck keeps a fair amount of counter power in hand due to the large amount of bouncing, and <a href=\"#cav\">Cavendish</a> is usually a more attractive target for swings. <a href=\"#6c\">6c</a> is, moreover, a <code>Blocker</code> when the player has 1 or fewer life, helping with survivability. This can, however, lead to anti-synergy with cards that heal, such as <a href=\"#borsa\">Borsa</a> or <a href=\"#femlaw\">FemLaw</a>, which should be kept in mind.",
                     "num": "2 to 4. Usually balanced with <a href=\"#7c\">7c</a>.",
                     "id": "OP13-031",
                     "label": "6c",
@@ -102,7 +102,7 @@
                 {
                     "name": "Trafalgar Law",
                     "nick": "8c, Exam Law, Glove Law",
-                    "desc": "GY Law typically develops a wide board of 5c and higher bodies, which are often swung with. This card's <code>End of Your Turn</code> effect protects some of them, most notably <a href=\"#cav\">Cavendish</a>, from attacks, alleviating a significant amount of board pressure, and prevents them from being frozen by events such as Electrical Luna. This may result in more pressure on life, however. 6c or higher characters, also often played, are not protected in this way, such that this effect is most useful when most of the bodies on the field are green 5c or lower. Moreover, this effect enables 5c 6k blocker bodies, such as <a href=\"#secbon\">Secbon</a>, to swing more often, since they can block on the following opponent's turn as well due to this effect. Additionally, the <code>On-Play</code> effect is strong, disrupting the opponent during the later stages of the game when otherwise <a href=\"#stunbon\">Stunbon</a> or <a href=\"#freezebon\">Freezebon</a> would have been strong. It unfortunately has a cost of 8, such that it sees play mostly later in the game, and can not be played from <a href=\"#femlaw\">Fem</a>.",
+                    "desc": "GY Law typically develops a wide board of 5c and higher bodies, which are often swung with. This card's <code>End of Your Turn</code> effect protects some of them, most notably <a href=\"#cav\">Cavendish</a>, from attacks, alleviating a significant amount of board pressure, and prevents them from being frozen by events such as Electrical Luna. This may result in more pressure on life, however. 6c or higher characters, also often played, are not protected in this way, such that this effect is most useful when most of the bodies on the field are green 5c or lower. Moreover, this effect enables 5c 6k <code>Blocker</code> bodies, such as <a href=\"#secbon\">Secbon</a>, to swing more often, since they can block on the following opponent's turn as well due to this effect. Additionally, the <code>On-Play</code> effect is strong, disrupting the opponent during the later stages of the game when otherwise <a href=\"#stunbon\">Stunbon</a> or <a href=\"#freezebon\">Freezebon</a> would have been strong. It unfortunately has a cost of 8, such that it sees play mostly later in the game, and can not be played from <a href=\"#femlaw\">Fem</a>.",
                     "num": "0 to 2.",
                     "id": "OP16-030",
                     "label": "exam-law",
@@ -110,7 +110,7 @@
                 {
                     "name": "I Know You're Strong... So I'll Go All Out from the Very Start!!!",
                     "nick": "All Out",
-                    "desc": "All Out has become a staple for its ability to play into the deck's recently improved capability of freezing and stunning. A large part of the meta utilises important pieces which cost 7d or less, such as OP15's Blocker Sabo or purple Enels. This makes it easy to often get incredible value out of this event. It can be used as a defensive tool by disabling strong bodies, or offensively by freezing Blockers to set up lethal the following turn. Pair this with <a href=\"#stunbon\">Stunbon</a> and <a href=\"#freezebon\">Freezebon</a> to disable 3 characters at once. Lastly, It can be used as a 3k counter in tough situations, synergising well with <a href=\"#knk\">KnK</a>.",
+                    "desc": "All Out has become a staple for its ability to play into the deck's recently improved capability of freezing and stunning. A large part of the meta utilises important pieces which cost 7d or less, such as OP15's <code>Blocker</code> Sabo or purple Enels. This makes it easy to often get incredible value out of this event. It can be used as a defensive tool by disabling strong bodies, or offensively by freezing <code>Blocker</code> characters to set up lethal the following turn. Pair this with <a href=\"#stunbon\">Stunbon</a> and <a href=\"#freezebon\">Freezebon</a> to disable 3 characters at once. Lastly, It can be used as a 3k counter in tough situations, synergising well with <a href=\"#knk\">KnK</a>.",
                     "num": "0 to 3",
                     "id": "OP13-040",
                     "label": "all-out",
@@ -124,7 +124,7 @@
                 {
                     "name": "Hody Jones",
                     "nick": "Hody",
-                    "desc": "For the price of 7 DON!! and 1 life (notably not 1 <em>damage</em>), 2 blockers or DON!! cards can be rested, and an extra 8k swing is obtained, often enabling an attempt to swing for lethal. In combination with <a href=\"#cav\">Cavendish</a>, Hody becomes relatively cheap to play for the benefits it brings. It is generally strong when the player needs to swing wide, as less DON!! is available to swing tall. It is often played to win the game on the spot without ensuring survival, since a life is taken from the <em>On-Play</em> effect. When the attempt fails, yet the player does survive the following turn, LA allows for Hody to be played again, creating another opportunity to win the game. It is unfortunately unsearchable.",
+                    "desc": "For the price of 7 DON!! and 1 life (notably not 1 <em>damage</em>), 2 <code>Blocker</code> characters or DON!! cards can be rested, and an extra 8k swing is obtained, often enabling an attempt to swing for lethal. In combination with <a href=\"#cav\">Cavendish</a>, Hody becomes relatively cheap to play for the benefits it brings. It is generally strong when the player needs to swing wide, as less DON!! is available to swing tall. It is often played to win the game on the spot without ensuring survival, since a life is taken from the <em>On-Play</em> effect. When the attempt fails, yet the player does survive the following turn, LA allows for Hody to be played again, creating another opportunity to win the game. It is unfortunately unsearchable.",
                     "num": "0 to 4.",
                     "id": "OP06-035",
                     "label": "hody",
@@ -146,7 +146,7 @@
                 {
                     "name": "Jewelry Bonney",
                     "nick": "Bonney Searcher, Bonney",
-                    "desc": "The next more obvious searcher candidate is Bonney, as it is a perpetual <code>Supernovas</code> searcher. If it sticks on the board, it continues to generate value by supplying the hand with relevant cards. This often makes it a target for swings, such that it takes the role of a pseudo-blocker in some cases. Bonney has multiple downsides, however. It being a perpetual searcher discourages bouncing it back for LA or <a href=\"#6c\">6c</a>. Moreover, even though the cost to play it out is 1, it costs an extra DON!! to search with it, making it a 2c in disguise, which does not synergise well with the LA's cost requirement.",
+                    "desc": "The next more obvious searcher candidate is Bonney, as it is a perpetual <code>Supernovas</code> searcher. If it sticks on the board, it continues to generate value by supplying the hand with relevant cards. This often makes it a target for swings, such that it takes the role of a pseudo-<code>Blocker</code> in some cases. Bonney has multiple downsides, however. It being a perpetual searcher discourages bouncing it back for LA or <a href=\"#6c\">6c</a>. Moreover, even though the cost to play it out is 1, it costs an extra DON!! to search with it, making it a 2c in disguise, which does not synergise well with the LA's cost requirement.",
                     "num": "0 to 4.",
                     "id": "ST02-007",
                     "label": "bonney-searcher",
@@ -168,7 +168,7 @@
                 {
                     "name": "Jewelry Bonney",
                     "nick": "3c Bonney",
-                    "desc": "An incredible card for setting up <a href=\"#cav\">Cavendish</a> on 4d. It costs 3 DON!!, the crucial amount that leaves 1 DON!! for LA after stacking life, often with <a href=\"#cav\">Cavendish</a>. Moreover, it is a blocker, which helps to alleviate pressure from the opponent on their next turn(s), resulting in life being less fragile. It was quite a strong piece pre-rotation, as it could be played out of <a href=\"#5c\">5c</a> during later turns. However, the only window in which this card is mostly realistically played now is during the 4-DON!! turn, such that it becomes a dead 1k counter card in hand most of the time. As a result, this card is seeing less and less play.",
+                    "desc": "An incredible card for setting up <a href=\"#cav\">Cavendish</a> on 4d. It costs 3 DON!!, the crucial amount that leaves 1 DON!! for LA after stacking life, often with <a href=\"#cav\">Cavendish</a>. Moreover, it is a <code>Blocker</code>, which helps to alleviate pressure from the opponent on their next turn(s), resulting in life being less fragile. It was quite a strong piece pre-rotation, as it could be played out of <a href=\"#5c\">5c</a> during later turns. However, the only window in which this card is mostly realistically played now is during the 4-DON!! turn, such that it becomes a dead 1k counter card in hand most of the time. As a result, this card is seeing less and less play.",
                     "num": "0 to 4.",
                     "id": "OP10-107",
                     "label": "3c-bonney",
@@ -176,7 +176,7 @@
                 {
                     "name": "Jewelry Bonney",
                     "nick": "Secbon",
-                    "desc": "Secbon is one of the only cards in the pool for this deck which can provide extra draw power, helping to find unsearchable cards. Since it is required to pitch a card after drawing 2, it can help cycle bricks from hand which aren't needed anymore for the rest of the game. Its requirement of having 8 rested <i>cards</i>, DON!! and character cards, is not too difficult to satisfy on later turns by playing <a href=\"#6c\">6c</a>, <a href=\"#7c\">7c</a>, or <a href=\"#femlaw\">FemLaw</a>, and swinging with bodies, even searchers, first before playing this card. It is moreover a blocker, making it synergise well with <a href=\"#exam-law\">Exam Law</a>.",
+                    "desc": "Secbon is one of the only cards in the pool for this deck which can provide extra draw power, helping to find unsearchable cards. Since it is required to pitch a card after drawing 2, it can help cycle bricks from hand which aren't needed anymore for the rest of the game. Its requirement of having 8 rested <i>cards</i>, DON!! and character cards, is not too difficult to satisfy on later turns by playing <a href=\"#6c\">6c</a>, <a href=\"#7c\">7c</a>, or <a href=\"#femlaw\">FemLaw</a>, and swinging with bodies, even searchers, first before playing this card. It is moreover a <code>Blocker</code>, making it synergise well with <a href=\"#exam-law\">Exam Law</a>.",
                     "num": "0 to 4.",
                     "id": "OP12-118",
                     "label": "secbon",
@@ -190,7 +190,7 @@
                 {
                     "name": "X.Drake",
                     "nick": "Drake",
-                    "desc": "Drake is one of the few 2k counter cards that are searchable by both the <code>Supernovas</code> searchers and <a href=\"#perona\">Perona</a>. It is a card that is not often played on the board, but can be extremely helpful in certain situations. In a pinch, it can rest chump blockers or critical pieces of the opponent, making them vulnerable to swings. In the early and mid-game, other plays are often preferable and effective, such that there aren't many opportunities to play this card without <a href=\"#5c\">5c</a>.",
+                    "desc": "Drake is one of the few 2k counter cards that are searchable by both the <code>Supernovas</code> searchers and <a href=\"#perona\">Perona</a>. It is a card that is not often played on the board, but can be extremely helpful in certain situations. In a pinch, it can rest chump <code>Blocker</code> characters or critical pieces of the opponent, making them vulnerable to swings. In the early and mid-game, other plays are often preferable and effective, such that there aren't many opportunities to play this card without <a href=\"#5c\">5c</a>.",
                     "num": "0 to 4.",
                     "id": "OP10-114",
                     "label": "drake",
@@ -212,7 +212,7 @@
                 {
                     "name": "Capone\"Gang\"Bege",
                     "nick": "2c Bege",
-                    "desc": "2c Bege is a pseudo-protector which discourages opponents from removing a body from the board when in play, as it would be placed into life instead. Pseudo-protector would be a fitting description since the to-be-removed body does not actually stay on the board. As a result, some amount of tempo is still lost, even though it synergises well with LA, as this deck prefers to have bodies on the field which can swing. That alone might discourage players from including this card. However, it is a chump blocker as well, making it a more useful inclusion. In the end, though, it is still seeing less and less play in favour of solely including <a href=\"#1c-bonney\">1c Bonney</a>.",
+                    "desc": "2c Bege is a pseudo-protector which discourages opponents from removing a body from the board when in play, as it would be placed into life instead. Pseudo-protector would be a fitting description since the to-be-removed body does not actually stay on the board. As a result, some amount of tempo is still lost, even though it synergises well with LA, as this deck prefers to have bodies on the field which can swing. That alone might discourage players from including this card. However, it is a chump <code>Blocker</code> as well, making it a more useful inclusion. In the end, though, it is still seeing less and less play in favour of solely including <a href=\"#1c-bonney\">1c Bonney</a>.",
                     "num": "0 to 2.",
                     "id": "OP11-101",
                     "label": "2c-bege",
@@ -266,7 +266,7 @@
                 {
                     "name": "Trafalgar Law",
                     "nick": "5c",
-                    "desc": "Pre-rotation 5c was part of the core package of the deck. A 6k blocker body that cheats another 3c on the board is such an incredibly powerful inclusion to the deck, enabling highly explosive turns. It being a brick wasn't necessarily an issue since this card would find its way onto the board one way or another. It enabled strong 3c or lower cards, such as <a href=\"#3c-bonney\">3c Bonney</a>, <a href=\"#tashigi\">Tashigi</a>, or <a href=\"#2c-bege\">2c Bege</a>, to be included in the deck as 5c provided another window for them to be played. The combo possibilities were truly endless.",
+                    "desc": "Pre-rotation 5c was part of the core package of the deck. A 6k <code>Blocker</code> body that cheats another 3c on the board is such an incredibly powerful inclusion to the deck, enabling highly explosive turns. It being a brick wasn't necessarily an issue since this card would find its way onto the board one way or another. It enabled strong 3c or lower cards, such as <a href=\"#3c-bonney\">3c Bonney</a>, <a href=\"#tashigi\">Tashigi</a>, or <a href=\"#2c-bege\">2c Bege</a>, to be included in the deck as 5c provided another window for them to be played. The combo possibilities were truly endless.",
                     "num": "2 to 4 in Extra Regulation.",
                     "id": "OP01-047",
                     "label": "5c",
