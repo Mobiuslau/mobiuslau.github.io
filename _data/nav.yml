@@ -62,4 +62,10 @@
           url: drch/
 
     - title: Settings
-      url: settings/ 
+      url: settings/
+
+- title: OPTCG
+  url: /optcg/
+  subnav:
+    - title: GY Law
+      url: gy-law/

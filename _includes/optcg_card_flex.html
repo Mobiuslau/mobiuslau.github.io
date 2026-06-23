@@ -1,0 +1,14 @@
+<div style="display: inline-flex; padding: 0 0 20px 0; justify-content: space-between;" {% if include.label %}id="{{ include.label }}"{% endif %}>
+    <div class="{{ include.class }}" style="width: 32%; order: {{ include.order }};">
+        <a target="_blank" href="https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/{{ include.id | split: "-" | first}}/{{ include.id }}_EN.webp">
+            <img align="left" src="https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/{{ include.id | split: "-" | first}}/{{ include.id }}_EN.webp">
+        </a>
+    </div>
+    <div style="width: 66%; order: 2;">
+        <p>
+            {% if include.name %}<b>{{ include.name }}</b>&emsp;<em>{{ include.nick }}</em><br>{% endif %}
+            {% if include.desc %}{{ include.desc }}{% endif %}
+            {% if include.num %}<br><br><em>Number of copies:</em> {{ include.num }}{% endif %}
+        </p>
+    </div>
+</div>

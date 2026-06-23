@@ -1,0 +1,3 @@
+<a target="_blank" href="{{ include.src }}">
+    <img style="float: {{ include.side }}; width: {{ include.width }}; margin-{% if include.side contains "left" %}right{% else %}left{% endif %}:2%;" id="{{ include.label }}" src="{{ include.src }}">
+</a>

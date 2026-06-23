@@ -47,6 +47,8 @@ body {
 
 p, ul, ol, table, pre, dl {
     margin: 0 0 16px;
+    // list-style-position: inside
+
 }
 
 p {
@@ -331,6 +333,16 @@ button, input[type="submit"], input[type="reset"] {
     border-radius: 0.4em;
 }
 
+
+/* ========= */
+/* = OPTCG = */
+/* =========*/
+
+// .optcg-card-list-container {
+//     display: inline-flex;
+//     padding: 0 0 20px 0;
+//     justify-content: space-between;
+// }
 
 /* ===================== */
 /* = Animation Flicker = */
