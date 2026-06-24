@@ -1,5 +1,11 @@
 # [mobiuslau.github.io](http://mobiuslau.github.io)
 
+## Polyfill Security Notice
+
+Polyfill compatibility scripts were referenced on this website until `2026-06-24`. I sincerely apologise for noticing the threat so late. Polyfill was a service which hosted compatibility scripts, but was compromised in 2024. Today, `2026-06-24`, a user reported to me that my website was asking for credentials, which I was able to reproduce, discovered Polyfill was the supply-chain attack vector, and removed any references to it immediately. This website SHOULD NOT ask for credentials ever. Therefore, if any user entered credentials into a pop-up while visiting my website, I recommend changing the passwords for everything that the username-password combination would compromise.
+
+## Other stuff:
+
 Honestly the following is just some reference.
 
 Steps:

@@ -4,6 +4,12 @@ title: Hello!
 
 # Hello!
 
+***POLYFILL SECURITY NOTICE***
+
+Polyfill compatibility scripts were referenced on this website until `2026-06-24`. I sincerely apologise for noticing the threat so late. Polyfill was a service which hosted compatibility scripts, but was compromised in 2024. Today, `2026-06-24`, a user reported to me that my website was asking for credentials, which I was able to reproduce, discovered Polyfill was the supply-chain attack vector, and removed any references to it immediately. This website SHOULD NOT ask for credentials ever. Therefore, if any user entered credentials into a pop-up while visiting my website, I recommend changing the passwords for everything that the username-password combination would compromise.
+
+<br clear="all">
+
 <img src="/assets/img/amy.png" alt="Homepage avatar image." style="margin: 5px 16px 0 0; float: left" width="300px">
 I’m Amy (Mobiuslau), a theoretical physics master alumna who loves composing music, playing drums, graphic design, and playing games like Sound Voltex, Beatmania IIDX and BMS. Perhaps you’ll find something interesting here. Feel free to contact me too.<br><br> &nbsp; &nbsp; &nbsp; 🡪 [Amy's Nerdy Corner](https://mobiuslau.github.io/)<br> &nbsp; &nbsp; &nbsp; 🡪 [Youtube](https://www.youtube.com/user/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Twitch](https://www.twitch.tv/mobiuslau)<br> &nbsp; &nbsp; &nbsp; 🡪 [Bokutachi](https://bokutachi.xyz/dashboard/users/Mobiuslau/)<br><br>I like documenting things I find interesting or might consider helpful to others, which is the purpose of this website.
 
