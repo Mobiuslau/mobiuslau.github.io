@@ -154,23 +154,34 @@ Suitable cards for the deck are categorised and listed below. "Number of copies"
 
 #### 2.3.1. &nbsp; OP15
 
-{% include image_inline.html side="left" width="49%" label="amys-op15-v16" src="example_list_amy_op15_v16.png" %}
-<b style="font-size: 16px;">🡮 Amy's OP15 Version 16</b><br>
+{% include image_inline.html side="left" width="49%" label="op15-amy-v16" src="lists/list_op15_amy_v16.png" %}
+<b style="font-size: 16px;">🡮 Amy's Version 16</b><br>
 "I like to play more aggressively, aiming to out on the first or second 10d turns. As such, I chose to include 4 of [6c](#6c) and 2 of [7c](#7c), as [7c](#7c) feels rather slow compared to [6c](#6c). I chose [Perona](#perona) over [Bonney](#bonney-searcher) since it finds [Femlaw](#femlaw) and only costs 1, which is much easier to play out at any point during the game, and is much better for the [Turbo Cavendish](#-4d---turbo-cavendish) strategy. [Hody](#hody) was chosen over [DMG](#dmg) since it hits slightly harder most of the time. It is a really good card for Lucy. As for the playset of [Freezebon](#freezebon), I found that I critically needed it in certain matchups to prevent plays like 7c Zoro or I am Whitebeard, just to name a few. I really wanted to see it, and as a result, I chose to play 4. [Borsa](#borsa) is just too cracked of a card which can be turbo-abused in this deck; I can't say much more about it. [All Out](#all-out) rounds out the list as a solid 3k counter event, which can help alleviate pressure against aggressive opponents."
 <br clear="all"><br><!-- https://www.uvm.edu/~bnelson/computer/html/wrappingtextaroundimages.html -->
 
 In the end, Shimona played a similar list, with 2 [Freezebon](#freezebon) swapped for 2 [Drake](#drake).
 
-{% include image_inline.html side="right" width="49%" label="shimonas-op15-no-borsa" src="example_list_shimona_op15_no_borsa.png" %}
-<b style="font-size: 16px;">🡮 Shimona's OP15 No Borsa</b><br>
+{% include image_inline.html side="right" width="49%" label="op15-shimona-no-borsa" src="lists/list_op15_shimona_no_borsa.png" %}
+<b style="font-size: 16px;">🡮 Shimona's No Borsa</b><br>
 "This list aims to be more consistent, with no unsearchable pieces. More [Femlaw](#femlaw) and [7c](#7c) can make up for the healing lost with [Borsa](#borsa). [Drake](#Drake) is great tech into any leader who utilises low cost Blockers or has important low cost pieces, such as Girl in Nami. He can also be used to fulfill the conditions for a 4d LA use. The higher number of 2k counters also allows for better counter game and makes it easier to protect the board. Lastly, [Perona](#perona) is very consistent with a total of 27 targets, having an extremely low whiff chance."
 <br clear="all"><br>
 
-{% include image_inline.html side="left" width="49%" label="skepas-op15-sr" src="example_list_skepas-op15-sr.png" %}
+{% include image_inline.html side="left" width="49%" label="op15-skepas-sr" src="lists/list_op15_skepas-sr.png" %}
 <b style="font-size: 16px;">🡮 Skepas' Store Regional 2nd Place[^skepaslist]</b><br>
 <br clear="all"><br>
 
 #### 2.3.2. &nbsp; OP16
+
+{% include image_inline.html side="right" width="49%" label="op16-amy-v10-utrecht" src="lists/list_op16_amy_v10_utrecht.png" %}
+<b style="font-size: 16px;">🡮 Amy's Utrecht Regionals (4-6, 1=Noshow)</b><br>
+"Some of the core remained the same as in [my OP15 list](#op15-amy-v16). The first thing most of us did was swap [Hody](#hody) for [DMG](#dmg), as it can be used mid-game against GU Luffy to help remove board, typically the weenies which searchers can swing into. Still 4 [Stunbon](#stunbon) as it renders anything, in particular unblockable characters, particular blockers, and 6c Enels, useless for a turn.
+
+The biggest change in the list is the inclusion of 4 [Secbon](#secbon) and 2 [Exam Law](#exam-law), altering the playstyle of the deck a bit. In matchups which can not clap back early, it can be strong to establish 3 5c bodies by the 8d or 9d turns with the help of [6c](#6c) or [7c](#7c) whilst sitting on 1 life. [Exam Law](#exam-law) can protect them from swings after they have swung themselves, drastically increasing the value of [Secbon](#secbon) being a `Blocker`. Moreover, [Secbon](#secbon) helps keep handsize big and filtered such that early pressure can be mitigated more easily. This choice was at the expense of [Freezebon](#freezebon), now reduced to only 2. I had trouble with the BY Teach matchup with [Secbon](#secbon) and [Freezebon](#freezebon) both on 3, so this change of thinking helped with the matchup for me, as Teach typically is not capable of making a large clapback early. That said, [Exam Law](#exam-law) did not see as much play as I had thought it would. 
+
+I excluded [7c](#7c) during my early testing and practice for OP16, since I did not play it out as much during OP15, but decided to include it again after a discussion with Shimona and T1M_S about improving the BY Teach matchup in particular. I came to appreciate the card again as its stat line is great in matchups with taller leaders or those with stronger end-games.
+
+[Borsa](#borsa) is mostly here now as an exploitable failsafe, though I'm always happy to see it early either way."
+<br clear="all"><br><!-- https://www.uvm.edu/~bnelson/computer/html/wrappingtextaroundimages.html -->
 
 ## 3. &nbsp; Gameplay
 
