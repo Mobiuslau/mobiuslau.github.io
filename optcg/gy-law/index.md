@@ -67,9 +67,11 @@ In the late-game the focus is usually set on finding a way to go for lethal quic
 
 Since a lot of focus is placed on building a strong board during the early- and mid-game, it is vitally important that it is well protected with counter and board-protection cards. It can be incredibly difficult to rebuild a strong and healthy board later in the game. [Cavendish](#cav) is often the target for swings and removal effects, therefore having priority for protection. The deck is rather good at developing a healthy hand early, though, to help counter board swings. Decks focused on removal and board control are typically tough opponents. Keeping removal-protection throughout the mid-game is vital in such matchups.
 
-### 1.3. &nbsp; Difficulty
+### 1.3. &nbsp; Deck Properties and Play Considerations
 
-GY Law is one of the more difficult decks to pilot. The reasons are outlined here not to discourage new players, but to help understand some of the things GY Law players consider when playing the deck, hopefully leading to educated decision-making during games. Some of these points are not necessarily unique to this deck, but are still worth mentioning.
+<!-- GY Law is one of the more difficult decks to pilot. The reasons are outlined here not to discourage new players, but to help understand some of the things GY Law players consider when playing the deck, hopefully leading to educated decision-making during games. Some of these points are not necessarily unique to this deck, but are still worth mentioning. -->
+
+Some of the properties and considerations as outlined below are shared with other decks. Of course, any deck would benefit from some of the considerations as described below. Some of these have given the deck a reputation for being particularly difficult to play. With enough practice, however, anyone can learn to pilot the deck well.
 
 🡪 *The deck is fairly fragile.*<br>
 Playing a body using LA essentially reduces life, making the deck fragile almost by definition. It has tools to mitigate this, such as ones which stun or freeze bodies, or bodies which gain `Blocker` when on 1 life. As such, this deck is not too uncomfortable on a low amount of life, but is still rather vulnerable. Particular mistakes can quickly prove to be lethal for the player.
