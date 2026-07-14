@@ -226,19 +226,18 @@ This line is also playable during the 6d turn, in which an extra DON!! is availa
 [6c](#6c) can be thought of as the equivalent of LA without needing to "spend" a life to play the extra body. Here, an entire turn is given as an example, before which the [4d - Turbo Cavendish](#-4d---turbo-cavendish) line was successful. Similar to the [5d - Standard Cavendish](#-5d---standard-cavendish) playline, [Stunbon](#stunbon) and [Freezebon](#freezebon) are strong candidates to play from [6c](#6c). It is usually not recommended to play a body from life using the LA again here, which might leave the player too vulnerable if a heal on the 8d turn is not guaranteed.
 
 
-##### 🡮 6d - [6c](#6c) into [Cavendish](#cav)
-{:.no_toc}
-
-<video src="playline-videos/6d_6c_cav.mp4" controls="controls" style="max-width: 100%;"></video>
-
-If [Cavendish](#cav) was not established during the 4d turn, it is usually played from [6c](#6c) during the 6d turn, after which [Stunbon](#stunbon) or [Freezebon](#freezebon) can still be stacked into life and played with LA. This idea is similar to [5d - Standard Cavendish](#-5d---standard-cavendish), except [Cavendish](#cav) is played from [6c](#6c). If [6c](#6c) is not in hand, or [Cavendish](#cav) needs to be active during the opponent's following turn, the turn can be played out as [5d - Standard Cavendish](#-5d---standard-cavendish).
-
 ##### 🡮 6d - Turbo
 {:.no_toc}
 
+A "6d turbo" turn involves playing 3 6k bodies in the same turn, achieved by first playing [6c](#6c), which plays another 6k body, then swinging with [Cavendish](#cav) for restanding DON!!, playing [Bege](#bege) for stacking Life, and finally activating LA for playing the stacked 6k body.
+
 <video src="playline-videos/6d_turbo.mp4" controls="controls" style="max-width: 100%;"></video>
 
-Playing [Borsa](#borsa) from [6c](#6c) allows for the LA to be used to play another body from life without going net down in life by the end of the turn, such that 3 bodies can safely be played in this singular turn. This effectively is a 19 or 20 DON!! play for the price of 6 DON!! and 0 life!
+Playing [Borsa](#borsa) from [6c](#6c) is a particularly special case in which life is broken even by the end of the turn.
+
+<video src="playline-videos/6d_6c_cav.mp4" controls="controls" style="max-width: 100%;"></video>
+
+If [Cavendish](#cav) was not established during the 4d turn, it is usually the 6k body played from [6c](#6c). This idea is similar to [5d - Standard Cavendish](#-5d---standard-cavendish), except the extra [6c](#6c) body is gained. If [6c](#6c) is not in hand, or [Cavendish](#cav) needs to be active during the opponent's following turn, the turn can simply be played out as [5d - Standard Cavendish](#-5d---standard-cavendish).
 
 #### 3.1.4. &nbsp; 7-DON!! Turns
 
