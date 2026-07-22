@@ -1,0 +1,19 @@
+// gy-law_op16_amy_10_utrecht
+// https://mobiuslau.github.io/optcg/gy-law
+// Save with .deck file extension or copy below to clipboard.
+1xOP10-022
+4xOP12-034
+4xST24-002
+4xEB01-012
+4xEB03-017
+2xOP07-026
+4xOP12-118
+3xOP13-031
+2xOP16-030
+4xOP10-103
+4xOP10-111
+4xOP15-105
+4xEB04-058
+2xOP10-119
+2xEB03-062
+3xOP12-037

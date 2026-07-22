@@ -1,0 +1,18 @@
+// gy-law_op15_shimona_no_borsa
+// https://mobiuslau.github.io/optcg/gy-law
+// Save with .deck file extension or copy below to clipboard.
+1xOP10-022
+4xOP12-034
+4xST24-002
+4xEB01-012
+4xEB03-017
+3xOP07-026
+4xOP13-031
+4xOP10-103
+4xOP10-111
+4xOP15-105
+4xOP10-114
+3xOP10-119
+4xEB03-062
+2xOP12-037
+2xOP13-040

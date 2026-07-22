@@ -156,26 +156,33 @@ Suitable cards for the deck are categorised and listed below. "Number of copies"
 
 #### 2.3.1. &nbsp; OP15
 
-{% include image_inline.html side="left" width="49%" label="op15-amy-v16" src="lists/list_op15_amy_v16.png" %}
+{% include image_inline.html side="left" width="49%" label="op15-amy-v16" src="lists/gy-law_op15_amy_16.png" %}
 <b style="font-size: 16px;">🡮 Amy's Version 16</b><br>
+🡪 <a target="_blank" href="lists/gy-law_op15_amy_16.deck.txt"><em>Text List.</em></a>
+
 "I like to play more aggressively, aiming to out on the first or second 10d turns. As such, I chose to include 4 of [6c](#6c) and 2 of [7c](#7c), as [7c](#7c) feels rather slow compared to [6c](#6c). I chose [Perona](#perona) over [Bonney](#bonney-searcher) since it finds [Femlaw](#femlaw) and only costs 1, which is much easier to play out at any point during the game, and is much better for the [Turbo Cavendish](#-4d---turbo-cavendish) strategy. [Hody](#hody) was chosen over [DMG](#dmg) since it hits slightly harder most of the time. It is a really good card for Lucy. As for the playset of [Freezebon](#freezebon), I found that I critically needed it in certain matchups to prevent plays like 7c Zoro or I am Whitebeard, just to name a few. I really wanted to see it, and as a result, I chose to play 4. [Borsa](#borsa) is just too cracked of a card which can be turbo-abused in this deck; I can't say much more about it. [All Out](#all-out) rounds out the list as a solid 3k counter event, which can help alleviate pressure against aggressive opponents."
 <br clear="all"><br><!-- https://www.uvm.edu/~bnelson/computer/html/wrappingtextaroundimages.html -->
 
 In the end, Shimona played a similar list, with 2 [Freezebon](#freezebon) swapped for 2 [Drake](#drake).
 
-{% include image_inline.html side="right" width="49%" label="op15-shimona-no-borsa" src="lists/list_op15_shimona_no_borsa.png" %}
+{% include image_inline.html side="right" width="49%" label="op15-shimona-no-borsa" src="lists/gy-law_op15_shimona_no_borsa.png" %}
 <b style="font-size: 16px;">🡮 Shimona's No Borsa</b><br>
+🡪 <a target="_blank" href="lists/gy-law_op15_shimona_no_borsa.deck.txt"><em>Text List.</em></a>
+
 "This list aims to be more consistent, with no unsearchable pieces. More [Femlaw](#femlaw) and [7c](#7c) can make up for the healing lost with [Borsa](#borsa). [Drake](#Drake) is great tech into any leader who utilises low cost Blockers or has important low cost pieces, such as Girl in Nami. He can also be used to fulfill the conditions for a 4d LA use. The higher number of 2k counters also allows for better counter game and makes it easier to protect the board. Lastly, [Perona](#perona) is very consistent with a total of 27 targets, having an extremely low whiff chance."
 <br clear="all"><br>
 
-{% include image_inline.html side="left" width="49%" label="op15-skepas-sr" src="lists/list_op15_skepas-sr.png" %}
+{% include image_inline.html side="left" width="49%" label="op15-skepas-sr" src="lists/gy-law_op15_skepas-sr.png" %}
 <b style="font-size: 16px;">🡮 Skepas' Store Regional 2nd Place[^skepaslist]</b><br>
+🡪 <a target="_blank" href="lists/gy-law_op15_skepas-sr.deck.txt"><em>Text List.</em></a>
 <br clear="all"><br>
 
 #### 2.3.2. &nbsp; OP16
 
-{% include image_inline.html side="right" width="49%" label="op16-amy-v10-utrecht" src="lists/list_op16_amy_v10_utrecht.png" %}
+{% include image_inline.html side="right" width="49%" label="op16-amy-v10-utrecht" src="lists/gy-law_op16_amy_10_utrecht.png" %}
 <b style="font-size: 16px;">🡮 Amy's Utrecht Regionals (4-6, 1=Noshow)</b><br>
+🡪 <a target="_blank" href="lists/gy-law_op16_amy_10_utrecht.deck.txt"><em>Text List.</em></a>
+
 "Some of the core remained the same as in [my OP15 list](#op15-amy-v16). The first thing most of us did was swap [Hody](#hody) for [DMG](#dmg), as it can be used mid-game against GU Luffy to help remove board, typically the weenies which searchers can swing into. Still 4 [Stunbon](#stunbon) as it renders anything, in particular unblockable characters, particular blockers, and 6c Enels, useless for a turn.
 
 The biggest change in the list is the inclusion of 4 [Secbon](#secbon) and 2 [Exam Law](#exam-law), altering the playstyle of the deck a bit. In matchups which can not clap back early, it can be strong to establish 3 5c bodies by the 8d or 9d turns with the help of [6c](#6c) or [7c](#7c) whilst sitting on 1 life. [Exam Law](#exam-law) can protect them from swings after they have swung themselves, drastically increasing the value of [Secbon](#secbon) being a `Blocker`. Moreover, [Secbon](#secbon) helps keep handsize big and filtered such that early pressure can be mitigated more easily. This choice was at the expense of [Freezebon](#freezebon), now reduced to only 2. I had trouble with the BY Teach matchup with [Secbon](#secbon) and [Freezebon](#freezebon) both on 3, so this change of thinking helped with the matchup for me, as Teach typically is not capable of making a large clapback early. That said, [Exam Law](#exam-law) did not see as much play as I had thought it would. 
@@ -526,6 +533,10 @@ Therefore, the most effective strategy, assuming the opponent has no extra life 
 In some situations, when only 3 of the opponent's DON!! are active, it can also be effective to play either [Hody](#hody) or [DMG](#dmg) to rest 2 DON!! such that Charlestone can not be played at all.
 
 
+## Puzzles and Exercises
+
+Coming Soon.
+
 ## Afterword
 
 Hello, this is Amy speaking, or writing in this case. It's been a while in the making, hasn't it? I have felt compelled to write a guide for this leader for a while, ever since somewhere pre-rotation, since it's my favourite leader in the game ever since I started playing it in OP12, and many similar questions were, and still are, asked in the [`GY Law channel from the One Piece Trading Card Game Community` Discord server](https://discord.com/channels/950260529946050610/1373094217584345229). Instead of writing similar answers every time, I figured it would be nice if there were one central place, a reference, if you will, with answers to most of these questions. I never considered myself knowledgeable, skilled, and confident enough to commit the time to writing it, though. Then came rotation, after which the course of the deck was slightly altered, yet the fundamentals remained similar. I ended up learning a lot from and discussing with Shimona about the new strategies this deck employs. At some point, we figured it would be nice if we would make a list of turn-order preferences for multiple decks, which sparked my motivation again to write an article about this deck. I figured I couldn't do it alone, so I asked Shimona if she wanted to contribute as co-author, and that was the point at which she decided she would put up with the terrible project host that is me and co-author this article. I’m so sorry for being so chaotic and sporadic. I truly have a deep appreciation for everyone who contributed to this guide. Shimona and Swagzaur really filled lots of gaps in my knowledge for this work, and I hope I was able to do the same not only to them, but to the reader as well. My contributions were only part of the whole work. I sincerely hope it lives up to the quality standard everyone might have expected after so frequently talking about the process of writing this. Perhaps it's pretentious to write an afterword like this, so instead I'll say let's all become better GY Law players!
@@ -547,6 +558,9 @@ Community dedicated to Law leaders.
 
 - **[*One Piece Card Game Community* Discord Server](https://discord.gg/hD5uuYtYsp)**<br>
 General community with channels dedicated to each leader. The `#🟢🟡op10-law` channel is home to many of the discussions which led to the creation of this article.
+
+- **[*Kyle Gasly* Youtube Channel](https://www.youtube.com/channel/UC6cHlJMKe6kj0ZR2EjfGIpg)**<br>
+Posts video guides and gameplay footage of GY Law builds for every set, among other leaders.
 
 
 ## Glossary
