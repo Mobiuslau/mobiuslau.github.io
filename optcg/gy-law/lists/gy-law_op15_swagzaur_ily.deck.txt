@@ -1,0 +1,19 @@
+// gy-law_op15_swagzaur_ily
+// https://mobiuslau.github.io/optcg/gy-law
+// Save with .deck file extension or copy below to clipboard.
+1xOP10-022
+4xOP12-034
+4xST24-002
+4xEB01-012
+4xEB03-017
+2xOP07-026
+2xOP12-118
+4xOP13-031
+2xST24-004
+4xOP10-103
+4xOP10-111
+4xP-088
+2xOP10-119
+4xEB03-062
+2xOP12-037
+4xOP12-115
