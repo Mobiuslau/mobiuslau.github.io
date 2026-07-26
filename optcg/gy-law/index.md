@@ -161,7 +161,7 @@ Suitable cards for the deck are categorised and listed below. "Number of copies"
 <b style="font-size: 16px;">🡮 Amy's Aggression</b><br>
 🡪 <a target="_blank" href="lists/gy-law_op15_amy_16.deck.txt"><em>Text List.</em></a>
 
-"This list was over time catered to a more aggressive playstyle, one which aims to out on the first or second 10d turns. As such, 4 of [6c](#6c) and 2 of [7c](#7c) are included to maximise the potential of printing bodies early, with [7c](#7c) feeling rather slow compared to [6c](#6c). [Perona](#perona) was chosen over [Bonney](#bonney-searcher) since it finds [Femlaw](#femlaw) and only costs 1, which is much easier to play out at any point during a game, and is much better for the [Turbo Cavendish](#-4d---turbo-cavendish) strategy. [Hody](#hody) was chosen over [DMG](#dmg) since it hits slightly harder most of the time when swinging wide. As for the playset of [Freezebon](#freezebon), it was critically needed in certain matchups to prevent plays like 7c Zoro, I am Whitebeard, or any 10c boss monster. [Borsa](#borsa) is a rather exploitable card in this deck as it can be played through [6c](#6c), bounced back, and played again when needed. It is a rather capable card both for stalling the game and enabling early LA pressure without having to worry about life as much, since LA plays bodies from life. [All Out](#all-out) rounds out the list as a solid 3k counter event, which can help alleviate pressure against aggressive opponents."
+"This list was over time catered to a more aggressive playstyle, one which aims to out on the first or second 10d turns. As such, 4 of [6c](#6c) and 2 of [7c](#7c) are included to maximise the potential of printing bodies early, with [7c](#7c) feeling rather slow compared to [6c](#6c). [Perona](#perona) was chosen over [Bonney](#bonney-searcher) since it finds [Femlaw](#femlaw) and only costs 1, which is much easier to play out at any point during a game, and is much better for the [Turbo Cavendish](#-4d---turbo-cavendish) strategy. [Hody](#hody) was chosen over [DMG](#dmg) since it hits slightly harder most of the time when swinging wide. As for the playset of [Freezebon](#freezebon), it was critically needed in certain matchups to prevent plays like 7c Zoro, I am Whitebeard, or any 10c boss monster. [Borsa](#borsa) is a rather exploitable card in this deck as it can be played through [6c](#6c), bounced back, and played again when needed. It is a rather capable card both for stalling the game when needed and enabling early LA pressure without having to worry about life as much, since LA plays bodies from life. [All Out](#all-out) rounds out the list as a solid 3k counter event, which can help alleviate pressure against aggressive opponents."
 <br clear="all"><br><!-- https://www.uvm.edu/~bnelson/computer/html/wrappingtextaroundimages.html -->
 
 In the end, Shimona played a similar list, with 2 [Freezebon](#freezebon) swapped for 2 [Drake](#drake).
@@ -198,6 +198,17 @@ The biggest change in the list is the inclusion of 4 [Secbon](#secbon) and 2 [Ex
 I excluded [7c](#7c) during my early testing and practice for OP16, since I did not play it out as much during OP15, but decided to include it again after a discussion with Shimona and T1M_S about improving the BY Teach matchup in particular. I came to appreciate the card again as its stat line is great in matchups with taller leaders or those with stronger end-games.
 
 [Borsa](#borsa) is mostly here now as an exploitable failsafe, though I'm always happy to see it early either way."
+<br clear="all"><br><!-- https://www.uvm.edu/~bnelson/computer/html/wrappingtextaroundimages.html -->
+
+#### 2.3.2. &nbsp; OP16.5
+
+{% include image_inline.html side="left" width="49%" label="op16.5_kyle" src="lists/gy-law_op16.5_kyle.png" %}
+<b style="font-size: 16px;">🡮 Kyle's Early 16.5</b><br>
+🡪 <a target="_blank" href="lists/gy-law_op16.5_kyle.deck.txt"><em>Text List.</em></a>
+
+In the video below, they at-large discuss a different list with a different goal. However, at the timestamp linked below, they show their current personal list, which instead integrates more combo ideas.
+
+<iframe width="49%" src="https://www.youtube-nocookie.com/embed/NWMKzScwnjY?start=120" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br clear="all"><br><!-- https://www.uvm.edu/~bnelson/computer/html/wrappingtextaroundimages.html -->
 
 ## 3. &nbsp; Gameplay
